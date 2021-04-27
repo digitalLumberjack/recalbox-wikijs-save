@@ -28,7 +28,6 @@
 >* Disable the **"unsafe mode" function**.
 >* Return to **the Home Menu.**
 >* Select a **Hard Disk Drive**
->
 {.is-warning}
 
 ![Etcher](https://farm3.staticflickr.com/2825/33298930764_c297e9dbf8_z.jpg)

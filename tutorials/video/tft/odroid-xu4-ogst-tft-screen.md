@@ -60,7 +60,6 @@ That's all folks ! Enjoy !
 >After updating the Recalbox system, you may need to reinstall it. If you have made changes \(see the "Customization" section\), make a backup of your custom.sh file and your tft\_logos folder before. Then restore them after installation.
 >
 >The `custom.sh` script has been updated for v6.1. If you made a `custom.sh` script for an old version, you will have to recreate it based on the new "official" script, to use it on v6.1.
->
 {.is-info}
 
 ## Some information on how it works

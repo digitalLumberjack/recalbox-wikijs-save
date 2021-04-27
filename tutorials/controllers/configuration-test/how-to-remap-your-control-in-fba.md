@@ -4,7 +4,6 @@
 >Note:
 >
 >**Only** for **3.2.11** and **previous revision**.
->
 {.is-warning}
 
 ## 4 buttons in X Y B and A

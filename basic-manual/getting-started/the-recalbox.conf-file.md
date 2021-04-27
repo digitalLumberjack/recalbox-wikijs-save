@@ -19,12 +19,10 @@ You can edit the file by either :
 
 
 >**For Windows users** : If you dont use the option via the webmanager, you must use a real text editor software program, like **NotePad++**. The default windows text editor inserts bad characters in the file.
->
 {.is-warning}
 
 
 >The **;** at line start means the line is disabled. Remove the **;** to enable the line.
->
 {.is-info}
 
 ## I - Available options <a id="i-available-options"></a>

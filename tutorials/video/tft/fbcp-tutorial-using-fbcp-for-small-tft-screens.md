@@ -18,7 +18,6 @@ FBCP takes a snapshot of `/dev/fb0`, copies it to `/dev/fb1` and waits 25ms befo
 >**Note :**
 >
 >The snapshot and refresh of the /dev/fb1 driver are not synchronized.
->
 {.is-info}
 
 ## Why you need FBCP

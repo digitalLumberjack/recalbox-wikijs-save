@@ -11,7 +11,6 @@
 >
 >* Connection via the HDMI socket using an **HDMI / VGA adapter ==&gt; VGA / BNC**
 >* Connection via HDMI jack using an **HDMI / VGA adapter ==&gt; VGA / SCART**
->
 {.is-danger}
 
 
@@ -23,7 +22,6 @@
 >
 >* Connection via the HDMI socket using an **HDMI / VGA adapter ==&gt; VGA / BNC**
 >* Connection via HDMI jack using an **HDMI / VGA adapter ==&gt; VGA / SCART**
->
 {.is-danger}
   
 ![](./image%20%28111%29.png)

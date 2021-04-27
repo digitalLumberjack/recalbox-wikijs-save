@@ -35,7 +35,6 @@ And Remount the read-write partition
 >**IMPORTANT :**
 >
 >If you are using version 4.0.x, the `dpi24.dtbo` file is present and can be found in the `/boot/overlays` directory. You must rename it `dpi24.dtb` for the screen to work. On Recalbox 4.1, nothing to do.
->
 {.is-warning}
 
 Go to the `/boot/overlays` directory and rename the dtbo file to Recalbox 4.0.x

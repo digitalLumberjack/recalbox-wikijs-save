@@ -11,7 +11,6 @@ description: Set up your Recalbox for the first time
 
 
 >Most of the controllers work in plug-and-play, but if you want to customise an USB controller, plug in a USB keyboard ... Please refer to [Add an usb controller](controller-configuration.md#configure-a-controller)
->
 {.is-info}
 
 ## Change the language in Recalbox
@@ -27,7 +26,6 @@ description: Set up your Recalbox for the first time
 
 
 >**Shortcut** : on the system select screen, push **SELECT** to access directly the QUIT menu.
->
 {.is-success}
 
 ## Default software

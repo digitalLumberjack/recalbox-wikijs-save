@@ -68,7 +68,6 @@ hdmi_mode=4
 >* The "\#" sign is deleted, the technical term for this is "uncommented". A line beginning with a \# is a comment, not a command.
 >* hdmi\_group=1 means CEA
 >* hdmi\_mode=4 means 720p
->
 {.is-info}
 
 Now that we're done, all three of our screens are set up.
@@ -90,7 +89,6 @@ Time to check some examples :
 >
 >Feeling lucky, want to save yourself a change in screen resolution? Then set `global.videomode=default` : Recalbox will not change the screen resolution before running an emulator. But warning : this can have a considerable impact on performance.  
 >Extending an image from the native resolution of the emulator to 1080p can be very demanding on the CPU and slow down the emulation. I do not recommend the default setting if your monitor can display a resolution higher than CEA 4.
->
 {.is-info}
 
 ## Video mode by emulator

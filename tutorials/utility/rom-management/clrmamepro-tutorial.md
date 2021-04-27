@@ -61,12 +61,10 @@ misses the RPI version I didn't mention imame4all and piFBA.
 
 
 >An arcade rom in zip format should never be unzipped or renamed.
->
 {.is-warning}
 
 
 >**Note :** Other DATs files are available on this site [progretto-SNAPS Dats](http://www.progettosnaps.net/dats/) .
->
 {.is-info}
 
 **Arcade BIOS**
@@ -118,7 +116,6 @@ ClrmamePro is a tool to check and rebuild your arcade romsets according to an in
 
 
 >**Tip** : On Windows, right click on cmpro64.exe ou cmpro32.exe, then click on "Properties" &gt; Compatibility tab &gt; tick the box : Execute as an administrator. Validate clicking on Ok. The application will now always be executed in administrator mode.
->
 {.is-warning}
 
 ### Parent and Clone Roms.
@@ -249,7 +246,6 @@ Close the window.
 
 
 >**Note** : you can add other paths to the samples directory for example.
->
 {.is-info}
 
 #### Scanner Function : Checking your romset.
@@ -265,7 +261,6 @@ Close the window.
 
 
 >**Advice** : always work on a backup romset with this tool !
->
 {.is-warning}
 
 Example with mslug3

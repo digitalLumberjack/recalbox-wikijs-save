@@ -10,7 +10,6 @@
 >**Information:**
 >
 >For a **permanently solution** you must **edit the**`interfaces.base` file. And before you can edit this file you must remount the file system as rw. So try this commands: `mount -o remount,rw /` `nano /etc/network/interfaces.base`
->
 {.is-info}
 
 ​
@@ -58,7 +57,6 @@ Now reload the settings with :
 
 
 >THESE EDITS **WILL BE OVERWRITTEN WITH EACH NEW UPDATE** - You will have to repeat these tasks after each update.
->
 {.is-warning}
 
 ## Starting from Recalbox 4.1 <a id="a-partir-de-recalbox-4-1"></a>

@@ -14,7 +14,6 @@ description: (Page only available in English)
 >* If it' s an assembled PC, specify the processor and graphics processor. 
 >* Do not hesitate to add **details about the overall performance** of your configuration. 
 >* If you have any problem or a comment, Please let us know.
->
 {.is-info}
 
 ## PC Model <a id="pc-model"></a>
@@ -92,7 +91,6 @@ description: (Page only available in English)
 
 >**Warning :**  
 >Keep in mind that a GPU driver is not enough, the linux kernel contained in Recalbox must also be able to manage the device.
->
 {.is-danger}
 
 ### Nouveau
@@ -114,7 +112,6 @@ The project uses the reverse engineering technique on Nvidia graphics cards by s
 
 >**Notes:**  
 >Nouveau drivers are used by default, when an Nvidia graphics card or circuit is detected but not compatible with official drivers.
->
 {.is-warning}
 
 

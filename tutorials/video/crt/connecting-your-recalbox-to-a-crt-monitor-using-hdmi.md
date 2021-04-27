@@ -9,7 +9,6 @@
 >
 >* Connection via the HDMI socket using an **HDMI / VGA adapter ==&gt; VGA / BNC**
 >* Connection via HDMI jack using an **HDMI / VGA adapter ==&gt; VGA / SCART**
->
 {.is-danger}
 
 ## Hardware
@@ -34,7 +33,6 @@ You'll need an adapter like this:
 
 
 >You will need an external micro-usb power supply, 1A should be sufficient.
->
 {.is-danger}
 
 * Then you will need a VGA ==&gt; BNC adapter like this one:
@@ -107,7 +105,6 @@ boot_delay=3
 
 >* To edit this file, you have to make the boot partition writable by following this tutorial : [https://recalbox.gitbook.io/tutorials/access/accessing-a-partition-in-write-mode](https://recalbox.gitbook.io/tutorials/access/accessing-a-partition-in-write-mode) 
 >* To access it via Winscp, follow this tutorial : ​[https://recalbox.gitbook.io/tutorials/access/network-access-via-winscp](https://recalbox.gitbook.io/tutorials/access/network-access-via-winscp)
->
 {.is-info}
 
 Some explanations : The Raspberry pi will start in hdmi\_group=1 hdmi\_mode=6, which corresponds to 480i \(interlaced\). If the boot is done directly in 240p, the texts of the menus and games would be unreadable.
@@ -147,7 +144,6 @@ All emulators will therefore be launched in DMT 87 HDMI mode \("custom" mode\) c
 >So we specify 1920 pixels wide, because 1920 is a multiple of 160, 320, 384... which are often encountered resolutions.   
 >  
 >For the other resolutions, we will calculate the overscan with retroarch, i.e. the necessary black bands around the screen to keep the original ratio.
->
 {.is-info}
 
 Everything goes fine for me in this resolution. But you can specify a different resolution per console, with the following line:

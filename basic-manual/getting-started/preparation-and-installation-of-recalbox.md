@@ -6,7 +6,6 @@ description: How to install your Recalbox
 
 
 >This page take the Raspberry Pi as example, some steps might be different for other systems.
->
 {.is-warning}
 
 You can install your Recalbox on several devices, while the most well-known is the Raspberry Pi \(0, 1, 2, 3 and 3B+\), Recalbox is also compatible with the Odroid \(C2, XU4 and XU4Q\), as well as several [32 and 64 bits computers](../../../hardware-compatibility/compatible-pcs.md).
@@ -15,7 +14,6 @@ You can install your Recalbox on several devices, while the most well-known is t
 
 
 >We advise you to read the [First use manual page](../#i-first-use) and check if you have the required storage device and power supply for the chosen device.
->
 {.is-info}
 
 <table>
@@ -79,7 +77,6 @@ You can install your Recalbox on several devices, while the most well-known is t
 
 >**Information:**   
 >You will need the following elements to create your Recalbox: Do not hesitate to visit our shop!
->
 {.is-info}
 
 ## Download
@@ -89,7 +86,6 @@ The first step is to download the corresponding **.img.xz** file on [archive.rec
 
 >**Warning :**   
 >Only the **latest version** of Recalbox is **available**. **Older versions** are **no longer downloadable** or supported by the development team.
->
 {.is-danger}
 
 ## Flashing the image
@@ -108,7 +104,6 @@ Once the operation is done, you can eject the drive, plug it into the device you
 >  * storage media: an SD or eMMC card. 
 >* For installation on **x86 and x86\_64** \(on Etcher\): 
 >  * storage media: a Hard Disk.
->
 {.is-warning}
 
 Etcher Tutorial link. 
@@ -146,7 +141,6 @@ For installation on Gpi Case please follow [this link](/basic-manual/getting-sta
 >
 >* One for the **System.** 
 >* One for the **storage** of roms, bios, saves, etc ... 
->
 {.is-warning}
 
 * Insert your two **Hard Drives** \(System and Storage\). 

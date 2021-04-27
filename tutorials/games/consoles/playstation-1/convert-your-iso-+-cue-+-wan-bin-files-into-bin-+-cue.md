@@ -10,7 +10,6 @@
 >* bin+cue
 >* ccd+img+sub
 >* bin alone
->
 {.is-info}
 
 **Exemple:**
@@ -52,7 +51,6 @@ There is a technique to convert iso+cue with wav files for anyone who doesn't wa
 >**Note:**
 >
 >This technique is valid for PSX and SEGACD.
->
 {.is-info}
 
 * Download [Daemon Tools Lite](https://daemon-tools.cc/products/dtLite) \(free\).

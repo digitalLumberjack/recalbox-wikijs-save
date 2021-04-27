@@ -2,7 +2,6 @@
 
 
 >Warning : work still in progress
->
 {.is-warning}
 
 | Tools | Windows | Linux | macOS | Console | Arcade | Sources |

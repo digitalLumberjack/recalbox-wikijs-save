@@ -2,7 +2,6 @@
 
 
 >You can now add an **ON/OFF button** to your **Recalbox**. The button can be a **push button** \(also called a "momentary switch"\) or an **ON/OFF button**.
->
 {.is-info}
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-MJH8jdcYQLsGJvtswtn%2F-MJHA_HOg9wBtC_agqnR%2Fadd-a-start-stop-button-to-your-recalbox-en-recalboxrecalbox-os.jpg?alt=media&token=bccf6ecf-3c7e-4008-bba0-9dbb427910ab)
@@ -23,7 +22,6 @@ And you have a **Recalbox** which can be **turned OFF/ON with a single button**!
 
 
 >**Since Recalbox 4.0 beta 4**, there is another option where you can add a **reset button** and an **LED**.
->
 {.is-info}
 
 * In **recalbox.conf,** add / uncomment \(removing the; at the beginning of the line\) the following line: `system.power.switch=PIN356ONOFFRESET`​
@@ -35,7 +33,6 @@ And you have a **Recalbox** which can be **turned OFF/ON with a single button**!
 
 
 >Note that this only works with a **push button for reset** and an **ON/OFF button for power.**
->
 {.is-info}
 
 ## Recalbox update&gt; 02/18/09

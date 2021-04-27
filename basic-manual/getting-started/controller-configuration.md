@@ -18,7 +18,6 @@ The button names are based on a Super Nintendo controller:
 
 
 >The L1, R1, L2, R2, L3, and R3 buttons are based on the Playstation 3 controller.
->
 {.is-info}
 
 The last button to set up,  **HOTKEY**, will be used to perform [special commands](during-the-game.md#special-commands) inside an emulator.
@@ -29,7 +28,6 @@ The last button to set up,  **HOTKEY**, will be used to perform [special command
 
 
 >To skip any button in the configuration \(except _Hotkey_\), press _Down_ to go to the next one.
->
 {.is-info}
 
 Once you're back to the configuration screen, you can assign the controller to a specific player. Your controller is now set up.
@@ -60,7 +58,6 @@ In order to associate a _PS3 controller :_
 
 >For asian copies of the PS3 DualShock 3 \(such as GASIA or SHANWAN\), you will need to adust some settings.   
 >See PS3 controllers drivers.
->
 {.is-warning}
 
 
@@ -68,7 +65,6 @@ In order to associate a _PS3 controller :_
 >If unsure about the power supply and power consumption of the device, try to avoid charging the SixAxis on the RPi as this may cause stability issues.   
 >  
 >In this case plug the controller on the recalbox **only** to associate your controller with your recalbox.
->
 {.is-danger}
 
 If you understand the parameters involved or want to try using the SixAxis over a USB connection, you need to disable the ps3 bluetooth driver in recalbox.conf by setting `controllers.ps3.enabled=0`
@@ -87,7 +83,6 @@ Remember that the configuration of the controllers in recalbox is based on the S
 
 >The default **HOTKEY** button is the **PS** button, the one in the middle of your controller.  
 >For more info about HOTKEY actions like saving/loading see the [Special commands](during-the-game.md#special-commands) section.
->
 {.is-info}
 
 ## Xbox 360 controllers
@@ -95,7 +90,6 @@ Remember that the configuration of the controllers in recalbox is based on the S
 
 >**Note:**   
 >XBox 360 Wireless controllers need specific wireless receiver hardware. Since 4.1, the Xbox configuration doesn't require you to enable any specific driver. It works just out of the box and can even be used along with DualShock pads \(which was not the case in 4.0\).
->
 {.is-warning}
 
 Remember that the configuration of the controllers in recalbox is based on the SNES buttons assignment :
@@ -110,7 +104,6 @@ Remember that the configuration of the controllers in recalbox is based on the S
 
 >The default **HOTKEY** button is the **HOME** button, the big one in the middle of your controller.   
 >For more info about HOTKEY actions like saving/loading see the [Special commands](during-the-game.md#special-commands) section.
->
 {.is-info}
 
 ## Add a Bluetooth Controller
@@ -128,7 +121,6 @@ A list of **detected controllers** appears !
 
 
 >For **8bitdo** users, see 8bitdo on recalbox.
->
 {.is-info}
 
 ## GPIO controllers
@@ -145,7 +137,6 @@ With Miroof's [Virtual Gamepads](https://github.com/miroof/node-virtual-gamepads
 
 
 >You can get the recalbox IP in the setting menu [NETWORK SETTINGS](emulationstation.md#6-network-settings)​
->
 {.is-info}
 
 ![virtual gamepad touch zones](./virutalgamepad_touch_zones.png)

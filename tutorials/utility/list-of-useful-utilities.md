@@ -6,7 +6,6 @@
 >Before starting the Recalbox adventure, here is a **list of utilities** that you must have **on your Windows PC** that will help you.
 >
 >**MacOS users, linux** if you have **equivalents**, **edit** this page **to add them.**
->
 {.is-info}
 
 ## microSD formatting utilities <a id="utilitaires-de-formatage-microsd"></a>

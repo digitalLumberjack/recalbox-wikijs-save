@@ -12,6 +12,5 @@ The last solution might be convoluted, but once everything is set up correctly, 
 
 
 >We still highly recommand [using an external storage device with Recalbox](../getting-started/external-storage-recalbox.md) whenever possible.
->
 {.is-info}
 

@@ -8,7 +8,6 @@ Then edit the config.txt file, and **comment the following line** with a \# : `#
 >**Warning :**
 >
 >Since recalbox v4.0.0, the /boot partition is read-only. So, before you can edit the config.txt file, you need to mount the /boot partition with read-write permissions.
->
 {.is-danger}
 
 * **Connect with root**, 

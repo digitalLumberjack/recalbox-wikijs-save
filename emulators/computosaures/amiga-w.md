@@ -46,7 +46,6 @@ Here is a list of supported file format per sub-system:
 >
 >  
 >May be zipped Other CD image formats _may_ be supported but haven't been tested by the recalbox team.
->
 {.is-info}
 
 
@@ -57,7 +56,6 @@ Here is a list of supported file format per sub-system:
 >* ADF/IPF/BIN/ISO are fast to identify. 
 >* WHD are fast, but LHA should be prefered. 
 >* HDDFS may be longer to check and may lead to some misinterpretations. If you are using HDDFS, let them as regular files & folders and make the root folder name ending with **`.hd`** for fast identification.
->
 {.is-warning}
 
 ## Overriding configurations

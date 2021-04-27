@@ -6,7 +6,6 @@ description: 'When you are in game, special commands are available.'
 
 
 >To **activate** these commands, press the **Hotkey** button and the button indicated for the command at the same time.
->
 {.is-info}
 
 ## Screenshots
@@ -34,7 +33,6 @@ There are 10 "slots" per game and are numbered from 0 to 9.
 >* **Hotkey** + X → Load backup \(of the current slot\)
 >* **Hotkey** + Up ****→ Select the previous slot \(-1\) 
 >* **Hotkey** + Down ****→ Select the next slot \(+1\)
->
 {.is-success}
 
 ## Special commands
@@ -51,7 +49,6 @@ There are 10 "slots" per game and are numbered from 0 to 9.
 >If you want to configure Retroarch \(**Hotkey** + B\) and save your configuration, activate the **"Save settings on Exit"** option in the Retroarch menu.  
 >  
 >Once this option is activated, **all the modifications made in the menu will be saved.**
->
 {.is-info}
 
 ### Speed and Rewind
@@ -70,7 +67,6 @@ There are 10 "slots" per game and are numbered from 0 to 9.
 
 
 >This function requires more info configurations here
->
 {.is-info}
 
 ### Miscellaneous

@@ -7,7 +7,6 @@ Mausberry circuits manage the activation and deactivation of the Raspberry Pi us
 
 >**Note:**  
 >This wiki is dedicated to version v4 on Raspberry Pi 2/3 of Recalbox
->
 {.is-info}
 
 
@@ -16,7 +15,6 @@ Mausberry circuits manage the activation and deactivation of the Raspberry Pi us
 >If you are using a version newer than v4.0.0 beta 3, follow the instructions for version V4B3.
 >
 >If you are using a version older than v4.0.0 beta 3, follow the instructions for version V4B2.
->
 {.is-danger}
 
 ## ​Tuto V4B3​

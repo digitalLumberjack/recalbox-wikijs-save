@@ -4,7 +4,6 @@
 >**Information:**
 >
 >With **Recalbox 4.1 version**, we are using SDL2 to **configure the control**
->
 {.is-info}
 
 To **test your control,** you must:

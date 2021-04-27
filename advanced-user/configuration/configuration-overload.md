@@ -8,7 +8,6 @@ description: >-
 
 
 >**Recalbox 7.0 and higher!**
->
 {.is-warning}
 
 ## Possibilities overview <a id="apercu-des-possibilites"></a>
@@ -72,7 +71,6 @@ Conversely, the overload of a game must be named exactly like the game, **includ
 >Since the overload files are inside your roms directories, they don't risk a Recalbox crash, an update that went wrong, or a crash of your SD-card \(provided you use external support of course\).
 >
 >They are also portable : Take your USB-drive with you to play at a friend's house, your configuration will apply automaticaly !
->
 {.is-info}
 
 ## Overloading Recalbox <a id="surcharger-recalbox"></a>
@@ -86,7 +84,6 @@ There are other possibilities and no doubt you will find some.😉
 
 
 >Overloading keys that aren't used by the **configgen** has no impact ! Don't expect to change the behavior of EmulationStation \(overloading the sorts for example\).
->
 {.is-danger}
 
 
@@ -95,7 +92,6 @@ There are other possibilities and no doubt you will find some.😉
 >Directory overload : **`/path/to/your/roms/.recalbox.conf`**
 >
 >Rom overload : **`/path/to/your/roms/file.zip.recalbox.conf`**
->
 {.is-warning}
 
 
@@ -132,7 +128,6 @@ mame.core=mame2010
 >And there it's ! That's all. 
 >
 >Now, all the games in the MAME2003Plus directory will launch with the mame2003\_plus-libretro core, and those in the MAME2010 directory will launch with the mame2010-libretro core !
->
 {.is-success}
 
 
@@ -153,7 +148,6 @@ global.core=mednafen_pce_fast
 
 
 >This time, there's no risk of losing configuration ! Of course, editing metadata via EmulationStation still works. On the other hand, an overload file will have higher priority than what is stored in the `gamelist.xml`.
->
 {.is-success}
 
 
@@ -172,7 +166,6 @@ global.videomode=CEA 8 HDMI
 
 
 >And voila ! Next time I launch this particular game, my TV will to adjust to 240p, and I can now fully enjoy Blazing Stars.
->
 {.is-success}
 
 ## Overloading Retroarch <a id="surcharger-retroarch"></a>
@@ -181,12 +174,10 @@ The Retroarch configurations concern Retroarch itself \(and the configuration op
 
 
 >There are already specific mechanisms in Recalbox and Retroarch to overload either the command line that launches the emulator \(via Recalbox.conf\), or directly the Retroarch/Cores configurations \(via Retroarch menus\).
->
 {.is-info}
 
 
 >But none of these systems allowed to apply the overloads to entire directories and/or to keep these specific configurations in the same place as the roms. Which is especially interesting for people who use network shares to supply roms to several Recalboxes 
->
 {.is-warning}
 
 
@@ -216,7 +207,6 @@ Like the Recalbox configuration overloads, we will be able to create `.retroarch
 >Directory overload : **`/path/to/your/roms/.retroarch.cfg`**
 >
 >Rom overload : **`/path/to/your/roms/file.zip.retroarch.cfg`**
->
 {.is-info}
 
 #### Example 1 ****: Force a video configuration <a id="exemple-1-forcer-une-configuration-video"></a>
@@ -235,7 +225,6 @@ Overloading the cores options offers huge possibilities, _**among which a featur
 >In order to avoid unpleasant surprises, we recommend overloading the keys in the folder with default values \(e.g. `fbneo-frameskip = "0"`\) if you want to overload a particular game with specific values \(e.g. `fbneo-frameskip = "2"`\).
 >
 >This way, you will keep your "base" values for files that don't have custom overloads.
->
 {.is-danger}
 
 It's especially interesting for multi-hardware cores, such as :
@@ -252,7 +241,6 @@ It's especially interesting for multi-hardware cores, such as :
 >Directory overload : **`/path/to/your/roms/.core.cfg`**
 >
 >Rom overload : **`/path/to/your/roms/file.zip.core.cfg`**
->
 {.is-info}
 
 ​
@@ -335,7 +323,6 @@ For the last series \(fully compatible\), the most powerful hardware has been se
 >That's all ! You now have four Thomson subsystems. The emulator is no longer in automatic mode and the risk of choosing the wrong system or a default system vanishes.
 >
 >Of course, the Theodore core can sometimes "auto-detect" the hardware, but this isn't the case with some other cores that need to have the right subsystem at launch.
->
 {.is-success}
 
 ## Overloading display of directories <a id="surcharger-laspect-des-repertoires"></a>
@@ -356,7 +343,6 @@ You may add an optional text description that will slide underneath the image, j
 >Directory overload : **`/path/to/your/folder/.folder.picture.png`**
 >
 >Rom overload : **`/path/to/your/roms/.folder.description.txt`**
->
 {.is-info}
 
 

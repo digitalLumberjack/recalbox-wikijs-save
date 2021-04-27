@@ -29,7 +29,6 @@ If you want to help with the translation of the interface, you can:
 >**Remarque :**
 >
 >In order to **validate your changes**, either **make a pull request** with the modified .po file or **you send us** the .po file by email to retroboy@recalbox.com and **we will make the integration.**
->
 {.is-warning}
 
 ## **Youtube Videos**

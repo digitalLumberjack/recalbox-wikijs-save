@@ -77,7 +77,6 @@ In recalbox.conf file, you just need to enable `fbcp` support and to restart.
 >**Attention:**
 >
 >Be sure to disable GPIO controllers!
->
 {.is-danger}
 
 ```text
@@ -148,7 +147,6 @@ Dans **recalbox.conf**, il suffit d'activer le support `fbcp` et de redémarrer.
 >**Attention :**
 >
 >Assurez-vous de désactiver les contrôleurs GPIO
->
 {.is-danger}
 
 ```text
@@ -225,7 +223,6 @@ Dans **recalbox.conf**, il suffit d'activer le support `fbcp`et de redémarrer.
 
 
 >**Attention :** assurez-vous de désactiver les contrôleurs GPIO !
->
 {.is-danger}
 
 ```text

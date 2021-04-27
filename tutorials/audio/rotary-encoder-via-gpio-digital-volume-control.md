@@ -387,7 +387,6 @@ These changes can all be found under the "Settings" section of the v**olume-moni
 
 
 >Tip : Please wait 3 seconds after the Emulations menu appears BEFORE touching the rotary encoder. Rotating the encoder earlier may block the script and make the encoder insensitive.
->
 {.is-success}
 
 _If you want to change the two default pins used by the encoder, change the following lines in the script. Be sure to use the BCM numbering codes._

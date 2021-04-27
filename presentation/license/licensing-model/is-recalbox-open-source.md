@@ -23,6 +23,5 @@ This is why [many open-source projects](https://docs.libretro.com/development/li
 >Non-commercial licenses are [not considered libre/free](https://www.gnu.org/philosophy/free-sw.html) by the [Free Software Foundation](https://www.fsf.org/), neither are they [considered open-source](https://opensource.org/osd) by the [Open Source Initiative](https://opensource.org/).
 >
 >Nevertheless, our source code is open \(available for anyone to read\), we **encourage anyone to contribute** and we **value openness and diversity** in both our code and our community.
->
 {.is-info}
 

@@ -2,7 +2,6 @@
 
 
 >When you **configured the wifi** or **plugged an Ethernet cable** on the recalbox, it automatically shares folders on the local network. 
->
 {.is-info}
 
 On your computer, got to Network on Windows explorer, and select the recalbox :
@@ -21,7 +20,6 @@ On your computer, got to Network on Windows explorer, and select the recalbox :
 >
 >If it still doesn't work and you're on Windows 10:  
 >-lien manquant-
->
 {.is-warning}
 
 You can access all recalbox **shared folders** 

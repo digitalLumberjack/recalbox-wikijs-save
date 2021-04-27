@@ -10,7 +10,6 @@ description: 'Recalbox versions concerned: All'
 >You can find this screen at the following address: [http://www.banggood.com/5-Inch-800-x-480-HDMI-TFT-LCD-Touch-Screen-For-Raspberry-PI-2-Model-B-B-A-B-p-1023438.html](http://www.banggood.com/5-Inch-800-x-480-HDMI-TFT-LCD-Touch-Screen-For-Raspberry-PI-2-Model-B-B-A-B-p-1023438.html).
 >
 >This is the equivalent of the Adafruit device: [https://learn.adafruit.com/adafruit-5-800x480-tft-hdmi-monitor-touchscreen-backpack/overview](https://learn.adafruit.com/adafruit-5-800x480-tft-hdmi-monitor-touchscreen-backpack/overview).
->
 {.is-success}
 
 You can make it work on Recalbox by configuring the /boot/config.txt file.

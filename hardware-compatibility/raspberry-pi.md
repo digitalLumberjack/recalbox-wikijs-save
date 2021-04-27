@@ -46,7 +46,6 @@ The Raspberry Pi Zero W!
 
 >**Warning :**   
 >You will need a 2x20 GPIO header to connect most of  expansion cards!
->
 {.is-danger}
 
 ### Characteristics

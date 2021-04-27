@@ -18,7 +18,6 @@ So far, only the first generation of IPAC has been included. If you have another
 >
 >* usb-Cypress\_I-PAC\_Arcade\_Control\_Interface-event-kbd -&gt; works
 >* usb-Cypress\_I-PAC\_Arcade\_Control\_Interface-if01-event-kbd -&gt; does not work
->
 {.is-info}
 
 * Now remount / in read-write mode `mount -o remount,rw /`

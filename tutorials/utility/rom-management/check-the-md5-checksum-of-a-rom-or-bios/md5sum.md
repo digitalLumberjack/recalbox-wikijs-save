@@ -31,7 +31,6 @@ Get-FileHash "file to verify" -Algorithm MD5
 >To verify all files recursively in a folder, execute the following command after you are in the folder:
 >
 >`Get-ChildItem -recurse | % {Get-FileHash $_.Fullname -Algorithm -MD5} | select Path,Hash | ft -AutoSize`
->
 {.is-info}
 
 ### Alternative method 2:

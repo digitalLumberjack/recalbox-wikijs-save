@@ -4,12 +4,10 @@
 
 
 >The **Share** folder allows you to **manage** the content of your Recalbox, it is available **via the network** by connecting to your recalbox using a **file manager,**  
->
 {.is-info}
 
 
 >On an **external storage** the folder is named **"Recalbox".**
->
 {.is-warning}
 
 ![](./image%20%2822%29.png)
@@ -24,7 +22,6 @@ The bios folder has to contain the BIOSes files used by Recalbox consoles emulat
 
 
 >Arcade and neogeo emulators **need their BIOS to be put in the same folder as the games requiring them,** and so should not be put in the bios folder.
->
 {.is-warning}
 
 * **Cheats** Cheats downloadable via the Retroarch menu.
@@ -55,7 +52,6 @@ The bios folder has to contain the BIOSes files used by Recalbox consoles emulat
 >* Mp3 or ogg formats
 >* Have a sampling rate of 44100Hz 
 >* A bit rate higher than 256 kb / s.
->
 {.is-warning}
 
 
@@ -68,7 +64,6 @@ The bios folder has to contain the BIOSes files used by Recalbox consoles emulat
 
 
 >If a specific system folder is not present in your roms folder \(for exemple: dreamcast\), that means that **it isn't supported** for your architecture, **creating the folder won't make a difference.**
->
 {.is-danger}
 
 \*\*\*\*
@@ -77,7 +72,6 @@ The bios folder has to contain the BIOSes files used by Recalbox consoles emulat
 
 
 >The saves folder will fill itself as you play your games, it will contain subfolders \(one for each system\), with each of them having savestates files as well as original saves for each game involved.
->
 {.is-info}
 
 

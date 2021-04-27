@@ -10,7 +10,6 @@ description: Recalbox's Frontend
 >When you **start** the Recalbox, you can access the **EmulationStation** \(ES\) interface. 
 >
 >This allows you to **launch your games**, adjust certain **options** or **update** the Recalbox.
->
 {.is-info}
 
 The **first** screen is the **system** screen :
@@ -31,7 +30,6 @@ Start Kodi Media Center \(aka XBMC\).
 
 
 >You can start Kodi from the Home screen by pressing the **X** button on your controller. 
->
 {.is-info}
 
 To exit Kodi, select "QUIT" in the program, and you will be back in EmulationStation. 
@@ -42,7 +40,6 @@ Controllers are supported in Kodi. But if you prefer, you can also use HDMI-CEC 
 >For more information on Kodi:   
 >Kodi in recalbox.  
 >Use an infrared remote control.
->
 {.is-warning}
 
 ### System Settings
@@ -73,7 +70,6 @@ You can set game options :
 
 
 >This feature may slow down some emulators \(PS1, Dreamcast, ...\) if you activate it on these emulators. You can choose to activate it only for certain emulators via the Advanced settings menu.
->
 {.is-danger}
 
 * **auto save/load**. Lets you resume a game where you were when you left the game previously.  
@@ -85,7 +81,6 @@ You can set game options :
 
 
 >You can also switch _shaders_ in-game using your controller. Use the [Special commands](during-the-game.md#special-commands) Hotkey + R2 or Hotkey + L2 to see the next or previous shader.
->
 {.is-info}
 
 * **Integrate Scale** \(Pixel Perfect\): Displays the games in their original resolution. 
@@ -125,7 +120,6 @@ Type the SSID of your network and the network key with a keyboard. Once you vali
 
 >A known bug exists that does not allow you to enter all the characters you need for the SSID or the Key.   
 >If you cannot enter certain special characters required for your network information you can configure this directly from your wifi using [recalbox.conf](the-recalbox.conf-file.md).
->
 {.is-warning}
 
 ### Scrapper 
@@ -136,7 +130,6 @@ Press **START** and go to **SCRAPPER**. Then follow the on-screen instructions.
 
 
 >In Recalbox 6.0, the Scrapper is disabled and therefore does not work.
->
 {.is-danger}
 
 ### Advanced settings 
@@ -145,19 +138,16 @@ Press **START** and go to **SCRAPPER**. Then follow the on-screen instructions.
 
 
 >The Turbo and Extrem settings can cause irreversible damage to the Raspberry if they are not done in the right conditions \(heat dissipation, ventilation, ...\). Your hardware warranty may be void. 
->
 {.is-danger}
 
 
 >The ranking of overclock presets for RPi1, in ascending order of speed, gives: NONE &lt;HIGH &lt;TURBO &lt;EXTREM   
 >  
 >The Extrem setting may void your RPi's warranty, but it is the only one that will give you good performance with all RPi1 emulators. 
->
 {.is-warning}
 
 
 >It is also advisable to overclock the RPi2 if you want to emulate the N64 and get the best gaming experience. 
->
 {.is-info}
 
 * **Startup parameters:** Different startup parameters. 
@@ -196,6 +186,5 @@ You can set a game as a favorite by pressing the **Y** button. The game will be 
 
 
 >You have to **reboot** the system **properly** within the **EmulationStation** menu to **save your favorites** and then find them in the **next startup**.
->
 {.is-warning}
 

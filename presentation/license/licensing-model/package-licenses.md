@@ -13,6 +13,5 @@ We are [currently working](https://gitlab.com/recalbox/recalbox/issues/727) on m
 >As such, the virality of some licenses does not impact neither the license of other packages nor the license of Recalbox itself.
 >
 >See the [GPL FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#MereAggregation) for more details.
->
 {.is-info}
 

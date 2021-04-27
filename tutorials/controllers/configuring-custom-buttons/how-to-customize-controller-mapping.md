@@ -19,6 +19,5 @@ Example for the **neogeo emulator:**
 >Warning:
 >
 >All other settings are the **default,** so **no shader, cheat, or whatever.**
->
 {.is-danger}
 

@@ -13,7 +13,6 @@
 
 
 >**The driver is based on the Gamecon driver**, but uses **different parameters and pinouts.** Therefore, **there is no guarantee that it will work**, so **do it at your own risk!**
->
 {.is-info}
 
 ## 2 - Connect the controls
@@ -30,7 +29,6 @@ However, you must **use a high-performance Raspberry power supply** \(type 2.1A\
 >* **PINS P1-03 and P1-05** correspond to **GPIO2 and GPIO3** on **boards rev.2**. This must be taken into account when loading the module, as explained in **section 3**.
 >* **PINs P1-19 and P1-23** \(GPIO10 and 11\) are **signal PINs common** to all **NES / SNES** controls.
 >* **PINS P1-08, P1-10 and P1-12** \(GPIO14, 15 and 18\) are **signal PINS common** to all **PSX / PS2** controls.
->
 {.is-info}
 
 ​
@@ -121,7 +119,6 @@ For example, if an **SNES control** is connected to **GPIO4** and an **N64 contr
 >* **pad1 and pad2** are used only with **a rev.1 card**
 >* **pad5 and pad6** are used only with **a rev.2 card**
 >* **PSX / PS2 controls** require a **pullup resistor.** **Pad5 \(GPIO2\) and pad6 \(GPIO3\)** have this **built-in resistor.**
->
 {.is-info}
 
 Therefore, if you have **a rev.2 card, pad1 and pad2** must be **set to 0**.

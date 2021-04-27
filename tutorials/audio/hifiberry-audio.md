@@ -2,7 +2,6 @@
 
 
 >To get a **quality audio signal on Pi**, one solution is to use a **HiFiBerry DAC** \(Digital to Analog Converter\).
->
 {.is-info}
 
 Those **DAC** exist in several versions :
@@ -28,7 +27,6 @@ Below is the wiring diagram of a DAC+ HifiBerry :
 
 
 >The version for **Raspberry A and B** must be installed on **pin 5**, which requires some additional handling. Once the card is installed, there are a few more software configuration steps to make everything work.
->
 {.is-info}
 
 ## Device configuration
@@ -60,7 +58,6 @@ Now you should hear the sound through your HiFiBerry card.
 
 >**IMPORTANT:**  
 >You cannot change the sound volume in EmulationStation only by Alsamixer/Amixer.
->
 {.is-info}
 
 ## Alsamixer/Amixer <a id="alsamixer-amixer"></a>
@@ -72,7 +69,6 @@ Since **alsa-utils** is installed on Recalbox, HifiBerry will work **without add
 
 >**IMPORTANT :**  
 >The DAC+ Light and the old DAC won't have any settings available in ALSA.
->
 {.is-danger}
 
 With the `amixer` **command** you will get a text version of the **various DAC settings**. The best way to change the volume is to change the _Overall volume_. Its name may differ depending on the card: _PCM_, _Digital_, _Master_, just try one of them.
@@ -111,6 +107,5 @@ See: [**wiki.ubuntuusers.de/amixer**](https://wiki.ubuntuusers.de/amixer/)
 
 
 >You can also use Google to discover the available commands with the keywords: _amixer_, _alsamixer_.
->
 {.is-info}
 

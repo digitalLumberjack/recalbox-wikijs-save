@@ -10,7 +10,6 @@ The display of systems in the Recalbox menu is managed by the file "es\_systems.
 
 
 >./recalbox/**share\_init**/system/.emulationstation/es\_systems.cfg
->
 {.is-info}
 
 It contains the names of the different systems that are supported by your version of Recalbox. It is constructed as follows:
@@ -48,7 +47,6 @@ The display of the systems respects the order in which they are listed in this f
 
 >**WARNING** :   
 >**DO NOT MODIFY** the original "es\_systems.cfg" file \(which is in the "share\_init" directory\). If a future change caused the slightest problem, there remains the only source to recover your Recalbox and make it work properly again.
->
 {.is-danger}
 
 Should you modify the display order, it **MUST BE DONE ONLY**    
@@ -56,7 +54,6 @@ via the file "es\_systems.cfg" present in the following directory:
 
 
 >./recalbox/**share**/system/.emulationstation/es\_systems.cfg
->
 {.is-info}
 
 **By default**, this file does not exist. Either copy the original file or create a new file. Once the new file is created, it is possible to organize the systems in the order you want. The system configuration will always be taken from the original "es\_systems.cfg", but the order of the systems will be that defined by the new file. 
@@ -97,14 +94,12 @@ If, in the new file, a system is absent or incorrectly specified, priority is gi
 >This manipulation does not add a new emulator to Recalbox but adds a new system entry in the selection menu. 
 >
 >It is possible to combine the modification of the display of the systems and the addition of one or more custom systems.
->
 {.is-danger}
 
 As for the modification of the order of the systems, the addition of a "custom" system **must be done only** from the file "es\_systems.cfg" present in the following directory:
 
 
 >./recalbox/**share**/system/.emulationstation/es\_systems.cfg
->
 {.is-info}
 
 **By default**, this file does not exist. Either copy the original file or create a new file. Once the new file is created, it is possible to organize the systems in the order you want. 

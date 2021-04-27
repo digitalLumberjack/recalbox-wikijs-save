@@ -6,7 +6,6 @@
 >**Information:**   
 >Here are the possibilities for upgrading Recalbox.   
 >We hope this summary will help you and bring you the answers you seek.
->
 {.is-info}
 
 ### Check your situation
@@ -29,7 +28,6 @@ Yes,** _it is possible to update between the different versions of recalbox 6.0 
 >* Always make a backup before performing the update, you can never be too careful. 
 >* Read the changelog, and if it suits you proceed to update 
 >* After reboot, reconfigure your controller.
->
 {.is-info}
 
 **Is it possible to update recalbox 6.0 to 6.1?   
@@ -40,7 +38,6 @@ Yes,** _it is possible to update from recalbox 6.0 to 6.1._
 >* Always make a backup before performing the update, you can never be too careful. 
 >* Read the changelog, and if it suits you proceed to update 
 >* After reboot, reconfigure your controller.
->
 {.is-info}
 
 **Is it possible to multiboot with PINN or NOOBS with Recalbox 6 RCxxx?**   
@@ -107,7 +104,6 @@ You must adapt your romsets:
 
 
 > ****The recalbox update can be done via the frontend menu.
->
 {.is-info}
 
 * Configure the wifi or plug an ethernet cable on the recalbox
@@ -122,6 +118,5 @@ You must adapt your romsets:
 >You will need to perform a **complete reinstall** to take advantage of the latest version available.
 >
 >In order to proceed to the update process and **keep** your settings, backups, roms and bios.
->
 {.is-danger}
 

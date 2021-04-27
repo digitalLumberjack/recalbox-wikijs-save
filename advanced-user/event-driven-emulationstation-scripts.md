@@ -6,7 +6,6 @@ description: How to catch and execute bash scripts on EmulationStation events
 
 
 >**Recalbox 6.2 and up!**
->
 {.is-warning}
 
 

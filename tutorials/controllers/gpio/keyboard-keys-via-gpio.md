@@ -7,7 +7,6 @@ This module **will allow the use of GPIOs** to reproduce the behavior of **a rea
 
 >**Warning:**  
 >**It only works if** we find the line**`controllers.gpio.enabled=0`**in [recalbox.conf](/basic-manual/getting-started/the-recalbox.conf-file)
->
 {.is-danger}
 
 
@@ -16,7 +15,6 @@ This module **will allow the use of GPIOs** to reproduce the behavior of **a rea
 >* If you want to **integrate a Raspberry Pi with an old console** and **reuse the buttons** on the front panel \(for example: PAUSE / SELECT of an Atari 7800\)
 >* **Connect** \(on an arcade / arcade machine\) **a button** that would have **the same behavior as the Esc key on the keyboard.**
 >* Or simply, use without a keyboard.
->
 {.is-info}
 
 ## Installation

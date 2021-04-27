@@ -16,7 +16,6 @@ This impulse is recognized by Recalbox \(Select button\) and a game credit is th
 
 
 >**Note:** it is possible to use metal tokens instead of coins.
->
 {.is-info}
 
 Very simple based on four threads:
@@ -29,7 +28,6 @@ Very simple based on four threads:
 
 
 >The use of a "relay" is mandatory!
->
 {.is-danger}
 
 * Black: ground to be connected to the 0V of the 12V / 1A power supply.
@@ -67,7 +65,6 @@ So, here's a low-cost solution for you to do this "keyboard hack"
 
 
 >Don't hesitate to test your card BEFORE connecting it to your Raspberry and your coin mechanism
->
 {.is-warning}
 
 The connection of the coin mechanism to a Raspberry Pi therefore requires the installation of this "keyboard hack" BETWEEN the coin mechanism AND the GPIO of your Raspberry Pi.
@@ -84,7 +81,6 @@ The 2 pins of "Terminal 2" must be connected:
 
 
 >There are several models / generations of Raspberry Pi
->
 {.is-warning}
 
 Refer to your model-specific documentation to identify the Raspberry Pi GPIO connector and the position of the "GND" and "GPIOxx" pins inside this connector:

@@ -115,7 +115,6 @@ Have fun with your favorite games!
 
 >_**You can run any 8/16 console/computer available up to Arcade games**_.  
 >_**Yes you can! Really :-\)**_
->
 {.is-info}
 
 For arcade you have **PiFBA,** an ARM optimized FBA version that require a 0.2.96.37 romset.  
@@ -126,7 +125,6 @@ Needless to say, even with optimized options, a small handful of game won't run 
 
 
 >For obvious reasons, We do not recommend to install computer games as they often require a keyboard or a mouse to be played.
->
 {.is-warning}
 
 ### 
@@ -139,7 +137,6 @@ _**However you can still modify the O/C options at your own risk!**_
 
 
 >If your GPi is not stable after selecting an O/C option, to the point that you cannot revert to your settings, insert your SD card into a PC adapter and remove the O/C lines from the file `config.txt`
->
 {.is-danger}
 
 You can add a small copper heatsink as shown in the following picture. Its thickness must not exceed 2mm.
@@ -156,7 +153,6 @@ Dont forget your GPi also has an USB power cord. In a car or at home,  use the U
 
 
 >If the cartridge gets too hot, we recommend you to stop your GPi and let it cool down a while.
->
 {.is-info}
 
 ### 
@@ -177,7 +173,6 @@ _**We really recommend to use an external scraper**_. It'll faster and better qu
 
 >**Note :**   
 >This bug might occurs during the cartridge machining if the connection between the Pi 0 and the cartridge is not made correctly.
->
 {.is-warning}
 
 * **Solve stability problems** 
@@ -216,6 +211,5 @@ Contact us on Discord or on the Forum and give us the following files, available
 
 >For any other issue, please use the regular channel:   
 >Forum or Gitlab issues
->
 {.is-danger}
 

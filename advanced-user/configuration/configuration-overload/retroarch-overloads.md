@@ -4,7 +4,6 @@ Here is a non-exhaustive list of keys that can be altered in a .retroarch.cfg ty
 
 
 >An \* after the value means that the parameter can also be overloaded via a .recalbox.conf
->
 {.is-info}
 
 ## Audio <a id="audio"></a>
@@ -20,7 +19,6 @@ Here is a non-exhaustive list of keys that can be altered in a .retroarch.cfg ty
 
 
 >Configuration Overrides are a feature of Retroarch, similar to overloads, but which retain a lot of information, in the context of recalbox, better to prefer overloads if possible
->
 {.is-info}
 
 ## Debug <a id="debug"></a>
@@ -82,7 +80,6 @@ dissociate / associate the Directional Pad to one of the joysticks
 
 
 >The settings for changing hotkeys depend on the controller mapping in Recalbox, so if the controller changes, the configuration overloaded with these lines may no longer work.
->
 {.is-warning}
 
 To have the numerical value for each key on your controller, look in the _system/configs/retroarch/retroarchcustom.cfg_ file for the value of the desired key according to this table:
@@ -126,7 +123,6 @@ Click on the "Show" tab to show the keys for each key
 >The modifications to be made to the following values must be made in the overload file.
 >
 >The previous file is only used to observe the current mapping.
->
 {.is-warning}
 
 * **`input_enable_hotkey_btn =`** _Hotkey key_

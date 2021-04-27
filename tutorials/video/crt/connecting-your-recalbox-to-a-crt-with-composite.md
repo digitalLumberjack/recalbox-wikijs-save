@@ -9,12 +9,10 @@ If you want to **connect your** **recalbox to a CRT**, you will need a **mini-ja
 >  
 >Also, the type of cable required is not really common.  
 >It is preferable to **test with a Multimeter**, in order to be sure that the cable you plan to use is corresponding to the diagram proposed above \(an inversion of Ground and video on the jack leads to a jumping black & white image, sign of an unsuitable cable\).
->
 {.is-danger}
 
 
 >**In Recalbox 4.0.0** you have to make the partition writable.
->
 {.is-warning}
 
 * [Modify /boot/config.txt](https://recalbox.gitbook.io/tutorials/v/francais/xi-systeme/modification/editer-le-fichier-config.txt)
@@ -36,7 +34,6 @@ audio_pwm_mode=2
 
 
 >**Warning**, this mode can create an **overall slowdown** of the Recalbox.
->
 {.is-danger}
 
 * If this is the case, comment the previous line and force the audio output to the jack

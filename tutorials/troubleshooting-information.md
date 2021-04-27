@@ -1,2 +1,1 @@
-# 🔖 Troubleshooting Information
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/troubleshooting-information.md

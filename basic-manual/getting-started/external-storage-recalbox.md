@@ -1,2 +1,1 @@
-# Using an external storage device with recalbox
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/basic-manual/getting-started/external-storage-recalbox.md

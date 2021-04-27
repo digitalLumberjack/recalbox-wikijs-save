@@ -1,2 +1,1 @@
-# Phillips Videopac+
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/magnavox-philips/phillips-videopac+.md

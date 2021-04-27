@@ -1,2 +1,1 @@
-# General
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/games/general.md

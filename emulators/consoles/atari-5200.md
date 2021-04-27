@@ -1,2 +1,1 @@
-# Atari 5200
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/atari-5200.md

@@ -1,2 +1,1 @@
-# Clean resettlement
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/basic-manual/getting-started/clean-resettlement.md

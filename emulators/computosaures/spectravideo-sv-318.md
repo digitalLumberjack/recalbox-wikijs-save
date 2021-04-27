@@ -1,2 +1,1 @@
-# Spectravideo SV-318
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/computosaures/spectravideo-sv-318.md

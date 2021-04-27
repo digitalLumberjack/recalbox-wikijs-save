@@ -1,2 +1,1 @@
-# Nintendo Entertainement System
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/nintendo-entertainement-system.md

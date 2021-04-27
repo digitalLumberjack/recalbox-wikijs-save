@@ -1,2 +1,1 @@
-# Apple 2 Gs
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/computosaures/apple-2-gs.md

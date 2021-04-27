@@ -1,2 +1,1 @@
-# Game Boy
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/games/consoles/game-boy.md

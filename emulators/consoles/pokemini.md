@@ -1,2 +1,1 @@
-# Pokemini
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/pokemini.md

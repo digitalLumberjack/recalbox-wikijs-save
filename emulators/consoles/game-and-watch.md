@@ -1,2 +1,1 @@
-# Game & Watch
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/game-and-watch.md

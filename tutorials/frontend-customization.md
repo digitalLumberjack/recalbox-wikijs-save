@@ -1,2 +1,1 @@
-# 🛠️ Frontend customization
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/frontend-customization.md

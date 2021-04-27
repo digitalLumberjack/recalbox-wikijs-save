@@ -1,2 +1,1 @@
-# Wonderswan
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/wonderswan.md

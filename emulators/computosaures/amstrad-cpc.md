@@ -1,2 +1,1 @@
-# Amstrad Cpc
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/computosaures/amstrad-cpc.md

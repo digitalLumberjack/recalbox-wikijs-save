@@ -1,2 +1,0 @@
-# Playstation 1
-

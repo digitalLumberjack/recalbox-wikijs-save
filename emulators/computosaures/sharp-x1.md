@@ -1,2 +1,1 @@
-# Sharp X1
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/computosaures/sharp-x1.md

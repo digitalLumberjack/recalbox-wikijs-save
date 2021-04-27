@@ -1,2 +1,1 @@
-# Atari 2600
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/atari-2600.md

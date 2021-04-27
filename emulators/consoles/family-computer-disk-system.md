@@ -1,2 +1,1 @@
-# Family Computer Disk System
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/family-computer-disk-system.md

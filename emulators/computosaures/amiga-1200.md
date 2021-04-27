@@ -1,2 +1,1 @@
-# Amiga 1200
-
+/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/computosaures/amiga-1200.md

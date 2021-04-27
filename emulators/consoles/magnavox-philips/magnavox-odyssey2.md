@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/magnavox-philips/magnavox-odyssey2.md
+# Magnavox Odyssey2
+

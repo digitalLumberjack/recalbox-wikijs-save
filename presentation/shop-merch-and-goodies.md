@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/presentation/shop-merch-and-goodies.md
+# Shop, Merch & Goodies
+

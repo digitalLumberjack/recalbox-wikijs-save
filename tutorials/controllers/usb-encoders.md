@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/controllers/usb-encoders.md
+# USB Encoders
+

@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/neo-geo-pocket-color.md
+# Neo-Geo Pocket Color
+

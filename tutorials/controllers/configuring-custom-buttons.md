@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/controllers/configuring-custom-buttons.md
+# Configuring Custom Buttons
+

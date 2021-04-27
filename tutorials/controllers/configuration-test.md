@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/controllers/configuration-test.md
+# Configuration/Test
+

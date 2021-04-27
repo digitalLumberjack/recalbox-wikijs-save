@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/computosaures/zx-spectrum.md
+# ZX Spectrum
+

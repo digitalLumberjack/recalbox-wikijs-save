@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/computosaures/amiga-600.md
+# Amiga 600
+

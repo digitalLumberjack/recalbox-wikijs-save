@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/computosaures/sharp-x68000.md
+# Sharp X68000
+

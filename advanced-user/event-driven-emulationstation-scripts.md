@@ -1,1 +1,13 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/advanced-user/event-driven-emulationstation-scripts.md
+---
+description: How to catch and execute bash scripts on EmulationStation events
+---
+
+# Event-driven EmulationStation scripts
+
+
+>**Recalbox 6.2 and up!**
+>
+{.is-warning}
+
+
+

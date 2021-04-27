@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/games/consoles/nintendo-64.md
+# Nintendo 64
+

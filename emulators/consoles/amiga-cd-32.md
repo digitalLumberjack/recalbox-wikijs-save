@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/emulators/consoles/amiga-cd-32.md
+# Amiga CD 32
+

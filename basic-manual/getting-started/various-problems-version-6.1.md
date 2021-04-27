@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/basic-manual/getting-started/various-problems-version-6.1.md
+# Various problems \(Version 6.1\)
+

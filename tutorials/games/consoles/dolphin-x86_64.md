@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/tutorials/games/consoles/dolphin-x86_64.md
+# Dolphin \(x86\_64\)
+

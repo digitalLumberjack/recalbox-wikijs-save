@@ -1,1 +1,2 @@
-/home/matthieu/dev/recalbox/ops/gitbooktowikijs/recalbox-wikijs-save/presentation/license/licensing-model.md
+# 📜 Licensing model
+

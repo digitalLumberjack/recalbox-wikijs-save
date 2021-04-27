@@ -77,151 +77,153 @@ In recalbox.conf file, you just need to enable `fbcp` support and to restart.
 >**Attention:**
 >
 >Be sure to disable GPIO controllers!
->{% endhint %}
 >
->```text
->## enable controllers on GPIO with mk_arcarde_joystick_rpi (0,1)
->controllers.gpio.enabled=0
->```
->
->Or edit the GPIO pins configuration by using pins 4 or 5 to define the used pin, and avoid the pins used by the screen. See [ici](/v/francais/tutoriels/controleurs/gpio/les-controleurs-gpio) \(french\) for more details.
->
->```text
->## fbcp FrameBuffer Copy Program
->## For small TFT screen on GPIO and SPI
->## See https://github.com/recalbox/recalbox-os/wiki/Utility---Use-of-fbcp-for-small-TFT-screen-%28EN%29 for details
->## Needed for Waveshare 3.2" 3.5" TFT screen, 2.8" Adafruit screen
->## See https://github.com/recalbox/recalbox-os/wiki/TFT-Screen-SPI-Bus-%28EN%29
->## for support and configuration details needed by /boot/config.txt
->system.fbcp.enabled=1
->```
->
->Edit the recalbox.conf file as is:
->
->```text
->#global.videomode=DMT 87 HDMI
->global.videomode=default
->
->#global.ratio=auto
->global.ratio=4/3
->```
->
->Save the file and restart. The screen should now work perfectly. If you got any issue, check first that `fbcp` is running :
->
->```text
->ps aux | grep fbcp
->```
->
->This 2,8" screen works fine but can be too small and too expensive \($35\) for a chinese clone. In the next part of this tutorial, we'll see how to configure a 3,2" TFT screen from Waveshare that we can find for less than $25.
->
->##  Configurez votre écran TFT Waveshare 3,2" capacitif/résistif
->
->L'écran est le suivant : un module d'affichage TFT LCD de 3,2 pouces à écran tactile pour le Raspberry Pi B+, B, A+. Sa résolution est la même que celle du 2,8" : 320x240. Il s'agit en fait d'un [écran Waveshare](https://www.waveshare.com/3.2inch-rpi-lcd-b.htm).
->
->Cet écran n'est pas pris en charge par défaut par les systèmes de fichier du noyau. Nous devrons en ajouter d'autres pour que l'écran fonctionne. Ces fichiers peuvent se trouver [ici](https://github.com/swkim01/waveshare-dtoverlays).
->
->Obtenez les fichiers `waveshare35a-overlay.dtb` et `waveshare32b-overlay.dtb` respectivement pour l'écran WaveShare 3,2" 320x240 et l'écran WaveShare 3,5" 320x480. Pour les nouveaux noyaux de la version 4.4, nous devons renommer les fichiers dtb en fichiers dtbo pour qu'ils correspondent au nouveau nom de l'arbre de superposition. Renommez `waveshare35a-overlay.dtb` en `waveshare35a.dtbo` et `waveshare32b-overlay.dtb` en `waveshare32b.dtbo` et copiez-les dans le répertoire **/boot/overlays**
->
->Nous modifions maintenant le fichier `/boot/config.txt` pour prendre en charge le nouvel écran :
->
->```text
->#tft screen
->
->#Waveshare 3.2 TFT Screen
->#same resolution for hdmi and tft
->hdmi_force_hotplug=1
->hdmi_cvt=320 240 60 1 0 0 0
->hdmi_group=2                
->hdmi_mode=1                 
->hdmi_mode=87                
->
->dtparam=spi=on              
->dtoverlay=waveshare32b:rotate=270,speed=82000000
->```
->
->### Activation de fbcp dans le fichier recalbox.conf
->
->Dans **recalbox.conf**, il suffit d'activer le support `fbcp` et de redémarrer.
->
->{% hint style="danger" %}
+{.is-danger}
+
+```text
+## enable controllers on GPIO with mk_arcarde_joystick_rpi (0,1)
+controllers.gpio.enabled=0
+```
+
+Or edit the GPIO pins configuration by using pins 4 or 5 to define the used pin, and avoid the pins used by the screen. See [ici](/v/francais/tutoriels/controleurs/gpio/les-controleurs-gpio) \(french\) for more details.
+
+```text
+## fbcp FrameBuffer Copy Program
+## For small TFT screen on GPIO and SPI
+## See https://github.com/recalbox/recalbox-os/wiki/Utility---Use-of-fbcp-for-small-TFT-screen-%28EN%29 for details
+## Needed for Waveshare 3.2" 3.5" TFT screen, 2.8" Adafruit screen
+## See https://github.com/recalbox/recalbox-os/wiki/TFT-Screen-SPI-Bus-%28EN%29
+## for support and configuration details needed by /boot/config.txt
+system.fbcp.enabled=1
+```
+
+Edit the recalbox.conf file as is:
+
+```text
+#global.videomode=DMT 87 HDMI
+global.videomode=default
+
+#global.ratio=auto
+global.ratio=4/3
+```
+
+Save the file and restart. The screen should now work perfectly. If you got any issue, check first that `fbcp` is running :
+
+```text
+ps aux | grep fbcp
+```
+
+This 2,8" screen works fine but can be too small and too expensive \($35\) for a chinese clone. In the next part of this tutorial, we'll see how to configure a 3,2" TFT screen from Waveshare that we can find for less than $25.
+
+##  Configurez votre écran TFT Waveshare 3,2" capacitif/résistif
+
+L'écran est le suivant : un module d'affichage TFT LCD de 3,2 pouces à écran tactile pour le Raspberry Pi B+, B, A+. Sa résolution est la même que celle du 2,8" : 320x240. Il s'agit en fait d'un [écran Waveshare](https://www.waveshare.com/3.2inch-rpi-lcd-b.htm).
+
+Cet écran n'est pas pris en charge par défaut par les systèmes de fichier du noyau. Nous devrons en ajouter d'autres pour que l'écran fonctionne. Ces fichiers peuvent se trouver [ici](https://github.com/swkim01/waveshare-dtoverlays).
+
+Obtenez les fichiers `waveshare35a-overlay.dtb` et `waveshare32b-overlay.dtb` respectivement pour l'écran WaveShare 3,2" 320x240 et l'écran WaveShare 3,5" 320x480. Pour les nouveaux noyaux de la version 4.4, nous devons renommer les fichiers dtb en fichiers dtbo pour qu'ils correspondent au nouveau nom de l'arbre de superposition. Renommez `waveshare35a-overlay.dtb` en `waveshare35a.dtbo` et `waveshare32b-overlay.dtb` en `waveshare32b.dtbo` et copiez-les dans le répertoire **/boot/overlays**
+
+Nous modifions maintenant le fichier `/boot/config.txt` pour prendre en charge le nouvel écran :
+
+```text
+#tft screen
+
+#Waveshare 3.2 TFT Screen
+#same resolution for hdmi and tft
+hdmi_force_hotplug=1
+hdmi_cvt=320 240 60 1 0 0 0
+hdmi_group=2                
+hdmi_mode=1                 
+hdmi_mode=87                
+
+dtparam=spi=on              
+dtoverlay=waveshare32b:rotate=270,speed=82000000
+```
+
+### Activation de fbcp dans le fichier recalbox.conf
+
+Dans **recalbox.conf**, il suffit d'activer le support `fbcp` et de redémarrer.
+
+
 >**Attention :**
 >
 >Assurez-vous de désactiver les contrôleurs GPIO
->{% endhint %}
 >
->```text
->## enable controllers on GPIO with mk_arcarde_joystick_rpi (0,1)
->controllers.gpio.enabled=0
->```
->
->ou modifiez la configuration des broches GPIO en utilisant la fiche 4 ou 5 pour affiner la broche utilisée, en évitant les broches utilisées par votre écran. Voir [ici](/v/francais/tutoriels/controleurs/gpio/les-controleurs-gpio) pour plus de détails.
->
->```text
->## fbcp FrameBuffer Copy Program
->## For small TFT screen on GPIO and SPI
->## See https://github.com/recalbox/recalbox-os/wiki/Utility---Use-of-fbcp-for-small-TFT-screen-%28EN%29 for details
->## Needed for Waveshare 3.2" 3.5" TFT screen, 2.8" Adafruit screen
->## See https://github.com/recalbox/recalbox-os/wiki/TFT-Screen-SPI-Bus-%28EN%29
->## for support and configuration details needed by /boot/config.txt
->system.fbcp.enabled=1
->```
->
->Modifiez le fichier **recalbox.conf** comme ceci :
->
->```text
->#global.videomode=DMT 87 HDMI
->global.videomode=default
->
->#global.ratio=auto
->global.ratio=4/3
->```
->
->Sauvegardez le fichier, et redémarrez. L'écran devrait maintenant fonctionner parfaitement. Si vous rencontrez des problèmes, vérifiez d'abord que le programme `fbcp` fonctionne avec cette ligne de commande :
->
->```text
->ps aux | grep fbcp
->```
->
->Un écran fonctionnel en vidéo :
->
->![Waveshare 3,2&quot; resistif TFT](https://camo.githubusercontent.com/a797d270ad2e8165e81a52ac2c3570291f09cd3c/687474703a2f2f696d672e796f75747562652e636f6d2f76692f6863466b5f766a514c566f2f302e6a7067)
->
->[https://youtu.be/hcFk\_vjQLVo](https://youtu.be/hcFk_vjQLVo)
->
->## Pourquoi l'écran TFT capacitif/résistif de 3,5" de Waveshare n'est-il pas utilisable avec Recalbox ?
->
->Cet écran ne peut pas être utilisé pour les jeux d'arcade avec Recalbox. Le bus SPI ne dispose pas d'une bande passante suffisante pour traiter cette résolution supérieure de 480x320. Si vous augmentez la vitesse du bus, l'affichage devient instable \(couleurs, clignotement\). Pendant mes tests, je n'ai pu obtenir que 20-25 FPS. Cet écran est utilisable avec un serveur X avec une fréquence d'images lente mais pas en mode arcade qui nécessite une fréquence d'images plus élevée.
->
->Comme décrit sur [ce site](https://learn.adafruit.com/), il n'est pas recommandé d'utiliser cet écran pour jouer. &lt;&lt; Avec deux fois plus de pixels à pousser sur l'écran, le PiTFT 3,5" est sensiblement plus lent que ses frères plus compacts et nous le déconseillons fortement pour les jeux &gt;&gt;. Maintenant, vous savez !
->
->Mais si vous voulez faire en sorte que cela fonctionne, vous pouvez procéder comme suit :
->
->### Modification du fichier /boot/config.txt pour correspondre à la résolution de l'écran
->
->Obtenez les fichiers `waveshare35a-overlay.dtb` et `waveshare32b-overlay.dtb` respectivement pour l'écran WaveShare 3,2" 320x240 et l'écran WaveShare 3,5" 320x480. Pour les nouveaux noyaux de la version 4.4, nous devons renommer les fichiers dtb en fichiers dtbo pour qu'ils correspondent au nouveau nom de l'arbre de superposition. Renommez `waveshare35a-overlay.dtb` en `waveshare35a.dtbo` et `waveshare32b-overlay.dtb` en `waveshare32b.dtbo` et copiez-les dans le répertoire **/boot/overlays**
->
->Nous modifions maintenant le fichier `/boot/config.txt` pour prendre en charge le nouvel écran :
->
->```text
->#tft screen
->#Waveshare 3.5 TFT Screen
->#same resolution for hdmi and tft
->hdmi_force_hotplug=1
->hdmi_cvt=480 320 60 1 0 0 0
->hdmi_group=2
->hdmi_mode=1
->hdmi_mode=87
->
->dtparam=spi=on
->dtoverlay=waveshare35a:rotate=270,speed=27000000
-># speed=41000000,fps=60 for better FPS, but the colors will look a little weird.
->```
->
->### Activation de fbcp dans le fichier recalbox.conf
->
->Dans **recalbox.conf**, il suffit d'activer le support `fbcp`et de redémarrer.
->
->{% hint style="danger" %}
+{.is-danger}
+
+```text
+## enable controllers on GPIO with mk_arcarde_joystick_rpi (0,1)
+controllers.gpio.enabled=0
+```
+
+ou modifiez la configuration des broches GPIO en utilisant la fiche 4 ou 5 pour affiner la broche utilisée, en évitant les broches utilisées par votre écran. Voir [ici](/v/francais/tutoriels/controleurs/gpio/les-controleurs-gpio) pour plus de détails.
+
+```text
+## fbcp FrameBuffer Copy Program
+## For small TFT screen on GPIO and SPI
+## See https://github.com/recalbox/recalbox-os/wiki/Utility---Use-of-fbcp-for-small-TFT-screen-%28EN%29 for details
+## Needed for Waveshare 3.2" 3.5" TFT screen, 2.8" Adafruit screen
+## See https://github.com/recalbox/recalbox-os/wiki/TFT-Screen-SPI-Bus-%28EN%29
+## for support and configuration details needed by /boot/config.txt
+system.fbcp.enabled=1
+```
+
+Modifiez le fichier **recalbox.conf** comme ceci :
+
+```text
+#global.videomode=DMT 87 HDMI
+global.videomode=default
+
+#global.ratio=auto
+global.ratio=4/3
+```
+
+Sauvegardez le fichier, et redémarrez. L'écran devrait maintenant fonctionner parfaitement. Si vous rencontrez des problèmes, vérifiez d'abord que le programme `fbcp` fonctionne avec cette ligne de commande :
+
+```text
+ps aux | grep fbcp
+```
+
+Un écran fonctionnel en vidéo :
+
+![Waveshare 3,2&quot; resistif TFT](https://camo.githubusercontent.com/a797d270ad2e8165e81a52ac2c3570291f09cd3c/687474703a2f2f696d672e796f75747562652e636f6d2f76692f6863466b5f766a514c566f2f302e6a7067)
+
+[https://youtu.be/hcFk\_vjQLVo](https://youtu.be/hcFk_vjQLVo)
+
+## Pourquoi l'écran TFT capacitif/résistif de 3,5" de Waveshare n'est-il pas utilisable avec Recalbox ?
+
+Cet écran ne peut pas être utilisé pour les jeux d'arcade avec Recalbox. Le bus SPI ne dispose pas d'une bande passante suffisante pour traiter cette résolution supérieure de 480x320. Si vous augmentez la vitesse du bus, l'affichage devient instable \(couleurs, clignotement\). Pendant mes tests, je n'ai pu obtenir que 20-25 FPS. Cet écran est utilisable avec un serveur X avec une fréquence d'images lente mais pas en mode arcade qui nécessite une fréquence d'images plus élevée.
+
+Comme décrit sur [ce site](https://learn.adafruit.com/), il n'est pas recommandé d'utiliser cet écran pour jouer. &lt;&lt; Avec deux fois plus de pixels à pousser sur l'écran, le PiTFT 3,5" est sensiblement plus lent que ses frères plus compacts et nous le déconseillons fortement pour les jeux &gt;&gt;. Maintenant, vous savez !
+
+Mais si vous voulez faire en sorte que cela fonctionne, vous pouvez procéder comme suit :
+
+### Modification du fichier /boot/config.txt pour correspondre à la résolution de l'écran
+
+Obtenez les fichiers `waveshare35a-overlay.dtb` et `waveshare32b-overlay.dtb` respectivement pour l'écran WaveShare 3,2" 320x240 et l'écran WaveShare 3,5" 320x480. Pour les nouveaux noyaux de la version 4.4, nous devons renommer les fichiers dtb en fichiers dtbo pour qu'ils correspondent au nouveau nom de l'arbre de superposition. Renommez `waveshare35a-overlay.dtb` en `waveshare35a.dtbo` et `waveshare32b-overlay.dtb` en `waveshare32b.dtbo` et copiez-les dans le répertoire **/boot/overlays**
+
+Nous modifions maintenant le fichier `/boot/config.txt` pour prendre en charge le nouvel écran :
+
+```text
+#tft screen
+#Waveshare 3.5 TFT Screen
+#same resolution for hdmi and tft
+hdmi_force_hotplug=1
+hdmi_cvt=480 320 60 1 0 0 0
+hdmi_group=2
+hdmi_mode=1
+hdmi_mode=87
+
+dtparam=spi=on
+dtoverlay=waveshare35a:rotate=270,speed=27000000
+# speed=41000000,fps=60 for better FPS, but the colors will look a little weird.
+```
+
+### Activation de fbcp dans le fichier recalbox.conf
+
+Dans **recalbox.conf**, il suffit d'activer le support `fbcp`et de redémarrer.
+
+
 >**Attention :** assurez-vous de désactiver les contrôleurs GPIO !
 >
 {.is-danger}

@@ -68,23 +68,24 @@ hdmi_mode=4
 >* The "\#" sign is deleted, the technical term for this is "uncommented". A line beginning with a \# is a comment, not a command.
 >* hdmi\_group=1 means CEA
 >* hdmi\_mode=4 means 720p
->{% endhint %}
 >
->Now that we're done, all three of our screens are set up.
->
->Let's keep moving!
->
->## Global video mode for emulators
->
->Now that EmulationStation is running in full screen, your hand is eager to test a game ... The main thing you need to know here is that the screen resolution is changed before running an emulator. But to which resolution ? Check your `recalbox.conf` and read the `global.videomode` setting. Its default value is `CEA 4 HDMI`. This means that the screen resolution will be changed to 720p just before launching the emulator.
->
->Time to check some examples :
->
->* 1080pTV can display 720p like a charm
->* 720pVGA can display the 720p without a scratch
->* DVIboy is... mmh... well, it can't display 720p. So just edit `recalbox.conf` and set `global.videomode` to its native video mode: `global.videomode=DMT 35 HDMI`
->
->{% hint style="info" %}
+{.is-info}
+
+Now that we're done, all three of our screens are set up.
+
+Let's keep moving!
+
+## Global video mode for emulators
+
+Now that EmulationStation is running in full screen, your hand is eager to test a game ... The main thing you need to know here is that the screen resolution is changed before running an emulator. But to which resolution ? Check your `recalbox.conf` and read the `global.videomode` setting. Its default value is `CEA 4 HDMI`. This means that the screen resolution will be changed to 720p just before launching the emulator.
+
+Time to check some examples :
+
+* 1080pTV can display 720p like a charm
+* 720pVGA can display the 720p without a scratch
+* DVIboy is... mmh... well, it can't display 720p. So just edit `recalbox.conf` and set `global.videomode` to its native video mode: `global.videomode=DMT 35 HDMI`
+
+
 >**Tip**
 >
 >Feeling lucky, want to save yourself a change in screen resolution? Then set `global.videomode=default` : Recalbox will not change the screen resolution before running an emulator. But warning : this can have a considerable impact on performance.  

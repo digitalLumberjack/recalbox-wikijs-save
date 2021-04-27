@@ -8,33 +8,35 @@ RetroArch uses a translation service called **"OCR"** \(Optical Character Recogn
 
 
 >This function requires an internet connection!
->{% endhint %}
 >
->![Before](./ocr1.png)
->
->
->
->![After](./ocr2.png)
->
->## Settings :
->
->we have done everything in our power to make this kind of service as simple as possible.
->
->{% hint style="warning" %}
+{.is-danger}
+
+![Before](./ocr1.png)
+
+
+
+![After](./ocr2.png)
+
+## Settings :
+
+we have done everything in our power to make this kind of service as simple as possible.
+
+
 >This service requires registration to an API.
 >
 >Recalbox will use [Ztranslate.net ](https://ztranslate.net/),  but other APIs can be configured!
->{% endhint %}
 >
->* Once registered and connected to the site, go to the settings section to retrieve your `API KEY`
->* Open your file `recalbox.conf`
->  * Search for the line`;global.translate.apikey=YOUR_API_KEY_HERE`
->  * Ersae the character `;` then enter your `API KEY` in place of `YOUR_API_KEY_HERE`
->
->{% hint style="success" %}
+{.is-warning}
+
+* Once registered and connected to the site, go to the settings section to retrieve your `API KEY`
+* Open your file `recalbox.conf`
+  * Search for the line`;global.translate.apikey=YOUR_API_KEY_HERE`
+  * Ersae the character `;` then enter your `API KEY` in place of `YOUR_API_KEY_HERE`
+
+
 >Recalbox will automatically detect the language of your game and translate it into the language set in the main menu.
 >
-{.is-danger}
+{.is-success}
 
 ## Let's Play !
 

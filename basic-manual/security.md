@@ -7,24 +7,25 @@ As of version 4.0.0, the Recalbox is not secure against attacks in its default c
 >* Do not store any sensitive data on your Recalbox
 >* Make backups
 >* Turn off your Recalbox between sessions
->{% endhint %}
->
->## Root password <a id="root-password"></a>
->
->The Recalbox comes with a default root password. Up to version 4.0.0 it is possible to change the root password by doing the following, from a command prompt:
->
->* Remount the / partition in read-write mode
->
->  `mount -o remount,rw /`
->
->* Change the root password
->
->  `passwd`
->
->{% hint style="info" %}
->Please note that you will have to redo this operation after every update, as updating will cause the Recalbox to overwrite files and reset the root password to its default value. Version 4.1 and above should get rid of the default password.​
 >
 {.is-danger}
+
+## Root password <a id="root-password"></a>
+
+The Recalbox comes with a default root password. Up to version 4.0.0 it is possible to change the root password by doing the following, from a command prompt:
+
+* Remount the / partition in read-write mode
+
+  `mount -o remount,rw /`
+
+* Change the root password
+
+  `passwd`
+
+
+>Please note that you will have to redo this operation after every update, as updating will cause the Recalbox to overwrite files and reset the root password to its default value. Version 4.1 and above should get rid of the default password.​
+>
+{.is-info}
 
 ## Network services <a id="network-services"></a>
 

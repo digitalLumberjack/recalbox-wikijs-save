@@ -46,9 +46,10 @@ Here is a list of supported file format per sub-system:
 >
 >  
 >May be zipped Other CD image formats _may_ be supported but haven't been tested by the recalbox team.
->{% endhint %}
 >
->{% hint style="warning" %}
+{.is-info}
+
+
 >**Remarque :**
 >
 >When running zipped/7-zipped files, our configurator try to identify the rom type by seeking for specific extensions inside the archive.
@@ -57,7 +58,7 @@ Here is a list of supported file format per sub-system:
 >* WHD are fast, but LHA should be prefered. 
 >* HDDFS may be longer to check and may lead to some misinterpretations. If you are using HDDFS, let them as regular files & folders and make the root folder name ending with **`.hd`** for fast identification.
 >
-{.is-info}
+{.is-warning}
 
 ## Overriding configurations
 

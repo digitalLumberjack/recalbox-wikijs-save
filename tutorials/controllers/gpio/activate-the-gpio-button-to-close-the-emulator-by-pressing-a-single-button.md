@@ -42,14 +42,15 @@ The installer will display a list of possible GPIO port maps corresponding to th
 >In the Retroarch's default configuration, the script terminates the emulators by brute force, using a killall command which, depending on the core used, can cause the loss of some changes to the emulator configuration made during the game. For example, this happens with Mame2003.
 >
 >To avoid this, I implemented the closing of the emulator through a network command for Retroarch. Now Retroarch will close correctly and you will not lose any configuration changes in the emulators.
->{% endhint %}
 >
->{% hint style="info" %}
+{.is-danger}
+
+
 >**Note:**
 >
 >This change is only for Retroarch, although it covers most of the emulators in the system, emulators like **Fb2x, scummvm or mupen64plus** are still disabled by brute force, until you find another way to apply it.
 >
-{.is-danger}
+{.is-info}
 
 ## Tips and tricks:
 

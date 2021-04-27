@@ -13,6 +13,18 @@
 >* Connection via HDMI jack using an **HDMI / VGA adapter ==&gt; VGA / SCART**
 >
 {.is-danger}
+
+
+>**WARNING**
+>
+>It is **IMPERATIVE** to have version **4.1 STABLE of Recalbox** for these modifications to work.
+>
+>**To play your Recalbox on a CRT screen connected in HDMI**, several choices are possible, depending on the connections of your screen
+>
+>* Connection via the HDMI socket using an **HDMI / VGA adapter ==&gt; VGA / BNC**
+>* Connection via HDMI jack using an **HDMI / VGA adapter ==&gt; VGA / SCART**
+>
+{.is-danger}
   
 ![](./image%20%28111%29.png)
 

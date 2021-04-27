@@ -10,44 +10,45 @@
 >* bin+cue
 >* ccd+img+sub
 >* bin alone
->{% endhint %}
 >
->**Exemple:**
->
->```text
->Wonder Dog (1993)(Sega)(PAL)(Track 01 of 21)[!].iso
->Wonder Dog (1993)(Sega)(PAL)(Track 02 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 03 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 04 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 05 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 06 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 07 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 08 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 09 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 10 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 11 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 12 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 13 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 14 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 15 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 16 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 17 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 18 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 19 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 20 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)(Track 21 of 21)[!].wav
->Wonder Dog (1993)(Sega)(PAL)[!].cue   
->
->Rockman 8 - Metal Heroes (Japan) (Track 1).bin   
->Rockman 8 - Metal Heroes (Japan) (Track 2).bin   
->Rockman 8 - Metal Heroes (Japan) (Track 3).bin   
->Rockman 8 - Metal Heroes (Japan) (Track 4).bin   
->Rockman 8 - Metal Heroes (Japan).cue
->```
->
->There is a technique to convert iso+cue with wav files for anyone who doesn't want to create folders to contain all game files.
->
->{% hint style="info" %}
+{.is-info}
+
+**Exemple:**
+
+```text
+Wonder Dog (1993)(Sega)(PAL)(Track 01 of 21)[!].iso
+Wonder Dog (1993)(Sega)(PAL)(Track 02 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 03 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 04 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 05 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 06 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 07 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 08 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 09 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 10 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 11 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 12 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 13 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 14 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 15 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 16 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 17 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 18 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 19 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 20 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)(Track 21 of 21)[!].wav
+Wonder Dog (1993)(Sega)(PAL)[!].cue   
+
+Rockman 8 - Metal Heroes (Japan) (Track 1).bin   
+Rockman 8 - Metal Heroes (Japan) (Track 2).bin   
+Rockman 8 - Metal Heroes (Japan) (Track 3).bin   
+Rockman 8 - Metal Heroes (Japan) (Track 4).bin   
+Rockman 8 - Metal Heroes (Japan).cue
+```
+
+There is a technique to convert iso+cue with wav files for anyone who doesn't want to create folders to contain all game files.
+
+
 >**Note:**
 >
 >This technique is valid for PSX and SEGACD.

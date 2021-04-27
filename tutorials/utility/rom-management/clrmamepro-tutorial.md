@@ -61,205 +61,209 @@ misses the RPI version I didn't mention imame4all and piFBA.
 
 
 >An arcade rom in zip format should never be unzipped or renamed.
->{% endhint %}
 >
->{% hint style="info" %}
+{.is-warning}
+
+
 >**Note :** Other DATs files are available on this site [progretto-SNAPS Dats](http://www.progettosnaps.net/dats/) .
->{% endhint %}
 >
->**Arcade BIOS**
->
->If you have recovered your romset, BIOS for some game publishers are available in this one. Here is the list of BIOS present in your romset that are necessary for some ROMs to work.
->
->| Name | Publishers | BIOS Name |
->| :---: | :---: | :---: |
->| Acclaim PSX | Acclaim | acpsx.zip |
->| Arcadia System BIOS | Arcadia Systems | ar\_bios.zip |
->| Atari PSX | Atari | atpsx.zip |
->| Atlus PSX | Atlus | atluspsx.zip |
->| Baby Phoenix/GV System | Konami | konamigx.zip |
->| Crystal System BIOS | BrezzaSoft | crysbios.zip |
->| DECO Cassette System | Data East Corporation | decocass.zip |
->| Hyper NeoGeo 64 Bios | SNK | hng64.zip |
->| Max-A-Flex | Exidy | maxaflex.zip |
->| Mega Play BIOS | Sega | megaplay.zip |
->| Mega-Tech | Sega | megatech.zip |
->| Multi Amenity Cassette System BIOS | I'Max | macsbios.zip |
->| Neo-Geo | SNK | **neogeo.zip** |
->| Nintendo Super System BIOS | Nintendo | nss.zip |
->| PGM \(Polygame Master\) System BIOS | IGS | **pgm.zip** |
->| PlayChoice-10 BIOS | Nintendo of America | **playch10.zip** |
->| PS Arcade 95 | Eighting / Raizing | psarc95.zip |
->| ST-V Bios | Sega | stvbios |
->| Super Kaneko Nova System BIOS | Kaneko | **skns.zip** |
->| System GX | Konami | **konamigx.zip** |
->| Taito FX1 | Taito | taitofx1.zip |
->| Taito GNET | Taito | taitogn.zip |
->| TPS | Tecmo | tps.zip |
->| ZN1 | Capcom | cpzn1.zip |
->| ZN2 | Capcom | cpzn2.zip |
->
->Source : [mamedb.com](http://www.mamedb.com/category/BIOS.html)  
->_****_  
->**in bold : required bios**
->
->#### ClrmamePro
->
->ClrmamePro is a tool to check and rebuild your arcade romsets according to an info file \(XML or dat format\).
->
->**Installation**
->
->1. Download ClrmamePro for Windows or MacOS ; on Linux, just use Wine. Note : the zip file is a portable version.
->2. Install it.
->3. Get the right arcade emulator dat file
->4. Execute ClrmamePro in admin mode \(right click &gt; Execute as an administrator\)
->
->{% hint style="warning" %}
+{.is-info}
+
+**Arcade BIOS**
+
+If you have recovered your romset, BIOS for some game publishers are available in this one. Here is the list of BIOS present in your romset that are necessary for some ROMs to work.
+
+| Name | Publishers | BIOS Name |
+| :---: | :---: | :---: |
+| Acclaim PSX | Acclaim | acpsx.zip |
+| Arcadia System BIOS | Arcadia Systems | ar\_bios.zip |
+| Atari PSX | Atari | atpsx.zip |
+| Atlus PSX | Atlus | atluspsx.zip |
+| Baby Phoenix/GV System | Konami | konamigx.zip |
+| Crystal System BIOS | BrezzaSoft | crysbios.zip |
+| DECO Cassette System | Data East Corporation | decocass.zip |
+| Hyper NeoGeo 64 Bios | SNK | hng64.zip |
+| Max-A-Flex | Exidy | maxaflex.zip |
+| Mega Play BIOS | Sega | megaplay.zip |
+| Mega-Tech | Sega | megatech.zip |
+| Multi Amenity Cassette System BIOS | I'Max | macsbios.zip |
+| Neo-Geo | SNK | **neogeo.zip** |
+| Nintendo Super System BIOS | Nintendo | nss.zip |
+| PGM \(Polygame Master\) System BIOS | IGS | **pgm.zip** |
+| PlayChoice-10 BIOS | Nintendo of America | **playch10.zip** |
+| PS Arcade 95 | Eighting / Raizing | psarc95.zip |
+| ST-V Bios | Sega | stvbios |
+| Super Kaneko Nova System BIOS | Kaneko | **skns.zip** |
+| System GX | Konami | **konamigx.zip** |
+| Taito FX1 | Taito | taitofx1.zip |
+| Taito GNET | Taito | taitogn.zip |
+| TPS | Tecmo | tps.zip |
+| ZN1 | Capcom | cpzn1.zip |
+| ZN2 | Capcom | cpzn2.zip |
+
+Source : [mamedb.com](http://www.mamedb.com/category/BIOS.html)  
+_****_  
+**in bold : required bios**
+
+#### ClrmamePro
+
+ClrmamePro is a tool to check and rebuild your arcade romsets according to an info file \(XML or dat format\).
+
+**Installation**
+
+1. Download ClrmamePro for Windows or MacOS ; on Linux, just use Wine. Note : the zip file is a portable version.
+2. Install it.
+3. Get the right arcade emulator dat file
+4. Execute ClrmamePro in admin mode \(right click &gt; Execute as an administrator\)
+
+
 >**Tip** : On Windows, right click on cmpro64.exe ou cmpro32.exe, then click on "Properties" &gt; Compatibility tab &gt; tick the box : Execute as an administrator. Validate clicking on Ok. The application will now always be executed in administrator mode.
->{% endhint %}
 >
->### Parent and Clone Roms.
->
->There are two special rom formats, which are called **Parent Rom** and **Clone Rom**. A Clone Rom needs its Parent Clone to run properly.
->
->Example : _Metal Slug 4_
->
->```text
->Metal Slug 4 (NGH-2630)  (clone of: mslug4)          mslug4h.zip     
->Metal Slug 4 (NGM-2630)                              mslug4.zip
->```
->
->mslug4.zip it the parent rom, mslug4h.zip is a clone rom. The clone rom is dependent of its parent's. The clone rom name is usually followed with a letter, just to differentiate them from its parent's.
->
->#### Difference between Non-Merged set, Split Set and Merged-Set.
->
->There are 3 methods of roms classification used to manage those different versions of a game :
->
->* **Non Merged Sets** : each parent and clone will have their own zip file, containing the roms they need. This method is by far the method that takes up the most space on your hard drive, but you won't have to worry anymore about whether the clones are with their parents or not when you burn your roms for example.
->* **Split Sets** : the parent set has a zip file containing all the roms it needs. The clone set\(s\) ha\(ve\)s a zip file that contain\(s\) only the roms that are different from the parent set. However, clone sets will need some common roms, contained in the parent zip file, in order to work. This solution takes up the least amount of hard disk space, but if the clone sets are not in the same directory as the parent sets, they will not work.
->* **Merged Sets :** parents and clones of a game will be contained in one big zip file. Regarding the disk usage, it's an intermediate solution. Bigger than split's one and smaller than non merged. The parent/clone separation problem is also solved. The only drawback remains to update your roms if you're not interested in clones.
->
-><table>
->  <thead>
->    <tr>
->      <th style="text-align:center">Mode</th>
->      <th style="text-align:center">Non-Merged</th>
->      <th style="text-align:center">Split-Merged</th>
->      <th style="text-align:center">Merged</th>
->    </tr>
->  </thead>
->  <tbody>
->    <tr>
->      <td style="text-align:center">parent</td>
->      <td style="text-align:center">
->        <ul>
->          <li>rom 1 nom : abcd crc : 1234</li>
->          <li>rom 2 nom : azerty crc : 789</li>
->        </ul>
->      </td>
->      <td style="text-align:center">
->        <ul>
->          <li>rom 1 nom : abcd crc : 1234</li>
->          <li>rom 2 nom : azerty crc : 789</li>
->        </ul>
->      </td>
->      <td style="text-align:center">
->        <ul>
->          <li>rom 1 nom : abcd crc : 1234</li>
->          <li>rom 2 nom : azerty crc : 789</li>
->          <li>rom 3 nom : bdce crc : 4444</li>
->          <li>rom 3&apos; nom : jklm crc : 5555</li>
->        </ul>
->      </td>
->    </tr>
->    <tr>
->      <td style="text-align:center">clone 1</td>
->      <td style="text-align:center">
->        <p></p>
->        <ul>
->          <li>rom 1 nom : abcd crc : 1234</li>
->          <li>rom 2 nom : azerty crc : 789</li>
->          <li>rom 3 nom : bdce crc : 4444</li>
->        </ul>
->      </td>
->      <td style="text-align:center">
->        <ul>
->          <li>rom 3 nom : bdce crc : 4444</li>
->        </ul>
->      </td>
->      <td style="text-align:center"></td>
->    </tr>
->    <tr>
->      <td style="text-align:center">clone 2</td>
->      <td style="text-align:center">
->        <p></p>
->        <ul>
->          <li>rom 1 nom : abcd crc : 1234</li>
->          <li>rom 2 nom : azerty crc : 789</li>
->          <li>rom 3 nom : jklm crc : 5555</li>
->        </ul>
->      </td>
->      <td style="text-align:center">
->        <ul>
->          <li>rom 3 nom : jklm crc : 5555</li>
->        </ul>
->      </td>
->      <td style="text-align:center"></td>
->    </tr>
->  </tbody>
-></table>
->
->Source [detailed tutorial Clrmamepro \(fr\)](http://clrmamepro.free.fr/merger.php)
->
->### ClrmamePro Configuration 
->
->![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-Lxs1A-PJIlazZLj0r7W%2F-Lxs5oXHf0GNoe7lqAHj%2Fclrmamepro.png?alt=media&token=d1fd4a80-933b-47cd-b05b-4babb71badda)
->
->1. Profil creation
->
->Click on "Add DatFile" to load your dat file
->
->![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-Lxs1A-PJIlazZLj0r7W%2F-Lxs6-70gPqM-ARvrxmS%2Fadd_DatFile.png?alt=media&token=5e7087a1-61a5-4fef-8ac7-53379b3a99f4)
->
->     2. In this example : mame0.780.dat for mame2003.
->
->![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-Lxs1A-PJIlazZLj0r7W%2F-Lxs6QZRNqBsO51V-rm6%2Fdatfiles.png?alt=media&token=d0b74229-6b37-46b5-935e-a1c83ffb650d)
->
->Click on **Load/update**.  
->Then click **default**, wait during the scan, and click on OK ALL to let the process run.
->
->![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-Lxs1A-PJIlazZLj0r7W%2F-Lxs6_C42RWZ1Z6pOH-O%2Fok.png?alt=media&token=cd8ae580-a2ac-4633-96ff-e2859e7c4c75)
->
->     3. Click on the settings button.  
->Configuring the **ROM-Paths** \(1\), that indicates the path to your roms source directory.  
->Click on the **Add...** \(2\) button.  
->Then click on **Save As Def.** \(3\) - Validate your action clicking on OK.   
->
->![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-LxwSXFnK1IR_BvL6Onm%2F-LxwUxzaIbGBvIpUyQI6%2FSettings.png?alt=media&token=b76883cf-7bf1-46d9-ab61-34dae3ea4af6)
->
->Configuring the **Add-Paths**, that indicates the path to your roms destination directory.  
->Click on the **Add...** button.
->
->![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-LxwSXFnK1IR_BvL6Onm%2F-LxwV5u7QqP8WsWRUSsv%2Faddpath.png?alt=media&token=ef6f3ceb-29c8-4a97-a67d-cfcf9b182d91)
->
->Close the window.
->
->{% hint style="info" %}
+{.is-warning}
+
+### Parent and Clone Roms.
+
+There are two special rom formats, which are called **Parent Rom** and **Clone Rom**. A Clone Rom needs its Parent Clone to run properly.
+
+Example : _Metal Slug 4_
+
+```text
+Metal Slug 4 (NGH-2630)  (clone of: mslug4)          mslug4h.zip     
+Metal Slug 4 (NGM-2630)                              mslug4.zip
+```
+
+mslug4.zip it the parent rom, mslug4h.zip is a clone rom. The clone rom is dependent of its parent's. The clone rom name is usually followed with a letter, just to differentiate them from its parent's.
+
+#### Difference between Non-Merged set, Split Set and Merged-Set.
+
+There are 3 methods of roms classification used to manage those different versions of a game :
+
+* **Non Merged Sets** : each parent and clone will have their own zip file, containing the roms they need. This method is by far the method that takes up the most space on your hard drive, but you won't have to worry anymore about whether the clones are with their parents or not when you burn your roms for example.
+* **Split Sets** : the parent set has a zip file containing all the roms it needs. The clone set\(s\) ha\(ve\)s a zip file that contain\(s\) only the roms that are different from the parent set. However, clone sets will need some common roms, contained in the parent zip file, in order to work. This solution takes up the least amount of hard disk space, but if the clone sets are not in the same directory as the parent sets, they will not work.
+* **Merged Sets :** parents and clones of a game will be contained in one big zip file. Regarding the disk usage, it's an intermediate solution. Bigger than split's one and smaller than non merged. The parent/clone separation problem is also solved. The only drawback remains to update your roms if you're not interested in clones.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Mode</th>
+      <th style="text-align:center">Non-Merged</th>
+      <th style="text-align:center">Split-Merged</th>
+      <th style="text-align:center">Merged</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">parent</td>
+      <td style="text-align:center">
+        <ul>
+          <li>rom 1 nom : abcd crc : 1234</li>
+          <li>rom 2 nom : azerty crc : 789</li>
+        </ul>
+      </td>
+      <td style="text-align:center">
+        <ul>
+          <li>rom 1 nom : abcd crc : 1234</li>
+          <li>rom 2 nom : azerty crc : 789</li>
+        </ul>
+      </td>
+      <td style="text-align:center">
+        <ul>
+          <li>rom 1 nom : abcd crc : 1234</li>
+          <li>rom 2 nom : azerty crc : 789</li>
+          <li>rom 3 nom : bdce crc : 4444</li>
+          <li>rom 3&apos; nom : jklm crc : 5555</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">clone 1</td>
+      <td style="text-align:center">
+        <p></p>
+        <ul>
+          <li>rom 1 nom : abcd crc : 1234</li>
+          <li>rom 2 nom : azerty crc : 789</li>
+          <li>rom 3 nom : bdce crc : 4444</li>
+        </ul>
+      </td>
+      <td style="text-align:center">
+        <ul>
+          <li>rom 3 nom : bdce crc : 4444</li>
+        </ul>
+      </td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">clone 2</td>
+      <td style="text-align:center">
+        <p></p>
+        <ul>
+          <li>rom 1 nom : abcd crc : 1234</li>
+          <li>rom 2 nom : azerty crc : 789</li>
+          <li>rom 3 nom : jklm crc : 5555</li>
+        </ul>
+      </td>
+      <td style="text-align:center">
+        <ul>
+          <li>rom 3 nom : jklm crc : 5555</li>
+        </ul>
+      </td>
+      <td style="text-align:center"></td>
+    </tr>
+  </tbody>
+</table>
+
+Source [detailed tutorial Clrmamepro \(fr\)](http://clrmamepro.free.fr/merger.php)
+
+### ClrmamePro Configuration 
+
+![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-Lxs1A-PJIlazZLj0r7W%2F-Lxs5oXHf0GNoe7lqAHj%2Fclrmamepro.png?alt=media&token=d1fd4a80-933b-47cd-b05b-4babb71badda)
+
+1. Profil creation
+
+Click on "Add DatFile" to load your dat file
+
+![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-Lxs1A-PJIlazZLj0r7W%2F-Lxs6-70gPqM-ARvrxmS%2Fadd_DatFile.png?alt=media&token=5e7087a1-61a5-4fef-8ac7-53379b3a99f4)
+
+     2. In this example : mame0.780.dat for mame2003.
+
+![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-Lxs1A-PJIlazZLj0r7W%2F-Lxs6QZRNqBsO51V-rm6%2Fdatfiles.png?alt=media&token=d0b74229-6b37-46b5-935e-a1c83ffb650d)
+
+Click on **Load/update**.  
+Then click **default**, wait during the scan, and click on OK ALL to let the process run.
+
+![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-Lxs1A-PJIlazZLj0r7W%2F-Lxs6_C42RWZ1Z6pOH-O%2Fok.png?alt=media&token=cd8ae580-a2ac-4633-96ff-e2859e7c4c75)
+
+     3. Click on the settings button.  
+Configuring the **ROM-Paths** \(1\), that indicates the path to your roms source directory.  
+Click on the **Add...** \(2\) button.  
+Then click on **Save As Def.** \(3\) - Validate your action clicking on OK.   
+
+![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-LxwSXFnK1IR_BvL6Onm%2F-LxwUxzaIbGBvIpUyQI6%2FSettings.png?alt=media&token=b76883cf-7bf1-46d9-ab61-34dae3ea4af6)
+
+Configuring the **Add-Paths**, that indicates the path to your roms destination directory.  
+Click on the **Add...** button.
+
+![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-LxwSXFnK1IR_BvL6Onm%2F-LxwV5u7QqP8WsWRUSsv%2Faddpath.png?alt=media&token=ef6f3ceb-29c8-4a97-a67d-cfcf9b182d91)
+
+Close the window.
+
+
 >**Note** : you can add other paths to the samples directory for example.
->{% endhint %}
 >
->#### Scanner Function : Checking your romset.
->
->1. Click on the Scanner button
->2. Check **Sets**, **ROMs**, and **Samples** if you configured the paths \(1\)
->3. Choose the right option, related to your romset \(non merged, split-merge, merged\) \(2\)
->4. Click on New Scan \(3\)   
->
->![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-LxwSXFnK1IR_BvL6Onm%2F-LxwVLAswxuyLKQLq6fW%2FScanner_.png?alt=media&token=8e131ef7-b8e1-4068-8db7-3eb1b18f1509)
->
->#### Rebuild Function : build your romset.
->
->{% hint style="warning" %}
+{.is-info}
+
+#### Scanner Function : Checking your romset.
+
+1. Click on the Scanner button
+2. Check **Sets**, **ROMs**, and **Samples** if you configured the paths \(1\)
+3. Choose the right option, related to your romset \(non merged, split-merge, merged\) \(2\)
+4. Click on New Scan \(3\)   
+
+![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-LxwSXFnK1IR_BvL6Onm%2F-LxwVLAswxuyLKQLq6fW%2FScanner_.png?alt=media&token=8e131ef7-b8e1-4068-8db7-3eb1b18f1509)
+
+#### Rebuild Function : build your romset.
+
+
 >**Advice** : always work on a backup romset with this tool !
 >
 {.is-warning}

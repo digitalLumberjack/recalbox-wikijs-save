@@ -10,55 +10,56 @@
 >**Information:**
 >
 >For a **permanently solution** you must **edit the**`interfaces.base` file. And before you can edit this file you must remount the file system as rw. So try this commands: `mount -o remount,rw /` `nano /etc/network/interfaces.base`
->{% endhint %}
->
->​
->
->* **Search the line** containing the **interface** you want to modify \(ethX para ethernet, wlanX para wifi\):
->
->```text
->auto eth0
->iface eth0 inet dhcp
->```
->
->### So let us modify eth0 ip. <a id="vamos-mudar-o-endereco-ip-eth-0"></a>
->
->* **Replace** with the **static ip** settings :
->
->```
->auto eth0
->iface eth0 inet static
->address 192.168.1.10
->network 192.168.1.0
->netmask 255.255.255.0
->broadcast 192.168.1.255
->gateway 192.168.1.254
->```
->
->* Neste exemplo, sua: **A rede local** tem como endereço do modem 192.168.1.x. **O endereço da sua placa** é 192.168.1.254. **Sua máscara de rede** é, portanto, 255.255.255.0. E você deseja que **seu endereço** seja **192.168.1.10**
->
->By switching to a static IP address, you will lose the configuration of your DNS server\(s\) in the process. In order to get name resolution working, you will have to create a file names`/etc/resolv.conf`. By default, this files points to an auto-generated file located at `/tmp/resolv.conf`, so in order to do it once and for all, run the following commands:
->
->```text
->rm /etc/resolv.conf
->nano /etc/resolv.conf
->```
->
->Enter the following lines, which corresponds to DNS servers of the OpenDNS project:
->
->```text
->nameserver 208.67.222.222nameserver 208.67.220.220
->```
->
->Save the file.
->
->Now reload the settings with :  
->`ifdown eth0 && ifup eth0`
->
->{% hint style="warning" %}
->THESE EDITS **WILL BE OVERWRITTEN WITH EACH NEW UPDATE** - You will have to repeat these tasks after each update.
 >
 {.is-info}
+
+​
+
+* **Search the line** containing the **interface** you want to modify \(ethX para ethernet, wlanX para wifi\):
+
+```text
+auto eth0
+iface eth0 inet dhcp
+```
+
+### So let us modify eth0 ip. <a id="vamos-mudar-o-endereco-ip-eth-0"></a>
+
+* **Replace** with the **static ip** settings :
+
+```
+auto eth0
+iface eth0 inet static
+address 192.168.1.10
+network 192.168.1.0
+netmask 255.255.255.0
+broadcast 192.168.1.255
+gateway 192.168.1.254
+```
+
+* Neste exemplo, sua: **A rede local** tem como endereço do modem 192.168.1.x. **O endereço da sua placa** é 192.168.1.254. **Sua máscara de rede** é, portanto, 255.255.255.0. E você deseja que **seu endereço** seja **192.168.1.10**
+
+By switching to a static IP address, you will lose the configuration of your DNS server\(s\) in the process. In order to get name resolution working, you will have to create a file names`/etc/resolv.conf`. By default, this files points to an auto-generated file located at `/tmp/resolv.conf`, so in order to do it once and for all, run the following commands:
+
+```text
+rm /etc/resolv.conf
+nano /etc/resolv.conf
+```
+
+Enter the following lines, which corresponds to DNS servers of the OpenDNS project:
+
+```text
+nameserver 208.67.222.222nameserver 208.67.220.220
+```
+
+Save the file.
+
+Now reload the settings with :  
+`ifdown eth0 && ifup eth0`
+
+
+>THESE EDITS **WILL BE OVERWRITTEN WITH EACH NEW UPDATE** - You will have to repeat these tasks after each update.
+>
+{.is-warning}
 
 ## Starting from Recalbox 4.1 <a id="a-partir-de-recalbox-4-1"></a>
 

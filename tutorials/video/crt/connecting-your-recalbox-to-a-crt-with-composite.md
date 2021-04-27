@@ -9,30 +9,32 @@ If you want to **connect your** **recalbox to a CRT**, you will need a **mini-ja
 >  
 >Also, the type of cable required is not really common.  
 >It is preferable to **test with a Multimeter**, in order to be sure that the cable you plan to use is corresponding to the diagram proposed above \(an inversion of Ground and video on the jack leads to a jumping black & white image, sign of an unsuitable cable\).
->{% endhint %}
 >
->{% hint style="warning" %}
+{.is-danger}
+
+
 >**In Recalbox 4.0.0** you have to make the partition writable.
->{% endhint %}
 >
->* [Modify /boot/config.txt](https://recalbox.gitbook.io/tutorials/v/francais/xi-systeme/modification/editer-le-fichier-config.txt)
->
->  **commenting each line starting with** `hdmi_` **with** `#`, and **adding the supported sdtv\_mode :**
->
->```text
->sdtv_mode=0    Normal NTSC   
->sdtv_mode=1    Japanese version of NTSC – no pedestal  
->sdtv_mode=2    Normal PAL   
->sdtv_mode=3    Brazilian version of PAL – 525/60 rather than 625/50, different subcarrier
->```
->
->* To get a **better sound through the composite output**, activate the experimental audio driver for the Raspberry pi
->
->```text
->audio_pwm_mode=2
->```
->
->{% hint style="danger" %}
+{.is-warning}
+
+* [Modify /boot/config.txt](https://recalbox.gitbook.io/tutorials/v/francais/xi-systeme/modification/editer-le-fichier-config.txt)
+
+  **commenting each line starting with** `hdmi_` **with** `#`, and **adding the supported sdtv\_mode :**
+
+```text
+sdtv_mode=0    Normal NTSC   
+sdtv_mode=1    Japanese version of NTSC – no pedestal  
+sdtv_mode=2    Normal PAL   
+sdtv_mode=3    Brazilian version of PAL – 525/60 rather than 625/50, different subcarrier
+```
+
+* To get a **better sound through the composite output**, activate the experimental audio driver for the Raspberry pi
+
+```text
+audio_pwm_mode=2
+```
+
+
 >**Warning**, this mode can create an **overall slowdown** of the Recalbox.
 >
 {.is-danger}

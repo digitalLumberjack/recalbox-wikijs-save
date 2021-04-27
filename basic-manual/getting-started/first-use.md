@@ -11,23 +11,24 @@ description: Set up your Recalbox for the first time
 
 
 >Most of the controllers work in plug-and-play, but if you want to customise an USB controller, plug in a USB keyboard ... Please refer to [Add an usb controller](controller-configuration.md#configure-a-controller)
->{% endhint %}
->
->## Change the language in Recalbox
->
->* In the system selection screen, press **START** and choose  &gt; System settings &gt; Language &gt; Select the desired language  then Close
->* Recalbox will then reboot, and the EmulationStation interface will be in the selected language.
->
->## Shutting down Recalbox
->
->* In the system screen press **START** and choose &gt; Quit &gt; Shutdown System.
->* Wait for green/orange light on PI to stop flashing \(to prevent any damage to the MSD card.\)
->* Unplug the power cable.
->
->{% hint style="success" %}
->**Shortcut** : on the system select screen, push **SELECT** to access directly the QUIT menu.
 >
 {.is-info}
+
+## Change the language in Recalbox
+
+* In the system selection screen, press **START** and choose  &gt; System settings &gt; Language &gt; Select the desired language  then Close
+* Recalbox will then reboot, and the EmulationStation interface will be in the selected language.
+
+## Shutting down Recalbox
+
+* In the system screen press **START** and choose &gt; Quit &gt; Shutdown System.
+* Wait for green/orange light on PI to stop flashing \(to prevent any damage to the MSD card.\)
+* Unplug the power cable.
+
+
+>**Shortcut** : on the system select screen, push **SELECT** to access directly the QUIT menu.
+>
+{.is-success}
 
 ## Default software
 

@@ -1,0 +1,2 @@
+# ScummVM/ResidualVM
+

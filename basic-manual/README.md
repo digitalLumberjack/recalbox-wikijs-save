@@ -1,0 +1,2 @@
+# 📔 BASIC MANUAL
+

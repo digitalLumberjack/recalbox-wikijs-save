@@ -1,2 +1,0 @@
-# Neo-Geo Pocket
-

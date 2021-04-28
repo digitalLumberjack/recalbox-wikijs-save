@@ -1,2 +1,0 @@
-# Spectravideo SV-318
-

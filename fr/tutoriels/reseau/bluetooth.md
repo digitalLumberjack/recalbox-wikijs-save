@@ -1,0 +1,6 @@
+---
+title: Bluetooth
+---
+
+# Bluetooth
+

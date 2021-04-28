@@ -1,2 +1,0 @@
-# Oric Atmos
-

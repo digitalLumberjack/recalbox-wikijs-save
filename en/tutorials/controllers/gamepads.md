@@ -1,0 +1,6 @@
+---
+title: Gamepads
+---
+
+# Gamepads
+

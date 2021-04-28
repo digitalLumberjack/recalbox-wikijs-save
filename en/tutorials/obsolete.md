@@ -1,0 +1,6 @@
+---
+title: Obsolete
+---
+
+# Obsolete
+

@@ -1,0 +1,94 @@
+---
+title: Libretro BK
+---
+
+# Libretro BK
+
+
+
+## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+
+Ce core est sous licence [**personnalisé**](https://github.com/libretro/bk-emulator/blob/master/COPYING).
+
+## 🔧 Compatibilité
+
+| RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+## ![](./cogwheel-145804_640.png) Fonctionnalités
+
+
+
+## ![](./tqfp32.svg) BIOS
+
+### Liste des bios obligatoires
+
+| Nom de fichier | Description | **MD5** | Fourni |
+| :---: | :---: | :---: | :---: |
+| B11M\_BOS.ROM | Requis | fe4627d1e3a1535874085050733263e7 | ❌ |
+| B11M\_EXT.ROM | Requis | dc52f365d56fa1951f5d35b1101b9e3f | ❌ |
+| BAS11M\_0.ROM | Requis | 946f6f23ded03c0e26187f0b3ca75993 | ❌ |
+| BAS11M\_1.ROM | Requis | 1e6637f32aa7d1de03510030cac40bcf | ❌ |
+| DISK\_327.ROM | Requis | 5015228eeeb238e65da8edcd1b6dfac7 | ❌ |
+| FOCAL10.ROM | Requis | 5737f972e8638831ab71e9139abae052 | ❌ |
+| MONIT10.ROM | Requis | 95f8c41c6abf7640e35a6a03cecebd01 | ❌ |
+
+### **Emplacement**
+
+Placez les **bios** comme ceci : 
+
+> 📁recalbox
+>
+> > 📁share
+> >
+> > > 📁bios
+> > >
+> > > > 📁 bk
+> > > >
+> > > > > 🗒 B11M\_BOS.ROM
+> > > > >
+> > > > > 🗒 B11M\_EXT.ROM
+> > > > >
+> > > > > 🗒 BAS11M\_0.ROM
+> > > > >
+> > > > > 🗒 BAS11M\_1.ROM
+> > > > >
+> > > > > 🗒 DISK\_327.ROM
+> > > > >
+> > > > > 🗒 FOCAL10.ROM
+> > > > >
+> > > > > 🗒 MONIT10.ROM
+
+## ![](./rom-30098_640.png) Roms
+
+### **Extensions supportées**
+
+Les roms doivent avoir les extensions suivantes :
+
+* .bin
+* .zip
+
+### **Emplacement**
+
+Placez les roms comme ceci : 
+
+> 📁recalbox
+>
+> > 📁share
+> >
+> > > 📁roms
+> > >
+> > > > 📁bk
+> > > >
+> > > > > 🗒**fichier.zip**
+
+## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+
+
+
+## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+
+* **Github utilisé** : [https://github.com/libretro/bk-emulator/](https://github.com/libretro/bk-emulator/)
+* **Doc Libretro** : 
+

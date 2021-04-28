@@ -1,2 +1,0 @@
-# Super Nintendo Entertainement System
-

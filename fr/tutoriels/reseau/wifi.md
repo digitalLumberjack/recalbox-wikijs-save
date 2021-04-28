@@ -1,0 +1,6 @@
+---
+title: Wifi
+---
+
+# Wifi
+

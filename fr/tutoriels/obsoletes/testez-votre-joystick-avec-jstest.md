@@ -6,7 +6,7 @@ title: Testez votre joystick avec jstest
 
 Pour tester les boutons et joysticks de vos manettes, vous pouvez utiliser la commande `jstest` qui permet de lister des informations concernant vos manettes.
 
-* Premièrement vous devez avoir un [accès root via votre terminal](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) 
+* Premièrement vous devez avoir un [accès root via votre terminal](/fr/tutoriels/systeme/acces/acces-root-via-terminal) 
 * Pour savoir si vos manettes sont détectées par le système utiliser la commande suivante :
 
 ```text

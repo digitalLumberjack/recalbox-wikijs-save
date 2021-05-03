@@ -6,7 +6,7 @@ title: Sauvegardez vos données de scrape
 
 ### **Pour sauvegarder** votre scrape de jeux :
 
-* **Avoir** un [accès root](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal). 
+* **Avoir** un [accès root](/fr/tutoriels/systeme/acces/acces-root-via-terminal). 
 * **Créer un dossier :**   `mkdir /recalbox/share/system/backup_scrape/`  ****
 * **Utiliser cette commande** pour sauvegarder tes différents dossiers de scrape placés sur la partition partagée \(SHARE\). 
 

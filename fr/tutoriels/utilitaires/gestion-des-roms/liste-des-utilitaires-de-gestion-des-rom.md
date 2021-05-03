@@ -8,7 +8,7 @@ title: Liste des utilitaires de gestion des ROM
 
 ​[https://mamedev.emulab.it/clrmamepro/](https://mamedev.emulab.it/clrmamepro/)
 
-Voir aussi le [tutoriel clrmamepro](/v/francais/tutoriels/utilitaires/gestion-des-roms/clrmamepro)
+Voir aussi le [tutoriel clrmamepro](/fr/tutoriels/utilitaires/gestion-des-roms/clrmamepro)
 
 ## Romulus
 

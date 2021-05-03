@@ -4,7 +4,7 @@ title: Connecter manuellement le contrôleur Bluetooth
 
 # Connecter manuellement le contrôleur Bluetooth
 
-Vous pouvez connecter votre contrôleur Bluetooth manuellement. Pour cela, vous aurez besoin d'un [accès root](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal).
+Vous pouvez connecter votre contrôleur Bluetooth manuellement. Pour cela, vous aurez besoin d'un [accès root](/fr/tutoriels/systeme/acces/acces-root-via-terminal).
 
 ## Si la version de Recalbox est inférieure ou égale à la 4.0
 

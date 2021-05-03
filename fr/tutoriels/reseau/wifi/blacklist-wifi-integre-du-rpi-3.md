@@ -8,7 +8,7 @@ Déçu par le **débit du wifi intégré** du raspberry pi 3, tu souhaites le **
 
 Voici comment faire :
 
-* **Connecte toi** en [ssh via putty ou winscp](/v/francais/tutoriels/systeme/acces/acces-reseau-via-winscp) ​
+* **Connecte toi** en [ssh via putty ou winscp](/fr/tutoriels/systeme/acces/acces-reseau-via-winscp) ​
 * **Monter** la partition en écriture :  `mount -o remount,rw /`  
 * **Éditer** le fichier suivant : `nano /etc/modprobe.d/blacklist.conf`   
 * **Ajouter** cette ligne : `blacklist brcmfmac`  

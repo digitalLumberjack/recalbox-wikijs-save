@@ -102,7 +102,7 @@ Exemple pour le jeu "**Grandia \(France\)**" :
 {.is-info}
 
 
->Pour les roms multi-disques pour votre confort, vous devriez [créer le fichier m3u](/v/francais/tutoriels/utilitaires/conversion-des-roms/chdman).
+>Pour les roms multi-disques pour votre confort, vous devriez [créer le fichier m3u](/fr/tutoriels/utilitaires/conversion-des-roms/chdman).
 {.is-warning}
 
 ### 2 - Créer le fichier m3u

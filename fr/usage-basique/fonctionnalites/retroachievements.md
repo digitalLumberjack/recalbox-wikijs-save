@@ -27,7 +27,7 @@ Le site internet [retroachievements.org](http://www.retroachievements.org/) prop
 
 Vous devez **éditer** le fichier **recalbox.conf :**
 
-* **Via ssh** avec putty et le commande nano `nano /recalbox/share/system/recalbox.conf`  ou  [winscp](/v/francais/tutoriels/systeme/acces/acces-reseau-via-winscp) avec l'éditeur Notepad++ ​
+* **Via ssh** avec putty et le commande nano `nano /recalbox/share/system/recalbox.conf`  ou  [winscp](/fr/tutoriels/systeme/acces/acces-reseau-via-winscp) avec l'éditeur Notepad++ ​
 * **Ajout ses 3 lignes** en remplaçant pseudonyme et motdepasse par ceux créer lors de votre inscription.
 
 ```text

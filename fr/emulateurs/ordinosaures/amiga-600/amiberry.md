@@ -114,7 +114,7 @@ Placez les roms comme ceci :
 {.is-success}
 
 
->Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/v/francais/tutoriels/jeux/generalite/les-roms-et-les-isos) !
+>Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
 ### Fonctionnement
@@ -195,7 +195,7 @@ Vous pouvez configurer diverses options via :
 
 >**Information :**  
 >Afin de pouvoir conserver vos configurations personnalisées lors d'une mise à jour,  
->nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/v/francais/usage-avance/surcharge-de-configuration).
+>nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
 {.is-info}
 
 ### **Modification des jeux WHDL :**

@@ -4,7 +4,7 @@ title: Recalbox.log
 
 # Recalbox.log
 
-* Premièrement obtenez [un accès root](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+* Premièrement obtenez [un accès root](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 * Pour obtenir les 100 dernières lignes du fichier recalbox.log exécutez `tail -100 /recalbox/share/system/logs/recalbox.log`
 
 Voici un exemple des **10 dernières ligne** d'un fichier **recalbox.log** :

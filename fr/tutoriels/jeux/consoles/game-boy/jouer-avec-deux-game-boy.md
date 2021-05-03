@@ -9,7 +9,7 @@ Il est possible de jouer à deux joueurs avec deux GameBoy sur Recalbox. Il exis
 
 >Même si cela peut être tentant, Recalbox ne supporte pas le Netplay dans ce mode.
 >
->De plus, en mode un jeu pour deux Game Boy, les sauvegardes ne sont pas supportées pour la deuxième Game Boy, contrairement au mode [deux jeux deux Game Boy](/v/francais/tutoriels/jeux/consoles/game-boy/jouer-a-deux-jeux-differents-en-mode-gamelink), où là encore, le Netplay n'est pas supporté.
+>De plus, en mode un jeu pour deux Game Boy, les sauvegardes ne sont pas supportées pour la deuxième Game Boy, contrairement au mode [deux jeux deux Game Boy](/fr/tutoriels/jeux/consoles/game-boy/jouer-a-deux-jeux-differents-en-mode-gamelink), où là encore, le Netplay n'est pas supporté.
 {.is-warning}
 
 ## La méthode "no edit" <a id="la-methode-no-edit"></a>

@@ -17,7 +17,7 @@ Vous pouvez le faire fonctionner sur Recalbox en configurant le fichier `/boot/c
 
 N'oubliez pas que le pilote du TFP401 n'a pas de scaler vidéo ! Si vous ne l'alimentez pas exactement en 800×480 pixels, l'image ne s'étirera pas et rétrécira pour s'adapter ! Nous devons donc configurer la résolution dans le fichier config.txt.
 
-Connectez-vous à votre Pi \(soit [en SSH](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) ou sur un TTY local\).
+Connectez-vous à votre Pi \(soit [en SSH](/fr/tutoriels/systeme/acces/acces-root-via-terminal) ou sur un TTY local\).
 
 Rendre `/boot` accessible en écriture pour modifier le fichier requis :
 
@@ -60,7 +60,7 @@ Vous pouvez le faire fonctionner sur Recalbox en configurant le fichier `/boot/c
 
 N'oubliez pas que le pilote du TFP401 n'a pas de scaler vidéo ! Si vous ne l'alimentez pas exactement en 800×480 pixels, l'image ne s'étirera pas et rétrécira pour s'adapter ! Nous devons donc configurer la résolution dans le fichier config.txt.
 
-Connectez-vous à votre Pi \(soit [en SSH](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) ou sur un TTY local\).
+Connectez-vous à votre Pi \(soit [en SSH](/fr/tutoriels/systeme/acces/acces-root-via-terminal) ou sur un TTY local\).
 
 Rendre `/boot` accessible en écriture pour modifier le fichier requis :
 

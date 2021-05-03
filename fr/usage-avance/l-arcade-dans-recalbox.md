@@ -58,7 +58,7 @@ Cette documentation n’est pas toujours parfaite et cela donne des versions ”
 Comme on vous a expliqué plus haut il y a dans vos romsets à boire et à manger.  
 En effet le fait d’avoir voulu documenter du “vintage” et l’ensemble des mémoires mortes de la planètes nous amènes à se poser la question : qu’avons nous dans un ROMSET ?
 
-Grace au  logiciel [**CLRMAMEPRO**](/v/francais/tutoriels/utilitaires/gestion-des-roms/clrmamepro) il est possible de lire l'ensemble du contenu d'un romset en ayant au préalable une référence: le fichier ****[**.dat**](https://fr.wikipedia.org/wiki/Index.dat). ****  
+Grace au  logiciel [**CLRMAMEPRO**](/fr/tutoriels/utilitaires/gestion-des-roms/clrmamepro) il est possible de lire l'ensemble du contenu d'un romset en ayant au préalable une référence: le fichier ****[**.dat**](https://fr.wikipedia.org/wiki/Index.dat). ****  
 Ce fichier rassemble la liste complète des données qui constituent le romset par rapport à l'émulateur.  
 _**Il est important de comparer votre romset avec ce fichier .dat via clrmamepro et d'éviter de piocher des ROMs à droite et à gauche pour des problèmes de compatibilité !**_  
   
@@ -143,15 +143,15 @@ _**Il est important de comparer votre romset avec un fichier .dat via clrmamepro
 
 ### **4 - Naomi**
 
-* \*\*\*\*[**Libretro-Flycast**](/v/francais/emulateurs/arcade/naomi/libretro-flycast#romset-mame) **:** Basé sur le **ROMSET 0.220**
+* \*\*\*\*[**Libretro-Flycast**](/fr/emulateurs/arcade/naomi/libretro-flycast#romset-mame) **:** Basé sur le **ROMSET 0.220**
 
 ### **5 - Naomi GD**
 
-* \*\*\*\*[**Libretro-Flycast** ](/v/francais/emulateurs/arcade/naomi-gd-rom/libretro-flycast#romset-mame)**:** Basé sur le **ROMSET 0.220**
+* \*\*\*\*[**Libretro-Flycast** ](/fr/emulateurs/arcade/naomi-gd-rom/libretro-flycast#romset-mame)**:** Basé sur le **ROMSET 0.220**
 
 ### **6 - Atomiswave**
 
-* \*\*\*\*[**Libretro-Flycast**](/v/francais/emulateurs/arcade/atomiswave/libretro-flycast#romset-mame) **:** Basé sur le **ROMSET 0.220**
+* \*\*\*\*[**Libretro-Flycast**](/fr/emulateurs/arcade/atomiswave/libretro-flycast#romset-mame) **:** Basé sur le **ROMSET 0.220**
 
 ## **V - LES PROBLÈMES CONNUS** 
 

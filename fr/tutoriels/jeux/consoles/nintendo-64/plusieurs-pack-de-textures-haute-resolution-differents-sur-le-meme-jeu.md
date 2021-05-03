@@ -6,7 +6,7 @@ title: Plusieurs packs de textures haute résolution différents sur le même je
 
 ## Informations <a id="information"></a>
 
-Dans le guide « [Textures haute résolution](/v/francais/tutoriels/jeux/consoles/nintendo-64/textures-haute-resolution) »_,_ vous avez appris comment utiliser les packs de textures haute résolution.
+Dans le guide « [Textures haute résolution](/fr/tutoriels/jeux/consoles/nintendo-64/textures-haute-resolution) »_,_ vous avez appris comment utiliser les packs de textures haute résolution.
 
 ## Général <a id="general"></a>
 

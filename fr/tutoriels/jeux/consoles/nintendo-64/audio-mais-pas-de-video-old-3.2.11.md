@@ -13,7 +13,7 @@ title: Audio mais pas de vidéo \(Old 3.2.11\)
 
 **Voici une solution possible :**
 
-* Premièrement, vous devez **avoir un** [**accès root via votre terminal** ](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) 
+* Premièrement, vous devez **avoir un** [**accès root via votre terminal** ](/fr/tutoriels/systeme/acces/acces-root-via-terminal) 
 * **Entrez les commandes suivantes** : - `cd ../recalbox/scripts`   ****- `nano emulatorlauncher.sh` pour éditer le fichier 
 * **Trouvez les lignes** suivantes et **y remplacer** le **"4"** **par** un **"2" :**
 

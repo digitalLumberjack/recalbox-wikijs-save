@@ -4,12 +4,12 @@ title: Gestion des fichiers
 
 # Gestion des fichiers
 
-**Recalbox** vous permet de gérer vos fichiers via le [dossier "share"](/v/francais/usage-basique/gestion-des-fichiers).
+**Recalbox** vous permet de gérer vos fichiers via le [dossier "share"](/fr/usage-basique/gestion-des-fichiers).
 
 Vous avez deux possibilités :
 
-* [En connexion direct](/v/francais/usage-basique/gestion-des-fichiers)
-* [Par le réseau](/v/francais/usage-basique/gestion-des-fichiers)
+* [En connexion direct](/fr/usage-basique/gestion-des-fichiers)
+* [Par le réseau](/fr/usage-basique/gestion-des-fichiers)
 
 ## I - Dossier "Share"
 
@@ -114,7 +114,7 @@ Pour **ajouter vos fichiers** \(roms, sauvegardes de jeux, bios, données de scr
 >
 >\(exemple : **\\192.168.1.30**\)
 >
->Si cela ne fonctionne toujours pas et que vous êtes sur Windows 10, vous pouvez aussi suivre [ce tutoriel](/v/francais/tutoriels/reseau/partage/windows-10-impossible-dacceder-a-recalbox-depuis-le-partage-reseau).
+>Si cela ne fonctionne toujours pas et que vous êtes sur Windows 10, vous pouvez aussi suivre [ce tutoriel](/fr/tutoriels/reseau/partage/windows-10-impossible-dacceder-a-recalbox-depuis-le-partage-reseau).
 {.is-warning}
 
 ### 3 - Pour que les ajouts apparaissent :
@@ -164,9 +164,9 @@ Vous pouvez utiliser des **roms compressées** \(**.zip, .7z\)** ou des **roms d
 {.is-warning}
 
 * Si vous souhaitez **ajouter un BIOS** dans votre système, **ouvrez le dossier BIOS** partagé via **Samba** ou aller directement à **/recalbox/share/bios/** 
-* Vos "**noms de BIOS" et code "CRC"** doivent correspondre à **la liste** présente dans le [**Bios Manager**](/v/francais/usage-basique/fonctionnalites/bios-manager)**.**
+* Vos "**noms de BIOS" et code "CRC"** doivent correspondre à **la liste** présente dans le [**Bios Manager**](/fr/usage-basique/fonctionnalites/bios-manager)**.**
 
-Pour **vérifier la signature d'un BIOS**, se référer à la page ["Tutoriel MD5 - Vérifier l'empreinte MD5 d'une rom ou bios"](/v/francais/tutoriels/utilitaires/gestion-des-roms/verifier-lempreinte-md5-dune-rom-ou-bios)
+Pour **vérifier la signature d'un BIOS**, se référer à la page ["Tutoriel MD5 - Vérifier l'empreinte MD5 d'une rom ou bios"](/fr/tutoriels/utilitaires/gestion-des-roms/verifier-lempreinte-md5-dune-rom-ou-bios)
 
 
 >* **Neo-Geo :** vous devez ajouter le BIOS**`neogeo.zip`**dans le dossier **rom de l'émulateur avec vos jeux Neo-Geo /recalbox/share/roms/neogeo ou /recalbox/share/roms/fbneo** 

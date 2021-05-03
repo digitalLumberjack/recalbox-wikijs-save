@@ -73,7 +73,7 @@ system.manager.enabled = 1
 
 Pour y accéder directement, il suffit de saisir l'ip de votre recalbox avec le port 8080 `http://192.168.0.X:8080 ou http://recalbox:8080`
 
-Consulter le manuel d'utilisation **du Gamepad Virtuel** [ici](/v/francais/usage-basique/premiere-utilisation-et-configuration#ii-configuration-dun-controleur)_**.**_
+Consulter le manuel d'utilisation **du Gamepad Virtuel** [ici](/fr/usage-basique/premiere-utilisation-et-configuration#ii-configuration-dun-controleur)_**.**_
 
 Le github pour les retours : [https://github.com/recalbox/recalbox-manager](https://github.com/recalbox/recalbox-manager)
 

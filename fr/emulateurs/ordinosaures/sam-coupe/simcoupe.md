@@ -55,7 +55,7 @@ Placez les roms comme ceci :
 > > > > > 🗒**fichier.dsk**
 
 
->Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/v/francais/tutoriels/jeux/generalite/les-roms-et-les-isos) !
+>Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
 SimCoupe peut utiliser des logiciels au format disque suivants :

@@ -19,7 +19,7 @@ If you want to **connect your** **recalbox to a CRT**, you will need a **mini-ja
 >**In Recalbox 4.0.0** you have to make the partition writable.
 {.is-warning}
 
-* [Modify /boot/config.txt](https://recalbox.gitbook.io/tutorials/v/francais/xi-systeme/modification/editer-le-fichier-config.txt)
+* [Modify /boot/config.txt](https://recalbox.gitbook.io/tutorials/fr/xi-systeme/modification/editer-le-fichier-config.txt)
 
   **commenting each line starting with** `hdmi_` **with** `#`, and **adding the supported sdtv\_mode :**
 
@@ -49,7 +49,7 @@ hdmi_drive=1
 
 * Finally, **add**`hdmi_ignore_hotplug=1` to **force the composite output**.
 
-If you are on Recalbox OS 4.0 or higher, the file system is read-only. You will have to use Noobs to modify the configuration file. Plug in a USB keyboard and press the Shift key at startup to access the recovery menu. Then press "e" to get the edit menu, and make your changes here. You can change the language and keyboard configuration by pressing "l" and "k". [https://recalbox.gitbook.io/tutorials/v/francais/xi-systeme/modification/editer-le-fichier-config.txt](https://recalbox.gitbook.io/tutorials/v/francais/xi-systeme/modification/editer-le-fichier-config.txt)
+If you are on Recalbox OS 4.0 or higher, the file system is read-only. You will have to use Noobs to modify the configuration file. Plug in a USB keyboard and press the Shift key at startup to access the recovery menu. Then press "e" to get the edit menu, and make your changes here. You can change the language and keyboard configuration by pressing "l" and "k". [https://recalbox.gitbook.io/tutorials/fr/xi-systeme/modification/editer-le-fichier-config.txt](https://recalbox.gitbook.io/tutorials/fr/xi-systeme/modification/editer-le-fichier-config.txt)
 
 Your **config.txt** should look like below :
 
@@ -59,7 +59,7 @@ hdmi_ignore_hotplug=1
 audio_pwm_mode=2
 ```
 
-* Then **edite** [recalbox.conf](/v/francais/manuel-de-base/premiers-pas/le-fichier-recalbox.conf) and change`global.videomode` to `default`:
+* Then **edite** [recalbox.conf](/fr/manuel-de-base/premiers-pas/le-fichier-recalbox.conf) and change`global.videomode` to `default`:
 
 ```text
 global.videomode=default

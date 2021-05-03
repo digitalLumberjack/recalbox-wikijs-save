@@ -13,8 +13,8 @@ L'émulateur se ferme après avoir maintenu le bouton enfoncé pendant au moins 
 
 * Une Recalbox sur Raspberry Pi qui utilise les commandes GPIO \(il n'est pas nécessaire d'avoir un bouton libre\).
 * Le Raspberry Pi doit avoir un accès à Internet :
-  * Vous pouvez activer et configurer le **wifi** et le **nom d'hôte**, obtenir l**'IP** de la Recalbox, le SSID de votre réseau et la clé du réseau avec un clavier. Une fois que vous avez validé, le wifi est activé. Il existe un bug connu qui ne vous permet pas de saisir tous les caractères nécessaires pour le SSID ou la Clé. Vous pouvez le configurer directement depuis votre wifi en utilisant [recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf).
-* Un ordinateur à partir duquel on peut faire une [session root SSH](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) sur Raspberry \(sur Windows, vous aurez besoin d'un programme comme PuTTY\).
+  * Vous pouvez activer et configurer le **wifi** et le **nom d'hôte**, obtenir l**'IP** de la Recalbox, le SSID de votre réseau et la clé du réseau avec un clavier. Une fois que vous avez validé, le wifi est activé. Il existe un bug connu qui ne vous permet pas de saisir tous les caractères nécessaires pour le SSID ou la Clé. Vous pouvez le configurer directement depuis votre wifi en utilisant [recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf).
+* Un ordinateur à partir duquel on peut faire une [session root SSH](/fr/tutoriels/systeme/acces/acces-root-via-terminal) sur Raspberry \(sur Windows, vous aurez besoin d'un programme comme PuTTY\).
 
 ## Installation
 
@@ -40,7 +40,7 @@ Après quelques secondes, si le résultat est un message à l'écran disant "**B
 
 ## Désinstallation
 
-* Ouvrir une [session SSH](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) et tapez la commande `/recalbox/share/system/exit-emu-1b uninstall`
+* Ouvrir une [session SSH](/fr/tutoriels/systeme/acces/acces-root-via-terminal) et tapez la commande `/recalbox/share/system/exit-emu-1b uninstall`
 
 
 >**Avertissement :**
@@ -61,5 +61,5 @@ Après quelques secondes, si le résultat est un message à l'écran disant "**B
 
 * Si, à tout moment, vous devez assigner la fonction de fermeture de l'émulateur à un autre bouton, il vous suffit de relancer l'installateur par la commande `/recalbox/share/system/exit-emu-1b install` et de mettre dans l'installation le nouveau numéro de port que vous souhaitez.
 * Si vous modifiez la configuration de votre émulateur et que vous quittez avec le bouton assigné dans l'installation, ceux-ci sont perdus. Assurez-vous qu'ils soient dans le fichier :`/recalbox/share/system/configs/retroarch/retroarchcustom.cfg` Ou dans le fichier de configuration personnalisé RetroArch où vous utilisez le paramètre `Network_cmd_enable` a la valeur`= "true"`.
-* Si, pour une raison quelconque, le script cesse de fonctionner et que le bouton perd sa fonction de fermeture de l'émulateur, vous pouvez récupérer son fonctionnement au moyen de la commande :  `/etc/init.d/S98exit-emu-1b restart` vous devrez le saisir à l'intérieur d'une [session SSH](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+* Si, pour une raison quelconque, le script cesse de fonctionner et que le bouton perd sa fonction de fermeture de l'émulateur, vous pouvez récupérer son fonctionnement au moyen de la commande :  `/etc/init.d/S98exit-emu-1b restart` vous devrez le saisir à l'intérieur d'une [session SSH](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 

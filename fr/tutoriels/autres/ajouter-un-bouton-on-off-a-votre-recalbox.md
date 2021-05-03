@@ -17,7 +17,7 @@ title: Ajouter un bouton on/off a votre recalbox
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-MJH8jdcYQLsGJvtswtn%2F-MJHBikcKEvyxKFdtUAG%2FRaspberry%20Pi%2040-pin%20GPIO%20Layout.png?alt=media&token=49f0c74e-433e-40fb-81ca-06cec2f2efb7)
 
-* Enfin, vous devez activer le support du bouton dans le[ recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) en ajoutant une de ces lignes :
+* Enfin, vous devez activer le support du bouton dans le[ recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) en ajoutant une de ces lignes :
   * `system.power.switch=PIN56ONOFF` pour un bouton ON/OFF 
   * `system.power.switch=PIN56PUSH` pour un bouton poussoir
 

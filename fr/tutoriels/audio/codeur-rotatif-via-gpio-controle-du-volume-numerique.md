@@ -26,7 +26,7 @@ Vous pouvez utiliser les broches que vous voulez ; il suffit de mettre à jour l
 
 Le script ci-dessous fonctionne comme suit : il utilise les broches spécifiées, et lorsque le bouton est tourné d'une manière ou d'une autre, il utilise les états des broches A et B pour savoir si le bouton a été tourné vers la gauche ou vers la droite. Ainsi, il sait s'il faut augmenter ou diminuer le volume du système en réponse, ce qu'il fait avec le programme de ligne de commande **Amixer**.
 
-1. Pour installer le script dans votre Recalbox : vous devez d'abord vous [connecter à votre Recalbox via ssh](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal). 
+1. Pour installer le script dans votre Recalbox : vous devez d'abord vous [connecter à votre Recalbox via ssh](/fr/tutoriels/systeme/acces/acces-root-via-terminal). 
 2. Remonter la partition en lecture-écriture : `mount -o remount, rw /` 
 3. Créez/éditez votre script **volume-monitor.py** dans **/recalbox/scripts** via nano : `nano /recalbox/scripts/volume-monitor.py` 
 4. Copiez et collez le script du bas dans le fichier, puis enregistrez le fichier par la commande Ctrl+X :  

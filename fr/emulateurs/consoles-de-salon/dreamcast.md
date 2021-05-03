@@ -27,7 +27,7 @@ La console qui propose le jeu online de série n’aura pourtant pas su convainc
 
 Malgré que la console offre un bon rapport qualité prix, elle fut un échec commercial.
 
-La **Dreamcast** ne fait pas la même erreur que la [**Saturn**](/v/francais/emulateurs/consoles-de-salon/saturn) et dispose d’un unique processeur principal.
+La **Dreamcast** ne fait pas la même erreur que la [**Saturn**](/fr/emulateurs/consoles-de-salon/saturn) et dispose d’un unique processeur principal.
 
 Concernant les graphismes, le travail est effectué par un Power VR II tout droit issue du monde du PC, ce qui, allié à un OS dérivé de Windows CE, permet une programmation plus facile \(surtout en ce qui concerne les portages\).
 
@@ -39,7 +39,7 @@ Nous n’avons par contre aucun port pour les **VMS**. En effet, ces derniers s�
 
 Maintenant, le plus intéressant : le **modem**. Ce dernier se branche sur le côté de la console ce qui vous permet de la changer par un plus rapide si vous en avez envie. 
 
-Pour terminer, on notera que la **Dreamcast** est la base du système arcade [**NAOMI**](/v/francais/emulateurs/arcade/naomi)**.** Ce système est principalement constitué d’une carte aux caractéristiques techniques quasi-identiques à celles de la **Dreamcast** \(mais avec 2 fois plus de mémoire\). L’avantage du système [**NAOMI**](/v/francais/emulateurs/arcade/naomi) est qu’il permet de connecter jusqu’à 16 de ces cartes qui travaillent alors en parallèle. Néanmoins, le système [**NAOMI**](/v/francais/emulateurs/arcade/naomi) ****va suivre sa propre évolution séparément de la **Dreamcast**.
+Pour terminer, on notera que la **Dreamcast** est la base du système arcade [**NAOMI**](/fr/emulateurs/arcade/naomi)**.** Ce système est principalement constitué d’une carte aux caractéristiques techniques quasi-identiques à celles de la **Dreamcast** \(mais avec 2 fois plus de mémoire\). L’avantage du système [**NAOMI**](/fr/emulateurs/arcade/naomi) est qu’il permet de connecter jusqu’à 16 de ces cartes qui travaillent alors en parallèle. Néanmoins, le système [**NAOMI**](/fr/emulateurs/arcade/naomi) ****va suivre sa propre évolution séparément de la **Dreamcast**.
 
 ## Émulateurs
 

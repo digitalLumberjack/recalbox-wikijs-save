@@ -12,7 +12,7 @@ La procédure de démarrage d'un script sera exécutée au démarrage et la proc
 
 ## Étapes pour créer votre propre script de démarrage :
 
-* Connectez-vous avec un [accès root ](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)sur votre **Recalbox**.
+* Connectez-vous avec un [accès root ](/fr/tutoriels/systeme/acces/acces-root-via-terminal)sur votre **Recalbox**.
 * Le système est en lecture seule par défaut. Vous devez obtenir un accès en écriture avec la commande suivante : `mount -o remount rw, /`
 * Changez le répertoire en `/etc/init.d` avec la commande suivante : `cd /etc/init.d`
 * Tapez `ls` pour voir tous les scripts disponibles dans `init.d`.

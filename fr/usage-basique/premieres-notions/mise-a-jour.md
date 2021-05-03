@@ -110,7 +110,7 @@ Le système **redémarre automatiquement** après la mise à jour !
 >
 >Si vous utilisez une version de Recalbox **antérieure à la version 7.0**, il n'est **pas possible** d'effectuer une Mise à Jour de manière **automatique.**
 >
->Il vous faudra effectuer une[ **réinstallation popre**](/v/francais/usage-basique/premieres-notions/reinstallation-propre) pour pourvoir bénéficier de [la dernière version disponible.](https://archive.recalbox.com/)  
+>Il vous faudra effectuer une[ **réinstallation popre**](/fr/usage-basique/premieres-notions/reinstallation-propre) pour pourvoir bénéficier de [la dernière version disponible.](https://archive.recalbox.com/)  
 >  
 >Ainsi de procéder au processus de mise à jour pour **ne pas perdre** vos réglages, sauvegardes, roms et bios.
 {.is-danger}

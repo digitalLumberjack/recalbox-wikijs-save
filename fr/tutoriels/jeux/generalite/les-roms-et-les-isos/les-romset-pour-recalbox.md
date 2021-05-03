@@ -63,7 +63,7 @@ Une fois téléchargé, **copiez les fichiers nécessaires** \(ROM et fichiers d
 | **Core** | **Romset** | .dat | **Architecture** |
 | :---: | :---: | :---: | :---: |
 | **FbNeo** | **FinalBurn Neo v1.0.0.0** |  | **Tout les Plateformes** |
-| **Mame** | Voir les romset [**ci-dessus**](/v/francais/tutoriels/jeux/generalite/les-roms-et-les-isos/les-romset-pour-recalbox#mame)**.** |  | **Tout les Plateformes** |
+| **Mame** | Voir les romset [**ci-dessus**](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos/les-romset-pour-recalbox#mame)**.** |  | **Tout les Plateformes** |
 
 ### **Naomi**
 
@@ -78,7 +78,7 @@ Une fois téléchargé, **copiez les fichiers nécessaires** \(ROM et fichiers d
 | **Flycast** | **MAME 0.135 ou supérieur, 0.220 conseillé** |  | **X86\_64** |
 
 
->Pour **plus d'information** sur les **roms Arcade,** veuillez consulter [cette page](/v/francais/usage-avance/l-arcade-dans-recalbox).
+>Pour **plus d'information** sur les **roms Arcade,** veuillez consulter [cette page](/fr/usage-avance/l-arcade-dans-recalbox).
 {.is-warning}
 
 ### **Sega Model 3**

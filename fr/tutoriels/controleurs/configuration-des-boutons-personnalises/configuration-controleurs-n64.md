@@ -10,7 +10,7 @@ Au cas où votre bouton 0 quitterait l'émulateur \(comme le ferait la touche de
 
 ### A - Ajoutez la configuration de votre contrôleur au système :
 
-Pour configurer votre contrôleur, vous aurez besoin d'informations dessus. Connectez-vous en tant que [root](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal), et utilisez la commande [jstest](/v/francais/tutoriels/obsoletes/testez-votre-joystick-avec-jstest) :
+Pour configurer votre contrôleur, vous aurez besoin d'informations dessus. Connectez-vous en tant que [root](/fr/tutoriels/systeme/acces/acces-root-via-terminal), et utilisez la commande [jstest](/fr/tutoriels/obsoletes/testez-votre-joystick-avec-jstest) :
 
 `jstest /dev/input/js0`
 
@@ -76,7 +76,7 @@ Mupen64plus ne supporte pas les combinaisons de boutons, comme les émulateurs R
 Mais vous pouvez affecter les boutons inutilisés à une commande spécifique, comme _sauvegarder/charger une savestate, changer les emplacements de sauvegarde_, etc...
 
 Pour ce faire, dans un premier temps, vous devez identifier tous les boutons inutilisés dans votre configuration.  
-Donc, comme vu précédemment, allez en [accès root](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) et utilisez la [commande jstest](/v/francais/tutoriels/obsoletes/testez-votre-joystick-avec-jstest), puis notez le numéro de code de vos boutons inutilisés.
+Donc, comme vu précédemment, allez en [accès root](/fr/tutoriels/systeme/acces/acces-root-via-terminal) et utilisez la [commande jstest](/fr/tutoriels/obsoletes/testez-votre-joystick-avec-jstest), puis notez le numéro de code de vos boutons inutilisés.
 
 Maintenant, toujours en accès root, modifiez votre fichier `mupen64plus.cfg` avec cette commande :
 

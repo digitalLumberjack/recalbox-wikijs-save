@@ -130,7 +130,7 @@ Placez les isos comme ceci :
 {.is-success}
 
 
->Pour plus d'information sur les isos, rendez-vous sur [ce tutoriel](/v/francais/tutoriels/jeux/generalite/les-roms-et-les-isos) !
+>Pour plus d'information sur les isos, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
 ### Extension `.bin` : cas particulier
@@ -242,7 +242,7 @@ Placer vos roms Playstation dans le dossier : `/recalbox/share/roms/psx`
 
 
 >**Attention :**  
->Pour pouvoir conserver vos configuration personnalisé lors d'une mise à jour., nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/v/francais/usage-avance/surcharge-de-configuration).
+>Pour pouvoir conserver vos configuration personnalisé lors d'une mise à jour., nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
 {.is-danger}
 
 ### Accéder aux options

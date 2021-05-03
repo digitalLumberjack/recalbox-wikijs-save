@@ -12,7 +12,7 @@ title: Configurer un écran externe \(x86/x86\_64\)
 
 ## Connaître les sorties vidéo disponible
 
-* Connecté vous a votre Recalbox en [ssh](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+* Connecté vous a votre Recalbox en [ssh](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 * Dans votre terminal **ssh**, tapez la commande suivante : `xrandr`
 
 Ce qui vous donne comme résultat **les sorties vidéo disponible et leur résolutions.**

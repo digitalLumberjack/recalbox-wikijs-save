@@ -86,7 +86,7 @@ Les **GPIOXX** sont **les PIN de données indépendantes.** Voir **la section 3*
 
 ### 3.1 Configurer les manettes <a id="3-1-configurer-les-manettes"></a>
 
-* **Activer le pilote Gamecon** dans le fichier [recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) en **mettant** `controllers.gamecon.enabled=1` \(si elle existe, la modifier, sinon, la créer\). 
+* **Activer le pilote Gamecon** dans le fichier [recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) en **mettant** `controllers.gamecon.enabled=1` \(si elle existe, la modifier, sinon, la créer\). 
 * **Utilisez l'index des manettes** suivant pour **configurer le paramètre.** `controllers.gamecon.args` : `map=<pad1/GPIO0>,<pad2/GPIO1>,<pad3/GPIO4>,<pad4/GPIO7>,<pad5/GPIO2>,<pad6/GPIO3>`
 
 Où &lt;pad...&gt; est le numéro définissant **le type de manette :**
@@ -118,7 +118,7 @@ Donc si vous avez **une carte rev.2, pad1 & pad2** doivent être **paramétré �
 
 ### 3.2 Tester les manettes <a id="3-2-tester-les-manettes"></a>
 
-**Testez** votre joystick [avec jstest](/v/francais/tutoriels/obsoletes/testez-votre-joystick-avec-jstest).
+**Testez** votre joystick [avec jstest](/fr/tutoriels/obsoletes/testez-votre-joystick-avec-jstest).
 
 ### 3.3 Calibrer l'axe analogique d'une manette N64 <a id="3-3-calibrer-laxe-analogique-dune-manette-n64"></a>
 

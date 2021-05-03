@@ -5,7 +5,7 @@ title: Editer le fichier config.txt
 # Editer le fichier config.txt
 
 
->Tout d'abord, passez ****[**la partition de boot en écriture**](/v/francais/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture)\*\*\*\*
+>Tout d'abord, passez ****[**la partition de boot en écriture**](/fr/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture)\*\*\*\*
 {.is-warning}
 
 Il est localiser dans le system at `/boot/config.txt`
@@ -14,7 +14,7 @@ Il est localiser dans le system at `/boot/config.txt`
 
 ## **SSH**
 
-* [Se connecter avec ssh](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+* [Se connecter avec ssh](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 * Utiliser **nano** pour **éditer** le fichier **/boot/config.txt**
 
   `nano /boot/config.txt`

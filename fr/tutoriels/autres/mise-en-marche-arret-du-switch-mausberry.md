@@ -35,7 +35,7 @@ Le Mausberry est opérationnel avec le GPIO23 = OUT / IN = GPIO24 . Vous trouver
 #### Prérequis
 
 1. Votre Raspberry Pi doit être connecté au réseau
-2. Vous devez connaître l'adresse IP de votre Raspberry Pi. Celle-ci est accessible depuis le menu Recalbox. L'adresse IP doit ressembler à : `192.168.0.49` Vous pouvez également [consulter ce tutoriel](/v/francais/tutoriels/reseau/ip/connaitre-lip-sur-son-reseau). 
+2. Vous devez connaître l'adresse IP de votre Raspberry Pi. Celle-ci est accessible depuis le menu Recalbox. L'adresse IP doit ressembler à : `192.168.0.49` Vous pouvez également [consulter ce tutoriel](/fr/tutoriels/reseau/ip/connaitre-lip-sur-son-reseau). 
 
 #### Étapes
 

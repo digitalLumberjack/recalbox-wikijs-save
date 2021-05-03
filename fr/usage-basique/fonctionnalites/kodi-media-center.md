@@ -53,11 +53,11 @@ Là encore, tous ces éléments sont bien documentés sur leur propre [Wiki](htt
 
 Remarques :
 
-* Il y a quelques options dans la [configuration](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) si vous souhaitez démarrer directement sur KODI à chaque fois plutôt que sur EmulationStation \(par défaut\).
+* Il y a quelques options dans la [configuration](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) si vous souhaitez démarrer directement sur KODI à chaque fois plutôt que sur EmulationStation \(par défaut\).
 * Pour votre installation initiale de KODI, vous aurez besoin d'un clavier, bien que ce ne soit pas obligatoire. Cela facilitera une partie de la configuration initiale. De plus, la plupart des applications Smartphone/Tablette \(si elles sont configurées dans KODI\) offrent un clavier comme indiqué lorsque vous entrez dans une boîte de dialogue qui en requiert un, ou cliquez simplement dans la boîte de dialogue ouverte pour faire apparaître un clavier à l'écran que vous pouvez utiliser avec votre contrôleur.
 * Certaines personnes vendent des dongles ou des instructions pour obtenir du contenu sur votre KODI, mais il ne s'agit que de collections ou de répertoires pré-assemblés qui sont gratuits si vous les trouvez par vous-même.
 * Certains "Addons" peuvent nécessiter un abonnement, comme Netflix ou Amazon Video, d'autres peuvent simplement vous demander de créer un compte comme Pandora.
-* Si vos contrôleurs deviennent fous lorsque vous entrez dans KODI, c'est qu'ils ne sont pas correctement configurés. Revoyez la configuration des contrôleurs ; section des [contrôleurs de la Recalbox](/v/francais/usage-basique/premiere-utilisation-et-configuration#ii-configuration-dun-controleur)
+* Si vos contrôleurs deviennent fous lorsque vous entrez dans KODI, c'est qu'ils ne sont pas correctement configurés. Revoyez la configuration des contrôleurs ; section des [contrôleurs de la Recalbox](/fr/usage-basique/premiere-utilisation-et-configuration#ii-configuration-dun-controleur)
 * La version Raspberry Pi de KODI ne dispose pas de toutes les fonctionnalités et Add-Ons, mais la plupart sont présents.
 * La première fois et à chaque fois que vous démarrez KODI, il effectue des mises à jour ou des vérifications de fond. Cela peut entraîner une utilisation irrégulière ou retardée de certaines fonctionnalités. En général, il suffit d'attendre un moment pour les éclaircir. Plus vous avez d'addons, plus cela peut prendre du temps et certains peuvent être réglés pour ne pas être automatisés.
 * La version actuelle de Recalbox de KODI est "Helix".
@@ -65,7 +65,7 @@ Remarques :
 
 ## OPTIONS :
 
-[Recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) contient quelques options Kodi. Vous pouvez activer ou désactiver Kodi, activer le raccourci du bouton X ou démarrer automatiquement Kodi au démarrage.
+[Recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) contient quelques options Kodi. Vous pouvez activer ou désactiver Kodi, activer le raccourci du bouton X ou démarrer automatiquement Kodi au démarrage.
 
 
 >**Information :**  

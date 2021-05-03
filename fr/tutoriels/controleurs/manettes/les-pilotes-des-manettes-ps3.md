@@ -11,7 +11,7 @@ title: Les pilotes des manettes PS3
 {.is-info}
 
 **Recalbox** supporte **par défaut** les manettes **officielles.**  
-Mais si vous possédez **un clone GASIA ou Shanwan,** vous devez **modifier le pilote** dans [recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) en **modifiant la ligne :**
+Mais si vous possédez **un clone GASIA ou Shanwan,** vous devez **modifier le pilote** dans [recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) en **modifiant la ligne :**
 
 `controllers.ps3.driver=official`
 
@@ -26,7 +26,7 @@ Mais si vous possédez **un clone GASIA ou Shanwan,** vous devez **modifier le p
  Pour déterminer quel type de clone vous possédez \(GASIA ou SHANWAN\), vous pouvez :
 
 * **Brancher en USB** votre manette
-* Puis **utiliser la** [commande dmesg](/v/francais/tutoriels/depannage/dmesg) 
+* Puis **utiliser la** [commande dmesg](/fr/tutoriels/depannage/dmesg) 
 
 Vous devriez alors voir **le type de manette** que vous possédez.
 

@@ -38,10 +38,10 @@ Nous avons plusieurs listes sur la compatibilité matérielle dans la documentat
   * La compatibilité des Emulateurs.
   * La compatibilité des Périphériques.
   * L' Usage Basique, pour comprendre **les bases du fonctionnement** du système d'exploitation.
-  * Vous pouvez également consulter la section [Émulateur](/v/francais/emulateurs/arcade) pour avoir de plus d'informations sur ceux présents dans Recalbox.
-  * Si certains **termes** vous semblent **trop techniques**, le [Glossaire](/v/francais/usage-basique/glossaire) peut être un **précieux allié**. 
+  * Vous pouvez également consulter la section [Émulateur](/fr/emulateurs/arcade) pour avoir de plus d'informations sur ceux présents dans Recalbox.
+  * Si certains **termes** vous semblent **trop techniques**, le [Glossaire](/fr/usage-basique/glossaire) peut être un **précieux allié**. 
 * Pour certaines **configurations spécifiques :**
-  *  Référez-vous à la partie [Tutoriels](/v/francais/tutoriels). 
+  *  Référez-vous à la partie [Tutoriels](/fr/tutoriels). 
 * Vous pouvez aussi consulter pour obtenir des renseignements supplémentaires : 
   * **Le** [**site internet**](https://www.recalbox.com/fr/) **de Recalbox.**
   * **Le** [**forum**](https://forum.recalbox.com/)**.**

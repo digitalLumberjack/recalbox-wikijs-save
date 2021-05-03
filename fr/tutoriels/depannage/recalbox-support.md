@@ -17,7 +17,7 @@ recalbox-support.sh donne les informations suivantes sur :
 
 
 
-**Si** vous avez correctement [configurer winscp](/v/francais/tutoriels/systeme/acces/acces-reseau-via-winscp)
+**Si** vous avez correctement [configurer winscp](/fr/tutoriels/systeme/acces/acces-reseau-via-winscp)
 
 **Connectez-vous** en ssh via putty via winscp , **executer cette commande** :
 

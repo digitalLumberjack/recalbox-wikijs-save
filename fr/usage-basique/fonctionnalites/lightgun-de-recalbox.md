@@ -116,7 +116,7 @@ Tir principal : ![](./lightgun-de-recalbox/image%20%28341%29.png)sur le Nunchuk
 ## Le système virtuel Lightgun
 
 Vous pouvez activer un système virtuel Lightgun pour rassembler tout ces jeux.  
-Pour l'activer [**regarder ici**](/v/francais/usage-basique/fonctionnalites/systemes-virtuels).
+Pour l'activer [**regarder ici**](/fr/usage-basique/fonctionnalites/systemes-virtuels).
 
 ![ENJOY !!! ;-\)](https://gblobscdn.gitbook.com/assets%2F-LzWj9p28FD5y9arPHmj%2F-MJOqsx9jR6L9LGUY6Ec%2F-MJOrAol4SVGlEoZ25Zq%2Fimage.png?alt=media&token=9354310e-aae3-44eb-a73e-117f08a4d607)
 

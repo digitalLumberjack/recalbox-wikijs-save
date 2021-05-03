@@ -35,7 +35,7 @@ title: Liste d'utilitaires utiles
 * ​[Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) 
 * ​[Notepad++](https://notepad-plus-plus.org/downloads/)
 
-  Consulter le tutoriel de configuration de ces utilitaires [ICI](/v/francais/tutoriels/systeme/acces/acces-reseau-via-winscp)
+  Consulter le tutoriel de configuration de ces utilitaires [ICI](/fr/tutoriels/systeme/acces/acces-reseau-via-winscp)
 {% endtab %}
 
 {% tab title="macOS" %}
@@ -52,7 +52,7 @@ title: Liste d'utilitaires utiles
 
 {% tabs %}
 {% tab title="Windows" %}
-* ​[winmd5free](http://www.winmd5.com/download/winmd5free.zip) + [page explicative du Gitbook](/v/francais/tutoriels/utilitaires/gestion-des-roms/verifier-lempreinte-md5-dune-rom-ou-bios)
+* ​[winmd5free](http://www.winmd5.com/download/winmd5free.zip) + [page explicative du Gitbook](/fr/tutoriels/utilitaires/gestion-des-roms/verifier-lempreinte-md5-dune-rom-ou-bios)
 {% endtab %}
 
 {% tab title="macOS" %}
@@ -73,8 +73,8 @@ title: Liste d'utilitaires utiles
 
 Pour Sega CD, PC-Engine CD et Psx.
 
-* ​[Daemon Tools Lite](https://www.daemon-tools.cc/fra/products/dtLite) : Monter les images CD sur votre PC ; [tutoriel](/v/francais/tutoriels/jeux/consoles/playstation-1/convertir-iso+cue+-track-wav-bin-en-bin+cue) _****_
-* [​IMGBurn](https://www.imgburn.com/) : Permet de créer une image au format bin+cue ; [tutoriel](/v/francais/tutoriels/jeux/consoles/playstation-1/convertir-iso+cue+-track-wav-bin-en-bin+cue) _****_
+* ​[Daemon Tools Lite](https://www.daemon-tools.cc/fra/products/dtLite) : Monter les images CD sur votre PC ; [tutoriel](/fr/tutoriels/jeux/consoles/playstation-1/convertir-iso+cue+-track-wav-bin-en-bin+cue) _****_
+* [​IMGBurn](https://www.imgburn.com/) : Permet de créer une image au format bin+cue ; [tutoriel](/fr/tutoriels/jeux/consoles/playstation-1/convertir-iso+cue+-track-wav-bin-en-bin+cue) _****_
 * [Monkey Audio](http://www.monkeysaudio.com/download.html) : Permet de décompresser les fichiers ape en wav. 
 * ​[emctools](https://app.box.com/s/l8x54nof3k53myk6yueaz2d1p02x8d5t) : Permet de décompresser le format bin.ec 
 * [psx2psp](https://github.com/recalbox/recalbox-os/wiki/Gestion-multidisc-PSX) : Permet de fusionner plusieurs CD 

@@ -8,7 +8,7 @@ title: Paramètres IP Manuel
 
 Afin de **sélectionner une adresse IP fixe pour votre Recalbox**, vous devrez **modifier le fichier** `/etc/network/interfaces`.
 
-* [Obtenez un accès root via Terminal](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) et **éditez le fichier** avec : `nano /etc/network/interfaces`
+* [Obtenez un accès root via Terminal](/fr/tutoriels/systeme/acces/acces-root-via-terminal) et **éditez le fichier** avec : `nano /etc/network/interfaces`
 
 
 >**Information :** 
@@ -19,7 +19,7 @@ Afin de **sélectionner une adresse IP fixe pour votre Recalbox**, vous devrez *
 >**Essayez les commandes** : mount -o remount,rw / nano /etc/network/interfaces.base
 {.is-info}
 
-* [​Partition en écriture pour Recalbox 4.0.0](/v/francais/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture)
+* [​Partition en écriture pour Recalbox 4.0.0](/fr/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture)
 
   
 
@@ -71,7 +71,7 @@ Actualisez maintenant les paramètres avec : `ifdown eth0 && ifup eth0`
 
 ## A partir de Recalbox 4.1 <a id="a-partir-de-recalbox-4-1"></a>
 
-* [Obtenez un accès root via Terminal](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+* [Obtenez un accès root via Terminal](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 
 Tapez `connmanctl services` et notez ce qui est renvoyé, par exemple :
 

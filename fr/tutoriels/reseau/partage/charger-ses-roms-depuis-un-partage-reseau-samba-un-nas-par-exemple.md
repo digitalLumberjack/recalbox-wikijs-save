@@ -40,7 +40,7 @@ title: Charger ses roms depuis un partage réseau Samba \(un NAS par exemple\)
 >Il est maintenant possible d'**indiquer au système** que le contenu du dossier **/recalbox/share** doit être monté depuis un partage réseau, **sans qu'il soit nécessaire de modifier** des fichiers **système** ou des **scripts de démarrage.**
 {.is-info}
 
-Depuis un terminal ou depuis une connexion SSH \([Voir le Tuto pour se connecter en SSH](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)\)
+Depuis un terminal ou depuis une connexion SSH \([Voir le Tuto pour se connecter en SSH](/fr/tutoriels/systeme/acces/acces-root-via-terminal)\)
 
 * Passez le système de fichiers en mode "lecture/écriture" \(il est en "lecture uniquement" par défaut\). Cette modification restera active jusqu'au prochain redémarrage de la Recalbox :
 

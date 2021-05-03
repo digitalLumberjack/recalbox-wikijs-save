@@ -58,7 +58,7 @@ Toutes ces télécommandes, ont été **testé avec succès** :
 
 ### A - config.txt <a id="a-config-txt"></a>
 
-* Ouvrez le fichier[ config.txt](/v/francais/tutoriels/systeme/modification/editer-le-fichier-config.txt) situé dans **/boot/config.txt** via SSh.
+* Ouvrez le fichier[ config.txt](/fr/tutoriels/systeme/modification/editer-le-fichier-config.txt) situé dans **/boot/config.txt** via SSh.
 * Pensez à **activer le mode lecture-écriture** sur la partition via la commande **''' Mount -o remount, rw /boot '''**
 * **Décommenter** la ligne suivante en **retirant le \#**
 
@@ -84,7 +84,7 @@ dtoverlay=lirc-rpi
 
 Vérification que le matériel fonctionne.
 
-* **Connectez vous à la Recalbox** via **ssh** ou directement sur **le terminal** \(voir [accès root sur Terminal](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)\)
+* **Connectez vous à la Recalbox** via **ssh** ou directement sur **le terminal** \(voir [accès root sur Terminal](/fr/tutoriels/systeme/acces/acces-root-via-terminal)\)
 * **Lancez la commande** suivante : `lsmod`
 
 Vous devez **voir s'afficher une ligne** commençant par **lirc\_rpi**.

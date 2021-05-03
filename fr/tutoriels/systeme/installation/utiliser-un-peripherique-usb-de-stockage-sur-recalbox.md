@@ -16,7 +16,7 @@ Recalbox peut synchroniser manuellement votre périphérique USB avec votre cart
 
 1. Démarrez votre Recalbox.
 2. Branchez votre périphérique USB quand vous voulez.
-3. [ Connectez-vous en SSH](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) sur votre pi.
+3. [ Connectez-vous en SSH](/fr/tutoriels/systeme/acces/acces-root-via-terminal) sur votre pi.
 4. Tapez `cd /recalbox/scripts`
 5. La commande `./recalbox-sync.sh list` vous donne la liste des périphériques disponibles. Par example :
 
@@ -59,7 +59,7 @@ Parfois, après avoir sélectionné le périphérique dans Emulation Station, pu
 
 Vous pouvez ce que vous pouvez faire:
 
-1. [Connectez-vous en ssh ](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+1. [Connectez-vous en ssh ](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 2. Tapez ces commandes:
 
 ```text

@@ -4,7 +4,7 @@ title: Libretro PicoDrive
 
 # Libretro PicoDrive
 
-**Libretro PicoDrive** est un émulateur open-source Sega [**8**](/v/francais/emulateurs/consoles-de-salon/master-system)/[**16**](/v/francais/emulateurs/consoles-de-salon/megadrive) bit et ****[**32X**](/v/francais/emulateurs/consoles-de-salon/32x). Il a été réfléchi pour les appareils portable sur l'architecture [**ARM**](https://fr.wikipedia.org/wiki/Architecture_ARM).
+**Libretro PicoDrive** est un émulateur open-source Sega [**8**](/fr/emulateurs/consoles-de-salon/master-system)/[**16**](/fr/emulateurs/consoles-de-salon/megadrive) bit et ****[**32X**](/fr/emulateurs/consoles-de-salon/32x). Il a été réfléchi pour les appareils portable sur l'architecture [**ARM**](https://fr.wikipedia.org/wiki/Architecture_ARM).
 
 ## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
 
@@ -72,14 +72,14 @@ Placez les roms comme ceci :
 {.is-success}
 
 
->Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/v/francais/tutoriels/jeux/generalite/les-roms-et-les-isos) !
+>Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
 ## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 >**Attention :**  
->Pour pouvoir conserver vos configuration personnalisé lors d'une mise à jour, nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/v/francais/usage-avance/surcharge-de-configuration).
+>Pour pouvoir conserver vos configuration personnalisé lors d'une mise à jour, nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
 {.is-danger}
 
 ### Accéder aux options

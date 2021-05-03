@@ -32,7 +32,7 @@ title: List of useful utilities
 * ​[Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) 
 * ​[Notepad++](https://notepad-plus-plus.org/downloads/)
 
-  Consult the configuration tutorial of these utilities [HERE](https://app.gitbook.com/@recalbox/s/tutorials/v/francais/xi-systeme/acces/acces-reseau-via-winscp)
+  Consult the configuration tutorial of these utilities [HERE](https://app.gitbook.com/@recalbox/s/tutorials/fr/xi-systeme/acces/acces-reseau-via-winscp)
 
 ## Utility for checking digital signatures of bios <a id="utilitaire-pour-controler-les-signatures-numeriques-des-bios"></a>
 

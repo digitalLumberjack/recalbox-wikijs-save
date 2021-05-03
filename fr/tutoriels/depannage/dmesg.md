@@ -6,7 +6,7 @@ title: Dmesg
 
 ## Dépannage Dmesg outpout
 
-* Premièrement **obtenir un** [**accès root**](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) ****
+* Premièrement **obtenir un** [**accès root**](/fr/tutoriels/systeme/acces/acces-root-via-terminal) ****
 * **Débrancher** votre périphérique usb 
 * **Exécuter** `dmesg` \(se souvenir de la dernière ligne\) 
 * **Brancher** votre périphérique usb 

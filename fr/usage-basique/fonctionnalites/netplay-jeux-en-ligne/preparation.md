@@ -285,7 +285,7 @@ Téléchargez les fichiers dat de vos consoles à trier \(Lien à venir prochain
 
 ​[http://romulus.net63.net/\#downloads](https://romulus.cc/#downloads)
 
-Pour savoir déterminer à quoi correspondent [les codes et tags dans les roms](/v/francais/tutoriels/jeux/generalite/tags-utilises-dans-les-noms-des-roms).​​
+Pour savoir déterminer à quoi correspondent [les codes et tags dans les roms](/fr/tutoriels/jeux/generalite/tags-utilises-dans-les-noms-des-roms).​​
 
 ​
 

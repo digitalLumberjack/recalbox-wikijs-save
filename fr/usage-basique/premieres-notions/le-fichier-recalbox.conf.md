@@ -20,7 +20,7 @@ title: Le fichier recalbox.conf
   Dans le **menu de gauche**, **allez** maintenant dans **`recalbox.conf`**  
 
 * Les **dossiers de recalbox partagés sur le réseau local.** Le fichier **`recalbox.conf`** est disponible dans le répertoire nommé **`system`**. 
-* Un[ accès root via Terminal ](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)et **éditer le fichier** présent dans le système à l'emplacement **`/recalbox/share/system/recalbox.conf`.**
+* Un[ accès root via Terminal ](/fr/tutoriels/systeme/acces/acces-root-via-terminal)et **éditer le fichier** présent dans le système à l'emplacement **`/recalbox/share/system/recalbox.conf`.**
 
 
 >**Information :**  
@@ -113,7 +113,7 @@ title: Le fichier recalbox.conf
 
   exemple : `global.videomode=CEA 4 HDMI`
 
-* **shaderset** : défini le **set de shaders pour tous les émulateurs** \(none, retro, scanlines\) voir [Configuration des shaders](/v/francais/tutoriels/jeux/generalite/configuration-des-shaders)
+* **shaderset** : défini le **set de shaders pour tous les émulateurs** \(none, retro, scanlines\) voir [Configuration des shaders](/fr/tutoriels/jeux/generalite/configuration-des-shaders)
 
   exemple : `global.shaderset=retro`
 

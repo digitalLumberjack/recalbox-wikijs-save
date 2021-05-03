@@ -23,7 +23,7 @@ Appuyez sur Démarrer et allez dans Paramètres réseau. L'adresse IP actuelle e
 
 
 >Attention l'IP n'est pas fixe et est suceptible de changer à chaque redemarrage.   
->Vous pouvez en définir une vous même via le mini How-to dédié:  [Paramètres IP Manuel](/v/francais/tutoriels/reseau/ip/parametres-ip-manuel)
+>Vous pouvez en définir une vous même via le mini How-to dédié:  [Paramètres IP Manuel](/fr/tutoriels/reseau/ip/parametres-ip-manuel)
 {.is-danger}
 
 ## Sous Microsoft Windows <a id="sous-microsoft-windows"></a>

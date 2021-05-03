@@ -141,7 +141,7 @@ En utilisant un programme pour flasher l'image **Recalbox OS** sur votre média 
 
 #### Boîtier Retroflag GPI
 
-Pour l'installation sur Gpi Case veuillez suivre [ce lien](/v/francais/usage-basique/preparation-et-installation/boitier-retroflag-gpi).
+Pour l'installation sur Gpi Case veuillez suivre [ce lien](/fr/usage-basique/preparation-et-installation/boitier-retroflag-gpi).
 
 
 

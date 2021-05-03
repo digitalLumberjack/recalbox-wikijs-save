@@ -44,7 +44,7 @@ Dans ce tutoriel, nous allons couvrir 3 cas :
 * un moniteur VGA 720p connecté avec le HDMI vers VGA. Surnom : 720pVGA
 * un bon vieux DVI 17" capable d'afficher du 1280x1024@60. Nommez le disons ... DVIboy.
 
-N'oubliez pas de consulter le tutoriel pour les écrans DVI [ici](/v/francais/tutoriels/video/lcd/connectez-votre-recalbox-a-un-ecran-dvi).
+N'oubliez pas de consulter le tutoriel pour les écrans DVI [ici](/fr/tutoriels/video/lcd/connectez-votre-recalbox-a-un-ecran-dvi).
 
 Avec ce que vous savez déjà sur les modes d'écran, ces réglages sont les plus courants :
 

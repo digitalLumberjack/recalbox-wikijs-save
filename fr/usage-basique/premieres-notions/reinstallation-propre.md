@@ -40,5 +40,5 @@ title: Réinstallation propre
 
 ## R**éinstallation propre du système**
 
-Suivez le guide [Téléchargement et Installation de Recalbox.](/v/francais/usage-basique/preparation-et-installation)
+Suivez le guide [Téléchargement et Installation de Recalbox.](/fr/usage-basique/preparation-et-installation)
 

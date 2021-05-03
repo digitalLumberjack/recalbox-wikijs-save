@@ -82,7 +82,7 @@ Sources :
 
 Les isos doivent avoir les extensions suivantes :
 
-* .bin/.cue \(**1 seul .bin**, voir [Remarques concernant le format des jeux](/v/francais/emulateurs/consoles-de-salon/neo-geo-cd/libretro-fbneo#remarques-concernant-le-format-des-jeux)\)
+* .bin/.cue \(**1 seul .bin**, voir [Remarques concernant le format des jeux](/fr/emulateurs/consoles-de-salon/neo-geo-cd/libretro-fbneo#remarques-concernant-le-format-des-jeux)\)
 * .iso/.cue
 * .img/.cue
 * .img/.ccd/.sub
@@ -105,7 +105,7 @@ Placez les isos comme ceci :
 
 
 >**Attention :**  
->Pour pouvoir conserver vos configuration personnalisé lors d'une mise à jour, nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/v/francais/usage-avance/surcharge-de-configuration).
+>Pour pouvoir conserver vos configuration personnalisé lors d'une mise à jour, nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
 {.is-danger}
 
 ### Accéder aux options

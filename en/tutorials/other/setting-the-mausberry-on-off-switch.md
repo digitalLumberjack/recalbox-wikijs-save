@@ -66,7 +66,7 @@ For connections on the Pi, use GPIO ports 20 and 21. The Mausberry is operationa
 #### Prerequisite
 
 1. Your Raspberry Pi must be connected to the network
-2. You must know the IP address of your Raspberry Pi. This can be accessed from the Recalbox menu. The IP address should look like: 192.168.0.49 You can also follow this link: \([https://recalbox.gitbook.io/tutorials/v/francais/reseau/ip/connaitre-lip-sur-son-reseau](https://recalbox.gitbook.io/tutorials/v/francais/reseau/ip/connaitre-lip-sur-son-reseau)\)
+2. You must know the IP address of your Raspberry Pi. This can be accessed from the Recalbox menu. The IP address should look like: 192.168.0.49 You can also follow this link: \([https://recalbox.gitbook.io/tutorials/fr/reseau/ip/connaitre-lip-sur-son-reseau](https://recalbox.gitbook.io/tutorials/fr/reseau/ip/connaitre-lip-sur-son-reseau)\)
 3. You must be able to connect to your Recalbox via SSH. On Windows, you can use software such as [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or [Kitty](https://www.fosshub.com/KiTTY.html)​
 
 ### ​Steps <a id="undefined-2"></a>

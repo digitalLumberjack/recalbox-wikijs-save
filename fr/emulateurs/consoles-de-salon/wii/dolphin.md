@@ -57,7 +57,7 @@ Placez les isos comme ceci :
 {.is-success}
 
 
->Pour plus d'information sur les isos, rendez-vous sur [ce tutoriel](/v/francais/tutoriels/jeux/generalite/les-roms-et-les-isos) !
+>Pour plus d'information sur les isos, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
 Dolphin fonctionne avec les roms dans les formats suivants :

@@ -10,7 +10,7 @@ In my case I have a malfunctioning raspberry pi3 that none of the USB ports work
 
 ## Prerequisites
 
-You will need to add files to your system partition, you can do it by mounting the sd-card or by SSH \(I do recommend [FileZilla](https://filezilla-project.org/) for that\) and a [SSH terminal.](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+You will need to add files to your system partition, you can do it by mounting the sd-card or by SSH \(I do recommend [FileZilla](https://filezilla-project.org/) for that\) and a [SSH terminal.](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 
 ## Install bdaddr
 

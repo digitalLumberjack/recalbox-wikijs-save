@@ -30,7 +30,7 @@ title: Réglage de la taille de l'image en utilisant l'overscan sous TFT
 >Les options d'overscan sont définies par Noobs lors de la première installation.
 {.is-info}
 
-* Si elle ne correspond pas à votre écran, vous pouvez modifier les paramètres de chaque bordure dans votre fichier [config.txt](/v/francais/tutoriels/systeme/modification/editer-le-fichier-config.txt) :
+* Si elle ne correspond pas à votre écran, vous pouvez modifier les paramètres de chaque bordure dans votre fichier [config.txt](/fr/tutoriels/systeme/modification/editer-le-fichier-config.txt) :
 
 ```text
 disable_overscan=0

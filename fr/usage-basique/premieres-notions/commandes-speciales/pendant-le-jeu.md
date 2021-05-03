@@ -12,7 +12,7 @@ description: >-
 >
 >Les noms utilisés pour les boutons sont ceux du contrôleur Super Nintendo \(Les boutons `L1`, `R1`, `L2`, `R2`, `L3` et `R3` sont basés sur le contrôleur Playstation\).
 >
->Voir "[II - Configuration d'un contrôleur](/v/francais/usage-basique/premiere-utilisation-et-configuration)" pour plus de détails.
+>Voir "[II - Configuration d'un contrôleur](/fr/usage-basique/premiere-utilisation-et-configuration)" pour plus de détails.
 {.is-info}
 
 ![](./controllers.png)
@@ -125,7 +125,7 @@ Traduire « à la volée » et en surimpression du texte affiché sur l’écran
 * `HK` + `STICK G.` vers le _BAS_
 
 
->Nécessite une connexion à Internet pour fonctionner. Plus d'informations sur la page [Retroarch AI \(Traduction en jeu\)](/v/francais/usage-basique/fonctionnalites/retroarch-ai-traduction-en-jeu)
+>Nécessite une connexion à Internet pour fonctionner. Plus d'informations sur la page [Retroarch AI \(Traduction en jeu\)](/fr/usage-basique/fonctionnalites/retroarch-ai-traduction-en-jeu)
 {.is-danger}
 
 ### Afficher les FPS \[FPS Display\]

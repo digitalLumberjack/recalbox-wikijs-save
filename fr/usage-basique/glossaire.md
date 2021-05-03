@@ -106,7 +106,7 @@ Cette section donne la définition de termes techniques en lien avec Recalbox, s
 * **Raspberry Pi :** 
 * **Rebuild** : 
 * **Recalbox** : Le système d'exploitation lui-même, basé sur Buildroot System From Scratch.
-* **Recalbox.conf** : Fichier contenant la majorité des réglages de Recalbox et de ces émulateurs, voir ["Le fichier recalbox.conf"](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf).
+* **Recalbox.conf** : Fichier contenant la majorité des réglages de Recalbox et de ces émulateurs, voir ["Le fichier recalbox.conf"](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf).
 * **Retroachievements** : Un servie permettant d'activer un système de trophées/succès pour les jeux et émulateurs supportés.
 * **Retroarch** : Le Front-End Libretro utilisé par certains émulateurs dans Recalbox, voir [Retroarch](../usage-avance/retroarch.md).
 * **Rewind** : Un réglage permettant de rembobiner dans certains émulateurs, en contrepartie d'une perte de performances.

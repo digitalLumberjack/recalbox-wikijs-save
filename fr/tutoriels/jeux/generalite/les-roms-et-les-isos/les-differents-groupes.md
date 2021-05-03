@@ -109,7 +109,7 @@ Les sets GoodTools sont destinés à être l’ensemble idéal "d’où leurs no
 
 En conséquence, vous obtiendrez 20 versions de Super Mario \(USA, JAP, EUR, USA version piratée V1, JAP Alternate V1, etc\) de manière à ce que chaque jeu dispose de toutes les versions des roms.
 
-Ils **identifient** généralement **les roms** \(**les parenthèses, les crochets, etc..** qui sont **ajoutés au nom de la ROM**, voir ****[ici](/v/francais/tutoriels/jeux/generalite/tags-utilises-dans-les-noms-des-roms)\).
+Ils **identifient** généralement **les roms** \(**les parenthèses, les crochets, etc..** qui sont **ajoutés au nom de la ROM**, voir ****[ici](/fr/tutoriels/jeux/generalite/tags-utilises-dans-les-noms-des-roms)\).
 
 
 >Ces sets sont par conséquent un mélange de roms venant de plusieurs groupes. Mais pas forcément la meilleure \(pour ceux qu'il veulent utilisé la fonctionnalité **Netplay**\).

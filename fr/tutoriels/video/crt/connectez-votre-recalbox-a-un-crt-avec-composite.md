@@ -15,8 +15,8 @@ Si vous souhaitez **connecter votre recalbox sur un CRT**, vous aurez besoin d'*
 >Il est préférable de **tester au Multimètre** que le câble utilisé **correspond bien au schéma** proposé ci-dessus \(une inversion du Ground et de la vidéo sur le jack entraine une image noir & Blanc sautillante, signe d'un câble inadapté\).
 {.is-danger}
 
-* [Passez la partition boot en écriture](/v/francais/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture)
-* [Modifiez le fichier /boot/config.txt](/v/francais/tutoriels/systeme/modification/editer-le-fichier-config.txt) en **commentant toutes les lignes commençant par** `hdmi_` **avec le symbole** `#`, et **ajoutant le sdtv\_mode supporté:**
+* [Passez la partition boot en écriture](/fr/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture)
+* [Modifiez le fichier /boot/config.txt](/fr/tutoriels/systeme/modification/editer-le-fichier-config.txt) en **commentant toutes les lignes commençant par** `hdmi_` **avec le symbole** `#`, et **ajoutant le sdtv\_mode supporté:**
 
 ```text
 sdtv_mode=0    Normal NTSC   
@@ -54,7 +54,7 @@ hdmi_ignore_hotplug=1
 audio_pwm_mode=2
 ```
 
-* Ensuite **modifiez** [recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) et **réglez** `global.videomode` à `default`:
+* Ensuite **modifiez** [recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) et **réglez** `global.videomode` à `default`:
 
 ```text
 global.videomode=default

@@ -28,11 +28,11 @@ Nous ajoutons un maximum de configuration de manettes dans emulationstation, afi
 
 * Utilisez votre téléviseur pour trouver le menu d'image et réglez la taille de l'image sur 1: 1 pixel ou plein.
 
-Si cela ne fonctionne pas, essayez d'activer le surbalayage dans la boîte de sélection des paramètres du système de menus. Vous trouverez plus d'informations [dans ce tutoriel](/v/francais/tutoriels/video/configuration-daffichage/reglage-de-la-taille-de-limage-en-utilisant-loverscan-sous-tft).
+Si cela ne fonctionne pas, essayez d'activer le surbalayage dans la boîte de sélection des paramètres du système de menus. Vous trouverez plus d'informations [dans ce tutoriel](/fr/tutoriels/video/configuration-daffichage/reglage-de-la-taille-de-limage-en-utilisant-loverscan-sous-tft).
 
 ### Écran noir sur moniteur PC
 
-Si vous avez un écran noir sur le moniteur PC \(hdmi ou dvi\) éditez le fichier config.txt \(mise à jour au démarrage\) et supprimez la ligne hdmi\_drive = 2. Vous trouverez plus d'informations [dans ce tutoriel](/v/francais/tutoriels/video/lcd/connectez-votre-recalbox-a-un-ecran-dvi).
+Si vous avez un écran noir sur le moniteur PC \(hdmi ou dvi\) éditez le fichier config.txt \(mise à jour au démarrage\) et supprimez la ligne hdmi\_drive = 2. Vous trouverez plus d'informations [dans ce tutoriel](/fr/tutoriels/video/lcd/connectez-votre-recalbox-a-un-ecran-dvi).
 
 ## Système
 
@@ -49,5 +49,5 @@ Toutes vos données seront effacées.
 
 Utilisez la racine du nom d'utilisateur et le mot de passe recalboxroot.
 
-* Vous pouvez vous connecter via ssh à la recalbox. Vous pouvez accéder à un terminal en quittant les émulations avec F4, puis appuyez sur ALT + F2. Vous pouvez obtenir plus d'informations en consultant [ce tutoriel](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal).
+* Vous pouvez vous connecter via ssh à la recalbox. Vous pouvez accéder à un terminal en quittant les émulations avec F4, puis appuyez sur ALT + F2. Vous pouvez obtenir plus d'informations en consultant [ce tutoriel](/fr/tutoriels/systeme/acces/acces-root-via-terminal).
 

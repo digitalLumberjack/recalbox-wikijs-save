@@ -15,7 +15,7 @@ description: Pour configurer votre système Recalbox pour la première fois
 
 >**Information :**  
 >Beaucoup de contrôleurs fonctionnent directement lors de la première utilisation de Recalbox.  
->Cependant si vous voulez configurer directement un contrôleur USB, branchez un clavier USB, ... veuillez consulter "[**II -Configuration d'un contrôleur**](/v/francais/usage-basique/premiere-utilisation-et-configuration)**".**
+>Cependant si vous voulez configurer directement un contrôleur USB, branchez un clavier USB, ... veuillez consulter "[**II -Configuration d'un contrôleur**](/fr/usage-basique/premiere-utilisation-et-configuration)**".**
 {.is-info}
 
 ### 2 - Basculer Recalbox en Français
@@ -82,7 +82,7 @@ Les noms utilisés pour assigner les boutons sont ceux du contrôleur Super Nint
 
 >**HOTKEY**
 >
->Le dernier bouton à configurer, **HOTKEY,** est celui qui servira à activer les [**commandes spéciales**](/v/francais/usage-basique/premieres-notions/commandes-speciales) lorsque l'on est dans un émulateur :
+>Le dernier bouton à configurer, **HOTKEY,** est celui qui servira à activer les [**commandes spéciales**](/fr/usage-basique/premieres-notions/commandes-speciales) lorsque l'on est dans un émulateur :
 >
 >* Pour les contrôleurs Xbox 360 et Xbox One, le bouton _Hotkey_ est assigné au bouton _HOME._
 >* Pour les contrôleurs Ps3 et PS4, le bouton _Hotkey_ est assigné au bouton _PS._
@@ -170,7 +170,7 @@ Rappelez-vous que la configuration des contrôleurs dans Recalbox est basée sur
 
 >**Information :**  
 >Par défaut, **HOTKEY** est associé au bouton **PS** \(celui au milieu du contrôleur\).  
->Pour plus d'information sur HOTKEY, voir [Commandes spéciales](/v/francais/usage-basique/premieres-notions/commandes-speciales).
+>Pour plus d'information sur HOTKEY, voir [Commandes spéciales](/fr/usage-basique/premieres-notions/commandes-speciales).
 {.is-info}
 
 
@@ -194,7 +194,7 @@ Rappelez-vous que la configuration des contrôleurs dans Recalbox est basée sur
 
 >**Information :**  
 >Par défaut, **HOTKEY** est associé au bouton **HOME** \(celui au milieu du contrôleur\).  
->Pour plus d'information sur HOTKEY, voir [Commandes spéciales](/v/francais/usage-basique/premieres-notions/commandes-speciales).
+>Pour plus d'information sur HOTKEY, voir [Commandes spéciales](/fr/usage-basique/premieres-notions/commandes-speciales).
 {.is-info}
 
 
@@ -214,14 +214,14 @@ Une **liste de contrôleurs** détectés apparaît !
 
 
 >**Information :**  
->Pour les contrôleurs **8bitdo**, voir [**8bitdo sur Recalbox**](/v/francais/compatibilite-materiels/compatibilite-des-peripheriques/8bitdo-sur-recalbox)**.**
+>Pour les contrôleurs **8bitdo**, voir [**8bitdo sur Recalbox**](/fr/compatibilite-materiels/compatibilite-des-peripheriques/8bitdo-sur-recalbox)**.**
 {.is-info}
 
 
 
 ### 6 - Contrôleur GPIO
 
-* Vous pouvez connecter vos boutons et joysticks arcade directement sur les GPIO du Raspberry Pi \(Voir[ **Les contrôleurs GPIO**](/v/francais/tutoriels/controleurs/gpio/les-controleurs-gpio)\)
+* Vous pouvez connecter vos boutons et joysticks arcade directement sur les GPIO du Raspberry Pi \(Voir[ **Les contrôleurs GPIO**](/fr/tutoriels/controleurs/gpio/les-controleurs-gpio)\)
 * Vous pouvez également connecter des manettes originales de PSOne, Nes, Snes, Megradrive , ... \(Voir **contrôleurs DB9** et **contrôleurs Gamecon**\).
 
 
@@ -413,7 +413,7 @@ Que faire si après **le redémarrage Recalbox ne voit toujours pas** le disque 
 
 Ce que vous **pouvez faire**:
 
-* \*\*\*\*[**Connectez-vous en ssh.**](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) 
+* \*\*\*\*[**Connectez-vous en ssh.**](/fr/tutoriels/systeme/acces/acces-root-via-terminal) 
 * **Tapez les commandes suivantes :**   `mount -o remount, rw /boot cd / boot nano recalbox-boot.conf`  ****
 * **Rajoutez** cette ligne :  `sharewait=30` ****
 * **Sauvegardez** par **Ctrl X**`,`**Y**`,`**Entrée.** 

@@ -14,7 +14,7 @@ Pour vérifier la signature d'un fichier autrement dit son empreinte \(**checksu
 
 {% tabs %}
 {% tab title="Windows" %}
-Téléchargez [winmd5free](http://www.winmd5.com/download/winmd5free.zip). Installez-le puis cliquez sur le bouton browse pour sélectionner votre fichier. Entrer le checksum recommandé sur cette page \([Voir ajouter des bios](/v/francais/usage-basique/gestion-des-fichiers#iii-ajouter-du-contenu)\) en le mettant dans la zone Original file MD5 puis cliquer sur Verify
+Téléchargez [winmd5free](http://www.winmd5.com/download/winmd5free.zip). Installez-le puis cliquez sur le bouton browse pour sélectionner votre fichier. Entrer le checksum recommandé sur cette page \([Voir ajouter des bios](/fr/usage-basique/gestion-des-fichiers#iii-ajouter-du-contenu)\) en le mettant dans la zone Original file MD5 puis cliquer sur Verify
 
 EXEMPLE : **gba\_bios.bin**
 

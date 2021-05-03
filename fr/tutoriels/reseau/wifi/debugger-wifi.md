@@ -10,8 +10,8 @@ description: Comment se connecter en wifi ?
 * **Vérifier** que votre **dongle wifi** fait parti de la [liste de compatibilité](/hardware-compatibility/compatible-devices/dongle) ou que **vous possédez une board qui à la Wifi.** 
 * **Vérifier** que votre **clé wifi** **soit en WPA2**, ne contienne **pas de caractères spéciaux** de préférence **sinon voir plus bas.** 
 * **Vérifier** que votre **wifi** est en **mode découverte.** 
-* Si votre **point d'accès utilise le cannal 12 ou 13**, ~~passer sur un canal inférieur ou~~ [~~mettre à jour le firmware~~](https://raspberrypi.stackexchange.com/a/43616) ==&gt; Voir [Indicatif Wifi d'un pays ](/v/francais/tutoriels/reseau/wifi/indicatif-wifi-dun-pays)
-* [Blacklister le wifi intégré](/v/francais/tutoriels/reseau/wifi/blacklist-wifi-integre-du-rpi-3) si vous souhaitez **utiliser une clé wifi USB.**
+* Si votre **point d'accès utilise le cannal 12 ou 13**, ~~passer sur un canal inférieur ou~~ [~~mettre à jour le firmware~~](https://raspberrypi.stackexchange.com/a/43616) ==&gt; Voir [Indicatif Wifi d'un pays ](/fr/tutoriels/reseau/wifi/indicatif-wifi-dun-pays)
+* [Blacklister le wifi intégré](/fr/tutoriels/reseau/wifi/blacklist-wifi-integre-du-rpi-3) si vous souhaitez **utiliser une clé wifi USB.**
 
 ## Configuration via emulationstation <a id="configuration-via-emulationstation"></a>
 
@@ -20,7 +20,7 @@ description: Comment se connecter en wifi ?
 * **Entrer les informations SSID, Clé**  
 * Puis **redémarrer** Recalbox.
 
-## Configuration via [recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf)_\*\*\*\*_ <a id="configuration-via-recalbox-conf-or-recalbox-conf-fr"></a>
+## Configuration via [recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf)_\*\*\*\*_ <a id="configuration-via-recalbox-conf-or-recalbox-conf-fr"></a>
 
 * **Connecter** Recalbox via **le câble réseau en rj45.** 
 * **Modifier** le fichier **recalbox.conf** via winscp et notepad++ ou putty en utilisant la **commande nano** pour l'édition. 
@@ -99,5 +99,5 @@ C'est pourquoi **il est capital de l'éteindre correctement.**
 
 Si **aucune de ses astuces ne fonctionnent** ou que votre **dongle wifi** ne fait **pas partie de la liste de compatibilité.**
 
-**Merci de poster** un [dmesg complet](/v/francais/tutoriels/depannage/dmesg) sur **le forum** en donnant **les informations sur le modèle de votre dongle.**
+**Merci de poster** un [dmesg complet](/fr/tutoriels/depannage/dmesg) sur **le forum** en donnant **les informations sur le modèle de votre dongle.**
 

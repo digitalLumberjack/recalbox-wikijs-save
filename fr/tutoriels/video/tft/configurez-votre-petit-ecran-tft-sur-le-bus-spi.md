@@ -16,7 +16,7 @@ pitft28-resistive.dtbo
 
 Vérifiez si vous avez la version capacitive ou résistive de l'écran et ajustez la ligne dt-overlay line dans`/boot/config.txt`.
 
-Cet écran utilise le bus SPI pour être piloté. Sa faible résolution nous permet d'obtenir une bonne fréquence d'images dans les fréquences d'émulation. Pas vraiment à 60fps, mais plus que le minimum de 30 fps grâce au programme modifié `fcbp` \(voir [ici](/v/francais/tutoriels/video/tft/fbcp-utilisation-de-fbcp-pour-les-petits-ecrans-tft)\).
+Cet écran utilise le bus SPI pour être piloté. Sa faible résolution nous permet d'obtenir une bonne fréquence d'images dans les fréquences d'émulation. Pas vraiment à 60fps, mais plus que le minimum de 30 fps grâce au programme modifié `fcbp` \(voir [ici](/fr/tutoriels/video/tft/fbcp-utilisation-de-fbcp-pour-les-petits-ecrans-tft)\).
 
 Pour cela, vous devez obtenir un accès en écriture sur le système :
 
@@ -72,7 +72,7 @@ dtoverlay=pitft28-capacitive,rotate=90,speed=32000000,fps=20
 
 Lors du redémarrage, l'écran doit commencer par un écran blanc et, après quelques secondes, il doit devenir noir. C'est le signe que l'écran est maintenant pris en charge. Mais vous n'obtiendrez aucune image tant que vous ne lancerez pas `fbcp`.
 
-Vous devez maintenant utiliser une connexion SSH sur votre Raspberry Pi pour effectuer/vérifier les étapes suivantes \(voir [ici](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)\).
+Vous devez maintenant utiliser une connexion SSH sur votre Raspberry Pi pour effectuer/vérifier les étapes suivantes \(voir [ici](/fr/tutoriels/systeme/acces/acces-root-via-terminal)\).
 
 ### Activation de fbcp dans le fichier recalbox.conf
 
@@ -89,7 +89,7 @@ Dans recalbox.conf, il suffit d'activer le support `fbcp` et de redémarrer.
 controllers.gpio.enabled=0
 ```
 
-Ou modifiez la configuration des broches GPIO en utilisant la fiche 4 ou 5 pour régler la broche utilisée, en évitant les broches utilisées par votre écran. Voir [ici](/v/francais/tutoriels/controleurs/gpio/les-controleurs-gpio) pour plus de détails.
+Ou modifiez la configuration des broches GPIO en utilisant la fiche 4 ou 5 pour régler la broche utilisée, en évitant les broches utilisées par votre écran. Voir [ici](/fr/tutoriels/controleurs/gpio/les-controleurs-gpio) pour plus de détails.
 
 ```text
 ## fbcp FrameBuffer Copy Program
@@ -159,7 +159,7 @@ Dans **recalbox.conf**, il suffit d'activer le support `fbcp` et de redémarrer.
 controllers.gpio.enabled=0
 ```
 
-ou modifiez la configuration des broches GPIO en utilisant la fiche 4 ou 5 pour affiner la broche utilisée, en évitant les broches utilisées par votre écran. Voir [ici](/v/francais/tutoriels/controleurs/gpio/les-controleurs-gpio) pour plus de détails.
+ou modifiez la configuration des broches GPIO en utilisant la fiche 4 ou 5 pour affiner la broche utilisée, en évitant les broches utilisées par votre écran. Voir [ici](/fr/tutoriels/controleurs/gpio/les-controleurs-gpio) pour plus de détails.
 
 ```text
 ## fbcp FrameBuffer Copy Program
@@ -235,7 +235,7 @@ Dans **recalbox.conf**, il suffit d'activer le support `fbcp`et de redémarrer.
 controllers.gpio.enabled=0
 ```
 
-ou modifiez la configuration des broches GPIO en utilisant la fiche 4 ou 5 pour régler la broche utilisée en évitant les broches utilisées par votre écran. Voir [ici](/v/francais/tutoriels/controleurs/gpio/les-controleurs-gpio) pour plus de détails.
+ou modifiez la configuration des broches GPIO en utilisant la fiche 4 ou 5 pour régler la broche utilisée en évitant les broches utilisées par votre écran. Voir [ici](/fr/tutoriels/controleurs/gpio/les-controleurs-gpio) pour plus de détails.
 
 ```text
 fbcp FrameBuffer Copy Program

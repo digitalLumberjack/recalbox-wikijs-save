@@ -6,7 +6,7 @@ title: Retour sous ES
 
 Mupen64plus n'est pas auto-configuré par Recalbox comme les autres émulateurs. Vous devez donc le faire manuellement.
 
-Le mode vidéo de la N64 est défini dans votre fichier [recalbox.conf.](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf)  
+Le mode vidéo de la N64 est défini dans votre fichier [recalbox.conf.](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf)  
 Par défaut, nous utilisons le mode vidéo : `n64.videomode=DMT 4 HDMI`
 
 Ce mode affiche une résolution de **640x480**.  
@@ -32,7 +32,7 @@ ScreenHeight = 480
 Mais, tous les écrans n'ont pas la même compatibilité de mode vidéo.  
 Ainsi, lorsque vous essayez de démarrer une partie de N64, vous pouvez avoir un écran noir avec un renvoi à EmulationStation. Dans ce cas, vous devez déterminer quels modes vidéo sont compatibles avec votre propre écran.  
   
-Utiliser un [accès root](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal), puis tapez ces 2 commandes :
+Utiliser un [accès root](/fr/tutoriels/systeme/acces/acces-root-via-terminal), puis tapez ces 2 commandes :
 
 `tvservice -m DMT`
 
@@ -76,7 +76,7 @@ Group CEA has 5 modes:
 ```
 
 Ok, maintenant nous disposons de tous les modes vidéo qui peuvent être utilisés sur ce moniteur.  
-Il faut trouver un mode vidéo, avec une résolution égale ou inférieure à 640x480, puis définir ce mode dans le fichier [recalbox.conf.](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf)
+Il faut trouver un mode vidéo, avec une résolution égale ou inférieure à 640x480, puis définir ce mode dans le fichier [recalbox.conf.](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf)
 
 Si je choisis ce mode vidéo :
 
@@ -85,7 +85,7 @@ Group CEA has 5 modes:
            mode 1: 640x480 @ 60Hz 4:3, clock:25MHz progressive
 ```
 
-Le fichier[ recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) doit être modifié comme suit :
+Le fichier[ recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) doit être modifié comme suit :
 
 * mode vidéo par défaut : `n64.videomode=DMT 4 HDMI`
 * nouveau mode vidéo : `n64.videomode=CEA 1 HDMI`

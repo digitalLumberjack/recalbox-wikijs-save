@@ -8,6 +8,6 @@ Pour vous faciliter vos tâches sur votre Recalbox, nous vous avons intégrer pl
 
 
 
-* [Dans le Menu](/v/francais/usage-basique/premieres-notions/commandes-speciales/dans-le-menu) 
-* [Pendant le jeu](/v/francais/usage-basique/premieres-notions/commandes-speciales/pendant-le-jeu)
+* [Dans le Menu](/fr/usage-basique/premieres-notions/commandes-speciales/dans-le-menu) 
+* [Pendant le jeu](/fr/usage-basique/premieres-notions/commandes-speciales/pendant-le-jeu)
 

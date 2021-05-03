@@ -53,5 +53,5 @@ Ce programme ne nécessite pas beaucoup de dépendance et devrait se compiler su
 
 Ensuite, il suffit d'exécuter la commande `make` générale pour créer le fichier img de Recalbox avec le programme FBCP, ou simplement de le copier dans le répertoire /usr/bin de la partition Recalbox de votre carte SD.
 
-Après cela, lisez [cette page](/v/francais/tutoriels/video/tft/configurez-votre-petit-ecran-tft-sur-le-bus-spi) pour configurer votre écran et le lancer au démarrage.
+Après cela, lisez [cette page](/fr/tutoriels/video/tft/configurez-votre-petit-ecran-tft-sur-le-bus-spi) pour configurer votre écran et le lancer au démarrage.
 

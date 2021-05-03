@@ -24,7 +24,7 @@ Pour l'instant, seule la première génération d'IPAC a été incluse. Si vous 
 
 * Remontez / en lecture-écriture `mount -o remount,rw /`
 * Créez un fichier vide qui porte le même nom que votre périphérique de clavier trouvé 2 étapes plus haut`touch /recalbox/share_init/system/configs/xarcade2jstick/devicename`. Dans l'exemple précédent :`touch /recalbox/share_init/system/configs/xarcade2jstick/usb-Ultimarc_IPAC_2_Ultimarc_IPAC_2_9-if01-event-kbd`
-* Modifiez [recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) et réglez sur : `controllers.xarcade.enabled=1`
+* Modifiez [recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) et réglez sur : `controllers.xarcade.enabled=1`
 * Redémarrer en tapant `reboot`
 
 Recalbox est désormais configurée pour ces périphériques.

@@ -13,10 +13,10 @@ Dans ce tutoriel, nous allons vous apprendre en quelques clics à vous servir de
 Au préalable il vous faut :
 
 * Le logiciel Clrmamepro [ici](https://mamedev.emulab.it/clrmamepro/).
-* Un [romset MAME](/v/francais/usage-avance/l-arcade-dans-recalbox) qui correspond à votre émulateur.
+* Un [romset MAME](/fr/usage-avance/l-arcade-dans-recalbox) qui correspond à votre émulateur.
 * Les samples \(optionnel selon le romset\). 
-* Les [CHDs](/v/francais/usage-avance/l-arcade-dans-recalbox) \(optionnel selon le romset\).
-* Un fichiers .DAT ou .XML dans le dossier [share](/v/francais/usage-basique/gestion-des-fichiers)\bios de votre recalbox.
+* Les [CHDs](/fr/usage-avance/l-arcade-dans-recalbox) \(optionnel selon le romset\).
+* Un fichiers .DAT ou .XML dans le dossier [share](/fr/usage-basique/gestion-des-fichiers)\bios de votre recalbox.
 
 ### 2- Définitions
 
@@ -110,7 +110,7 @@ Au préalable il vous faut :
 
 * **Dans le menu Rebuilder, vous pouvez paramétrer :** _****_
 
-  1 -  [**Le type de romset**](/v/francais/usage-avance/l-arcade-dans-recalbox) que vous voulez créer **\(Merge Options\) :**
+  1 -  [**Le type de romset**](/fr/usage-avance/l-arcade-dans-recalbox) que vous voulez créer **\(Merge Options\) :**
 
   * Non-merged
   * Split
@@ -201,9 +201,9 @@ Au préalable il vous faut :
 * Sets \(bios/jeux/drivers\), 
 * Roms \(puces qui composent chaque Sets\)
 * samples \(Drivers complémentaires pour certains jeux Mame\)
-* [CHDs ](/v/francais/usage-avance/l-arcade-dans-recalbox)\(Que vous avez ajouté à votre Romset\)
+* [CHDs ](/fr/usage-avance/l-arcade-dans-recalbox)\(Que vous avez ajouté à votre Romset\)
 
- [**Le type de romset**](/v/francais/usage-avance/l-arcade-dans-recalbox) **que vous avez \(You prefer\) :**
+ [**Le type de romset**](/fr/usage-avance/l-arcade-dans-recalbox) **que vous avez \(You prefer\) :**
 
 * Non-merged
 * Split

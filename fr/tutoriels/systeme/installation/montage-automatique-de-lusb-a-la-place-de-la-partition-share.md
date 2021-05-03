@@ -10,7 +10,7 @@ Il est possible **d'utiliser un disque externe** en tant que **partition SHARE.*
 >Cela permet de stocker toutes vos roms, vos médias et vos fichiers personnels sur un support plus gros, comme une clé USB ou un disque dur externe.
 {.is-info}
 
-* Vous allez **avoir besoi**n d'un [accès root](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) ainsi que d'un **support formaté en FAT32.** 
+* Vous allez **avoir besoi**n d'un [accès root](/fr/tutoriels/systeme/acces/acces-root-via-terminal) ainsi que d'un **support formaté en FAT32.** 
 * Utilisez **la commande** `mount` pour **voir les volumes montés :**
 
 ```text
@@ -68,6 +68,6 @@ Comme **ceci :**
 
 >**Depuis Recalbox 4.0.0,** le système de stockage sur support amovible est **géré directement dans EmulationStation**.  
 >  
->Pour plus d'informations, vous pouvez consulter [ce tutoriel](/v/francais/tutoriels/systeme/installation/utiliser-un-peripherique-usb-de-stockage-sur-recalbox).
+>Pour plus d'informations, vous pouvez consulter [ce tutoriel](/fr/tutoriels/systeme/installation/utiliser-un-peripherique-usb-de-stockage-sur-recalbox).
 {.is-info}
 

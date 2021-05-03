@@ -100,7 +100,7 @@ sudo reboot
 sudo sh ./install.sh
 ```
 
-Maintenant, rendez-vous à la partie [**Chargement du pilote**](/v/francais/tutoriels/controleurs/gpio/pilote-de-joystick-gpio-raspberry-pi#chargement-du-pilote).
+Maintenant, rendez-vous à la partie [**Chargement du pilote**](/fr/tutoriels/controleurs/gpio/pilote-de-joystick-gpio-raspberry-pi#chargement-du-pilote).
 
 ### Installation manuelle
 

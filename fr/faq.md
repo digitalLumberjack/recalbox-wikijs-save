@@ -45,7 +45,7 @@ title: 💡 FAQ
 > - Vous pouvez brancher les boutons et joysticks directement sur les GPIO du Raspberry.  
 > - Vous pouvez désactiver les menus pour éviter toute mauvaise manipulation.  
 > - Il est aussi possible d'utiliser les sorties HDMI / DVI /VGA \(avec adaptateur\) ou RCA.  
-> Plus d'infos sur [la page dédiée](/v/francais/tutoriels/systeme/installation/configuration-recalbox-pour-bartop-borne-arcade).
+> Plus d'infos sur [la page dédiée](/fr/tutoriels/systeme/installation/configuration-recalbox-pour-bartop-borne-arcade).
 
 * **La Recalbox supporte une trentaine de consoles mais je n'en vois que quelques unes dans l'interface, que faire?**
 

@@ -57,7 +57,7 @@ Avec ce script, il est non seulement possible de **RESET** les émulateurs, mais
 
 Vous pouvez également remapper les broches Raspberry Pi.
 
-Et **n'oubliez pas** : **Recalbox** dispose déjà d'options intégrées pour réinitialiser, démarrer et arrêter le matériel que vous utilisez [via des boutons et GPIO](/v/francais/tutoriels/autres/ajouter-un-bouton-on-off-a-votre-recalbox).
+Et **n'oubliez pas** : **Recalbox** dispose déjà d'options intégrées pour réinitialiser, démarrer et arrêter le matériel que vous utilisez [via des boutons et GPIO](/fr/tutoriels/autres/ajouter-un-bouton-on-off-a-votre-recalbox).
 
 ## Commandes
 

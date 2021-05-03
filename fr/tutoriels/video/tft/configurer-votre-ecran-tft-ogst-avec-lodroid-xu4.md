@@ -33,7 +33,7 @@ Le déroulé du script d'installation sera le suivant :
 
 Procédure d'installation :
 
-* Obtenir un [accès root sur le terminal](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+* Obtenir un [accès root sur le terminal](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 * Faites un copier/coller sur votre terminal et exécutez la ligne de commande suivante pour la **Recalbox 2018** :
 
 ```text

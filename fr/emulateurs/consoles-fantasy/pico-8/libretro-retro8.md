@@ -65,7 +65,7 @@ Vous pouvez configurer divers options via le `Menu Retroarch/Options du core` .
 
 >**Attention :**  
 >Pour pouvoir conserver vos configuration personnalisé lors d'une mise à jour.  
->Nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/v/francais/usage-avance/surcharge-de-configuration).
+>Nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
 {.is-danger}
 
 ## \*\*\*\*![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**

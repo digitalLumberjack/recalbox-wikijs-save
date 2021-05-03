@@ -29,7 +29,7 @@ Lorsque vous sélectionnez un système avec la touche A, l'écran change et vous
 
 Liste les **jeux disponibles** pour **le système sélectionné** à l'écran précédent**.**
 
-Une fois le jeu lancé, reportez-vous à la section **"**[**Pendant le jeu**](/v/francais/usage-basique/premieres-notions/commandes-speciales/pendant-le-jeu)**"** pour connaître les options disponibles.
+Une fois le jeu lancé, reportez-vous à la section **"**[**Pendant le jeu**](/fr/usage-basique/premieres-notions/commandes-speciales/pendant-le-jeu)**"** pour connaître les options disponibles.
 
 ## Options dans EmulationStation
 
@@ -54,8 +54,8 @@ Les manettes sont supportées dans Kodi. Mais si vous préférez, vous pouvez é
 
 >**Pour plus d'information**s sur **Kodi** :
 >
->[**Kodi dans recalbox**](/v/francais/usage-basique/fonctionnalites/kodi-media-center)  
->****[**Utiliser une télécommande infrarouge**](/v/francais/usage-basique/fonctionnalites/kodi-media-center/utiliser-une-telecommande-infrarouge)\*\*\*\*
+>[**Kodi dans recalbox**](/fr/usage-basique/fonctionnalites/kodi-media-center)  
+>****[**Utiliser une télécommande infrarouge**](/fr/usage-basique/fonctionnalites/kodi-media-center/utiliser-une-telecommande-infrarouge)\*\*\*\*
 {.is-warning}
 
 
@@ -149,7 +149,7 @@ Ce menu propose comme réglages :
 
 >**Information :**  
 >Vous pouvez aussi changer de _shader_ pendant le jeu, en utilisant votre manette.  
->Utilisez les [**Commandes spéciales**](/v/francais/usage-basique/premieres-notions/commandes-speciales/pendant-le-jeu) **Hotkey + R2** ou **Hotkey + L2** pour voir s'afficher le shader suivant ou précédent.
+>Utilisez les [**Commandes spéciales**](/fr/usage-basique/premieres-notions/commandes-speciales/pendant-le-jeu) **Hotkey + R2** ou **Hotkey + L2** pour voir s'afficher le shader suivant ou précédent.
 {.is-info}
 
 * **Intégrer Echelle \(Pixel Parfait\)** : Affiche les jeux dans leurs résolution d'origine. 
@@ -212,7 +212,7 @@ Saisissez le SSID et la clé de votre réseau wifi avec un clavier. Une fois les
 >
 >Il est impossible de saisir certains caractères spéciaux nécessaires à vos informations réseau.  
 >Si vous rencontrez ce souci, configurez alors votre accès wifi directement dans le fichier "`recalbox.conf`".  
->Plus d'information sur **"**[**Le fichier recalbox.conf**](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf)**"**.
+>Plus d'information sur **"**[**Le fichier recalbox.conf**](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf)**"**.
 {.is-warning}
 
 
@@ -222,7 +222,7 @@ Saisissez le SSID et la clé de votre réseau wifi avec un clavier. Une fois les
 Pour chaque jeu, vous pouvez obtenir des informations \(pochette, résumé, etc...\) qui seront affichées dans le menu de sélection des jeux de EmulationStation.
 
 Pressez **START** et aller dans _SCRAPPEUR_. Suivez alors les instructions à l'écran.  
-Plus d'info sur "[**Scrappeur Interne**](/v/francais/usage-basique/fonctionnalites/scrapeur-interne)**"**.
+Plus d'info sur "[**Scrappeur Interne**](/fr/usage-basique/fonctionnalites/scrapeur-interne)**"**.
 
 
 

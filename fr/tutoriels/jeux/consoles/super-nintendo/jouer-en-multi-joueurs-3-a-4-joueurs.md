@@ -8,7 +8,7 @@ Il est possible de jouer jusqu’à 4 sur l'émulateur SNES sur Recalbox.
 
 Si vous souhaitez pouvoir profiter du multi-joueur sur SNES, vous aurez besoin d'une manette par joueur, correctement configurée.
 
-* Modifiez le fichier [_recalbox.conf_](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf) pour remplacer l'émulateur SNES par `snes9x_next`
+* Modifiez le fichier [_recalbox.conf_](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf) pour remplacer l'émulateur SNES par `snes9x_next`
 
 ```text
 # ------------ I - EMULATORS CHOICES ----------- #

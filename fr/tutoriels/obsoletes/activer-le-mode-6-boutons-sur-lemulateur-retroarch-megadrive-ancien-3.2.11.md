@@ -9,7 +9,7 @@ title: Activer le mode 6 boutons sur l'émulateur RetroArch Megadrive \(ancien 3
 La configuration par défaut est d'avoir un contrôleur à 6 boutons.  
 Mais vous pourriez rencontrer des problèmes en raison de l'affectation des boutons qui ne serait pas très cohérente sur votre clavier.
 
-Pour modifier l'affectation des boutons de la Megadrive, vous pouvez consulter la page [Créer une configuration custom par émulateur](/v/francais/tutoriels/controleurs/configuration-des-boutons-personnalises/creer-une-configuration-custom-par-emulateur).
+Pour modifier l'affectation des boutons de la Megadrive, vous pouvez consulter la page [Créer une configuration custom par émulateur](/fr/tutoriels/controleurs/configuration-des-boutons-personnalises/creer-une-configuration-custom-par-emulateur).
 
 ## Pour une version de Recalbox inférieure à la 4.0.0
 

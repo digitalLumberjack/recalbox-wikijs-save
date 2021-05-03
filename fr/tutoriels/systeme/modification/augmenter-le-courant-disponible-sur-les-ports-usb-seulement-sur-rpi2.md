@@ -29,7 +29,7 @@ Avec les **réglages par défaut**, le Raspberry **Pi 2** limite le courant à *
 
 ## Comment faire : <a id="comment-faire"></a>
 
-* [​Editer le fichier config.txt](/v/francais/tutoriels/systeme/modification/editer-le-fichier-config.txt)_\*\*\*\*_
+* [​Editer le fichier config.txt](/fr/tutoriels/systeme/modification/editer-le-fichier-config.txt)_\*\*\*\*_
 * **Rechercher** la présence éventuelle de la ligne "`max_usb_current=...`"
 * **Ajouter la ligne** suivante "`max_usb_current=1`" ou **modifier sa valeur à 1** si elle existe déjà.
 * **Enregistrer** le fichier **config.txt**

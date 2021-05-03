@@ -9,7 +9,7 @@ description: Traduisez vos jeux en direct !
 
 Bienvenue dans le futur ! 
 
-Depuis quelque temps, RetroArch permet l'utilisation d'un service de traduction dit "[**OCR**](/v/francais/usage-basique/glossaire)**"** \(Reconnaissance Optique de Caractères\) et de la **Synthèse Vocale,** ce qui va vous permettre de traduire vos jeux étrangers quasiment instantanément !
+Depuis quelque temps, RetroArch permet l'utilisation d'un service de traduction dit "[**OCR**](/fr/usage-basique/glossaire)**"** \(Reconnaissance Optique de Caractères\) et de la **Synthèse Vocale,** ce qui va vous permettre de traduire vos jeux étrangers quasiment instantanément !
 
 
 >Cette fonction nécessite une connexion internet !
@@ -45,5 +45,5 @@ Faites vous plaisir et oublier la frustration lancer un jeu 100 % japonais 😆
 * Pour activer la traduction rien de plus simple`HOTKEY + JOYSTICK-GAUCHE BAS` , le jeu est mis en pause et vous montre une image avec le texte de remplacement. 
 * Appuyez de nouveau sur la touche de raccourci AI Service pour reprendre le jeu.
 
- Par défaut Recalbox utilise le mode image plutôt que la synthèse vocale pour utiliser cette dernière une simple [surcharge de configuration ](/v/francais/usage-avance/surcharge-de-configuration/surcharges-retroarch)!
+ Par défaut Recalbox utilise le mode image plutôt que la synthèse vocale pour utiliser cette dernière une simple [surcharge de configuration ](/fr/usage-avance/surcharge-de-configuration/surcharges-retroarch)!
 

@@ -21,8 +21,8 @@ Cette carte est l'une de celle qui permet de raccorder **le plus de boutons** et
 
 _**À partir de la version 4.1**,_ les configurations suivantes **seront obsolètes.**
 
-* Commencez par vous ****[**connecter en SSH**](/v/francais/tutoriels/systeme/acces/acces-reseau-via-winscp) avec WINSCP et PuTTY.
-* Passez votre partition [**en écriture**](/v/francais/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture) avec la commande`mount -o remount,rw /boot`  
+* Commencez par vous ****[**connecter en SSH**](/fr/tutoriels/systeme/acces/acces-reseau-via-winscp) avec WINSCP et PuTTY.
+* Passez votre partition [**en écriture**](/fr/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture) avec la commande`mount -o remount,rw /boot`  
 * **Modifiez** ensuite le fichier situé dans `/boot/cmdline.txt` avec **Notepad++** \(sous windows\) ou en **SSH** `nano /boot/cmdline.txt`
 
 1 . **Ajoutez** en fin de ligne avec un espace après les derniers mots

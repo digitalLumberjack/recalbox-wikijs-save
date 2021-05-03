@@ -30,7 +30,7 @@ Vous pourrez utiliser l'écran TFT [5"](https://www.adafruit.com/product/1596) o
 dtoverlay=dpi24
 ```
 
-Alors connectez-vous à Recalbox via [ssh](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) et remonter la partition en lecture-écriture :
+Alors connectez-vous à Recalbox via [ssh](/fr/tutoriels/systeme/acces/acces-root-via-terminal) et remonter la partition en lecture-écriture :
 
  `mount -o remount, rw /boot`
 
@@ -65,7 +65,7 @@ Il peut être utilisé tel quel, sans le programme fbcp. Fbcp n'est pas plus né
 
 Pour obtenir le support de cet écran, il suffit d'ajouter les lignes suivantes à votre **/boot/config.txt**.
 
-Vous devez maintenant utiliser une [connexion SSH](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal) vers votre Raspebrry Pi pour effectuer/vérifier les étapes suivantes.
+Vous devez maintenant utiliser une [connexion SSH](/fr/tutoriels/systeme/acces/acces-root-via-terminal) vers votre Raspebrry Pi pour effectuer/vérifier les étapes suivantes.
 
 Passez le système de fichiers en mode Lecture-Ecriture pour pouvoir effectuer les modifications :
 

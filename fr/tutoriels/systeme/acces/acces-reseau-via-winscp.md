@@ -7,7 +7,7 @@ title: Accès réseau via WinSCP \(Windows\)
 
 >**Remarque :**
 >
->Ce tutoriel s'adresse aux utilisateurs de Windows. Veuillez consulter [ce tutoriel](/v/francais/tutoriels/systeme/acces/acces-sftp-ssh-via-cyberduck-osx-win) si vous êtes utilisateur de macOS ou si vous souhaitez utiliser Cyberduck sur Windows.
+>Ce tutoriel s'adresse aux utilisateurs de Windows. Veuillez consulter [ce tutoriel](/fr/tutoriels/systeme/acces/acces-sftp-ssh-via-cyberduck-osx-win) si vous êtes utilisateur de macOS ou si vous souhaitez utiliser Cyberduck sur Windows.
 {.is-info}
 
 ## Pré-requis <a id="prerequis"></a>
@@ -28,7 +28,7 @@ title: Accès réseau via WinSCP \(Windows\)
 >Pour macOS, il n'existe pas de version de winSCP. Cependant, vous pouvez utiliser Cyberduck en SFTP \(SSH\). Vous pourrez trouver la démarche à suivre sur ce lien.  
 {.is-warning}
 
-* Facultatif : Connaitre l'adresse IP de votre recalbox. Suivez [ce tutoriel](/v/francais/tutoriels/reseau/wifi/indicatif-wifi-dun-pays) si vous ne la connaissez pas.
+* Facultatif : Connaitre l'adresse IP de votre recalbox. Suivez [ce tutoriel](/fr/tutoriels/reseau/wifi/indicatif-wifi-dun-pays) si vous ne la connaissez pas.
 
 ## Configuration <a id="configuration"></a>
 

@@ -92,8 +92,8 @@ boot_delay=3
 
 >**Informations :**
 >
->* Pour **éditer ce fichier,** il faut modifier ****[**la partition de boot en écriture**](/v/francais/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture). 
->* **Pour y accéder** par Winscp, suivre[ ce tutorial](/v/francais/tutoriels/systeme/acces/acces-reseau-via-winscp).
+>* Pour **éditer ce fichier,** il faut modifier ****[**la partition de boot en écriture**](/fr/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture). 
+>* **Pour y accéder** par Winscp, suivre[ ce tutorial](/fr/tutoriels/systeme/acces/acces-reseau-via-winscp).
 {.is-info}
 
 **Quelques explications :**

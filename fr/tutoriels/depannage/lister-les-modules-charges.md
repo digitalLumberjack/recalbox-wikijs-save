@@ -8,7 +8,7 @@ title: Lister les modules chargés
 >Vous pouvez **lister tout les modules chargé** en **SSH**.
 {.is-info}
 
-1. **Premièrement** [se connecter en root.](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal)
+1. **Premièrement** [se connecter en root.](/fr/tutoriels/systeme/acces/acces-root-via-terminal)
 2. **Exécutez** `lsmod`
 3. Maintenant vous pouvez **copier/coller les informations nécessaires** dans le [forum](https://forum.recalbox.com/) ou une **"issue"** sur[ **gitlab**.](https://gitlab.com/recalbox/recalbox/)
 

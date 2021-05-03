@@ -9,7 +9,7 @@ title: WebManager
 >
 >**Depuis la version 7.0 le WebManager est obsolète !**
 >
->Merci de **pas vous fier au Md5 des bios** qu'il pourrait vous proposer ! Vous pouvez consulter [cette page](/v/francais/usage-basique/fonctionnalites/bios-manager) pour l'utilisation du dernier vérificateur de BIOS à jour.
+>Merci de **pas vous fier au Md5 des bios** qu'il pourrait vous proposer ! Vous pouvez consulter [cette page](/fr/usage-basique/fonctionnalites/bios-manager) pour l'utilisation du dernier vérificateur de BIOS à jour.
 {.is-danger}
 
 ## **Pour vous connecter** <a id="pour-vous-connecter"></a>
@@ -73,7 +73,7 @@ Si vous voulez, vous pouvez **le désactiver**
 
 Pour y accéder directement, il suffit de saisir l'ip de votre recalbox avec le port 8080 `http://192.168.0.X:8080 ou http://recalbox:8080`
 
-Consulter le manuel d'utilisation **du Gamepad Virtuel** [ici](/v/francais/usage-basique/premiere-utilisation-et-configuration#7-virtual-gamepads)_**.**_
+Consulter le manuel d'utilisation **du Gamepad Virtuel** [ici](/fr/usage-basique/premiere-utilisation-et-configuration#7-virtual-gamepads)_**.**_
 
 Le github pour les retours : [https://github.com/recalbox/recalbox-manager](https://github.com/recalbox/recalbox-manager)
 

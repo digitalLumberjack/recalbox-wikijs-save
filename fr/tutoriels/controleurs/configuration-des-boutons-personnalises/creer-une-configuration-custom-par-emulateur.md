@@ -18,7 +18,7 @@ Partons sur l'exemple de **créer un fichier de config** spécifique pour la **n
 * **Entrez dans le menu** de RetroArch \(**Hotkey + B**\) 
 * **Modifiez** toutes les configurations comme vous le souhaitez 
 * **Retournez dans la première entrée** du menu de RetroArch, ensuite faites **`Save new config`**\(le nom du fichier de config **devra ressembler** à _**fba\_libretro.cfg**_, avec le nom du _core_ que vous être en train d'utiliser\) 
-* En [accès root](/v/francais/tutoriels/systeme/acces/acces-root-via-terminal), **modifiez le nom du fichier de config** pour quelque chose de plus simple à se rappeler.   **Exemple :** `mv /recalbox/share/system/configs/retroarch/fba_libretro.cfg /recalbox/share/system/configs/retroarch/inputs/neogeo_custom.cfg`   
+* En [accès root](/fr/tutoriels/systeme/acces/acces-root-via-terminal), **modifiez le nom du fichier de config** pour quelque chose de plus simple à se rappeler.   **Exemple :** `mv /recalbox/share/system/configs/retroarch/fba_libretro.cfg /recalbox/share/system/configs/retroarch/inputs/neogeo_custom.cfg`   
 * **Ajoutez la ligne** suivante à **recalbox.conf** : `neogeo.configfile=/recalbox/share/system/configs/retroarch/inputs/neogeo_custom.cfg`
 
 ### Inputs

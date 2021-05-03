@@ -41,7 +41,7 @@ Vous pouvez **connecter** vos boutons **directement à la masse,** étant donné
 
 ## Configuration <a id="configuration"></a>
 
-* Dans le fichier [recalbox.conf](/v/francais/usage-basique/premieres-notions/le-fichier-recalbox.conf), **activez le pilote GPIO** en **réglant** `controllers.gpio.enabled` sur 1 : `controllers.gpio.enabled=1` et vous êtes prêt à jouer !
+* Dans le fichier [recalbox.conf](/fr/usage-basique/premieres-notions/le-fichier-recalbox.conf), **activez le pilote GPIO** en **réglant** `controllers.gpio.enabled` sur 1 : `controllers.gpio.enabled=1` et vous êtes prêt à jouer !
 
 **Les GPIO** sont configurés _out the box_ dans **l'interface** et **les différents systèmes** émulés.
 

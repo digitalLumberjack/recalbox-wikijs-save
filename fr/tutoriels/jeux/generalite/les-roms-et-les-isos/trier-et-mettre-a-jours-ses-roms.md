@@ -81,7 +81,7 @@ Pour certaines consoles, il vous faudra un **fichier header** en compléments du
 ### **2 - Les Retroachievements :**
 
 **Certains** trophées Retroachievements, ont besoin de la **rom USA pour valider les retroachievements** et certains jeux **n'existent qu'en version JAP**.  
-Plus d'information [ici](/v/francais/usage-basique/fonctionnalites/retroachievements).
+Plus d'information [ici](/fr/usage-basique/fonctionnalites/retroachievements).
 
 ### 3- Les jeux et les régions :
 
@@ -97,5 +97,5 @@ Plus d'information [ici](/v/francais/usage-basique/fonctionnalites/retroachievem
 
 ### 4 - Les codes et tags dans les roms :
 
-Pour **savoir** à quoi correspondent les **codes et tags dans les roms** \(uniquement pour les **roms cartouches et disquettes**\), vous trouverez plus d'informations [ici](/v/francais/tutoriels/jeux/generalite/tags-utilises-dans-les-noms-des-roms).
+Pour **savoir** à quoi correspondent les **codes et tags dans les roms** \(uniquement pour les **roms cartouches et disquettes**\), vous trouverez plus d'informations [ici](/fr/tutoriels/jeux/generalite/tags-utilises-dans-les-noms-des-roms).
 

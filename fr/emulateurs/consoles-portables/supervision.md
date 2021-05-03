@@ -4,7 +4,7 @@ title: Supervision
 
 # Supervision
 
-![](./supervision/supervision.svg)
+![](/migration-images/emulateurs/consoles-portables/supervision/supervision.svg)
 
 ## Fiche technique
 

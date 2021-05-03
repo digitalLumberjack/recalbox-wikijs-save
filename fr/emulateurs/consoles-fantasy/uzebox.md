@@ -4,7 +4,7 @@ title: Uzebox
 
 # Uzebox
 
-![](./uzebox/image%20%28213%29.png)
+![](/migration-images/emulateurs/consoles-fantasy/uzebox/image%20%28213%29.png)
 
 ## Fiche technique
 

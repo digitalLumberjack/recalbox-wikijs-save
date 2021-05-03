@@ -47,13 +47,13 @@ Cependant, vous devez **utiliser une alimentation pour Raspberry performante** \
 
  **PINOUT NES et SNES**
 
-![](./pins-nes-snes.png)
+![](/migration-images/tutoriels/controleurs/gpio/pins-nes-snes.png)
 
 Les **GPIOXX** sont les **PIN de données indépendante.** Voir la **section 3** pour sélectionner **le bon GPIO** à utiliser.
 
 ### 2.2 Manettes N64 <a id="2-2-manettes-n64"></a>
 
-![](./pins-n64.gif)
+![](/migration-images/tutoriels/controleurs/gpio/pins-n64.gif)
 
 ### 2.3 Manettes Gamecube <a id="2-3-manettes-gamecube"></a>
 
@@ -65,7 +65,7 @@ Les **GPIOXX** sont les **PIN de données indépendante.** Voir la **section 3**
 
 Les **GPIOXX** sont les **PIN de données indépendantes.** Voir la **section 3** pour sélectionner **le bon GPIO** à utiliser.
 
-![](./pins-ngc.png)
+![](/migration-images/tutoriels/controleurs/gpio/pins-ngc.png)
 
 ### 2.4 Manettes PSX / PS2 <a id="2-4-manettes-psx-ps2"></a>
 

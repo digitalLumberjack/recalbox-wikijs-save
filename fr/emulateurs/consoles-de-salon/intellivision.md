@@ -4,7 +4,7 @@ title: Intellivision
 
 # Intellivision
 
-![](./intellivision/image%20%28135%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/intellivision/image%20%28135%29.png)
 
 ## Fiche technique
 

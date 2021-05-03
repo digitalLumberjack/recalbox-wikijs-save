@@ -4,7 +4,7 @@ title: ColecoVision
 
 # ColecoVision
 
-![](./colecovision/image%20%28312%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/colecovision/image%20%28312%29.png)
 
 ## Fiche technique
 

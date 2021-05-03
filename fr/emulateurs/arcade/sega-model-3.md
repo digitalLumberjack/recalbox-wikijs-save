@@ -4,7 +4,7 @@ title: Sega Model 3
 
 # Sega Model 3
 
-![](./sega-model-3/image%20%28206%29.png)
+![](/migration-images/emulateurs/arcade/sega-model-3/image%20%28206%29.png)
 
 ## Fiche technique
 

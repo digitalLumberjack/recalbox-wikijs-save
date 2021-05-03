@@ -4,7 +4,7 @@ title: Atari 800
 
 # Atari 800
 
-![](./atari-800/image%20%28127%29.png)
+![](/migration-images/emulateurs/ordinosaures/atari-800/image%20%28127%29.png)
 
 ## Fiche technique
 

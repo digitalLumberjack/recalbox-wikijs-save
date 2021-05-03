@@ -4,7 +4,7 @@ title: Gestionnaire de mise à jour
 
 # Gestionnaire de mise à jour
 
-![](./image%20%28228%29.png)
+![](/migration-images/usage-basique/fonctionnalites/image%20%28228%29.png)
 
 ## Une nouvelle façon de faire les mises à jour!
 

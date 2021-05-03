@@ -4,7 +4,7 @@ title: Nintendo DS
 
 # Nintendo DS
 
-![](./nintendo-ds/image%20%28333%29.png)
+![](/migration-images/emulateurs/consoles-portables/nintendo-ds/image%20%28333%29.png)
 
 ## Fiche technique
 

@@ -4,7 +4,7 @@ title: Wii
 
 # Wii
 
-![](./wii/image%20%28354%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/wii/image%20%28354%29.png)
 
 
 

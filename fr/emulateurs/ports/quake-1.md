@@ -4,7 +4,7 @@ title: Quake 1
 
 # Quake 1
 
-![](./quake-1/quake.gif)
+![](/migration-images/emulateurs/ports/quake-1/quake.gif)
 
 ## Fiche technique
 

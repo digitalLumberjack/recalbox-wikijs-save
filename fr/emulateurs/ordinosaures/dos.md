@@ -4,7 +4,7 @@ title: DOS
 
 # DOS
 
-![](./dos/consolegame.svg)
+![](/migration-images/emulateurs/ordinosaures/dos/consolegame.svg)
 
 ## Fiche technique
 

@@ -4,7 +4,7 @@ title: Rick Dangerous
 
 # Rick Dangerous
 
-![](./rick-dangerous/rick-dangerous-logo.png)
+![](/migration-images/emulateurs/ports/rick-dangerous/rick-dangerous-logo.png)
 
 ## Fiche technique
 

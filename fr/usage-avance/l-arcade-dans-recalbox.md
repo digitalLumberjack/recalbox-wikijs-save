@@ -4,7 +4,7 @@ title: L' Arcade dans Recalbox
 
 # L' Arcade dans Recalbox
 
-![](./image%20%2835%29.png)
+![](/migration-images/usage-avance/image%20%2835%29.png)
 
 ## **I - LA BORNE D'ARCADE**
 
@@ -91,7 +91,7 @@ Ces fichier CHD ****sont rarement avec les romsets car volumineux.
 
 **Exemple ROM+CHD : sfiii3**
 
-![](./image%20%28220%29.png)
+![](/migration-images/usage-avance/image%20%28220%29.png)
 
 ### **4 - Types de fichiers dans un romset**
 

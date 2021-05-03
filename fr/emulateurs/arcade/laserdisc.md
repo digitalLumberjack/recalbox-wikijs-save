@@ -5,7 +5,7 @@ description: LaserDisc
 
 # Daphne
 
-![](./laserdisc/console-1-.svg)
+![](/migration-images/emulateurs/arcade/laserdisc/console-1-.svg)
 
 ## Fiche technique
 

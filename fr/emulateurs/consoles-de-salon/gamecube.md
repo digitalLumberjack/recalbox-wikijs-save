@@ -5,7 +5,7 @@ description: Nintendo GameCube
 
 # GameCube
 
-![](./gamecube/image%20%28154%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/gamecube/image%20%28154%29.png)
 
 ## Fiche technique
 

@@ -4,7 +4,7 @@ title: Multivision
 
 # Multivision
 
-![](./multivision/image%20%28255%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/multivision/image%20%28255%29.png)
 
 ## Fiche technique
 

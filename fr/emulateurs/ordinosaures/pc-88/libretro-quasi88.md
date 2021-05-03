@@ -6,21 +6,21 @@ title: Libretro QUASI88
 
 
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/ordinosaures/pc-88/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**BSD 3-Clause**](https://github.com/libretro/quasi88-libretro/blob/master/LICENSE).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/ordinosaures/pc-88/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/ordinosaures/pc-88/cogwheel-145804_640.png) Fonctionnalités
 
 
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/ordinosaures/pc-88/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -152,7 +152,7 @@ Placez les bios comme ceci :
 > > > >
 > > > > > 🗒 n88knj1.rom
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/ordinosaures/pc-88/rom-30098_640.png) Roms
 
 ### **Extensions supportées**
 
@@ -192,11 +192,11 @@ Placez les roms comme ceci :
 >Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/ordinosaures/pc-88/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/ordinosaures/pc-88/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/libretro/quasi88-libretro/](https://github.com/libretro/quasi88-libretro/)
 * **Doc Libretro** : [https://docs.libretro.com/library/quasi88/](https://docs.libretro.com/library/quasi88/)

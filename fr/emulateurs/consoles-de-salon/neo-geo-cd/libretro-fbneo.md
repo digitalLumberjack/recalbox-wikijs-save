@@ -6,11 +6,11 @@ title: Libretro FBNeo
 
 \*\*\*\*
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**non commerciale**](https://github.com/finalburnneo/FBNeo/blob/master/LICENSE.md).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | PC x86 | PC x86\_64 | ODROID GO |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -18,7 +18,7 @@ Ce core est sous licence [**non commerciale**](https://github.com/finalburnneo/F
 
 🐌 Basses performances mais jouable au format .iso/cue et .img/.ccd.
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -30,7 +30,7 @@ Ce core est sous licence [**non commerciale**](https://github.com/finalburnneo/F
 | Manettes | ✔ |
 | Multi-Mouse | ✔ |
 
-## ![](./tqfp32.svg)Bios
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/tqfp32.svg)Bios
 
 ### Liste des bios obligatoires
 
@@ -53,7 +53,7 @@ Placez les BIOS comme ceci :
 > > > >
 > > > > \*\*\*\*🗒 **neogeo.zip**
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/rom-30098_640.png) Roms
 
 ### Remarques concernant le format des jeux
 
@@ -101,7 +101,7 @@ Placez les isos comme ceci :
 > > > >
 > > > > > 🗒 **jeux.zip**
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -144,7 +144,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 Dans EmulationStation, assurez vous de n'avoir que 1 ccd + img + sub par jeu \(le cue ne sert en fait à rien si vous avez le ccd\) et ça devrait régler vos soucis de doublons dans le menu.
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Github utilisé :** [https://github.com/libretro/FBNeo/](https://github.com/libretro/FBNeo)
 * **Doc Libretro :** [https://docs.libretro.com/library/fbneo/](https://docs.libretro.com/library/fbneo/)

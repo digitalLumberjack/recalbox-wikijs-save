@@ -4,7 +4,7 @@ title: Game Boy Advance
 
 # Game Boy Advance
 
-![](./game-boy-advance/image%20%28186%29.png)
+![](/migration-images/emulateurs/consoles-portables/game-boy-advance/image%20%28186%29.png)
 
 ## Fiche technique
 

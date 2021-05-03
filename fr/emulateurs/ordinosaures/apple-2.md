@@ -4,7 +4,7 @@ title: Apple 2
 
 # Apple 2
 
-![](./apple-2/image%20%2816%29.png)
+![](/migration-images/emulateurs/ordinosaures/apple-2/image%20%2816%29.png)
 
 ## Fiche technique
 

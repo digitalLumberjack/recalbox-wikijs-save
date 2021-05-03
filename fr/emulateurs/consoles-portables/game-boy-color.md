@@ -4,7 +4,7 @@ title: Game Boy Color
 
 # Game Boy Color
 
-![](./game-boy-color/image%20%2894%29.png)
+![](/migration-images/emulateurs/consoles-portables/game-boy-color/image%20%2894%29.png)
 
 ## Fiche technique
 

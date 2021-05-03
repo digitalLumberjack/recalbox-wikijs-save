@@ -6,7 +6,7 @@ title: Libretro Mednafen\_WSwan
 
 **Libretro Mednafen\_WSwan** est fork standalone de Mednafen WonderSwan à libretro, lui-même un fork de Cygne.
 
-## \*\*\*\*![](./gerald-g-parchment-background-or-border-5.svg)**License**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-portables/pocket-challenge-v2/gerald-g-parchment-background-or-border-5.svg)**License**
 
 Ce core est sous licence [**GPLv2**](https://github.com/libretro/beetle-wswan-libretro/blob/master/COPYING).
 
@@ -16,7 +16,7 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/beetle-wswan-li
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅   |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-portables/pocket-challenge-v2/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -30,13 +30,13 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/beetle-wswan-li
 | Remapping | ✔ |
 | [Softpatching](https://docs.libretro.com/guides/softpatching/) | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-portables/pocket-challenge-v2/tqfp32.svg) BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-portables/pocket-challenge-v2/rom-30098_640.png) Roms
 
 ### **Extensions supportées** <a id="extension-supporte"></a>
 
@@ -59,7 +59,7 @@ Placez les roms comme ceci :
 > > > >
 > > > > > 🗒**fichier.zip**
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-portables/pocket-challenge-v2/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 ### Options du core <a id="options-du-core"></a>
 
@@ -71,7 +71,7 @@ Vous pouvez configurer divers options via le `Menu Retroarch/Options du core` .
 >Nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
 {.is-danger}
 
-## \*\*\*\*![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-portables/pocket-challenge-v2/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
 
 * **Github utilisé :** [https://github.com/libretro/beetle-wswan-libretro/](https://github.com/libretro/beetle-wswan-libretro/)
 * **Site Officiel :** [https://mednafen.github.io/](https://mednafen.github.io/)

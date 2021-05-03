@@ -6,11 +6,11 @@ title: Libretro Flycast
 
 **Libretro Flycast** est un émulateur **Sega Dreamcast multi-plateformes** capable d'émuler le **Sammy Atomiswave.**
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)Licence
+## ![](/migration-images/emulateurs/arcade/atomiswave/gerald-g-parchment-background-or-border-5.svg)Licence
 
 Ce core est sous licence **GPLv2.**
 
-## ![](./compatibility.png) **Compatibilité**
+## ![](/migration-images/emulateurs/arcade/atomiswave/compatibility.png) **Compatibilité**
 
 | **RPI0/RPI1** | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -18,7 +18,7 @@ Ce core est sous licence **GPLv2.**
 
 🐌 Basses performances mais jouable
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/arcade/atomiswave/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -32,7 +32,7 @@ Ce core est sous licence **GPLv2.**
 | Rumble | ✔ |
 | Disk Control | ✔ |
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/arcade/atomiswave/tqfp32.svg)BIOS
 
 ### Liste des bios obligatoires
 
@@ -54,7 +54,7 @@ Placez les bios comme ceci :
 > > > >
 > > > > > 🗒**awbios.zip**
 
-## \*\*\*\*![](./rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/atomiswave/rom-30098_640.png)**Roms**
 
 Libretro Flycast se base sur le Romset de **MAME** mais aussi sur des formats **NullDC** pour sa partie Atomiswave.
 
@@ -125,7 +125,7 @@ Placez les roms comme ceci :
 > > > > > >
 > > > > > > 🗒**jeux.lst**
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/arcade/atomiswave/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -162,7 +162,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/arcade/atomiswave/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Github utilisé :** [https://github.com/libretro/flycast](https://github.com/libretro/flycast)
 * **Doc Libretro :** [https://docs.libretro.com/library/flycast/](https://docs.libretro.com/library/flycast/)

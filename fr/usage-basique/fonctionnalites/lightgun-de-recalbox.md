@@ -60,7 +60,7 @@ Le principe est de configurer de manière automatique les jeux compatible lightg
 
 ### 1. Brancher la ou les Mayflash dolphin bar en usb sur la recalbox
 
-![](./lightgun-de-recalbox/image%20%2866%29.png) 
+![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%2866%29.png) 
 
 
 
@@ -90,27 +90,27 @@ Ce mode lightgun s'active automatiquement dès lors que l'on a une Mayflash dolp
 
 ### Les commandes par défaut de la Wiimote
 
-Start : ![](./lightgun-de-recalbox/image%20%2856%29.png) pour démarrer un mode de jeu / mettre en pause dans certains jeux
+Start : ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%2856%29.png) pour démarrer un mode de jeu / mettre en pause dans certains jeux
 
-Select : ![](./lightgun-de-recalbox/image%20%28331%29.png) pour sélectionner un mode de jeu / mettre des crédits
+Select : ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28331%29.png) pour sélectionner un mode de jeu / mettre des crédits
 
-Home : ![](./lightgun-de-recalbox/image%20%28258%29.png) pour sortir du jeu et revenir sur le menu de sélection des jeux
+Home : ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28258%29.png) pour sortir du jeu et revenir sur le menu de sélection des jeux
 
-Tir principal : ![](./lightgun-de-recalbox/image%20%28341%29.png)sur le Nunchuk
+Tir principal : ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28341%29.png)sur le Nunchuk
 
- Tir secondaire :  ![](./lightgun-de-recalbox/image%20%28237%29.png) sur le Nunchuk 
+ Tir secondaire :  ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28237%29.png) sur le Nunchuk 
 
 ### Remarques sur les boutons de la Wiimote
 
 
->* D'autres touches peuvent être configurées pour certains systèmes sur la croix directionnelles ![](./lightgun-de-recalbox/image%20%28131%29.png)par exemple \(même si on essai d'éviter ces cas\)   ****
->* La touche ![](./lightgun-de-recalbox/image%20%28346%29.png) pour les crédits.
->* De plus certains jeux peuvent se lancer avec ![](./lightgun-de-recalbox/image%20%28346%29.png) par exemple.
+>* D'autres touches peuvent être configurées pour certains systèmes sur la croix directionnelles ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28131%29.png)par exemple \(même si on essai d'éviter ces cas\)   ****
+>* La touche ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28346%29.png) pour les crédits.
+>* De plus certains jeux peuvent se lancer avec ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28346%29.png) par exemple.
 >* Des jeux demanderont aussi d'appuyer sur 2 touches en même temps pour entrer en jeu ou pour sortir/rentrer dans un menu.
->* Les touches directionnels gauche ![](./lightgun-de-recalbox/image%20%28140%29.png) se comportera comme la croix directionnelle de la Wiimote.
->* La touche "power" ![](./lightgun-de-recalbox/image%20%28107%29.png) peut servir à éteindre la Wiimote par un appuie long.
->* Les boutons suivant ne sont pas fonctionnels en mode lightgun : ![](./lightgun-de-recalbox/image%20%28261%29.png)
->* Si le Nunchuck est branché, les boutons ![](./lightgun-de-recalbox/image%20%28291%29.png) sont inversés sur la Wiimote.
+>* Les touches directionnels gauche ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28140%29.png) se comportera comme la croix directionnelle de la Wiimote.
+>* La touche "power" ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28107%29.png) peut servir à éteindre la Wiimote par un appuie long.
+>* Les boutons suivant ne sont pas fonctionnels en mode lightgun : ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28261%29.png)
+>* Si le Nunchuck est branché, les boutons ![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/image%20%28291%29.png) sont inversés sur la Wiimote.
 {.is-danger}
 
 ## Le système virtuel Lightgun

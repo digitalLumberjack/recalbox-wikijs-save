@@ -4,7 +4,7 @@ title: SuFami Turbo
 
 # SuFami Turbo
 
-![](./sufami/image%20%28353%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/sufami/image%20%28353%29.png)
 
 ## Fiche technique
 

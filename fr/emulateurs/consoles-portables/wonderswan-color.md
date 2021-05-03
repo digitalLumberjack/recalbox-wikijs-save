@@ -4,7 +4,7 @@ title: Wonderswan Color
 
 # Wonderswan Color
 
-![](./wonderswan-color/image%20%2848%29.png)
+![](/migration-images/emulateurs/consoles-portables/wonderswan-color/image%20%2848%29.png)
 
 ## Fiche technique
 

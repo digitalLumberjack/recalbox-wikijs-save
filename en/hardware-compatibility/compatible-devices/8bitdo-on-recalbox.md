@@ -6,7 +6,7 @@ title: 8Bitdo on Recalbox
 
 ![8bitdo](http://support.8bitdo.com/images/Logo-black.svg)
 
-![8Bitdo controllers list at 2019-11-13](./image%20%28287%29.png)
+![8Bitdo controllers list at 2019-11-13](/migration-images/hardware-compatibility/compatible-devices/image%20%28287%29.png)
 
 ## I - 8Bitdo Supported Controllers
 

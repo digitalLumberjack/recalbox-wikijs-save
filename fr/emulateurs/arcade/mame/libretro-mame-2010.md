@@ -6,17 +6,17 @@ title: Libretro MAME2010​
 
 \_\_
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/arcade/mame/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence **MAME non-commerciale**.
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/arcade/mame/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./hammer-28636_640.png) __Fonctionnalités
+## ![](/migration-images/emulateurs/arcade/mame/hammer-28636_640.png) __Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -45,7 +45,7 @@ Ce core est sous licence **MAME non-commerciale**.
 | Crop Overscan |  |
 | LEDs |  |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/arcade/mame/tqfp32.svg) BIOS
 
 Les Romsets BIOS ne sont pas nécessaires lorsque vous utilisez des Romsets d'arcade "Full Non-Merged". Pour les roms "Split" et "Non-Merged", placez le BIOS dans le même répertoire que la Romset du jeu.
 
@@ -55,7 +55,7 @@ Les Romsets BIOS ne sont pas nécessaires lorsque vous utilisez des Romsets d'ar
 >ou dans **son sous-répertoire** si vous utiliser plusieurs cores de Mame :`/recalbox/share/roms/mame/Mame 2010/`
 {.is-warning}
 
-## \*\*\*\*![](./rom-30098_640.png) **Roms**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/mame/rom-30098_640.png) **Roms**
 
 * Basé sur le romset : MAME 0.139 \(Août 2010\)
 * Taille : 80gb
@@ -96,11 +96,11 @@ Placez les roms comme ceci :
 > > > > >
 > > > > > > 🗒**fichier.zip**
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/arcade/mame/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 ###  <a id="options-du-core"></a>
 
-## \*\*\*\*![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/mame/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
 
 * **Progettosnaps :** [https://www.progettosnaps.net/](https://www.progettosnaps.net/)
 * **Github :** [https://github.com/libretro/mame2010-libretro/](https://github.com/libretro/mame2010-libretro)\*\*\*\*

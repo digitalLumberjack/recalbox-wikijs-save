@@ -4,7 +4,7 @@ title: OpenBOR
 
 # OpenBOR
 
-![](./openbor/openbor.svg)
+![](/migration-images/emulateurs/consoles-fantasy/openbor/openbor.svg)
 
 ## Fiche technique
 

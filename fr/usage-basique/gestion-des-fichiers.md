@@ -19,7 +19,7 @@ Vous avez deux possibilités :
 >Le dossier **"Share"** est celui qui vous permet de **gérer le contenu** de votre Recalbox, il est disponible **via le réseau**.
 {.is-info}
 
-![](./image%20%2822%29.png)
+![](/migration-images/usage-basique/image%20%2822%29.png)
 
 
 
@@ -27,7 +27,7 @@ Il est constitué de **plusieurs répertoires** :
 
 * **bios**
 
-![](./image%20%2838%29.png)
+![](/migration-images/usage-basique/image%20%2838%29.png)
 
 Placez ici **les bios** dont Recalbox a besoin, vous pouvez consulter la liste des bios nécessaires via le **Web-Manager.**
 

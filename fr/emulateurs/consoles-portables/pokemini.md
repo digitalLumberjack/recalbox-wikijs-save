@@ -4,7 +4,7 @@ title: Pokémon mini
 
 # Pokémon mini
 
-![](./pokemini/image%20%2845%29.png)
+![](/migration-images/emulateurs/consoles-portables/pokemini/image%20%2845%29.png)
 
 ## Fiche technique
 

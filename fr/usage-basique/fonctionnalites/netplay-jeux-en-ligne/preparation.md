@@ -342,7 +342,7 @@ Cependant des roms ne posséderont pas de Hash, c’est le cas des systèmes d�
   * Options des jeux
   * Options Netplay
 
-![](./image%20%28227%29.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/image%20%28227%29.png)
 
 * Netplay \(Réseau\)
   * **ON/OFF**

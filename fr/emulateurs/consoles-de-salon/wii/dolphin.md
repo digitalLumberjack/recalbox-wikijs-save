@@ -8,27 +8,27 @@ Dolphin est un émulateur pour deux récentes consoles de jeu de Nintendo : la G
 
 Plus de 200 personnes ont travaillé dur depuis des années pour créer Dolphin. La liste des contributeurs peut être trouvée [sur GitHub](https://github.com/dolphin-emu/dolphin/graphs/contributors).
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/wii/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**GPLv2**](https://github.com/dolphin-emu/dolphin/blob/master/license.txt).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/consoles-de-salon/wii/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | PC x86 | PC X86\_64 | ODROID GO |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/wii/cogwheel-145804_640.png) Fonctionnalités
 
 
 
-## \*\*\*\*![](./tqfp32.svg) **BIOS**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/wii/tqfp32.svg) **BIOS**
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## \*\*\*\*![](./rom-30098_640.png) **Roms**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/wii/rom-30098_640.png) **Roms**
 
 ### **Extensions supportées**
 
@@ -70,7 +70,7 @@ Dolphin fonctionne avec les roms dans les formats suivants :
 >Notez que WBFS et CISO sont des formats de compression à perte : ils retirent des informations non utilisées sur les disques pour les rendre plus petits. Ainsi nous vous recommandons d'essayer de dumper vos jeux au format GCM/ISO si vous avez des problèmes avec un dump WBFS.
 {.is-warning}
 
-## ![](./hammer-28636_640.png) Configuration avancée des émulateurs
+## ![](/migration-images/emulateurs/consoles-de-salon/wii/hammer-28636_640.png) Configuration avancée des émulateurs
 
 ### Options de Dolphin
 
@@ -100,7 +100,7 @@ Dolphin fonctionne avec les roms dans les formats suivants :
     * `wii.realwiimotes=1` 
 * Voilà, vos Wiimotes fonctionnent maintenant dans Dolphin.
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/consoles-de-salon/wii/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/dolphin-emu/dolphin/](https://github.com/dolphin-emu/dolphin)
 * **Site officiel** : [https://www.dolphin-emu.org/](https://www.dolphin-emu.org/)

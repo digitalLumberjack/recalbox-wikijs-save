@@ -10,7 +10,7 @@ title: Network features
 
 On your computer, got to Network on Windows explorer, and select the recalbox :
 
-![](./recalbox-network1.jpg)
+![](/migration-images/basic-manual/getting-started/recalbox-network1.jpg)
 
 
 >If you don't see your **Recalbox** in your network, try to type **\\RECALBOX** in the explorer address bar. 
@@ -28,7 +28,7 @@ On your computer, got to Network on Windows explorer, and select the recalbox :
 
 You can access all recalbox **shared folders** 
 
-![](./recalbox-network2.jpg)
+![](/migration-images/basic-manual/getting-started/recalbox-network2.jpg)
 
 ## ​LA SECTION FR S'ARRETE LA
 

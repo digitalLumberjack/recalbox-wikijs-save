@@ -15,7 +15,7 @@ description: >-
 >Voir "[II - Configuration d'un contrôleur](/fr/usage-basique/premiere-utilisation-et-configuration)" pour plus de détails.
 {.is-info}
 
-![](./controllers.png)
+![](/migration-images/usage-basique/premieres-notions/commandes-speciales/controllers.png)
 
 ## Commandes de base
 
@@ -149,5 +149,5 @@ Accéder au menu RetroArch :
 
 ## **Retroflag Gpi Case**
 
-![](./image%20%28203%29.png)
+![](/migration-images/usage-basique/premieres-notions/commandes-speciales/image%20%28203%29.png)
 

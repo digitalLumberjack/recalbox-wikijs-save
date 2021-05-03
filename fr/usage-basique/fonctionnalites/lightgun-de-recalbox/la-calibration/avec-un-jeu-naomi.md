@@ -111,6 +111,6 @@ On peut valider la configuration par la touche **R3** de la manette et revenir a
 
 >Il faudra bien garder ses fichiers, vous n'aurez plus à le refaire, cela sera dans vos sauvegardes :  
 >
->![](./image%20%28161%29.png) ****
+>![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/la-calibration/image%20%28161%29.png) ****
 {.is-danger}
 

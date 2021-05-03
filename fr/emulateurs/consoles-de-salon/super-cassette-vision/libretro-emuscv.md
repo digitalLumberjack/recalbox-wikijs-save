@@ -6,7 +6,7 @@ title: Libretro-EmuSCV
 
 
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/super-cassette-vision/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**GPLv3**](https://gitlab.com/MaaaX-EmuSCV/libretro-emuscv/-/blob/master/licence.txt).
 
@@ -16,7 +16,7 @@ Ce core est sous licence [**GPLv3**](https://gitlab.com/MaaaX-EmuSCV/libretro-em
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/super-cassette-vision/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -26,7 +26,7 @@ Ce core est sous licence [**GPLv3**](https://gitlab.com/MaaaX-EmuSCV/libretro-em
 | Contrôles | ✔ |
 | Remapping | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-de-salon/super-cassette-vision/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -46,7 +46,7 @@ Placez les BIOS comme ceci :
 > > >
 > > > > 🗒 upd7801g.s01
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-de-salon/super-cassette-vision/rom-30098_640.png) Roms
 
 ### **Extensions supportées**
 
@@ -78,11 +78,11 @@ Le .CART est créé dans le repertoire roms
 S'il ne peut pas créer le .CART, ça ne charge pas le jeux, ça démarre sur l'écran de test de la console comme quand la console n'arrive pas à lire une cartouche.  
 Je vais modifier le code pour que ça charge quand même et voir comment je peux mettre ça dans le répertoire des sauvegardes.
 
-## ![](./cogwheel-145804_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-de-salon/super-cassette-vision/cogwheel-145804_640.png) Configuration avancée de l'émulateur
 
 
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/consoles-de-salon/super-cassette-vision/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Gitlab** : [https://gitlab.com/MaaaX-EmuSCV/libretro-emuscv/](https://gitlab.com/MaaaX-EmuSCV/libretro-emuscv/)
 * **Doc Libretro** : -

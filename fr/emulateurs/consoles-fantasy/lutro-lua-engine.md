@@ -4,7 +4,7 @@ title: Lutro \(Lua Engine\)
 
 # Lutro \(Lua Engine\)
 
-![](./lutro-lua-engine/lutro-console.svg)
+![](/migration-images/emulateurs/consoles-fantasy/lutro-lua-engine/lutro-console.svg)
 
 ## Fiche technique
 

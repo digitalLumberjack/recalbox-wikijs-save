@@ -4,7 +4,7 @@ title: Atari 7800
 
 # Atari 7800
 
-![](./atari-7800/image%20%28229%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/atari-7800/image%20%28229%29.png)
 
 ## Fiche technique
 

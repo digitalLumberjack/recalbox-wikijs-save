@@ -4,7 +4,7 @@ title: Nintendo 64
 
 # Nintendo 64
 
-![](./nintendo-64/image%20%28332%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/nintendo-64/image%20%28332%29.png)
 
 ## Fiche technique
 

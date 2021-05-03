@@ -146,7 +146,7 @@ Ensuite, nous devons indiquer à Recalbox comment afficher EmulationStation et l
 global.videomode=DMT 87 HDMI
 ```
 
-![VGA666 avec un petit &#xE9;cran de t&#xE9;l&#xE9;vision](./image%20%28352%29.png)
+![VGA666 avec un petit &#xE9;cran de t&#xE9;l&#xE9;vision](/migration-images/tutoriels/video/crt/image%20%28352%29.png)
 
 Retroarch permet une configuration de base spécifique pour la sortie vidéo. On peut faire un fichier de configuration par noyau. Pour ce faire, il faut créer les fichiers de configuration dans le répertoire `/share/system/configs/retroarch`.
 
@@ -202,7 +202,7 @@ custom_viewport_x = "58"
 custom_viewport_y = "13"
 ```
 
-![D&#xE9;tails de l&apos;image](./image%20%28157%29.png)
+![D&#xE9;tails de l&apos;image](/migration-images/tutoriels/video/crt/image%20%28157%29.png)
 
 ![D&#xE9;tails de l&apos;image](https://gblobscdn.gitbook.com/assets%2F-LdKTX4ollh_G72-pO8z%2F-M-L4gFcNhWrkASCSCra%2F-M-L53_A6Q0tG2msIIy4%2FDSC_1538.JPG?alt=media&token=a827b677-6358-48b9-8ee9-b4600c297b95)
 
@@ -217,9 +217,9 @@ Profitez de la simplicité d'un câble prêt à brancher sur votre téléviseur 
 
 Nouvelle fonction de commutation automatique sur le canal AV en 4:3, RVB 18 bits sans conversions et signal CSync propre généré sur le circuit imprimé dans le Péritel offrant la meilleure qualité de signal possible et la plus faible perte, deux canaux audio filtrés améliorés, tous pré configurés.
 
-![Adaptateur RGB-Pi](./image%20%2864%29.png)
+![Adaptateur RGB-Pi](/migration-images/tutoriels/video/crt/image%20%2864%29.png)
 
-![D&#xE9;tails de l&apos;adaptateur RGB-Pi](./image%20%28279%29.png)
+![D&#xE9;tails de l&apos;adaptateur RGB-Pi](/migration-images/tutoriels/video/crt/image%20%28279%29.png)
 
 Si vous voulez l'utiliser avec Recalbox, vous pouvez utiliser la même procédure que dans le cas du VGA666, avec quelques petites modifications. Voici le fichier `config.txt` :
 
@@ -271,7 +271,7 @@ dtoverlay=i2c-gpio,i2c_gpio_sda=10,i2c_gpio_scl=11
 
 Le Pi2SCART est un circuit imprimé qui permet d'ajouter à votre Raspberry Pi une sortie audio / vidéo de 15Khz sur une prise Péritel. Le PI2SCART se connecte très simplement à l'interface GPIO du Raspberry. Le son, quant à lui, est capté à partir de la prise casque via un câble audio. Le PI2SCART n'a pas besoin de puissance supplémentaire pour fonctionner.
 
-![Module Pi2Scart branch&#xE9; sur un Pi](./image%20%28118%29.png)
+![Module Pi2Scart branch&#xE9; sur un Pi](/migration-images/tutoriels/video/crt/image%20%28118%29.png)
 
 Comme les deux systèmes précédents, le Pi2Scart utilise le bus DPI et les ports GPIO pour fonctionner. Il utilise l'overlay VGA66 et le dpi\_mode 87. Pour le faire fonctionner, vous devez modifier le fichier `/boot/config.txt` et ajouter les lignes suivantes :
 

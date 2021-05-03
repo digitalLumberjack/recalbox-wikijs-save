@@ -4,7 +4,7 @@ title: MSX 1
 
 # MSX 1
 
-![](./msx-1/image%20%28274%29.png)
+![](/migration-images/emulateurs/ordinosaures/msx-1/image%20%28274%29.png)
 
 ## Fiche technique
 

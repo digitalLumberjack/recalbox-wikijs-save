@@ -4,7 +4,7 @@ title: MSX Turbo R
 
 # MSX Turbo R
 
-![](./msx-turbo-r/image%20%2859%29.png)
+![](/migration-images/emulateurs/ordinosaures/msx-turbo-r/image%20%2859%29.png)
 
 ## Fiche technique
 

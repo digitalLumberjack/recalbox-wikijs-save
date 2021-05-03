@@ -4,7 +4,7 @@ title: Neo-Geo
 
 # Neo-Geo
 
-![](./neo-geo/image%20%28260%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/neo-geo/image%20%28260%29.png)
 
 ## Fiche technique
 

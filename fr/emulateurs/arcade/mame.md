@@ -5,7 +5,7 @@ description: Multiple Arcade Machine Emulator
 
 # Mame
 
-![](./mame/console-2-.svg)
+![](/migration-images/emulateurs/arcade/mame/console-2-.svg)
 
 ## Histoire
 

@@ -4,7 +4,7 @@ title: Virtual Boy
 
 # Virtual Boy
 
-![](./virtualboy/image%20%28325%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/virtualboy/image%20%28325%29.png)
 
 ## Fiche technique
 

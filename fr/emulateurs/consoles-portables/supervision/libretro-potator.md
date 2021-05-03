@@ -6,7 +6,7 @@ title: Libretro Potator
 
 **Libretro Potator** est un émulateur de supervision Watara basé sur la version Normmatt.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-portables/supervision/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**Domaine Public**](https://github.com/libretro/potator/blob/master/LICENSE).
 
@@ -16,17 +16,17 @@ Ce core est sous licence [**Domaine Public**](https://github.com/libretro/potato
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-portables/supervision/cogwheel-145804_640.png) Fonctionnalités
 
 
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-portables/supervision/tqfp32.svg) BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-portables/supervision/rom-30098_640.png) Roms
 
 ### **Extensions supportées**
 
@@ -49,7 +49,7 @@ Placez les roms comme ceci :
 > > > >
 > > > > > 🗒**fichier.zip**
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-portables/supervision/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -86,7 +86,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/consoles-portables/supervision/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/libretro/potator/](https://github.com/libretro/potator/)
 * **Documentation Libretro** : N/A

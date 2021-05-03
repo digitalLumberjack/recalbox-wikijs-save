@@ -4,7 +4,7 @@ title: Super Nintendo Entertainement System
 
 # Super Nintendo Entertainement System
 
-![](./super-nintendo-entertainement-system/image%20%2871%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/super-nintendo-entertainement-system/image%20%2871%29.png)
 
 ## Fiche technique
 

@@ -4,7 +4,7 @@ title: Atari Lynx
 
 # Atari Lynx
 
-![](./atari-lynx/lynx.svg)
+![](/migration-images/emulateurs/consoles-portables/atari-lynx/lynx.svg)
 
 ## Fiche technique
 

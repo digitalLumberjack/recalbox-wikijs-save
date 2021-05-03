@@ -6,7 +6,7 @@ title: Atari 2600
 
 ## 
 
-![](./atari-2600/atari2600.svg)
+![](/migration-images/emulateurs/consoles-de-salon/atari-2600/atari2600.svg)
 
 ## Fiche technique
 

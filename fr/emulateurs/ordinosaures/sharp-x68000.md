@@ -4,7 +4,7 @@ title: Sharp X68000
 
 # Sharp X68000
 
-![](./sharp-x68000/image%20%2865%29.png)
+![](/migration-images/emulateurs/ordinosaures/sharp-x68000/image%20%2865%29.png)
 
 ## Fiche technique
 

@@ -4,7 +4,7 @@ title: Nintendo Entertainement System
 
 # Nintendo Entertainement System
 
-![](./nintendo-entertainement-system/image%20%28219%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/nintendo-entertainement-system/image%20%28219%29.png)
 
 ## Fiche technique
 

@@ -16,7 +16,7 @@ title: Notice Netplay Libretro
 
 * Le menu des mots de passe apparaît **\(Nouveauté 7.0\)** :
 
-![](./image%20%2811%29.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/image%20%2811%29.png)
 
 * **Mot de passe Joueur requis** ON/OFF :
 
@@ -39,7 +39,7 @@ title: Notice Netplay Libretro
 * **Attendez les joueurs** :
   * Une **pop-up** apparaît à **l'écran des utilisateurs de Recalbox qui sont connecter** pour les avertir qu'une session Netplay est disponible.
 
-![](./image%20%2887%29.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/image%20%2887%29.png)
 
 ### **Client :**
 
@@ -49,7 +49,7 @@ title: Notice Netplay Libretro
 >Pour y accéder, appuyer sur X \(suivant la configuration d’une manette Snes\) puis Lobby Netplay.
 {.is-info}
 
-![](./image%20%28110%29.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/image%20%28110%29.png)
 
 * Sélectionnez l’hôte auquel vous souhaitez vous connecter.
 
@@ -87,13 +87,13 @@ Vous verrez le résultat devant chaque item de la liste, ✅ \(valider\) ou ​�
 
 * **Vert :** Vous avez la bonne rom avec le bon hash, le bon core. Toutes les chances sont de votre côté pour que ça marche !
 
-![](./netplay-lobby-ok.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/netplay-lobby-ok.png)
 
 * **Bleu :** Pas de correspondance du hash \(certaines roms n’ont pas de hash, comme les systèmes arcade\), mais le bon fichier a été trouvé. Ça devrait marcher !
 
-![](./netplay-ok-nok.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/netplay-ok-nok.png)
 
 * **Rouge :** Fichier non trouvé, système interdit, pas le bon core. Aucune chance que le jeu en ligne marche ! \(rien ne sera lancé\)
 
-![](./netplay-nok.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/netplay-nok.png)
 

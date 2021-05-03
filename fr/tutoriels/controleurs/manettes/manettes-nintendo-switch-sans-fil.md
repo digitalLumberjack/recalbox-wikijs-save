@@ -14,11 +14,11 @@ Les manettes Nintendo Switch utilisables nativement dans Recalbox sont les suiva
 
 * Joy-Cons
 
-![](./manettes-nintendo-switch-sans-fil/nintendo_switch_joy-con_controllers.png)
+![](/migration-images/tutoriels/controleurs/manettes/manettes-nintendo-switch-sans-fil/nintendo_switch_joy-con_controllers.png)
 
 * Nintendo Switch Online - Super Nintendo
 
-![](./manettes-nintendo-switch-sans-fil/h2x1_lark2_03.jpg)
+![](/migration-images/tutoriels/controleurs/manettes/manettes-nintendo-switch-sans-fil/h2x1_lark2_03.jpg)
 
 Dans les rubriques suivantes, vous trouverez comment synchroniser et utiliser ces manettes dans Recalbox.
 

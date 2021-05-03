@@ -10,7 +10,7 @@ Le mode démo n'est ni plus, ni moins qu'un écran de veille qui lance vos jeux 
 Le mode demo pioche dans une liste de systèmes \(par défaut il y a toutes les consoles 8/16 bits, hormis les portables\), et il lance un jeu au hasard dans un système choisi.  
 Il conserve un historique interne pour éviter de lancer 2 fois le même système d'affilée ou de lancer 2 fois le même jeu.
 
-![](./image%20%28328%29.png)
+![](/migration-images/usage-basique/fonctionnalites/image%20%28328%29.png)
 
 ## Configuration
 

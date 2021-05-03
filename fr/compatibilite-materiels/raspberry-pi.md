@@ -15,7 +15,7 @@ Son circuit graphique BMC VideoCore permet de décoder des flux Blu-Ray full HD 
 
 ## Raspberry Pi Zero v1.3
 
-![](./pi-zero%20%282%29.jpg)
+![](/migration-images/compatibilite-materiels/pi-zero%20%282%29.jpg)
 
 Le premier ordinateur à 5 $! Le Raspberry Pi Zero ultra-petit et ultra-mince est le plus petit facteur de forme du Raspberry Pi sur le marché. Il est 40% plus rapide que le Raspberry Pi d'origine mais ne mesure que 65 mm de long par 30 mm de large et 5 mm de profondeur.  
 Le Raspberry Pi Zero prend en charge les mini-connecteurs pour économiser de l'espace et le GPIO 40 broches n'est pas peuplé, ce qui offre la flexibilité d'utiliser uniquement les connexions nécessaires à votre projet.
@@ -39,7 +39,7 @@ Le Raspberry Pi Zero prend en charge les mini-connecteurs pour économiser de l'
 
 ## Raspberry Pi Zero W **\(Wireless\)**
 
-![](./image%20%2884%29.png)
+![](/migration-images/compatibilite-materiels/image%20%2884%29.png)
 
 Le Raspberry Pi Zero W ! est le plus petit de la famille Raspberry Pi, il dispose en plus d'une connectivité **Wi-Fi** et du **Bluetooth** intégrée !  
 Avec un processeur aussi puissant que le A+ et le B+, la Raspberry Pi Zero W vous offrira de nombreuses possibilités, grâce à son design compact.
@@ -80,7 +80,7 @@ Avec un processeur aussi puissant que le A+ et le B+, la Raspberry Pi Zero W vou
 
 ## Raspberry Pi **1 Model A+**
 
-![](./pi1.jpg)
+![](/migration-images/compatibilite-materiels/pi1.jpg)
 
 The Raspberry Pi 1 Model A+ Is just 56mm long, 12mm thick and uses up to 45% less power than a Raspberry Pi 1 Model B+
 
@@ -101,7 +101,7 @@ The Raspberry Pi 1 Model A+ Is just 56mm long, 12mm thick and uses up to 45% les
 
 ## Raspberry Pi **2 Model B**
 
-![](./pi2modelb.jpg)
+![](/migration-images/compatibilite-materiels/pi2modelb.jpg)
 
 ### Caractéristiques :
 
@@ -123,7 +123,7 @@ The Raspberry Pi 1 Model A+ Is just 56mm long, 12mm thick and uses up to 45% les
 
 ## Raspberry Pi 3 Modèle B 1GB
 
-![](./image%20%28165%29.png)
+![](/migration-images/compatibilite-materiels/image%20%28165%29.png)
 
 Découvrez le **Raspberry Pi 3 Modèle B 1GB** avec une **connectivité Wi-Fi** et **Bluetooth** intégrée !  
 Basé sur le processeur **Quad** **Core Broadcom 2837 ARMv8 64bit** passant de 900MHz \(sur le Pi2\) à 1,2Ghz, le RPi nouvelle génération est un peu plus grand que le Pi2, plus rapide et plus puissant que ses prédecesseurs.
@@ -158,7 +158,7 @@ Basé sur le processeur **Quad** **Core Broadcom 2837 ARMv8 64bit** passant de 9
 
 ## Raspberry Pi 3 Modèle B**+** 1GB
 
-![](./raspberry-pi-3-modele-b1gb.jpg)
+![](/migration-images/compatibilite-materiels/raspberry-pi-3-modele-b1gb.jpg)
 
 #### La dernière génération des Raspberry Pi 3 ! 
 
@@ -205,7 +205,7 @@ Avec le processeur ARMv8, il peut exécuter la gamme complète des distributions
 
 ## Raspberry Pi 4
 
-![](./image%20%28215%29.png)
+![](/migration-images/compatibilite-materiels/image%20%28215%29.png)
 
 Avec jusqu'à 8GB de mémoire, ce Raspberry PI4 est **le plus puissant** des PI4 et conserve des capacités exceptionnelles par rapport aux Pi3 et Pi3 modèle B+.
 
@@ -243,7 +243,7 @@ Pour l'utilisateur final, le Raspberry Pi 4 modèle B offre des performances de 
 
 ## Raspberry Pi 400
 
-![](./image%20%2820%29.png)
+![](/migration-images/compatibilite-materiels/image%20%2820%29.png)
 
 Le Raspberry Pi 400 est basé sur un Raspberry Pi 4, un peu boosté.
 

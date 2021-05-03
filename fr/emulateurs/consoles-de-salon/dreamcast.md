@@ -4,7 +4,7 @@ title: Dreamcast
 
 # Dreamcast
 
-![](./dreamcast/image%20%28158%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/dreamcast/image%20%28158%29.png)
 
 ## Fiche technique
 

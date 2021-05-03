@@ -25,27 +25,27 @@ ECWolf peut exécuter le contenu suivant:
 * Spear of Destiny
 * Arche de Noé Super 3D
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)Licence
+## ![](/migration-images/emulateurs/ports/wolfenstein-3d/gerald-g-parchment-background-or-border-5.svg)Licence
 
 Ce core est sous licence [**GPLv2**](https://github.com/libretro/ecwolf/blob/master/docs/license-gpl.txt).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/ports/wolfenstein-3d/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/ports/wolfenstein-3d/cogwheel-145804_640.png)Fonctionnalités
 
 
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/ports/wolfenstein-3d/tqfp32.svg)BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## \*\*\*\*![](./rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/ports/wolfenstein-3d/rom-30098_640.png)**Roms**
 
 ### **Extensions supportées**
 
@@ -70,7 +70,7 @@ Placez les roms comme ceci :
 > > > > >
 > > > > > > 🗒 **ecwolf.pk3**
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/ports/wolfenstein-3d/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 
 
@@ -87,7 +87,7 @@ Placez les roms comme ceci :
 
 Notez que jusqu'à ECWolf 2.0, bien que des changements radicaux ne soient pas exclus, la rétrocompatibilité des mods ne sera pas nécessairement conservée. Consultez [le wiki](http://maniacsvault.net/ecwolf/wiki/Version_compatibility) pour plus d'informations.
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/ports/wolfenstein-3d/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Code source utilisé :** [https://github.com/libretro/ecwolf/](https://github.com/libretro/ecwolf)
 * **Code source Officiel :** 

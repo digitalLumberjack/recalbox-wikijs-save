@@ -4,7 +4,7 @@ title: VIC-20
 
 # VIC-20
 
-![](./vic-20/vic20.svg)
+![](/migration-images/emulateurs/ordinosaures/vic-20/vic20.svg)
 
 ## Fiche technique
 

@@ -6,7 +6,7 @@ title: BIENVENUE
 
 ## Bienvenue sur le Gitbook de RecalboxOS.
 
-![](./image%20%28111%29.png)
+![](/migration-images/image%20%28111%29.png)
 
 Ceci est la documentation officielle de Recalbox.  
 Nous espérons que vous trouverez les réponses à vos questions.  

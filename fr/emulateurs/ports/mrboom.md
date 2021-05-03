@@ -4,7 +4,7 @@ title: MrBoom
 
 # MrBoom
 
-![](./mrboom/image%20%285%29.png)
+![](/migration-images/emulateurs/ports/mrboom/image%20%285%29.png)
 
 ## Fiche technique
 

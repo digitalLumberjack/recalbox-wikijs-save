@@ -16,17 +16,17 @@ Le noyau REminiscence a été créé par
 * Grégory Montoir
 * Stuart Carnie
 
-## \*\*\*\*![](./gerald-g-parchment-background-or-border-5.svg)**Licence**
+## \*\*\*\*![](/migration-images/emulateurs/ports/flashback/gerald-g-parchment-background-or-border-5.svg)**Licence**
 
 Ce core est sous licence **GPLv3**.
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/ports/flashback/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | PC x86 | PC X86\_64 | ODROID GO |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  |  |  |  |  |  |  |  |  |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/ports/flashback/cogwheel-145804_640.png) Fonctionnalités
 
 | **Fonctionnalités** | **Supporté** |
 | :--- | :--- |
@@ -35,13 +35,13 @@ Ce core est sous licence **GPLv3**.
 | Controls | ✔ |
 | Remapping | ✔ |
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/ports/flashback/tqfp32.svg)BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## ![](./rom-30098_640.png)**Roms**
+## ![](/migration-images/emulateurs/ports/flashback/rom-30098_640.png)**Roms**
 
 ### Comment installer les fichiers nécessaires
 
@@ -118,7 +118,7 @@ Pour les dialogues en jeu, vous devez copier le fichier `VOICE.VCE` du répertoi
 | ![](https://docs.libretro.com/image/retropad/retro_dpad_left.png) | La gauche |
 | ![](https://docs.libretro.com/image/retropad/retro_dpad_right.png) | Droite |
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/ports/flashback/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Github utilisé :** [https://github.com/libretro/REminiscence/](https://github.com/libretro/REminiscence)\*\*\*\*
 * **Site Officiel :** [http://cyxdown.free.fr/reminiscence/](http://cyxdown.free.fr/reminiscence/)

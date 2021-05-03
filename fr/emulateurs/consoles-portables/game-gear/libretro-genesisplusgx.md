@@ -9,7 +9,7 @@ Le code source, basé à l'origine sur Genesis Plus 1.3 de Charles MacDonald, a 
 
 Genesis Plus GX est compatible à 100% avec les logiciels Genesis / Mega Drive, Sega / Mega CD, Master System, Game Gear, SG-1000 et Pico \(y compris tous les dumps connus sans licence ou pirate\), émulant également les modes de compatibilité descendante lorsqu'ils sont disponibles.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)Licence
+## ![](/migration-images/emulateurs/consoles-portables/game-gear/gerald-g-parchment-background-or-border-5.svg)Licence
 
 Ce core est sous licence [**non-commerciale**](https://github.com/libretro/Genesis-Plus-GX/blob/master/LICENSE.txt).
 
@@ -19,7 +19,7 @@ Ce core est sous licence [**non-commerciale**](https://github.com/libretro/Genes
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-portables/game-gear/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -35,7 +35,7 @@ Ce core est sous licence [**non-commerciale**](https://github.com/libretro/Genes
 | Remapping | ✔ |
 | Multi-Mouse | ✔ |
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/consoles-portables/game-gear/tqfp32.svg)BIOS
 
 ### Liste des bios optionnels
 
@@ -57,7 +57,7 @@ Placez les bios comme ceci :
 > > >
 > > > > 🗒 **bios.gg**
 
-## \*\*\*\*![](./rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-portables/game-gear/rom-30098_640.png)**Roms**
 
 ### **Extensions supportées**
 
@@ -94,7 +94,7 @@ Placez les roms comme ceci :
 >Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-portables/game-gear/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -131,7 +131,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/consoles-portables/game-gear/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Code source utilisé :** [https://github.com/libretro/Genesis-Plus-GX](https://github.com/libretro/Genesis-Plus-GX)
 * **Documentation Libretro** : [https://docs.libretro.com/library/genesis\_plus\_gx/](https://docs.libretro.com/library/genesis_plus_gx/)

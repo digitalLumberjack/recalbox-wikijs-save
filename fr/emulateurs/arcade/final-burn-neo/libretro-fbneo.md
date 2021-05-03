@@ -42,17 +42,17 @@ FB Neo \(a.k.a. FinalBurn Neo\) est un émulateur d'arcade qui supporte les plat
   * TurboGrafx 16
   * SuperGrafx.
 
-## \*\*\*\*![](./gerald-g-parchment-background-or-border-5.svg)**Licence**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/final-burn-neo/gerald-g-parchment-background-or-border-5.svg)**Licence**
 
 Ce core est sous licence [**non commerciale**](https://github.com/finalburnneo/FBNeo/blob/master/src/license.txt).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -67,7 +67,7 @@ Ce core est sous licence [**non commerciale**](https://github.com/finalburnneo/F
 | Multi-Mouse | ✔ |
 | Subsystem | ✔ |
 
-## ![](./tqfp32.svg)Bios
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/tqfp32.svg)Bios
 
 ### Liste des bios
 
@@ -87,7 +87,7 @@ Placez les **bios** comme ceci :
 > > > >
 > > > > > 🗒 bios.zip
 
-## ![](./rom-30098_640.png)**Roms**
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/rom-30098_640.png)**Roms**
 
 ### Extensions supportées
 
@@ -151,7 +151,7 @@ Il est également possible d'utiliser le nom du dossier pour la détection \(cet
 * Poche SNK Neo-Geo: `ngp`
 * Spectre ZX: `spectrum`
 
-## ![](./hammer-28636_640.png)Configuration avancée des émulateurs
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/hammer-28636_640.png)Configuration avancée des émulateurs
 
 
 >**Attention :**  
@@ -296,7 +296,7 @@ Ce pilote a été désactivé pour l'instant, il ne répond pas à nos critères
 
 Avoir hiscore.dat et l'option de base activée ne garantit pas que ses scores fonctionneront pour un jeu spécifique, parfois un pilote manquera le code nécessaire. Vous pouvez demander une assistance dans le suivi des problèmes tant que la demande est raisonnable \(c'est-à-dire éviter de faire une liste de plusieurs dizaines / centaines de jeux\)
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Github :** [https://github.com/libretro/FBNeo/tree/master](https://github.com/libretro/FBNeo/tree/master)
 * **Doc Libretro :** [https://docs.libretro.com/library/fbneo/](https://docs.libretro.com/library/fbneo/)

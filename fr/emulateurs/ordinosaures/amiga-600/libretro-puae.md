@@ -14,21 +14,21 @@ Ce port était basé au départ sur la version PS3 E-UAE 0.8.29-WIP4 version 8 \
 
 Et bien sûr pour l'équipe RetroArch / Libretro: " [http://www.libretro.com/](https://translate.googleusercontent.com/translate_c?depth=1&hl=fr&pto=aue&rurl=translate.google.com&sl=auto&sp=nmt4&tl=fr&u=http://www.libretro.com/&usg=ALkJrhhhR2tkxXIUWKsRHvKwwMignvG2AQ) "
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)Licence
+## ![](/migration-images/emulateurs/ordinosaures/amiga-600/gerald-g-parchment-background-or-border-5.svg)Licence
 
 Ce core est sous licence [**GPLv2**](https://github.com/libretro/PUAE/blob/master/COPYING).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/ordinosaures/amiga-600/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/ordinosaures/amiga-600/cogwheel-145804_640.png)Fonctionnalités
 
 
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/ordinosaures/amiga-600/tqfp32.svg)BIOS
 
 ### Liste des bios obligatoires
 
@@ -58,7 +58,7 @@ Placez les BIOS comme ceci :
 > > > >
 > > > > 🗒 kick40063.A600.rom
 
-## \*\*\*\*![](./rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/ordinosaures/amiga-600/rom-30098_640.png)**Roms**
 
 ### **Extensions supportées**
 
@@ -100,11 +100,11 @@ Placez les roms comme ceci :
 >Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/ordinosaures/amiga-600/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 ###  <a id="options-du-core"></a>
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/ordinosaures/amiga-600/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Code source utilisé :** 
 * **Code source Officiel :** 

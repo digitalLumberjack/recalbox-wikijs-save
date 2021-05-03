@@ -4,7 +4,7 @@ title: Apple 2GS
 
 # Apple 2GS
 
-![](./apple-2-gs/image%20%28294%29.png)
+![](/migration-images/emulateurs/ordinosaures/apple-2-gs/image%20%28294%29.png)
 
 ## Fiche technique
 

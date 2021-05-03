@@ -7,7 +7,7 @@ description: Arpg Game Engine
 
 
 
-![](./solarus/index.svg)
+![](/migration-images/emulateurs/consoles-fantasy/solarus/index.svg)
 
 ## Fiche technique
 

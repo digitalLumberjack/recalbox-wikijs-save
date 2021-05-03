@@ -55,25 +55,25 @@ La plupart des modèles sont compatibles \(Voir la [**liste de compatibilité**]
 * Appuyez sur **START** avec un contrôleur déjà configuré \(ou "**Entrée"** sur un clavier\).
 * Sélectionnez "**RÉGLAGES MANETTES**" et suivez les instructions.
 
-![](./image%20%28235%29.png)
+![](/migration-images/usage-basique/image%20%28235%29.png)
 
 * Sélectionnez "**CONFIGURER  MANETTES**" et suivez les instructions.
 
-![](./image%20%28124%29.png)
+![](/migration-images/usage-basique/image%20%28124%29.png)
 
 * Appuyer sur une touche pour commencer la configuration.
 
-![](./image%20%28159%29.png)
+![](/migration-images/usage-basique/image%20%28159%29.png)
 
 * Maintenez un bouton sur la manette pour la configurer.
 
-![](./image%20%28195%29.png)
+![](/migration-images/usage-basique/image%20%28195%29.png)
 
 * Vous pouvez maintenant assigner les boutons de votre manette.
 
 Les noms utilisés pour assigner les boutons sont ceux du contrôleur Super Nintendo : ​
 
-![Contr&#xF4;leur Super Nintendo \(SNES\)](./1000px-snes_cont.jpg)
+![Contr&#xF4;leur Super Nintendo \(SNES\)](/migration-images/usage-basique/1000px-snes_cont.jpg)
 
 
 >Les boutons L1, R1, L2, R2, L3 et R3 sont basés sur le contrôleur Playstation.
@@ -98,9 +98,9 @@ Les noms utilisés pour assigner les boutons sont ceux du contrôleur Super Nint
 >* Pour les contrôleurs à 2 boutons \(NES, PC Engine, Gameboy, ...\), les boutons assignés sont A et B.
 {.is-warning}
 
-![](./image%20%28320%29.png)
+![](/migration-images/usage-basique/image%20%28320%29.png)
 
-![](./image%20%28330%29.png)
+![](/migration-images/usage-basique/image%20%28330%29.png)
 
 
 
@@ -109,15 +109,15 @@ Les noms utilisés pour assigner les boutons sont ceux du contrôleur Super Nint
 * De retour sur l'écran de configuration, vous pouvez assigner le contrôleur à un joueur.
 * Sélectionner **"Joueur 1"** afin de lui assigner un contrôleur.
 
-![](./image%20%28144%29.png)
+![](/migration-images/usage-basique/image%20%28144%29.png)
 
 * Sélectionner un contrôleur.
 
-![](./image%20%28123%29.png)
+![](/migration-images/usage-basique/image%20%28123%29.png)
 
 * Votre contrôleur est maintenant configuré.
 
-![](./image%20%28155%29.png)
+![](/migration-images/usage-basique/image%20%28155%29.png)
 
 
 
@@ -238,7 +238,7 @@ Une **liste de contrôleurs** détectés apparaît !
 >Vous pouvez trouver l'adresse IP de votre Recalbox dans le menu **OPTIONS RÉSEAU**
 {.is-info}
 
-![virutal gamepad touch zones](./virutalgamepad_touch_zones.png)
+![virutal gamepad touch zones](/migration-images/usage-basique/virutalgamepad_touch_zones.png)
 
 ## III - Utilisation d'un stockage externe
 

@@ -4,7 +4,7 @@ title: Amiga 600
 
 # Amiga 600
 
-![](./amiga-600/image%20%28310%29.png)
+![](/migration-images/emulateurs/ordinosaures/amiga-600/image%20%28310%29.png)
 
 ## Fiche technique
 

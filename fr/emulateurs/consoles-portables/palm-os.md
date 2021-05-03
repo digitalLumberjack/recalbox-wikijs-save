@@ -4,7 +4,7 @@ title: Palm
 
 # Palm
 
-![](./palm-os/image%20%28272%29.png)
+![](/migration-images/emulateurs/consoles-portables/palm-os/image%20%28272%29.png)
 
 ## Fiche technique
 

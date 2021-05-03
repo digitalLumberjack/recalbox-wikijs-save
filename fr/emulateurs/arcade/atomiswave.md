@@ -4,7 +4,7 @@ title: Atomiswave
 
 # Atomiswave
 
-![](./atomiswave/console-6-.svg)
+![](/migration-images/emulateurs/arcade/atomiswave/console-6-.svg)
 
 ## Fiche technique
 

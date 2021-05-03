@@ -6,7 +6,7 @@ title: Libretro BK
 
 
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/ordinosaures/elektronika-bk/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**personnalisé**](https://github.com/libretro/bk-emulator/blob/master/COPYING).
 
@@ -16,11 +16,11 @@ Ce core est sous licence [**personnalisé**](https://github.com/libretro/bk-emul
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/ordinosaures/elektronika-bk/cogwheel-145804_640.png) Fonctionnalités
 
 
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/ordinosaures/elektronika-bk/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -60,7 +60,7 @@ Placez les **bios** comme ceci :
 > > > > >
 > > > > > 🗒 MONIT10.ROM
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/ordinosaures/elektronika-bk/rom-30098_640.png) Roms
 
 ### **Extensions supportées**
 
@@ -83,11 +83,11 @@ Placez les roms comme ceci :
 > > > >
 > > > > > 🗒**fichier.zip**
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/ordinosaures/elektronika-bk/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/ordinosaures/elektronika-bk/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/libretro/bk-emulator/](https://github.com/libretro/bk-emulator/)
 * **Doc Libretro** : 

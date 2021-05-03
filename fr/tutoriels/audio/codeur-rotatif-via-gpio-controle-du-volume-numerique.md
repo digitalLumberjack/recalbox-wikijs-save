@@ -379,7 +379,7 @@ _Ces modifications se trouvent toutes sous la rubrique "Settings" du script **Vo
 
 _Si vous souhaitez modifier les deux broches par défaut utilisées par le codeur, modifiez les lignes suivantes dans le script. Veillez à utiliser les codes de numérotation BCM._
 
-![](./image%20%28249%29.png)
+![](/migration-images/tutoriels/audio/image%20%28249%29.png)
 
 `GPIO_A = 26`
 

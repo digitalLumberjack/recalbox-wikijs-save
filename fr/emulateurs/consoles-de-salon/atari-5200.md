@@ -4,7 +4,7 @@ title: Atari 5200
 
 # Atari 5200
 
-![](./atari-5200/image%20%2810%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/atari-5200/image%20%2810%29.png)
 
 ## Fiche technique
 

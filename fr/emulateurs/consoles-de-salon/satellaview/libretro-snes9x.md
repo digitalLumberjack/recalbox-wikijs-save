@@ -6,17 +6,17 @@ title: Libretro Snes9X
 
 **Libretro Snes9X** est un port de Snes9x mis à jour en amont, un émulateur portable Super Nintendo Entertainment System vers Libretro.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/satellaview/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**non commerciale**](https://github.com/snes9xgit/snes9x/blob/master/LICENSE).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/consoles-de-salon/satellaview/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/satellaview/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -34,7 +34,7 @@ Ce core est sous licence [**non commerciale**](https://github.com/snes9xgit/snes
 | Subsystem | ✔ |
 | [Softpatching](https://docs.libretro.com/guides/softpatching/) | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-de-salon/satellaview/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -54,7 +54,7 @@ Placez le BIOS comme ceci :
 > > >
 > > > > 🗒**BS-X.bin**
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-de-salon/satellaview/rom-30098_640.png) Roms
 
 ### Extensions supportées
 
@@ -92,7 +92,7 @@ Placez les roms comme ceci :
 >Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-de-salon/satellaview/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -129,7 +129,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/consoles-de-salon/satellaview/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/snes9xgit/snes9x/](https://github.com/snes9xgit/snes9x/)
 * **Doc Libretro** : [https://docs.libretro.com/library/snes9x/](https://docs.libretro.com/library/snes9x/)

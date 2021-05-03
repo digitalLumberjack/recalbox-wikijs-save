@@ -4,7 +4,7 @@ title: PC-FX
 
 # PC-FX
 
-![](./pc-fx/image%20%28198%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/pc-fx/image%20%28198%29.png)
 
 ## Fiche technique
 

@@ -6,7 +6,7 @@ title: 8Bitdo sur Recalbox
 
 ![8bitdo](http://support.8bitdo.com/images/Logo-black.svg)
 
-![Liste des manettes 8Bitdo au 13 novembre 2019](./image%20%28287%29.png)
+![Liste des manettes 8Bitdo au 13 novembre 2019](/migration-images/compatibilite-materiels/compatibilite-des-peripheriques/image%20%28287%29.png)
 
 ## I - Manettes supportées 8Bitdo
 

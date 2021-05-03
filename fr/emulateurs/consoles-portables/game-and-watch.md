@@ -4,7 +4,7 @@ title: Game & Watch
 
 # Game & Watch
 
-![](./game-and-watch/image%20%2897%29.png)
+![](/migration-images/emulateurs/consoles-portables/game-and-watch/image%20%2897%29.png)
 
 ## Fiche technique
 

@@ -4,7 +4,7 @@ title: Kodi Media Center
 
 # Kodi Media Center
 
-![](./image%20%2892%29.png)
+![](/migration-images/basic-manual/features/image%20%2892%29.png)
 
 You can start **Kodi Media Center** either by pressing the X button or by pressing **START** and selecting the first menu entry.
 

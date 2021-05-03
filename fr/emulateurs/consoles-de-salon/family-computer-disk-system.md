@@ -4,7 +4,7 @@ title: Family Computer Disk System
 
 # Family Computer Disk System
 
-![](./family-computer-disk-system/image%20%2841%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/family-computer-disk-system/image%20%2841%29.png)
 
 ## Fiche technique
 

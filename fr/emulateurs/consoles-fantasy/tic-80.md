@@ -5,7 +5,7 @@ description: Libretro-tic80
 
 # Tic-80
 
-![](./tic-80/image%20%28126%29.png)
+![](/migration-images/emulateurs/consoles-fantasy/tic-80/image%20%28126%29.png)
 
 ## Fiche technique
 

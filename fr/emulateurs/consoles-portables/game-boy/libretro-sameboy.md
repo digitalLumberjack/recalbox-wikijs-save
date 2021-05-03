@@ -25,17 +25,17 @@ title: Libretro SameBoy
 * Précision extrêmement élevée
 * Émulation de câble de liaison
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)Licence
+## ![](/migration-images/emulateurs/consoles-portables/game-boy/gerald-g-parchment-background-or-border-5.svg)Licence
 
 Ce core est sous licence [**MIT**](https://github.com/libretro/SameBoy/blob/master/LICENSE).
 
-## \*\*\*\*![](./compatibility.png) ****Compatibilité
+## \*\*\*\*![](/migration-images/emulateurs/consoles-portables/game-boy/compatibility.png) ****Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-portables/game-boy/cogwheel-145804_640.png)Fonctionnalités
 
 | **Fonctionnalité** | Supporté |
 | :---: | :---: |
@@ -52,7 +52,7 @@ Ce core est sous licence [**MIT**](https://github.com/libretro/SameBoy/blob/mast
 | Rumble | ✔ |
 | Subsystem | ✔ |
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/consoles-portables/game-boy/tqfp32.svg)BIOS
 
 ### Liste des bios optionnels
 
@@ -72,7 +72,7 @@ Placez les BIOS comme ceci :
 > > >
 > > > > 🗒**gb\_bios.bin**
 
-## \*\*\*\*![](./rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-portables/game-boy/rom-30098_640.png)**Roms**
 
 ### **Extensions supportées**
 
@@ -110,7 +110,7 @@ Placez les roms comme ceci :
 >Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-portables/game-boy/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -147,7 +147,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/consoles-portables/game-boy/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Code source utilisé :** [https://github.com/libretro/SameBoy/](https://github.com/libretro/SameBoy)
 * **Documentation Libretro** : [https://docs.libretro.com/library/sameboy/](https://docs.libretro.com/library/sameboy/)

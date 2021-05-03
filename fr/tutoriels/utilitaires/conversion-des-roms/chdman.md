@@ -83,19 +83,19 @@ Ce qui suit est valable pour Windows seulement.
 
 Exemple pour le jeu "**Grandia \(France\)**" :
 
-![](./image%20%28193%29.png)
+![](/migration-images/tutoriels/utilitaires/conversion-des-roms/image%20%28193%29.png)
 
 * Puis cliquer sur le fichier "**CUE or GDI to CHD.bat**" pour lancer la conversion.
 
-![](./image%20%28288%29.png)
+![](/migration-images/tutoriels/utilitaires/conversion-des-roms/image%20%28288%29.png)
 
 * Une fois que la fenêtre CMD ci-dessus c'est fermé automatiquement, votre conversion est terminer.
 
-![](./image%20%28204%29.png)
+![](/migration-images/tutoriels/utilitaires/conversion-des-roms/image%20%28204%29.png)
 
 * Vous pouvez supprimer "**chdman.exe**" et "**CUE or GDI to CHD.bat**", votre rom est prête.
 
-![](./image%20%28217%29.png)
+![](/migration-images/tutoriels/utilitaires/conversion-des-roms/image%20%28217%29.png)
 
 
 >Vous pouvez également lancer le fichier.bat pour lancer la conversion de plusieurs jeux d'un coup.
@@ -126,11 +126,11 @@ Grandia (France) (Disc 2).chd
   * Allez dans affichage en haut de la fenêtre de votre explorateur de fichier.
   * Puis cocher "Extensions de noms de fichiers" en haut à droite.
 
-![](./image%20%28113%29.png)
+![](/migration-images/tutoriels/utilitaires/conversion-des-roms/image%20%28113%29.png)
 
 * Confirmer la modification de l'extension
 
-![](./image%20%28300%29.png)
+![](/migration-images/tutoriels/utilitaires/conversion-des-roms/image%20%28300%29.png)
 
 ## Crédit 
 

@@ -6,30 +6,30 @@ title: Libretro uzem
 
 **Libretro Uzem** est un émulateur officiel de l'Uzebox \(une console de jeu open source 8 bits rétro-minimaliste\). L'Uzebox est un système minimal basé sur un microcontrôleur AVR ATmega644.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)License
+## ![](/migration-images/emulateurs/consoles-fantasy/uzebox/gerald-g-parchment-background-or-border-5.svg)License
 
  ****Ce core est sous licence [**GPLv3**](https://github.com/Uzebox/uzebox/blob/master/gpl-3.0.txt).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/consoles-fantasy/uzebox/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-fantasy/uzebox/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
 | States | ✔ |
 | Rewind | ✔ |
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/consoles-fantasy/uzebox/tqfp32.svg)BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## \*\*\*\*![](./rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-fantasy/uzebox/rom-30098_640.png)**Roms**
 
 ### **Extensions supportées**
 
@@ -55,7 +55,7 @@ Placez les roms comme ceci :
 > > > >
 > > > > > 🗒**fichier.uze**
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-fantasy/uzebox/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -74,7 +74,7 @@ Vous pouvez configurer diverses options via :
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/consoles-fantasy/uzebox/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Code source utilisé :** [https://github.com/libretro/libretro-uzem/](https://github.com/libretro/libretro-uzem)\*\*\*\*
 * **Code source officiel :** [https://github.com/Uzebox/uzebox/](https://github.com/Uzebox/uzebox)\*\*\*\*

@@ -4,7 +4,7 @@ title: Kodi Media Center
 
 # Kodi Media Center
 
-![](./kodi-media-center/image%20%2852%29.png)
+![](/migration-images/usage-basique/fonctionnalites/kodi-media-center/image%20%2852%29.png)
 
 Kodi est un espace multimédia intégré dans Recalbox.
 

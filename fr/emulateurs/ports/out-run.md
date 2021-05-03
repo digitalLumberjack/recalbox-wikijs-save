@@ -4,7 +4,7 @@ title: Out Run
 
 # Out Run
 
-![](./out-run/cannonball-nx.gif)
+![](/migration-images/emulateurs/ports/out-run/cannonball-nx.gif)
 
 ## Fiche technique
 

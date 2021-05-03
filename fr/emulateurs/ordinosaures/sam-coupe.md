@@ -4,7 +4,7 @@ title: SAM Coupé
 
 # SAM Coupé
 
-![](./sam-coupe/image%20%28252%29.png)
+![](/migration-images/emulateurs/ordinosaures/sam-coupe/image%20%28252%29.png)
 
 ## Fiche technique
 

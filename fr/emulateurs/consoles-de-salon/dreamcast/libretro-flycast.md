@@ -6,17 +6,17 @@ title: Libretro Flycast
 
 **Libretro Flycast** est un émulateur **Sega Dreamcast multiplate-formes** capable d'émuler la **Dreamcast.**
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/dreamcast/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence **GPLv2.**
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/consoles-de-salon/dreamcast/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅ | ✅  | ✅  |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/dreamcast/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -30,7 +30,7 @@ Ce core est sous licence **GPLv2.**
 | Rumble | ✔ |
 | Disk Control | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-de-salon/dreamcast/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -55,7 +55,7 @@ Placez les bios comme ceci :
 > > > > >
 > > > > > \*\*\*\*🗒 **dc\_flash.bin**
 
-## \*\*\*\*![](./rom-30098_640.png) **Roms**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/dreamcast/rom-30098_640.png) **Roms**
 
 ### **Extensions supportées**
 
@@ -93,7 +93,7 @@ Placez les isos comme ceci :
 >Pour plus d'information sur les isos, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-de-salon/dreamcast/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -130,7 +130,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## \*\*\*\*![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/dreamcast/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
 
 * **Github utilisé :** [https://github.com/libretro/flycast](https://github.com/libretro/flycast)
 * **Doc Libretro :** [https://docs.libretro.com/library/flycast/](https://docs.libretro.com/library/flycast/)

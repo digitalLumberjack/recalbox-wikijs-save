@@ -4,7 +4,7 @@ title: Master System
 
 # Master System
 
-![](./master-system/image%20%28156%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/master-system/image%20%28156%29.png)
 
 ## Fiche technique
 

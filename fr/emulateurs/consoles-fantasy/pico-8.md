@@ -4,7 +4,7 @@ title: Pico-8
 
 # Pico-8
 
-![](./pico-8/image%20%28306%29.png)
+![](/migration-images/emulateurs/consoles-fantasy/pico-8/image%20%28306%29.png)
 
 ## Fiche technique
 

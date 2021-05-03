@@ -4,7 +4,7 @@ title: Cavestory
 
 # Cavestory
 
-![](./cavestory/image%20%28209%29.png)
+![](/migration-images/emulateurs/ports/cavestory/image%20%28209%29.png)
 
 ## Fiche technique
 

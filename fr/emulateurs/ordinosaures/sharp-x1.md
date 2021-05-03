@@ -4,7 +4,7 @@ title: Sharp X1
 
 # Sharp X1
 
-![](./sharp-x1/image%20%2883%29.png)
+![](/migration-images/emulateurs/ordinosaures/sharp-x1/image%20%2883%29.png)
 
 ## Fiche technique
 

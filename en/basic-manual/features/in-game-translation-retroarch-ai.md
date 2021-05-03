@@ -14,11 +14,11 @@ RetroArch uses a translation service called **"OCR"** \(Optical Character Recogn
 >This function requires an internet connection!
 {.is-danger}
 
-![Before](./ocr1.png)
+![Before](/migration-images/basic-manual/features/ocr1.png)
 
 
 
-![After](./ocr2.png)
+![After](/migration-images/basic-manual/features/ocr2.png)
 
 ## Settings :
 

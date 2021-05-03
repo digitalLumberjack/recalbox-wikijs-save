@@ -19,15 +19,15 @@ title: Changement du pays \(langue\) dans le jeu
 
 
 
-![](./image%20%28319%29.png)
+![](/migration-images/emulateurs/arcade/sega-model-3/supermodel/image%20%28319%29.png)
 
 Pour chaque jeu, lorsqu'il est lancé, entrer dans le "TEST MENU" à l'aide de la touche **L3.**
 
 Ensuite la manipulation diffère suivant le jeu.
 
-![](./image%20%28268%29.png)
+![](/migration-images/emulateurs/arcade/sega-model-3/supermodel/image%20%28268%29.png)
 
-![](./image%20%28303%29.png)
+![](/migration-images/emulateurs/arcade/sega-model-3/supermodel/image%20%28303%29.png)
 
 ## _**Daytona USA 2**_ 
 

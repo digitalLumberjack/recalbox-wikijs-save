@@ -5,7 +5,7 @@ description: Nintendo 64 Disk Drive
 
 # Nintendo 64 DD
 
-![](./nintendo-64-dd/image%20%28137%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/nintendo-64-dd/image%20%28137%29.png)
 
 ## Fiche technique
 

@@ -25,6 +25,6 @@ title: Avec un jeu MAME
 
 >Il faut bien garder ces fichiers. Ainsi vous n'aurez pas à refaire la manipulation, cela sera dans vos sauvegardes : 
 >
->![](./image%20%28170%29.png) 
+>![](/migration-images/usage-basique/fonctionnalites/lightgun-de-recalbox/la-calibration/image%20%28170%29.png) 
 {.is-danger}
 

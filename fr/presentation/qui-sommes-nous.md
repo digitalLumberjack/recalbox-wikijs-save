@@ -43,7 +43,7 @@ Les Homebrews sont des jeux créés de toutes pièces par des développeurs. Bea
 Les hacks sont des modifications de jeux existants. Ils reprennent l'ensemble ou une partie des graphismes et du gameplay d'un jeu, et divergent sur l'histoire, la difficulté, l'ambiance.  
 Certains sont considérés comme des suites à part entière des jeux originaux, comme Super Mario Bros 4 \(hack de Super Mario World\) ou Legend Of Zelda - Parallels Worlds \(hack de A Link To The Past\)
 
-![](./image%20%28339%29.png)
+![](/migration-images/presentation/image%20%28339%29.png)
 
 
 

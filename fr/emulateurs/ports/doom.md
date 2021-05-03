@@ -4,7 +4,7 @@ title: Doom
 
 # Doom
 
-![](./doom/image%20%281%29.png)
+![](/migration-images/emulateurs/ports/doom/image%20%281%29.png)
 
 ## Fiche technique
 
@@ -30,7 +30,7 @@ title: Doom
 
 ### Synopsis
 
-![](./doom/the_ultimate_doom_library_hero.jpg)
+![](/migration-images/emulateurs/ports/doom/the_ultimate_doom_library_hero.jpg)
 
 _« **The Ultimate Doom** vous entraine bien au-delà de tout territoire connu. The Ultimate Doom comprend les trois épisodes originaux du jeu le plus fantastique, le plus dérangeant et le plus intense jamais créé : 27 niveaux doomesques pour mettre au défi même le plus endurci des joueurs. Et ce n’est qu’un début… Ensuite, et seulement si vous êtes assez tenace, vous pourrez relever le défi d’un tous nouvel épisode … **Thy Flesh Consumed**. Les sataniques génies de chez **ID Software** ont fouillé au plus profond de leurs âmes diaboliques pour vous offrir cette expérience unique : 9 niveaux inédits de l’action la plus tordue, la plus impitoyable et la plus torturée qui soit. »         -_ Arrière de la boite du jeu - 
 

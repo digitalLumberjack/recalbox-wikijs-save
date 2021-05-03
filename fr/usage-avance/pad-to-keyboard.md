@@ -139,7 +139,7 @@ Cependant, pas d'affolement, dans la grande majorité des cas, vous allez utilis
 
 Une image vaut mieux qu'un long discours:
 
-![Noms des touches clavier](./p2k-layout-v2.png)
+![Noms des touches clavier](/migration-images/usage-avance/p2k-layout-v2.png)
 
 #### Surcharge des configurations \(oui, encore!\)
 
@@ -230,7 +230,7 @@ Donnera l’équivalent de :
 
 ### Ajout d'une description brève
 
-![](./configpad.png)
+![](/migration-images/usage-avance/configpad.png)
 
 Pou ajouter une description comme ci-dessus.
 

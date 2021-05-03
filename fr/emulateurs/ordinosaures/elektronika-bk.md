@@ -4,7 +4,7 @@ title: Elektronika BK
 
 # Elektronika BK
 
-![](./elektronika-bk/bk.svg)
+![](/migration-images/emulateurs/ordinosaures/elektronika-bk/bk.svg)
 
 ## Fiche technique
 

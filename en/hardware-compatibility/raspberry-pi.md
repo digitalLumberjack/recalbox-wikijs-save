@@ -20,7 +20,7 @@ The Raspberry Pi has an ARM11 700 MHz processor. It includes 1, 2 or 4 USB ports
 
 ## Raspberry Pi Zero v1.3
 
-![](./pi-zero%20%282%29.jpg)
+![](/migration-images/hardware-compatibility/pi-zero%20%282%29.jpg)
 
 The first computer at $ 5!   
 The ultra-thin and ultra-thin Raspberry Pi Zero is the smallest Raspberry Pi form factor on the market. It is 40% faster than the original Raspberry Pi but is only 65 mm long by 30 mm wide and 5 mm deep.   
@@ -42,7 +42,7 @@ The Raspberry Pi Zero supports mini-connectors to save space and the 40-pin GPIO
 
 ## Raspberry Pi Zero W **\(Wireless\)**
 
-![](./pi-zero%20%281%29.jpg)
+![](/migration-images/hardware-compatibility/pi-zero%20%281%29.jpg)
 
 The Raspberry Pi Zero W!   
 ****It ****is the smallest of the Raspberry Pi family, it also has Wi-Fi and integrated Bluetooth connectivity! With a processor as powerful as the A + and the B +, the Raspberry Pi Zero W will offer you many possibilities, thanks to its compact design.
@@ -74,7 +74,7 @@ The Raspberry Pi Zero W!
 
 ## Raspberry Pi **1 A+**
 
-![](./pi1.jpg)
+![](/migration-images/hardware-compatibility/pi1.jpg)
 
 
 
@@ -93,7 +93,7 @@ The Raspberry Pi 1 Model A+ Is just 56mm long, 12mm thick and uses up to 45% les
 
 ## Raspberry Pi 2 B
 
-![](./pi2modelb.jpg)
+![](/migration-images/hardware-compatibility/pi2modelb.jpg)
 
 ### Caracteristics 
 
@@ -140,7 +140,7 @@ Based on the **Quad Core Broadcom 2837 ARMv8 64bit** processor going from 900MHz
 
 ## Raspberry Pi 3 B**+** 1GB
 
-![](./raspberry-pi-3-modele-b1gb.jpg)
+![](/migration-images/hardware-compatibility/raspberry-pi-3-modele-b1gb.jpg)
 
 **The latest generation of Raspberry Pi 3!** 
 

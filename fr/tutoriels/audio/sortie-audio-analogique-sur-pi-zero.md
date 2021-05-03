@@ -97,5 +97,5 @@ Vous devrez amplifier la sortie car les signaux sont filtrés et ont des niveaux
 Vous pouvez utiliser un petit amplificateur 5V 2x3W.  
 Vous pouvez également ajouter un potentiomètre audio stéréo pour pouvoir régler le volume.
 
-![](./image%20%2862%29.png)
+![](/migration-images/tutoriels/audio/image%20%2862%29.png)
 

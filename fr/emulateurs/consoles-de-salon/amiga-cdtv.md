@@ -4,7 +4,7 @@ title: Amiga CDTV
 
 # Amiga CDTV
 
-![](./amiga-cdtv/amigacdtv.svg)
+![](/migration-images/emulateurs/consoles-de-salon/amiga-cdtv/amigacdtv.svg)
 
 ## Fiche technique
 

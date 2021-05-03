@@ -4,7 +4,7 @@ title: Netplay \(Jeux en Ligne\)
 
 # Netplay \(Jeux en Ligne\)
 
-![](./netplay-jeux-en-ligne/logo-recalbox_netplay.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/logo-recalbox_netplay.png)
 
 ## **Introduction** <a id="i-introduction"></a>
 

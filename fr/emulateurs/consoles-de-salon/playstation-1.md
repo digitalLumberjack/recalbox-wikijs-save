@@ -4,7 +4,7 @@ title: Playstation 1
 
 # Playstation 1
 
-![](./playstation-1/image%20%28125%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/playstation-1/image%20%28125%29.png)
 
 ## Fiche technique
 

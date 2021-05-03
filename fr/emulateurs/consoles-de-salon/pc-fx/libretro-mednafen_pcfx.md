@@ -6,17 +6,17 @@ title: Libretro Mednafen\_PCFX
 
 **Libretro Mednafen\_PCFX** est un port de l'émulateur Mednafen PC-FX pour le NEC PC-FX.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/pc-fx/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**GPLv2**](https://github.com/libretro/beetle-pcfx-libretro/blob/master/COPYING).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/consoles-de-salon/pc-fx/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/pc-fx/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -32,7 +32,7 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/beetle-pcfx-lib
 | Remapping | ✔ |
 | Crop Overscan | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-de-salon/pc-fx/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -52,7 +52,7 @@ Placez le BIOS comme ceci :
 > > >
 > > > > 🗒**pcfx.rom**
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-de-salon/pc-fx/rom-30098_640.png) Roms
 
 ### Extensions supportées
 
@@ -85,7 +85,7 @@ Placez les isos comme ceci :
 >Pour plus d'information sur les isos, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-de-salon/pc-fx/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -122,7 +122,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/consoles-de-salon/pc-fx/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/libretro/beetle-pcfx-libretro/](https://github.com/libretro/beetle-pcfx-libretro/)
 * **Doc Libretro** : [https://docs.libretro.com/library/beetle\_pc\_fx/](https://docs.libretro.com/library/beetle_pc_fx/)

@@ -4,7 +4,7 @@ title: Amiga CD32
 
 # Amiga CD32
 
-![](./amiga-cd32/amigacd32.svg)
+![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/amigacd32.svg)
 
 ## Fiche technique
 

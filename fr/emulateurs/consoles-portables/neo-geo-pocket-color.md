@@ -4,7 +4,7 @@ title: Neo-Geo Pocket Color
 
 # Neo-Geo Pocket Color
 
-![](./neo-geo-pocket-color/image%20%2812%29.png)
+![](/migration-images/emulateurs/consoles-portables/neo-geo-pocket-color/image%20%2812%29.png)
 
 ## Fiche technique
 

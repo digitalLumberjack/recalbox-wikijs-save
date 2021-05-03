@@ -10,17 +10,17 @@ title: Libretro Flycast
 * **NAOMI M2** 
 * **NAOMI M4** 
 
-## \*\*\*\*![](./gerald-g-parchment-background-or-border-5.svg)**Licence**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/naomi/gerald-g-parchment-background-or-border-5.svg)**Licence**
 
 Ce core est sous licence **GPLv2**
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/arcade/naomi/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/arcade/naomi/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -154,7 +154,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/arcade/naomi/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Github utilisé :** [https://github.com/libretro/flycast/](https://github.com/libretro/flycast)
 * **Documentation Libretro :** [https://docs.libretro.com/library/flycast/](https://docs.libretro.com/library/flycast/)

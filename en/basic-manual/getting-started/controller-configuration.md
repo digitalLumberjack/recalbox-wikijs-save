@@ -15,7 +15,7 @@ It's possible to add USB controllers on Recalbox. Most of them should be compati
 
 The button names are based on a Super Nintendo controller:
 
-![A Super Nintendo \(SNES\) controller](./1000px-snes_cont.jpg)
+![A Super Nintendo \(SNES\) controller](/migration-images/basic-manual/getting-started/1000px-snes_cont.jpg)
 
 
 >The L1, R1, L2, R2, L3, and R3 buttons are based on the Playstation 3 controller.
@@ -140,7 +140,7 @@ With Miroof's [Virtual Gamepads](https://github.com/miroof/node-virtual-gamepads
 >You can get the recalbox IP in the setting menu [NETWORK SETTINGS](emulationstation.md#6-network-settings)​
 {.is-info}
 
-![virtual gamepad touch zones](./virutalgamepad_touch_zones.png)
+![virtual gamepad touch zones](/migration-images/basic-manual/getting-started/virutalgamepad_touch_zones.png)
 
 For more info see Virtual Gamepad.
 

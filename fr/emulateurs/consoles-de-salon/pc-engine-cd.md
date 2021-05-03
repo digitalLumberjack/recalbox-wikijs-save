@@ -4,7 +4,7 @@ title: Pc-Engine CD
 
 # Pc-Engine CD
 
-![](./pc-engine-cd/image%20%28273%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/pc-engine-cd/image%20%28273%29.png)
 
 ## Fiche technique
 

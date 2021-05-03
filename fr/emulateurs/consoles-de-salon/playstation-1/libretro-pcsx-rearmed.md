@@ -8,17 +8,17 @@ title: Libretro PCSX-ReARMed
 Cette version est orientée pour une architecture ARM et a été créé pour d'améliorer les performances sur l'ordinateur de poche Pandora.  
 Cet émulateur a ensuite été porté sur d'autres appareils comme le Raspberry Pi.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/playstation-1/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**GPLv2**](https://github.com/libretro/pcsx_rearmed/blob/master/COPYING).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/consoles-de-salon/playstation-1/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | PC x86 | PC x86\_64 | ODROID GO |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/playstation-1/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -32,7 +32,7 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/pcsx_rearmed/bl
 | Vibration | ✔ |
 | Contrôle de disque | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-de-salon/playstation-1/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -97,7 +97,7 @@ Placez les BIOS comme ceci :
 > > > >
 > > > > \*\*\*\*🗒 **scph1001.bin**
 
-## \*\*\*\*![](./rom-30098_640.png) **Roms**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/playstation-1/rom-30098_640.png) **Roms**
 
 ### **Extensions supportées**
 
@@ -238,7 +238,7 @@ Si l'on a besoin de changer de disque lorsque le jeu est lancé, il faut réalis
 
 Placer vos roms Playstation dans le dossier : `/recalbox/share/roms/psx`
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-de-salon/playstation-1/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -275,7 +275,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## \*\*\*\*![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/playstation-1/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
 
 * **Github utilisé** : [https://github.com/libretro/pcsx\_rearmed/](https://github.com/libretro/pcsx_rearmed/)
 * **Doc Libretro** : [https://docs.libretro.com/library/pcsx\_rearmed/](https://docs.libretro.com/library/pcsx_rearmed/)

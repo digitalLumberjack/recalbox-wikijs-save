@@ -4,7 +4,7 @@ title: Saturn
 
 # Saturn
 
-![](./saturn/saturn.svg)
+![](/migration-images/emulateurs/consoles-de-salon/saturn/saturn.svg)
 
 ## Fiche technique
 

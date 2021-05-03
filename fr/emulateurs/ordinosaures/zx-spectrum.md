@@ -4,7 +4,7 @@ title: ZX Spectrum
 
 # ZX Spectrum
 
-![](./zx-spectrum/image%20%28277%29.png)
+![](/migration-images/emulateurs/ordinosaures/zx-spectrum/image%20%28277%29.png)
 
 ## Fiche technique
 

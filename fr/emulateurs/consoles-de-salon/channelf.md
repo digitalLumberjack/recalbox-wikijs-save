@@ -4,7 +4,7 @@ title: Channel F
 
 # Channel F
 
-![](./channelf/image%20%28175%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/channelf/image%20%28175%29.png)
 
 ## Fiche technique
 

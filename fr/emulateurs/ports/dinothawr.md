@@ -4,7 +4,7 @@ title: DinoThawr
 
 # DinoThawr
 
-![](./dinothawr/image%20%28174%29.png)
+![](/migration-images/emulateurs/ports/dinothawr/image%20%28174%29.png)
 
 ## Fiche technique
 

@@ -6,7 +6,7 @@ title: Odroid
 
 ## Odroid XU4
 
-![](./xu4-exynos-8-coeurs.jpg)
+![](/migration-images/compatibilite-materiels/xu4-exynos-8-coeurs.jpg)
 
 ODROID-XU4 est une nouvelle génération d'appareil informatique avec un matériel plus puissant et plus économe en énergie et un facteur de forme plus petit.  
 N'implémentant les interfaces eMMC 5.0, USB 3.0 et Gigabit Ethernet, l'ODROID-XU4 offre des vitesses de transfert de données incroyables, une fonction de plus en plus requise pour prendre en charge la puissance de traitement avancée des périphériques ARM.  
@@ -35,7 +35,7 @@ N'implémentant les interfaces eMMC 5.0, USB 3.0 et Gigabit Ethernet, l'ODROID-X
 
 ## Odroid XU4Q
 
-![](./xu4q.jpg)
+![](/migration-images/compatibilite-materiels/xu4q.jpg)
 
 Que vous souhaitiez réaliser un média center, une console de jeux, un système de surveillance embarquée ou tout autre chose, la carte mère ultra-compacte **Odroid XU4Q** sera un choix idéal. Embarquant un processeur Samsung Exynos 5422 Octo-Core cadencé 2.0 GHz et 2 Go de RAM, elle est une solution très abordable.  
  Quant au dissipateur thermique déjà monté sur la carte, il tournera uniquement lorsque la charge CPU est importante et que la température atteint un seuil minimum.
@@ -65,7 +65,7 @@ Que vous souhaitiez réaliser un média center, une console de jeux, un système
 
 ## Odroid Go Advance 2
 
-![](./image%20%28169%29.png)
+![](/migration-images/compatibilite-materiels/image%20%28169%29.png)
 
 Une console de jeux vidéo portable D.I.Y dédiée à l'émulation et au rétrogaming, inspirée du look de la Gameboy Advance et disponible en 2 coloris  
 Conçue sous la forme d'un kit d'assemblage complet et sans-soudures, proposant un montage ludique et amusant, facilement accessible à tousCompatible avec les systèmes de jeux récents \(Playstation, PSP, ..\) et les émulateurs type Recalbox

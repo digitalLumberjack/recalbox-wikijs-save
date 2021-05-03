@@ -377,7 +377,7 @@ Reprenons le répertoire **thomson** utilisé plus haut, que nous avions découp
 
 Le fichier `.folder.picture.png` du répertoire /recalbox/share/roms/thomson contient une image de la machine:
 
-![Photo MO5](./surcharge-de-configuration/.folder.picture.png)
+![Photo MO5](/migration-images/usage-avance/surcharge-de-configuration/.folder.picture.png)
 
 
 
@@ -428,7 +428,7 @@ Released:
 
 Et voilà le résultat dans EmulationStation:
 
-![EmulationStation](./surcharge-de-configuration/capture-du-2019-09-07-11-52-59.png)
+![EmulationStation](/migration-images/usage-avance/surcharge-de-configuration/capture-du-2019-09-07-11-52-59.png)
 
 
 
@@ -440,7 +440,7 @@ De la même façon, sur le premier exemple qui montre comment avoir plusieurs ve
 
 Un petit logo:
 
-![/recalbox/share/roms/mame/MAME2003Plus/.folder.description.txt](./surcharge-de-configuration/.folder.picture%20%281%29.png)
+![/recalbox/share/roms/mame/MAME2003Plus/.folder.description.txt](/migration-images/usage-avance/surcharge-de-configuration/.folder.picture%20%281%29.png)
 
 
 
@@ -460,7 +460,7 @@ RomSet Special basé sur le romset MAME 0.78
 
 Et voila le résultat :
 
-![](./surcharge-de-configuration/sans-titre%20%281%29.png)
+![](/migration-images/usage-avance/surcharge-de-configuration/sans-titre%20%281%29.png)
 
 ## Emulateurs "Standalone"
 

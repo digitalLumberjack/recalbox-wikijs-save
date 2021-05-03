@@ -5,7 +5,7 @@ description: Panasonic 3DO
 
 # 3DO
 
-![](./3do/3do.svg)
+![](/migration-images/emulateurs/consoles-de-salon/3do/3do.svg)
 
 ## Fiche technique
 

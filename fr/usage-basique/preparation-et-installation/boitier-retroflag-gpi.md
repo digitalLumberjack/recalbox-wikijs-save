@@ -26,11 +26,11 @@ Avec une batterie externe de 10 000maH là c’est le festival !
 
 ## Présentation du Gpi Case
 
-![](./image%20%28276%29.png)
+![](/migration-images/usage-basique/preparation-et-installation/image%20%28276%29.png)
 
-![](./image%20%28248%29.png)
+![](/migration-images/usage-basique/preparation-et-installation/image%20%28248%29.png)
 
-![](./image%20%2860%29.png)
+![](/migration-images/usage-basique/preparation-et-installation/image%20%2860%29.png)
 
 ## Flashez et démarrez !
 
@@ -40,7 +40,7 @@ Avec une batterie externe de 10 000maH là c’est le festival !
 >Utilisez toujours le cordon USB pour l'installation et les premiers tests.
 {.is-warning}
 
-![GPi Case](./image%20%28202%29.png)
+![GPi Case](/migration-images/usage-basique/preparation-et-installation/image%20%28202%29.png)
 
 
 
@@ -51,11 +51,11 @@ Pour faire fonctionner votre boîtier GPI
 * Il vous suffit de flasher la dernière version de Recalbox pour Raspberry Pi1 / Pi0 sur votre carte SD, l'insérer dans la cartouche de votre GPI, et l'allumer ! 
 * Attendez quelques secondes, puis vous devriez voir cette image sur votre écran :
 
-![Image d&apos;installation](./image%20%28197%29.png)
+![Image d&apos;installation](/migration-images/usage-basique/preparation-et-installation/image%20%28197%29.png)
 
 * Attendez encore quelques secondes \(ça peut prendre plus longtemps avec des cartes SD haute capacité\) avant qu'EmulationStation ne démarre avec son écran habituel :
 
-![EmulationStation d&#xE9;marre...](./image%20%28218%29.png)
+![EmulationStation d&#xE9;marre...](/migration-images/usage-basique/preparation-et-installation/image%20%28218%29.png)
 
 * Une fois que c'est fait, appréciez un thème optimisé qui rend votre expérience riche, fluide et amusante !
 
@@ -110,7 +110,7 @@ Voilà une solution rapide, pas à pas
 
 ## Installer des jeux
 
-![](./image%20%2844%29.png)
+![](/migration-images/usage-basique/preparation-et-installation/image%20%2844%29.png)
 
 Maintenant que vous êtes connecté à internet, vous pouvez installer vos jeux comme d'habitude, en utilisant le partage SAMBA \( `\\recalboxgpi\share` dans un explorateur de fichiers\) ou à travers le WebManager \( `http://recalboxgpi` dans un client web\)
 
@@ -158,7 +158,7 @@ _**Vous pouvez toujours jouer avec les options d'O/C, à vos risques et périls 
 
 Vous pouvez ajouter un petit radiateur en cuivre comme montré dans la photo ci-dessous. Son épaisseur ne doit pas dépasser 2mm.
 
-![](./img_20190616_174526.jpg)
+![](/migration-images/usage-basique/preparation-et-installation/img_20190616_174526.jpg)
 
 
 

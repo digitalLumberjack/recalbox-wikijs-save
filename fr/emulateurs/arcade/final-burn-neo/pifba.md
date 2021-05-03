@@ -19,17 +19,17 @@ Un certain nombre de jeux ne fonctionneront pas correctement, certains sont si v
 >piFBA est le mieux optimisé des émulateurs FBA sur la RecalBox pour le Pi0/1 mais est compatible avec beaucoup moins de jeux que FbNeo.
 {.is-warning}
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)Licence
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/gerald-g-parchment-background-or-border-5.svg)Licence
 
 Ce core est sous licence **GPLv2**
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -48,7 +48,7 @@ Ce core est sous licence **GPLv2**
 | Location |  |
 | Subsystem |  |
 
-## ![](./tqfp32.svg)Bios
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/tqfp32.svg)Bios
 
 ### Liste des bios
 
@@ -68,7 +68,7 @@ Placez les **bios** comme ceci :
 > > > >
 > > > > > 🗒 bios.zip
 
-## ![](./rom-30098_640.png)**Roms**
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/rom-30098_640.png)**Roms**
 
 * Basé sur le RomSet MAME : **FBA 0.2.96.71** \(Avril 2007\) lui-même basé sur le set MAME 0.114
 * Poids : 3.62GB
@@ -81,7 +81,7 @@ FBACache\_windows.zip est inclus pour ce faire, qui fonctionne sous Windows uniq
 
 Un fichier DAT clrmamepro / romcenter est inclus 'fba\_029671\_clrmame\_dat.zip' qui prend en charge la plupart des ROMs qui fonctionnent et peuvent générer des ROMs compatibles à partir des versions récentes de MAME.
 
-## ![](./hammer-28636_640.png)Configuration avancée des émulateurs
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/hammer-28636_640.png)Configuration avancée des émulateurs
 
 
 >**Attention :**  
@@ -118,7 +118,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/arcade/final-burn-neo/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Github :** [https://github.com/recalbox/pifba](https://github.com/recalbox/pifba) Le code a été déplacé vers github : [https://github.com/squidrpi/pifba](https://github.com/squidrpi/pifba)
 * **Site Officiel :** 

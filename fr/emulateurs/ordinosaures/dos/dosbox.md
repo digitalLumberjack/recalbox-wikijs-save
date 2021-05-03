@@ -25,17 +25,17 @@ La version comprise dans Recalbox est la **version SVN**, complétée par certai
 * Permet d'émuler une souris \(mouvements et boutons\) à partir du clavier ou d'un joystick
 * Permet l'affichage d'un clavier virtuel \(pour des systèmes sans clavier ni souris\)
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)**L**icence
+## ![](/migration-images/emulateurs/ordinosaures/dos/gerald-g-parchment-background-or-border-5.svg)**L**icence
 
 Ce core est sous licence [**GPLv2**](https://gitlab.com/lmerckx/recalbox-dosbox/-/blob/master/COPYING).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/ordinosaures/dos/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/ordinosaures/dos/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :--- | :--- |
@@ -45,13 +45,13 @@ Ce core est sous licence [**GPLv2**](https://gitlab.com/lmerckx/recalbox-dosbox/
 | Controls | Oui |
 | Remapping | Oui |
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/ordinosaures/dos/tqfp32.svg)BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## \*\*\*\*![](./rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/ordinosaures/dos/rom-30098_640.png)**Roms**
 
 ### **Extensions supportées**
 
@@ -295,7 +295,7 @@ Attention aussi a bien se déplacer dans le bon répertoire \(commande "cd"\) : 
 >Une fois qu'un jeu est fonctionnel, vous pouvez retirer l'instruction "pause" afin d'éviter de subir le prompt de temporisation à chaque sortie du jeu.
 {.is-info}
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/ordinosaures/dos/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 ### Comment utiliser le clavier virtuel ?
 
@@ -331,7 +331,7 @@ Finalement, appuyez sur le bouton V vert pour fermer le clavier virtuel et envoy
 * **Je n'arrive pas à faire marcher** `mount a` **ou** `mount d` **:** Contrairement à imgmount, la commande mount ne peut pas utiliser des chemins 'virtuels' de l'intérieur de la machine DOSBox. Pour que `mount` marche, vous ne pouvez utiliser que des chemins réels locaux du file system de recalbox. Comme '.' est positionné sur le répertoire root / au lancement de DOSBox, il est obligatoire d'utiliser le chemin absolu complet vers le fichier ou le répertoire. 
 * **Le mapper est bugué, il efface mon fichier ou mélange mes boutons :** Vous êtes vraisemblablement victime du paramètre `buttonwrap`. Quand celui-ci est mis à true, il configure les boutons de votre pad avec une id supérieure à celle du nombre de boutons du joystick émulé en repartant à zéro \(5 sera remappé à 0, 6 à 1, etc...\) . Mettez ce paramètre à false et tout devrait rentrer dans l'ordre.
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/ordinosaures/dos/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Github utilisé :** [https://gitlab.com/lmerckx/recalbox-dosbox/](https://gitlab.com/lmerckx/recalbox-dosbox/)
 * **Doc Libretro :** [https://docs.libretro.com/library/dosbox/](https://docs.libretro.com/library/dosbox/)

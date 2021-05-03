@@ -4,7 +4,7 @@ title: MSX 2
 
 # MSX 2
 
-![](./msx-2/image%20%2825%29.png)
+![](/migration-images/emulateurs/ordinosaures/msx-2/image%20%2825%29.png)
 
 ## Fiche technique
 

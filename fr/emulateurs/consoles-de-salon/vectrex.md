@@ -5,7 +5,7 @@ description: Smith Engineering Vectrex
 
 # Vectrex
 
-![](./vectrex/image%20%2868%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/vectrex/image%20%2868%29.png)
 
 ## Fiche technique
 

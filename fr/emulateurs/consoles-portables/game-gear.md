@@ -4,7 +4,7 @@ title: Game Gear
 
 # Game Gear
 
-![](./game-gear/image%20%28188%29.png)
+![](/migration-images/emulateurs/consoles-portables/game-gear/image%20%28188%29.png)
 
 ## Fiche technique
 

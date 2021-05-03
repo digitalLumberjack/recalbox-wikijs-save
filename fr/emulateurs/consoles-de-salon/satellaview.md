@@ -4,7 +4,7 @@ title: Satellaview
 
 # Satellaview
 
-![](./satellaview/image%20%28280%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/satellaview/image%20%28280%29.png)
 
 ## Fiche technique
 

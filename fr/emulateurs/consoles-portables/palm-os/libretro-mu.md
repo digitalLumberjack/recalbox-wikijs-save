@@ -8,21 +8,21 @@ title: Libretro Mu
 
 La continuation du Core est dédiée à Emily \(1998-2020\)
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-portables/palm-os/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**Creative Commons Attribution-NonCommercial 3.0 United States**](https://github.com/libretro/Mu#license).
 
-## ![](./compatibility.png) ****Compatibilité
+## ![](/migration-images/emulateurs/consoles-portables/palm-os/compatibility.png) ****Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-portables/palm-os/cogwheel-145804_640.png)Fonctionnalités
 
 
 
-## ![](./tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/consoles-portables/palm-os/tqfp32.svg)BIOS
 
 ### Liste des bios obligatoires
 
@@ -52,7 +52,7 @@ Placez les bios comme ceci :
 > > > >
 > > > > \*\*\*\*🗒 **bootloader-dbvz.rom**
 
-## \*\*\*\*![](./rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-portables/palm-os/rom-30098_640.png)**Roms**
 
 ### **Extensions supportées**
 
@@ -85,7 +85,7 @@ Placez les roms comme ceci :
 >Pour plus d'information sur les roms, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png)Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-portables/palm-os/hammer-28636_640.png)Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -122,7 +122,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/consoles-portables/palm-os/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Code source utilisé :** [https://github.com/libretro/Mu](https://github.com/libretro/Mu)
 * **Code source Officiel :** [https://github.com/meepingsnesroms/Mu](https://github.com/meepingsnesroms/Mu)

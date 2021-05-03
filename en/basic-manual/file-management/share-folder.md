@@ -14,13 +14,13 @@ title: Share folder
 >On an **external storage** the folder is named **"Recalbox".**
 {.is-warning}
 
-![](./image%20%2822%29.png)
+![](/migration-images/basic-manual/file-management/image%20%2822%29.png)
 
 There you can **manage** most files and subfolders intended for a average user, it contains the following folders:
 
 * **Bios**
 
-![](./image%20%2838%29.png)
+![](/migration-images/basic-manual/file-management/image%20%2838%29.png)
 
 The bios folder has to contain the BIOSes files used by Recalbox consoles emulators, please note that **some** emulator **do not** require any BIOS to work.
 

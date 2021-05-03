@@ -21,7 +21,7 @@ Dans Romulus, il y a 3 modes possibles pour l'assemblage des ces jeux \(ces mêm
 
 ### Détail des 3 modes
 
-![main set = parent  /  clone set = clone](./image%20%28313%29.png)
+![main set = parent  /  clone set = clone](/migration-images/tutoriels/utilitaires/gestion-des-roms/romulus-rom-manager/image%20%28313%29.png)
 
 * **Split / Not Merged** : Toutes les roms nécessaires au fonctionnement du jeu sont dans le fichier ou le dossier du jeu \(plus d'espace de stockage est utilisé car des roms communes sont présentes dans chaque jeu\).
 * **Split / Merged** : Toutes les roms nécessaires au fonctionnement du jeu Parent sont dans le fichier ou le dossier du jeu. Le fichier ou le dossier du jeu Clone ne contient que les roms particulières le composant \(mais pour fonctionner, le jeu clone a besoin de roms présentes dans le jeu parent\).
@@ -33,7 +33,7 @@ Dans Romulus, il y a 3 modes possibles pour l'assemblage des ces jeux \(ces mêm
 
 ## Les jeux Arcade dans Romulus
 
-![](./image%20%28269%29.png)
+![](/migration-images/tutoriels/utilitaires/gestion-des-roms/romulus-rom-manager/image%20%28269%29.png)
 
 * **Ligne surlignée en bleu** : La colonne "**Clone de**" vide indique qu'il s'agit d'un jeu parent. L'icône verte à gauche indique que le jeu est complet \(Icône jaune = jeu incomplet, icône rouge = jeu absent\).
 * **A** : Dans cette table se trouve le détail du jeu sélectionné. Il s'agit de la liste des roms composant le jeu. La pastille verte indique que que la rom est présente et conforme au fichier .dat \(Pastille rouge = rom manquante\).
@@ -41,7 +41,7 @@ Dans Romulus, il y a 3 modes possibles pour l'assemblage des ces jeux \(ces mêm
 
 ## Fichiers Sample et CHD
 
-![](./image%20%28173%29.png)
+![](/migration-images/tutoriels/utilitaires/gestion-des-roms/romulus-rom-manager/image%20%28173%29.png)
 
 Lors de la configuration du fichier .dat pour l'arcade \(voir [Configurer le fichier .dat ajouté](romulus-pour-les-consoles.md#configurer-le-fichier-dat-ajoute)\), il faut parfois définir d'autres répertoires en plus de celui des roms : un répertoire pour les **Samples** \(Fichiers audio nécessaires à certains jeux\) et un répertoire pour les **CHD** \(Image CD complémentaire de la rom pour le fonctionnement des jeux les plus récents\).
 

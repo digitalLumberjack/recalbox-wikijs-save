@@ -19,5 +19,5 @@ Et ce n'est pas fini ! Il supporte également de multiples signatures MD5 diffé
 
 Allô la régie ? Envoyez les images !
 
-![](./image%20%2827%29.png)
+![](/migration-images/usage-basique/fonctionnalites/image%20%2827%29.png)
 

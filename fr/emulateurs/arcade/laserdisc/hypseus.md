@@ -10,7 +10,7 @@ title: Hypseus
 * Supporte SDL2
 * Etc...
 
-## ![](./gerald-g-parchment-background-or-border-5.svg)Licence
+## ![](/migration-images/emulateurs/arcade/laserdisc/gerald-g-parchment-background-or-border-5.svg)Licence
 
 Ce core est sous licence :
 
@@ -20,25 +20,25 @@ Ce core est sous licence :
 **Daphne**, the First Ever Multiple Arcade Laserdisc Emulator  
  Copyright \(C\) 1999-2013 [Matt Ownby](http://www.daphne-emu.com/site3/statement.php)**GPLv2**
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/arcade/laserdisc/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png)Fonctionnalités
+## ![](/migration-images/emulateurs/arcade/laserdisc/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
 
 
-## ![](./tqfp32.svg)BIOS <a id="bios"></a>
+## ![](/migration-images/emulateurs/arcade/laserdisc/tqfp32.svg)BIOS <a id="bios"></a>
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## ![](./rom-30098_640.png)**Roms** <a id="roms"></a>
+## ![](/migration-images/emulateurs/arcade/laserdisc/rom-30098_640.png)**Roms** <a id="roms"></a>
 
 ### Comment jouer à des jeux disque-laser sur Recalbox ?
 
@@ -168,7 +168,7 @@ La page [http://www.dragons-lair-project.com/tech/dips/dle20.asp](http://www.dra
 * Pour **quitter l'émulateur**, appuyez sur **le bouton hotkey**.
 * **Si hotkey** correspond à **un bouton déjà utilisé** \(select, par exemple\), **le bouton** **pagedown** est utilisé **pour quitter.**
 
-## ![](./hammer-28636_640.png)Configuration avancée des émulateurs <a id="configuration-avancee-des-emulateurs"></a>
+## ![](/migration-images/emulateurs/arcade/laserdisc/hammer-28636_640.png)Configuration avancée des émulateurs <a id="configuration-avancee-des-emulateurs"></a>
 
 
 >**Attention :**  
@@ -205,7 +205,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes** <a id="liens-exterieur"></a>
+## ![](/migration-images/emulateurs/arcade/laserdisc/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes** <a id="liens-exterieur"></a>
 
 * **Github :** [https://github.com/btolab/hypseus](https://github.com/btolab/hypseus)
 * **Site Officiel :** [http://www.daphne-emu.com/site3/index\_hi.php](http://www.daphne-emu.com/site3/index_hi.php)

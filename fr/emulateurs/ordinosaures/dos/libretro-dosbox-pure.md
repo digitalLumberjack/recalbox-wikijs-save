@@ -6,7 +6,7 @@ title: Libretro DOSBox Pure
 
 
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence <a id="licence"></a>
+## ![](/migration-images/emulateurs/ordinosaures/dos/gerald-g-parchment-background-or-border-5.svg) Licence <a id="licence"></a>
 
 ​Ce core est sous licence [**GPLv2**](https://gitlab.com/recalbox/packages/libretro/libretro-dosbox-pure/-/blob/main/LICENSE).
 
@@ -16,17 +16,17 @@ title: Libretro DOSBox Pure
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ​ ❌ | ❌​ | ​ ✅ | ✅ | ​✅ | ✅​ | ​✅ | ​✅ | ✅​ |
 
-## ​ ![](./cogwheel-145804_640.png) Fonctionnalités <a id="fonctionnalites"></a>
+## ​ ![](/migration-images/emulateurs/ordinosaures/dos/cogwheel-145804_640.png) Fonctionnalités <a id="fonctionnalites"></a>
 
 ​
 
-## ​ ![](./tqfp32.svg) BIOS <a id="bios"></a>
+## ​ ![](/migration-images/emulateurs/ordinosaures/dos/tqfp32.svg) BIOS <a id="bios"></a>
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## ​ ![](./rom-30098_640.png) Roms <a id="roms"></a>
+## ​ ![](/migration-images/emulateurs/ordinosaures/dos/rom-30098_640.png) Roms <a id="roms"></a>
 
 ### **Extensions supportées**
 
@@ -48,7 +48,7 @@ Placez les roms comme ceci :
 > > > >
 > > > > > 🗒**fichier.zip**
 
-## ​ ![](./hammer-28636_640.png) Configuration avancée de l'émulateur <a id="configuration-avancee-de-lemulateur"></a>
+## ​ ![](/migration-images/emulateurs/ordinosaures/dos/hammer-28636_640.png) Configuration avancée de l'émulateur <a id="configuration-avancee-de-lemulateur"></a>
 
 ### ​Utiliser la souris avec la manette
 
@@ -60,7 +60,7 @@ Pour utiliser la souris sur un joystick de votre manette, il y a une manipulatio
 * Mettez-vous sur l'option **Type de périphérique** et utilisez la flèche droite pour vous arrêter sur `Mouse with Right Analog Stick`.
 * Retournez en jeu et profitez ! Vous aurez les clics de souris sur L1 et R1 \(clic gauche et clic droit\).
 
-## ​ ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes <a id="liens-externes"></a>
+## ​ ![](/migration-images/emulateurs/ordinosaures/dos/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes <a id="liens-externes"></a>
 
 * **Gitlab utilisé** : [https://gitlab.com/recalbox/packages/libretro/libretro-dosbox-pure/](https://gitlab.com/recalbox/packages/libretro/libretro-dosbox-pure/)
 * **Github original** : [https://github.com/libretro/dosbox-pure](https://github.com/libretro/dosbox-pure)/

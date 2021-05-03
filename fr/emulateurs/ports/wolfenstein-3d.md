@@ -4,7 +4,7 @@ title: Wolfenstein 3D
 
 # Wolfenstein 3D
 
-![](./wolfenstein-3d/image%20%28102%29.png)
+![](/migration-images/emulateurs/ports/wolfenstein-3d/image%20%28102%29.png)
 
 ## Fiche technique
 

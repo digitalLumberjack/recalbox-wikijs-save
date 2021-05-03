@@ -4,7 +4,7 @@ title: PSP
 
 # PSP
 
-![](./psp/image%20%28171%29.png)
+![](/migration-images/emulateurs/consoles-portables/psp/image%20%28171%29.png)
 
 ## Fiche technique
 

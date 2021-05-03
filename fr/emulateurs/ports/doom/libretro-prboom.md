@@ -16,17 +16,17 @@ PrBoom comprend le travail de tous les projets suivants :
 
 PrBoom est un portage du moteur graphique de Doom. Il peut faire fonctionner Doom 1 et Doom 2.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/ports/doom/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**GPLv2**](https://github.com/libretro/libretro-prboom/blob/master/COPYING).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/ports/doom/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/ports/doom/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -39,13 +39,13 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/libretro-prboom
 | Controls | ✔ |
 | Remapping | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/ports/doom/tqfp32.svg) BIOS
 
 
 >**Le bios est déjà présent** dans le répertoire `/recalbox/share/bios/prboom/prboom.wad`
 {.is-info}
 
-## \*\*\*\*![](./rom-30098_640.png) **Roms**
+## \*\*\*\*![](/migration-images/emulateurs/ports/doom/rom-30098_640.png) **Roms**
 
 
 >**Remarque :**  

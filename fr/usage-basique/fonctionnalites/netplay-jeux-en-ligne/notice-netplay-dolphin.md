@@ -15,21 +15,21 @@ description: Jouer en ligne sur Gamecube et Wii
 * En jeu appuyer sur `HOTKEY+B` pour accéder au menu Dolphin.
 * Dans le menu a l'aide votre souris appuyer sur l'onglet `Outils` .
 
-![](./dolphin-netplay-outil-menu.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/dolphin-netplay-outil-menu.png)
 
 ###   1. Créer un salon de jeux 
 
 * Appuyer sur `Démarer Netplay...`
 
-![](./dolphin-hote-netplay.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/dolphin-hote-netplay.png)
 
 * Appuyer sur l'onglet `hôte`, enfin sélectionner votre jeux dans la liste.
 
-![](./dolphin-netplay-hote-setting.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/dolphin-netplay-hote-setting.png)
 
 * Une fenêtre de chat textuel apparaît et votre salon est désormais joignable patienter !
 
-![](./dolphin-netplay-hote-chat-room.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/dolphin-netplay-hote-chat-room.png)
 
 
 >Dans la plupart des jeux, ajoutez environ 1 Buffer par 15 ms de latence par client.
@@ -45,14 +45,14 @@ description: Jouer en ligne sur Gamecube et Wii
 
 * Appuyer sur `Parcourir Les Sessions NetPlay`.
 
-![](./dolphin-netplay-client.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/dolphin-netplay-client.png)
 
 * Dans le lobby Netplay de Dolphin vous pouvez apercevoir toutes les parties en ligne
 
-![](./dolphin-netplay-client-lobby.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/dolphin-netplay-client-lobby.png)
 
 * Puis double clics sur le salon pour accéder au chat textuel.
 * Patientez le lancement du jeu par l'hôte dans le salon de jeu !
 
-![](./dolphin-netplay-client-chat-room.png)
+![](/migration-images/usage-basique/fonctionnalites/netplay-jeux-en-ligne/dolphin-netplay-client-chat-room.png)
 

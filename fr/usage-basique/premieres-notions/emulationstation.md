@@ -17,7 +17,7 @@ description: Recalbox's Frontend
 
 Le **premier écran** est celui des **Systèmes** :
 
-![](./01.png)
+![](/migration-images/usage-basique/premieres-notions/01.png)
 
 Il liste les **consoles** et **systèmes disponibles.**
 
@@ -35,7 +35,7 @@ Une fois le jeu lancé, reportez-vous à la section **"**[**Pendant le jeu**](/f
 
 En pressant **START**, vous serez en mesure de **modifier certains réglages de Recalbox**.
 
-![](./menu.png)
+![](/migration-images/usage-basique/premieres-notions/menu.png)
 
 
 

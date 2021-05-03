@@ -23,7 +23,7 @@ description: Installing Recalbox on a GPi case...
 
 ## Just flash and boot!
 
-![GPi Case](./image%20%28202%29.png)
+![GPi Case](/migration-images/basic-manual/getting-started/preparation-and-installation-of-recalbox/image%20%28202%29.png)
 
 It's that simple! _**Recalbox detects and installs automatically everything required**_ to make your GPi case working fine.
 
@@ -31,11 +31,11 @@ Just flash your SD card with the latest Recalbox image for Raspberry Pi1 / Pi0, 
 
 Wait for a few seconds, then you should see the following image on screen:
 
-![Installation image](./image%20%28197%29.png)
+![Installation image](/migration-images/basic-manual/getting-started/preparation-and-installation-of-recalbox/image%20%28197%29.png)
 
 Wait a few more seconds \(this can be longer for large SD cards\) until EmulationStation starts with its usual screen:
 
-![EmulationStation is starting...](./image%20%28218%29.png)
+![EmulationStation is starting...](/migration-images/basic-manual/getting-started/preparation-and-installation-of-recalbox/image%20%28218%29.png)
 
 Then, enjoy an optimized theme to make your experience rich, smooth and fun!
 
@@ -97,7 +97,7 @@ Here's a quick, step-by-step solution :
 
 ## Installing games
 
-![](./image%20%28164%29.png)
+![](/migration-images/basic-manual/getting-started/preparation-and-installation-of-recalbox/image%20%28164%29.png)
 
 Now that you are connected, you can install your games as usual, using SAMBA \(`\\recalboxgpi\share` in a file browser\) or through the WebManager \(`http://recalboxgpi` in a web client\).   
   
@@ -142,7 +142,7 @@ _**However you can still modify the O/C options at your own risk!**_
 
 You can add a small copper heatsink as shown in the following picture. Its thickness must not exceed 2mm.
 
-![](./img_20190616_174526.jpg)
+![](/migration-images/basic-manual/getting-started/preparation-and-installation-of-recalbox/img_20190616_174526.jpg)
 
 ### 
 

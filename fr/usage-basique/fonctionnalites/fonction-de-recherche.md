@@ -24,7 +24,7 @@ Et pour parfaire le tout, il est en semi-transparence, ce qui permet de voir en 
 
 Sans plus attendre, quelques images!
 
-![](./image%20%2895%29.png)
+![](/migration-images/usage-basique/fonctionnalites/image%20%2895%29.png)
 
 ## Fonctionnement
 

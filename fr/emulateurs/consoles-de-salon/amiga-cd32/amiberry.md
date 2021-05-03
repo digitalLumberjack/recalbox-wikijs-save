@@ -6,11 +6,11 @@ title: Amiberry
 
 **Amiberry** est un core pour ARM optimisé pour Amiga.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**GPLv3**](https://github.com/midwan/amiberry/blob/master/COPYING).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -18,11 +18,11 @@ Ce core est sous licence [**GPLv3**](https://github.com/midwan/amiberry/blob/mas
 
 🐌 Basses performances mais jouable
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/cogwheel-145804_640.png) Fonctionnalités
 
 
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -79,7 +79,7 @@ Placez les BIOS comme ceci :
 > > > >
 > > > > 🗒 **kick40060.CD32.ext.rom**
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/rom-30098_640.png) Roms
 
 ### Extensions supportées
 
@@ -114,7 +114,7 @@ Placez les isos comme ceci :
 >Pour plus d'information sur les isos, rendez-vous sur [ce tutoriel](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos) !
 {.is-info}
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -123,7 +123,7 @@ Placez les isos comme ceci :
 
 
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/midwan/amiberry/](https://github.com/midwan/amiberry/)
 * **Doc** : [https://blitterstudio.com/amiberry/](https://blitterstudio.com/amiberry/)

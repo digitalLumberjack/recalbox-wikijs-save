@@ -4,7 +4,7 @@ title: Neo-Geo CD
 
 # Neo-Geo CD
 
-![](./neo-geo-cd/image%20%28132%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/image%20%28132%29.png)
 
 ## Fiche technique
 

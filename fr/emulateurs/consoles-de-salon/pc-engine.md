@@ -4,7 +4,7 @@ title: Pc-Engine
 
 # Pc-Engine
 
-![](./pc-engine/image%20%28309%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/pc-engine/image%20%28309%29.png)
 
 ## Fiche technique
 

@@ -4,7 +4,7 @@ title: Thomson MO/TO
 
 # Thomson MO/TO
 
-![Mod&#xE8;le TO8](./thomson-t08/image%20%2829%29.png)
+![Mod&#xE8;le TO8](/migration-images/emulateurs/ordinosaures/thomson-t08/image%20%2829%29.png)
 
 ## Fiche technique
 

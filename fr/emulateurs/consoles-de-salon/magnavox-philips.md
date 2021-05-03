@@ -4,7 +4,7 @@ title: Magnavox Videopac/Philips Odyssey²
 
 # Magnavox Videopac/Philips Odyssey²
 
-![](./magnavox-philips/image%20%28347%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/magnavox-philips/image%20%28347%29.png)
 
 ## Fiche technique
 

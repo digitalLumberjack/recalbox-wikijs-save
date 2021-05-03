@@ -4,7 +4,7 @@ title: Wonderswan
 
 # Wonderswan
 
-![](./wonderswan/image%20%28302%29.png)
+![](/migration-images/emulateurs/consoles-portables/wonderswan/image%20%28302%29.png)
 
 ## Fiche technique
 

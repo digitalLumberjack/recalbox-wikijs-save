@@ -10,17 +10,17 @@ Afin de tirer parti des performances et des exigences matérielles moindres d'un
 
 Sur cette base, les contributeurs de MAME 2003-Plus ont rétro porté le support de plusieurs centaines de jeux supplémentaires, ainsi que d’autres fonctionnalités non présentes à l’origine dans MAME 0.78.
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/arcade/mame/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**MAME non-commerciale**](https://github.com/libretro/mame2003-plus-libretro/blob/master/LICENSE.md).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/arcade/mame/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/arcade/mame/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -32,7 +32,7 @@ Ce core est sous licence [**MAME non-commerciale**](https://github.com/libretro/
 | Controllers | ✔ |
 | Multi-Mouse | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/arcade/mame/tqfp32.svg) BIOS
 
 Les Romsets BIOS ne sont pas nécessaires lorsque vous utilisez des Romsets d'arcade "Full Non-Merged". Pour les roms "Split" et "Non-Merged", placez le BIOS dans le même répertoire que la Romset du jeu.
 
@@ -42,7 +42,7 @@ Les Romsets BIOS ne sont pas nécessaires lorsque vous utilisez des Romsets d'ar
 >ou dans **son sous-répertoire** si vous utiliser plusieurs cores de Mame :`/recalbox/share/roms/mame/Mame 2003-Plus/`
 {.is-warning}
 
-## \*\*\*\*![](./rom-30098_640.png) **Roms**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/mame/rom-30098_640.png) **Roms**
 
 * Basé sur le romset : 0.78-0.188 \(MAME 0.78 en tant que ligne de base avec d'autres ROMs basées sur des jeux de roms MAME ultérieurs\)
 * Taille : 32gb
@@ -83,11 +83,11 @@ Placez les roms comme ceci :
 > > > > >
 > > > > > > 🗒**fichier.zip**
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/arcade/mame/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 
-## \*\*\*\*![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/mame/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
 
 * **Progettosnaps :** [https://www.progettosnaps.net/](https://www.progettosnaps.net/)
 * **Github :** [https://github.com/libretro/mame2003-plus-libretro/](https://github.com/libretro/mame2003-plus-libretro)

@@ -15,9 +15,9 @@ Depuis quelque temps, RetroArch permet l'utilisation d'un service de traduction 
 >Cette fonction nécessite une connexion internet !
 {.is-danger}
 
-![Avant](./ocr1.png)
+![Avant](/migration-images/usage-basique/fonctionnalites/ocr1.png)
 
-![Apr&#xE8;s](./ocr2.png)
+![Apr&#xE8;s](/migration-images/usage-basique/fonctionnalites/ocr2.png)
 
 ## Configuration :
 

@@ -4,7 +4,7 @@ title: Pocket Challenge V2
 
 # Pocket Challenge V2
 
-![](./pocket-challenge-v2/pocket-challenge-v2.svg)
+![](/migration-images/emulateurs/consoles-portables/pocket-challenge-v2/pocket-challenge-v2.svg)
 
 ## Fiche technique
 

@@ -8,21 +8,21 @@ title: Libretro O2EM
 
 
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/ordinosaures/videopac+/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**artistique**](https://sourceforge.net/projects/o2em/).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/ordinosaures/videopac+/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/ordinosaures/videopac+/cogwheel-145804_640.png) Fonctionnalités
 
 
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/ordinosaures/videopac+/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -45,7 +45,7 @@ Placez les bios comme ceci :
 > > > >
 > > > > 🗒 jopac.bin
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/ordinosaures/videopac+/rom-30098_640.png) Roms
 
 ### **Extensions supportées**
 
@@ -74,11 +74,11 @@ Placez les roms comme ceci :
 > > > >
 > > > > > 🗒**fichier.zip**
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/ordinosaures/videopac+/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/ordinosaures/videopac+/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/libretro/libretro-o2em/](https://github.com/libretro/libretro-o2em/)
 * **Doc Libretro** : [https://docs.libretro.com/library/o2em/](https://docs.libretro.com/library/o2em/)

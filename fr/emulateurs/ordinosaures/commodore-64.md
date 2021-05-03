@@ -4,7 +4,7 @@ title: Commodore 64
 
 # Commodore 64
 
-![](./commodore-64/image%20%28243%29.png)
+![](/migration-images/emulateurs/ordinosaures/commodore-64/image%20%28243%29.png)
 
 ## Fiche technique
 

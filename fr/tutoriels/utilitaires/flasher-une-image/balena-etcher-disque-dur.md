@@ -35,19 +35,19 @@ Le programme indique la capacité du dispositif et signale si celui-ci est trop 
 
 * Appuyer sur le bouton **“Start ou Flash”** pour lancer la procédure. Etcher se charge de tout, formatage, préparation des partitions, copie des fichiers, etc…
 
-![](./image%20%28259%29.png)
+![](/migration-images/tutoriels/utilitaires/flasher-une-image/image%20%28259%29.png)
 
 * Le programme indique le travail en cours, il précise également le temps nécessaire au déroulement de l’opération et la vitesse de transfert des données.
 
-![](./image%20%28116%29.png)
+![](/migration-images/tutoriels/utilitaires/flasher-une-image/image%20%28116%29.png)
 
 * Il valide ensuite l’image.
 
-![](./image%20%28238%29.png)
+![](/migration-images/tutoriels/utilitaires/flasher-une-image/image%20%28238%29.png)
 
 * Et enfin signale le bon – ou le mauvais – déroulement de l’opération. Vous donne une clé pour vérifier l’intégrité de l’archive et vous propose de recommencer l’opération soit avec la même image en un clic, soit avec une image ISO différente.
 
-![](./image%20%28285%29.png)
+![](/migration-images/tutoriels/utilitaires/flasher-une-image/image%20%28285%29.png)
 
 * Vous pouvez éjecter le support de stockage.
 

@@ -4,7 +4,7 @@ title: Super Cassette Vision
 
 # Super Cassette Vision
 
-![](./super-cassette-vision/super-cassette-vision.svg)
+![](/migration-images/emulateurs/consoles-de-salon/super-cassette-vision/super-cassette-vision.svg)
 
 ## Fiche technique
 

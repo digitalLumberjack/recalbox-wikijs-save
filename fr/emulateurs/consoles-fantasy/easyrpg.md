@@ -4,7 +4,7 @@ title: EasyRPG
 
 # EasyRPG
 
-![](./easyrpg/easyrpg-console.svg)
+![](/migration-images/emulateurs/consoles-fantasy/easyrpg/easyrpg-console.svg)
 
 ## Fiche technique
 

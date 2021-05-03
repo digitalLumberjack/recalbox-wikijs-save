@@ -11,11 +11,11 @@ Il s'agit d'une sortie publique anticipée de Supermodel. Il s'agit d'un documen
 Le développement a débuté en janvier 2011 et s'est concentré sur les aspects de rétro-ingénierie de la Modèle 3 encore inconnu.  
 Par conséquent, de nombreuses caractéristiques importantes, telles que une interface utilisateur appropriée, ne sont pas encore mises en œuvre et la compatibilité des jeux est encore faible.
 
-## ​![](./supermodel/gerald-g-parchment-background-or-border-5.svg)Licence
+## ​![](/migration-images/emulateurs/arcade/sega-model-3/supermodel/gerald-g-parchment-background-or-border-5.svg)Licence
 
 Ce core est sous licence [**GPLV3**](https://www.supermodel3.com/About.html).
 
-## ![](./supermodel/compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/arcade/sega-model-3/supermodel/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -31,13 +31,13 @@ Ce core est sous licence [**GPLV3**](https://www.supermodel3.com/About.html).
 | **Change Slot Saves** | `Hotkey + Dpad Up` |
 | **Screenshot** | `Hotkey + L1` |
 
-## ![](./supermodel/tqfp32.svg)BIOS
+## ![](/migration-images/emulateurs/arcade/sega-model-3/supermodel/tqfp32.svg)BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## \*\*\*\*![](./supermodel/rom-30098_640.png)**Roms**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/sega-model-3/supermodel/rom-30098_640.png)**Roms**
 
 **Model3** se base sur le romset de **Mame 0.220**.
 
@@ -208,7 +208,7 @@ log-level=info
 
 ### Options du core
 
-## ![](./supermodel/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
+## ![](/migration-images/emulateurs/arcade/sega-model-3/supermodel/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 
 * **Forum Officiel :** [https://www.supermodel3.com/](https://www.supermodel3.com/)
 * **Source Forge Officiel :** [https://sourceforge.net/projects/model3emu/](https://sourceforge.net/projects/model3emu/)

@@ -4,7 +4,7 @@ title: Atari ST
 
 # Atari ST
 
-![](./atari-st/image%20%28163%29.png)
+![](/migration-images/emulateurs/ordinosaures/atari-st/image%20%28163%29.png)
 
 ## Fiche technique
 

@@ -15,7 +15,7 @@ description: Recalbox's Frontend
 
 The **first** screen is the **system** screen :
 
-![](./01.png)
+![](/migration-images/basic-manual/getting-started/01.png)
 
 ​It shows all **available** systems with games inside.
 
@@ -23,7 +23,7 @@ The **first** screen is the **system** screen :
 
 By Pressing Start, you will be able to change some system settings.
 
-![](./menu.png)
+![](/migration-images/basic-manual/getting-started/menu.png)
 
 ### Kodi Media Center
 

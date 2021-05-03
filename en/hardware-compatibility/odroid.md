@@ -6,7 +6,7 @@ title: Odroid
 
 ## Odriod XU4
 
-![](./xu4-exynos-8-coeurs.jpg)
+![](/migration-images/hardware-compatibility/xu4-exynos-8-coeurs.jpg)
 
 ODROID-XU4 is a new generation of computing device with more powerful and more energy efficient hardware and a smaller form factor. 
 
@@ -38,7 +38,7 @@ This allows users to truly experience a computer upgrade, especially with faster
 
 ## Odroid XU4Q
 
-![](./xu4q.jpg)
+![](/migration-images/hardware-compatibility/xu4q.jpg)
 
 Whether you want to build a media center, a game console, an on-board surveillance system or anything else, the ultra-compact **Odroid XU4Q** motherboard will be an ideal choice.
 

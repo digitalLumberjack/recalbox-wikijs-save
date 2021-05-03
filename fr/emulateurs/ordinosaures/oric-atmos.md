@@ -4,7 +4,7 @@ title: Oric Atmos
 
 # Oric Atmos
 
-![](./oric-atmos/image%20%2850%29.png)
+![](/migration-images/emulateurs/ordinosaures/oric-atmos/image%20%2850%29.png)
 
 ## Fiche technique
 

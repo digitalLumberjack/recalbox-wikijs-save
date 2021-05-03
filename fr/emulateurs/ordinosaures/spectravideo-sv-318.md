@@ -4,7 +4,7 @@ title: Spectravideo SV-318
 
 # Spectravideo SV-318
 
-![](./spectravideo-sv-318/image%20%28101%29.png)
+![](/migration-images/emulateurs/ordinosaures/spectravideo-sv-318/image%20%28101%29.png)
 
 ## Fiche technique
 

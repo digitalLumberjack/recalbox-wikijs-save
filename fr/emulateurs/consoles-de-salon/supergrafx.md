@@ -4,7 +4,7 @@ title: SuperGrafX
 
 # SuperGrafX
 
-![](./supergrafx/image%20%28176%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/supergrafx/image%20%28176%29.png)
 
 ## Fiche technique
 

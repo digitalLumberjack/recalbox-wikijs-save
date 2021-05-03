@@ -6,17 +6,17 @@ title: Libretro Flycast
 
 **Libretro Flycast** est un émulateur **Sega Dreamcast multiplate-formes** capable d'émuler la **Naomi GD-ROM.**
 
-## \*\*\*\*![](./gerald-g-parchment-background-or-border-5.svg)**Licence**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/naomi-gd-rom/gerald-g-parchment-background-or-border-5.svg)**Licence**
 
 Ce core est sous licence **GPLv2**
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/arcade/naomi-gd-rom/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC x86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/arcade/naomi-gd-rom/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -31,7 +31,7 @@ Ce core est sous licence **GPLv2**
 | Rumble | ✔ |
 | Disk Control | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/arcade/naomi-gd-rom/tqfp32.svg) BIOS
 
 ### Liste des bios **obligatoires**
 
@@ -64,7 +64,7 @@ Placez les bios comme ceci :
 > > > > >
 > > > > > 🗒**hod2bios.zip**
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/arcade/naomi-gd-rom/rom-30098_640.png) Roms
 
 Flycast se base sur le romset de **Mame**.
 
@@ -118,7 +118,7 @@ Placez les roms comme ceci :
 > > > > >
 > > > > > > 🗒 **jeu1.chd**
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/arcade/naomi-gd-rom/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 >**Attention :**  
@@ -155,7 +155,7 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 ### Options du core
 
-## \*\*\*\*![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
+## \*\*\*\*![](/migration-images/emulateurs/arcade/naomi-gd-rom/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
 
 * **Github utilisé :** [https://github.com/libretro/flycast](https://github.com/libretro/flycast)
 * **Documentation Libretro :** [https://docs.libretro.com/library/flycast/](https://docs.libretro.com/library/flycast/)

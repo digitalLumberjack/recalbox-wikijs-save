@@ -5,9 +5,9 @@ description: Systèmes Arcade
 
 # Arcade
 
-![](./arcade/image%20%2837%29.png)
+![](/migration-images/emulateurs/arcade/image%20%2837%29.png)
 
-![](./arcade/console-4-.svg)
+![](/migration-images/emulateurs/arcade/console-4-.svg)
 
 Un jeu d'arcade ou un jeu d'argent est un divertissement à pièces. La plupart des jeux d'arcade sont des jeux vidéo, des flippers, jeux électro-mécaniques, jeux d'échange ou marchandises.
 

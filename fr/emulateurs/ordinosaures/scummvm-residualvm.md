@@ -4,7 +4,7 @@ title: ScummVM/ResidualVM
 
 # ScummVM/ResidualVM
 
-![](./scummvm-residualvm/scummvm.svg)
+![](/migration-images/emulateurs/ordinosaures/scummvm-residualvm/scummvm.svg)
 
 ## Fiche technique
 

@@ -4,7 +4,7 @@ title: Neo-Geo Pocket
 
 # Neo-Geo Pocket
 
-![](./neo-geo-pocket/image%20%28316%29.png)
+![](/migration-images/emulateurs/consoles-portables/neo-geo-pocket/image%20%28316%29.png)
 
 ## Fiche technique
 

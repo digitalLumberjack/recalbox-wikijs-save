@@ -4,7 +4,7 @@ title: Amiga 1200
 
 # Amiga 1200
 
-![](./amiga-1200/image%20%2823%29.png)
+![](/migration-images/emulateurs/ordinosaures/amiga-1200/image%20%2823%29.png)
 
 ## Fiche technique
 

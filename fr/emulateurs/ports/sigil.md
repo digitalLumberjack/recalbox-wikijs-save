@@ -5,7 +5,7 @@ description: Doom 2019 en version Gore
 
 # Sigil
 
-![](./sigil/sigil_title_screen.png)
+![](/migration-images/emulateurs/ports/sigil/sigil_title_screen.png)
 
 ## Fiche technique
 

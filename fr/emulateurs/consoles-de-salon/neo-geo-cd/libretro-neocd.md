@@ -6,7 +6,7 @@ title: Libretro NeoCD
 
 
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**LGPLv3**](https://github.com/libretro/neocd_libretro/blob/master/LICENSE.md).
 
@@ -16,13 +16,13 @@ Ce core est sous licence [**LGPLv3**](https://github.com/libretro/neocd_libretro
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
 |  | ✔ |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/tqfp32.svg) BIOS
 
 ### Liste des bios obligatoires
 
@@ -77,7 +77,7 @@ Placez les BIOS comme ceci :
 > > > > >
 > > > > > 🗒 ng-lo.rom
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/rom-30098_640.png) Roms
 
 ### **Extensions supportées**
 
@@ -104,11 +104,11 @@ Placez les roms comme ceci :
 > > > > >
 > > > > > 🗒 fichier.bin
 
-## ![](./cogwheel-145804_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/cogwheel-145804_640.png) Configuration avancée de l'émulateur
 
 
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://github.com/libretro/neocd\_libretro/](https://github.com/libretro/neocd_libretro/)
 * **Doc Libretro** : -

@@ -4,7 +4,7 @@ title: Videopac+
 
 # Videopac+
 
-![](./videopac+/videopacplus.svg)
+![](/migration-images/emulateurs/ordinosaures/videopac+/videopacplus.svg)
 
 ## Fiche technique
 

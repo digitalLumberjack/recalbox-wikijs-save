@@ -6,7 +6,7 @@ title: Libretro-retro8
 
 Libretro-retro8 est un core développé pour faire fonctionner des jeux, qui ont été crées à partir de ce même émulateur.
 
-## \*\*\*\*![](./gerald-g-parchment-background-or-border-5.svg)**License**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-fantasy/pico-8/gerald-g-parchment-background-or-border-5.svg)**License**
 
 Ce core est sous licence [**GPLv3**](https://github.com/libretro/retro8/blob/master/LICENSE).
 
@@ -16,7 +16,7 @@ Ce core est sous licence [**GPLv3**](https://github.com/libretro/retro8/blob/mas
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/consoles-fantasy/pico-8/cogwheel-145804_640.png) Fonctionnalités
 
 | Fonctionnalité | Supporté |
 | :---: | :---: |
@@ -25,13 +25,13 @@ Ce core est sous licence [**GPLv3**](https://github.com/libretro/retro8/blob/mas
 |  |  |
 |  |  |
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/consoles-fantasy/pico-8/tqfp32.svg) BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/consoles-fantasy/pico-8/rom-30098_640.png) Roms
 
 ### **Extensions supportées** <a id="extension-supporte"></a>
 
@@ -56,7 +56,7 @@ Placez les roms comme ceci :
 > > > >
 > > > > > 🗒**fichier.png**
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/consoles-fantasy/pico-8/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 ### Options du core <a id="options-du-core"></a>
 
@@ -68,7 +68,7 @@ Vous pouvez configurer divers options via le `Menu Retroarch/Options du core` .
 >Nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
 {.is-danger}
 
-## \*\*\*\*![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
+## \*\*\*\*![](/migration-images/emulateurs/consoles-fantasy/pico-8/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) **Liens externes**
 
 * **Github utilisé** : [https://github.com/libretro/retro8/](https://github.com/libretro/retro8/)
 * **Github officiel** : [https://github.com/Jakz/retro8/](https://github.com/Jakz/retro8/)

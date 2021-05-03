@@ -5,7 +5,7 @@ description: Flashback - The Quest for Identity
 
 # Flashback
 
-![](./flashback/flashback_bandeau_nswitch.jpg)
+![](/migration-images/emulateurs/ports/flashback/flashback_bandeau_nswitch.jpg)
 
 ## Fiche technique
 
@@ -19,7 +19,7 @@ description: Flashback - The Quest for Identity
 
 ## Synopsis
 
-![](./flashback/nswitch_flashback_01.jpg)
+![](/migration-images/emulateurs/ports/flashback/nswitch_flashback_01.jpg)
 
 2142. Éminent scientifique, Conrad B. Hart, frappé d'amnésie, se trouve au cœur de la jungle lorsqu'il reprend connaissance. Non loin de lui se trouve un curieux boîtier générant une image holographique le représentant. Cette dernière lui demande de se rendre à New Washington, où l'attend un certain Ian. Faisant route vers la ville, Conrad ignore que des extra-terrestres sont infiltrés parmi la population et qu'il devra déjouer un incroyable complot interplanétaire tout en tentant de retrouver des holocubes contenant des fragments de sa mémoire...
 

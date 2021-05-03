@@ -4,7 +4,7 @@ title: Mega Drive
 
 # Mega Drive
 
-![](./megadrive/image%20%2870%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/megadrive/image%20%2870%29.png)
 
 ## Fiche technique
 

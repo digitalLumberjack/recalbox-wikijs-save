@@ -4,7 +4,7 @@ title: Atari Jaguar
 
 # Atari Jaguar
 
-![](./atari-jaguar/image%20%28136%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/atari-jaguar/image%20%28136%29.png)
 
 
 

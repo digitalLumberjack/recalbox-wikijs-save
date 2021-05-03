@@ -46,7 +46,7 @@ Homebrews are games created from scratch by developers. Many of them are very go
 Hacks are modifications of existing games. They take all or part of the graphics and gameplay of a game, and diverge on the story, the difficulty, the atmosphere.  
 Some are considered full sequels of the original games, such as Super Mario Bros 4 \(hack of Super Mario World\) or Legend Of Zelda - Parallels Worlds \(hack of A link to the past\).
 
-![](./image%20%28122%29.png)
+![](/migration-images/presentation/image%20%28122%29.png)
 
 
 

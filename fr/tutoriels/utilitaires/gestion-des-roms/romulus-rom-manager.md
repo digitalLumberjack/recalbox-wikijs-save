@@ -23,15 +23,15 @@ Après avoir téléchargé Romulus, il faut décompresser l'archive dans le rép
 
 On obtient alors les fichiers suivants :
 
-![](./romulus-rom-manager/image%20%28299%29.png)
+![](/migration-images/tutoriels/utilitaires/gestion-des-roms/romulus-rom-manager/image%20%28299%29.png)
 
 En lançant **Romulus.exe**, l'écran suivant apparait :
 
-![](./romulus-rom-manager/image%20%28286%29.png)
+![](/migration-images/tutoriels/utilitaires/gestion-des-roms/romulus-rom-manager/image%20%28286%29.png)
 
 Il faut valider en cliquant sur **OK**. Bienvenue dans Romulus :
 
-![](./romulus-rom-manager/image%20%28147%29.png)
+![](/migration-images/tutoriels/utilitaires/gestion-des-roms/romulus-rom-manager/image%20%28147%29.png)
 
 ## Romulus pour les Consoles
 

@@ -6,27 +6,27 @@ title: SimCoupe
 
 
 
-## ![](./gerald-g-parchment-background-or-border-5.svg) Licence
+## ![](/migration-images/emulateurs/ordinosaures/sam-coupe/gerald-g-parchment-background-or-border-5.svg) Licence
 
 Ce core est sous licence [**GPLv2**](https://gitlab.com/recalbox/packages/standalone/simcoupe/-/blob/dev/License.txt).
 
-## ![](./compatibility.png) Compatibilité
+## ![](/migration-images/emulateurs/ordinosaures/sam-coupe/compatibility.png) Compatibilité
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-## ![](./cogwheel-145804_640.png) Fonctionnalités
+## ![](/migration-images/emulateurs/ordinosaures/sam-coupe/cogwheel-145804_640.png) Fonctionnalités
 
 
 
-## ![](./tqfp32.svg) BIOS
+## ![](/migration-images/emulateurs/ordinosaures/sam-coupe/tqfp32.svg) BIOS
 
 
 >**Aucun bios n'est requis.**
 {.is-success}
 
-## ![](./rom-30098_640.png) Roms
+## ![](/migration-images/emulateurs/ordinosaures/sam-coupe/rom-30098_640.png) Roms
 
 ### **Extensions supportées**
 
@@ -68,11 +68,11 @@ SimCoupe peut utiliser des logiciels au format disque suivants :
 
 `.SBT` - Fichier bootables Sam, crée par Andrew Collier. Ces fichiers sont des fichiers auto-bootables fait pour être copiés sur un disque SAM vide quand ils sont démarrés. Bien que ce ne soit pas des images bootables techniquement, SimCoupe les traite comme tels \(lecture seule\).
 
-## ![](./hammer-28636_640.png) Configuration avancée de l'émulateur
+## ![](/migration-images/emulateurs/ordinosaures/sam-coupe/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
 
-## ![](./kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
+## ![](/migration-images/emulateurs/ordinosaures/sam-coupe/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 
 * **Github utilisé** : [https://gitlab.com/recalbox/packages/standalone/simcoupe/](https://gitlab.com/recalbox/packages/standalone/simcoupe/)
 

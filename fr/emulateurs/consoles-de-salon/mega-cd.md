@@ -4,7 +4,7 @@ title: Mega CD
 
 # Mega CD
 
-![](./mega-cd/image%20%28201%29.png)
+![](/migration-images/emulateurs/consoles-de-salon/mega-cd/image%20%28201%29.png)
 
 ## Fiche technique
 

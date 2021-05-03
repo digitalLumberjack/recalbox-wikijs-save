@@ -4,7 +4,7 @@ title: Amstrad CPC
 
 # Amstrad CPC
 
-![](./amstrad-cpc/image%20%28340%29.png)
+![](/migration-images/emulateurs/ordinosaures/amstrad-cpc/image%20%28340%29.png)
 
 ## Fiche technique
 

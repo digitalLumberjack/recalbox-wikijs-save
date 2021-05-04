@@ -45,19 +45,13 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁Dinothawr
-> > > > >
-> > > > > > 📁dinothawr
-> > > > > >
-> > > > > > > 🗒 dinothawr.game
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁Dinothawr  
+┃ ┃ ┃ ┃ ┃ ┣ 📁dinothawr  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🗒 dinothawr.game  
 
 Cette rom est fournie dans votre Recalbox.
 

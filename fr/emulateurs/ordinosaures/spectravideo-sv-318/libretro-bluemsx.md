@@ -39,39 +39,23 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/blueMSX-libretr
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 Machines
-> > > >
-> > > > > 📁 SVI - Spectravideo SVI-318
-> > > > >
-> > > > > > 🗒 svi318.rom
-> > > > >
-> > > > > 📁 SVI - Spectravideo SVI-328 80 Column
-> > > > >
-> > > > > > 🗒 svi328a.rom
-> > > > > >
-> > > > > > 🗒 svi806.rom
-> > > > >
-> > > > > 📁 SVI - Spectravideo SVI-328 80 Swedish
-> > > > >
-> > > > > > 🗒 svi328a.rom
-> > > > > >
-> > > > > > 🗒 svi806se.rom
-> > > > >
-> > > > > 📁 SVI - Spectravideo SVI-328 MK2
-> > > > >
-> > > > > > 🗒 svi328a.rom
-> > > > > >
-> > > > > > 🗒 svi806.rom
-> > > > >
-> > > > > 📁 SVI - Spectravideo SVI-328
-> > > > >
-> > > > > > 🗒 svi328.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 Machines  
+┃ ┃ ┃ ┃ ┣ 📁 SVI - Spectravideo SVI-318  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 svi318.rom  
+┃ ┃ ┃ ┃ ┣ 📁 SVI - Spectravideo SVI-328 80 Column  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 svi328a.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 svi806.rom  
+┃ ┃ ┃ ┃ ┣ 📁 SVI - Spectravideo SVI-328 80 Swedish  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 svi328a.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 svi806se.rom  
+┃ ┃ ┃ ┃ ┣ 📁 SVI - Spectravideo SVI-328 MK2  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 svi328a.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 svi806.rom  
+┃ ┃ ┃ ┃ ┣ 📁 SVI - Spectravideo SVI-328  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 svi328.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/spectravideo-sv-318/rom-30098_640.png) Roms
 
@@ -92,15 +76,11 @@ De plus, chaque fichier .zip ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁spectravideo
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁spectravideo  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

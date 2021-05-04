@@ -69,99 +69,53 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/blueMSX-libretr
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 Machines
-> > > >
-> > > > > 📁 Forte II Games - Pesadelo
-> > > > >
-> > > > > > 🗒 pesadelo.rom
-> > > > >
-> > > > > 📁 MSX2 - C-BIOS
-> > > > >
-> > > > > > 🗒 cbios\_logo\_msx.rom
-> > > > > >
-> > > > > > 🗒 cbios\_main\_msx.rom
-> > > > > >
-> > > > > > 🗒 cbios\_sub.rom
-> > > > >
-> > > > > 📁 SEGA - SF7000
-> > > > >
-> > > > > > 🗒 sf7000.rom
-> > > > >
-> > > > > 📁 Shared Roms
-> > > > >
-> > > > > > 🗒 ARAB1.ROM
-> > > > > >
-> > > > > > 🗒 ARABIC.rom
-> > > > > >
-> > > > > > 🗒 BEERIDE.ROM
-> > > > > >
-> > > > > > 🗒 FMPAC.rom
-> > > > > >
-> > > > > > 🗒 GCVMX80.ROM
-> > > > > >
-> > > > > > 🗒 HANGUL.rom
-> > > > > >
-> > > > > > 🗒 KANJI.rom
-> > > > > >
-> > > > > > 🗒 MICROSOLDISK.ROM
-> > > > > >
-> > > > > > 🗒 MOONSOUND.rom
-> > > > > >
-> > > > > > 🗒 MSX.rom
-> > > > > >
-> > > > > > 🗒 MSXAR.ROM
-> > > > > >
-> > > > > > 🗒 MSXBR.rom
-> > > > > >
-> > > > > > 🗒 MSXDOS23.ROM
-> > > > > >
-> > > > > > 🗒 MSXFR.rom
-> > > > > >
-> > > > > > 🗒 MSXG.rom
-> > > > > >
-> > > > > > 🗒 MSXHAN.rom
-> > > > > >
-> > > > > > 🗒 MSXJ.rom
-> > > > > >
-> > > > > > 🗒 MSXKANJI.rom
-> > > > > >
-> > > > > > 🗒 MSXKR.rom
-> > > > > >
-> > > > > > 🗒 MSXR.rom
-> > > > > >
-> > > > > > 🗒 MSXR2.ROM
-> > > > > >
-> > > > > > 🗒 MSXSE.rom
-> > > > > >
-> > > > > > 🗒 MSXSP.rom
-> > > > > >
-> > > > > > 🗒 NATIONALDISK.rom
-> > > > > >
-> > > > > > 🗒 NOVAXIS.rom
-> > > > > >
-> > > > > > 🗒 PAINT.rom
-> > > > > >
-> > > > > > 🗒 PANASONICDISK.rom
-> > > > > >
-> > > > > > 🗒 PHILIPSDISK.rom
-> > > > > >
-> > > > > > 🗒 RS232.ROM
-> > > > > >
-> > > > > > 🗒 SUNRISEIDE.rom
-> > > > > >
-> > > > > > 🗒 SWP.rom
-> > > > > >
-> > > > > > 🗒 XBASIC2.rom
-> > > > > >
-> > > > > > 🗒 nowindDos1.rom
-> > > > > >
-> > > > > > 🗒 nowindDos2.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 Machines  
+┃ ┃ ┃ ┃ ┣ 📁 Forte II Games - Pesadelo  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 pesadelo.rom  
+┃ ┃ ┃ ┃ ┣ 📁 MSX2 - C-BIOS  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_logo\_msx.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_main\_msx.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_sub.rom  
+┃ ┃ ┃ ┃ ┣ 📁 SEGA - SF7000  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 sf7000.rom  
+┃ ┃ ┃ ┃ ┣ 📁 Shared Roms  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 ARAB1.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 ARABIC.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 BEERIDE.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 FMPAC.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 GCVMX80.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 HANGUL.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 KANJI.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MICROSOLDISK.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MOONSOUND.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXAR.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXBR.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXDOS23.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXFR.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXG.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXHAN.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXJ.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXKANJI.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXKR.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXR.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXR2.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXSE.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXSP.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 NATIONALDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 NOVAXIS.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PAINT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PANASONICDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PHILIPSDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 RS232.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 SUNRISEIDE.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 SWP.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 XBASIC2.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 nowindDos1.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 nowindDos2.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/msx-1/rom-30098_640.png) Roms
 
@@ -185,15 +139,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁msx1
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁msx1  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.

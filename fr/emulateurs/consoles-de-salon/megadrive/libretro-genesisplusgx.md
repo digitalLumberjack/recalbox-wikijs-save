@@ -46,13 +46,10 @@ Ce core est sous licence [**non-commerciale**](https://github.com/libretro/Genes
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒 **bios\_E.sms**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒 **bios\_E.sms**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/megadrive/rom-30098_640.png) Roms
 
@@ -76,15 +73,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁megadrive
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁megadrive  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/megadrive/hammer-28636_640.png) Configuration avancée de l'émulateur
 
@@ -99,27 +92,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

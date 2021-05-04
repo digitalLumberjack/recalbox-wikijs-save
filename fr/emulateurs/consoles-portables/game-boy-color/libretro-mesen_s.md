@@ -49,17 +49,12 @@ Ce core est sous licence [**GPLv3**](https://github.com/SourMesen/Mesen-S/blob/m
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒**cgb\_bios.bin**
-> > > >
-> > > > \*\*\*\*🗒 **sgb\_bios.bin**
-> > > >
-> > > > \*\*\*\*🗒 **sgb2\_boot.bin**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒**cgb\_bios.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **sgb\_bios.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **sgb2\_boot.bin**  
 
 ## ![](/migration-images/emulateurs/consoles-portables/game-boy-color/rom-30098_640.png) Roms
 
@@ -81,15 +76,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁gbc
-> > > >
-> > > > > 🗒**jeux.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁gbc  
+┃ ┃ ┃ ┃ ┣ 🗒**jeux.zip**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.
@@ -112,27 +103,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

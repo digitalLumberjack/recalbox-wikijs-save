@@ -44,13 +44,10 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/beetle-pcfx-lib
 
 Placez le BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒**pcfx.rom**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒**pcfx.rom**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/pc-fx/rom-30098_640.png) Roms
 
@@ -67,15 +64,11 @@ Les isos doivent avoir l'extension suivante :
 
 Placez les isos comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 roms
-> > >
-> > > > 📁 pcfx
-> > > >
-> > > > > 🗒 **fichier.cue**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 roms  
+┃ ┃ ┃ ┣ 📁 pcfx  
+┃ ┃ ┃ ┃ ┣ 🗒 **fichier.cue**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.
@@ -98,27 +91,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

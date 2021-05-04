@@ -39,15 +39,11 @@ Les roms doivent avoir les extensions suivantes :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁apple2
-> > > >
-> > > > > 🗒**fichier.dsk**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁apple2  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.dsk**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

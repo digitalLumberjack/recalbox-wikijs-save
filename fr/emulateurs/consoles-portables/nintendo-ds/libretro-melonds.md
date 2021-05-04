@@ -59,17 +59,12 @@ Il a été écrit par **Arisotura \(**connu sous le nom de StapleButter\), un an
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒 **bios7.bin**
-> > > >
-> > > > \*\*\*\*🗒 **bios9.bin**
-> > > >
-> > > > \*\*\*\*🗒 **firmware.bin**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒 **bios7.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **bios9.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **firmware.bin**  
 
 ## \*\*\*\*![](/migration-images/emulateurs/consoles-portables/nintendo-ds/rom-30098_640.png)**Roms**
 
@@ -85,15 +80,11 @@ La rom doit avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ds
-> > > >
-> > > > > 🗒**jeux.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ds  
+┃ ┃ ┃ ┃ ┣ 🗒**jeux.zip**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.
@@ -116,27 +107,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

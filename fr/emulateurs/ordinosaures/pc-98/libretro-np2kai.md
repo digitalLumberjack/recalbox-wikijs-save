@@ -83,23 +83,15 @@ Ce core est sous licence [**MIT**](https://github.com/AZO234/NP2kai/blob/master/
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 np2kai
-> > > >
-> > > > > 🗒 bios.rom
-> > > > >
-> > > > > 🗒 font.bmp
-> > > > >
-> > > > > 🗒 font.rom
-> > > > >
-> > > > > 🗒 itf.rom
-> > > > >
-> > > > > 🗒 sound.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 np2kai  
+┃ ┃ ┃ ┃ ┣ 🗒 bios.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 font.bmp  
+┃ ┃ ┃ ┃ ┣ 🗒 font.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 itf.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 sound.rom  
 
 ### Liste des bios optionnels
 
@@ -174,25 +166,16 @@ Placez les BIOS comme ceci :
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 np2kai
-> > > >
-> > > > > 🗒 2608\_hd.wav
-> > > > >
-> > > > > 🗒 2608\_hh.wav
-> > > > >
-> > > > > 🗒 2608\_rim.wav
-> > > > >
-> > > > > 🗒 2608\_sd.wav
-> > > > >
-> > > > > 🗒 2608\_tom.wav
-> > > > >
-> > > > > 🗒 2608\_top.wav
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 np2kai  
+┃ ┃ ┃ ┃ ┣ 🗒 2608\_hd.wav  
+┃ ┃ ┃ ┃ ┣ 🗒 2608\_hh.wav  
+┃ ┃ ┃ ┃ ┣ 🗒 2608\_rim.wav  
+┃ ┃ ┃ ┃ ┣ 🗒 2608\_sd.wav  
+┃ ┃ ┃ ┃ ┣ 🗒 2608\_tom.wav  
+┃ ┃ ┃ ┃ ┣ 🗒 2608\_top.wav  
 
 ## ![](/migration-images/emulateurs/ordinosaures/pc-98/rom-30098_640.png) Roms
 
@@ -232,15 +215,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁pc98
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁pc98  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

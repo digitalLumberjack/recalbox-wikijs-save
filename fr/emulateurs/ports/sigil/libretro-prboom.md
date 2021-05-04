@@ -38,17 +38,12 @@ La rom doit avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁 Doom
-> > > > >
-> > > > > > 🗒 **SIGIL\_v1\_21.wad**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁 Doom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **SIGIL\_v1\_21.wad**  
 
 Cette rom est fournie dans votre Recalbox.
 

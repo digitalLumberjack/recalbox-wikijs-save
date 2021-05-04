@@ -59,15 +59,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 roms
-> > >
-> > > > 📁 sg1000
-> > > >
-> > > > > 🗒 fichier.zip
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 roms  
+┃ ┃ ┃ ┣ 📁 sg1000  
+┃ ┃ ┃ ┃ ┣ 🗒 fichier.zip  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.
@@ -90,27 +86,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

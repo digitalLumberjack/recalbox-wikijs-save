@@ -35,15 +35,11 @@ Ce core est sous licence [**artistique**](https://sourceforge.net/projects/o2em/
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒 g7400.bin
-> > > >
-> > > > 🗒 jopac.bin
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒 g7400.bin  
+┃ ┃ ┃ ┣ 🗒 jopac.bin  
 
 ## ![](/migration-images/emulateurs/ordinosaures/videopac+/rom-30098_640.png) Roms
 
@@ -64,15 +60,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁videopacplus
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁videopacplus  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ![](/migration-images/emulateurs/ordinosaures/videopac+/hammer-28636_640.png) Configuration avancée de l'émulateur
 

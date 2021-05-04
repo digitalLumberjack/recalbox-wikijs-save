@@ -38,13 +38,10 @@ Ce core est sous licence [**GPLv3**](https://gitlab.com/MaaaX-EmuSCV/libretro-em
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 upd7801g.s01
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 upd7801g.s01  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/super-cassette-vision/rom-30098_640.png) Roms
 
@@ -61,15 +58,11 @@ Les ISOs doivent avoir les extensions suivantes :
 
 Placez les roms comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 roms
-> > >
-> > > > 📁 scv
-> > > >
-> > > > > 🗒 fichier.zip
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 roms  
+┃ ┃ ┃ ┣ 📁 scv  
+┃ ┃ ┃ ┃ ┣ 🗒 fichier.zip  
 
 La particularité est que si on charge une ROM en .bin, .rom ou .0 \(.1, .2, etc.\) connu, ça crée un fichier ROM au format .CART qui indique à l'émulateur le bon mappage des données \(la cartouche pouvant contenir plusieurs ROMs, éventuellement de la RAM, voire de la SRAM sauvegardée par une pile\). Pour les jeux où on pouvait sauvegarder, ça crée aussi un fichier .SAVE qui contient les données de la SRAM \(sauvegarde quand on quitte\).
 

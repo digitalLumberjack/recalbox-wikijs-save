@@ -48,15 +48,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁amstradcpc
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁amstradcpc  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

@@ -38,19 +38,13 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁Quake
-> > > > >
-> > > > > > 📁id1
-> > > > > >
-> > > > > > > 🗒 pak0.pak
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁Quake  
+┃ ┃ ┃ ┃ ┃ ┣ 📁id1  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🗒 pak0.pak  
 
 Cette rom est fournit dans votre Recalbox.
 

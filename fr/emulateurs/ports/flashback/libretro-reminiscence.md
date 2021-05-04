@@ -55,17 +55,12 @@ Versions de jeu Flashback reconnues:
 
 Placez lez roms comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 ports
-> > >
-> > > > 📁 Flashback
-> > > >
-> > > > > 📁 data
-> > > > >
-> > > > > > 🗒 **instru\_e.pal**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 ports  
+┃ ┃ ┃ ┣ 📁 Flashback  
+┃ ┃ ┃ ┃ ┣ 📁 data  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **instru\_e.pal**  
 
 ## 🗂 Contenus complémentaires
 

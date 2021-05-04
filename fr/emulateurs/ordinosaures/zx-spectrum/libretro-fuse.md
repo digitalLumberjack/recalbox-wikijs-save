@@ -41,29 +41,18 @@ Ce core est sous licence [**GPLv3**](https://github.com/libretro/fuse-libretro/b
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 fuse
-> > > >
-> > > > > 🗒 128p-0.rom
-> > > > >
-> > > > > 🗒 128p-1.rom
-> > > > >
-> > > > > 🗒 gluck.rom
-> > > > >
-> > > > > 🗒 trdos.rom
-> > > > >
-> > > > > 🗒 256s-0.rom
-> > > > >
-> > > > > 🗒 256s-1.rom
-> > > > >
-> > > > > 🗒 256s-2.rom
-> > > > >
-> > > > > 🗒 256s-3.rom
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 fuse  
+┃ ┃ ┃ ┃ ┣ 🗒 128p-0.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 128p-1.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 gluck.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 trdos.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 256s-0.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 256s-1.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 256s-2.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 256s-3.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/zx-spectrum/rom-30098_640.png) Roms
 
@@ -89,15 +78,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁zxspectrum
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁zxspectrum  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

@@ -74,19 +74,13 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/beetle-supergra
 
 Placez le BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 **syscard1.pce**
-> > > >
-> > > > \*\*\*\*🗒 **syscard2.pce**
-> > > >
-> > > > \*\*\*\*🗒 **syscard3.pce**
-> > > >
-> > > > \*\*\*\*🗒 **gexpress.pce**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 **syscard1.pce**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **syscard2.pce**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **syscard3.pce**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **gexpress.pce**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/pc-engine-cd/rom-30098_640.png) Roms
 
@@ -102,17 +96,12 @@ Les isos doivent avoir l'extension suivante :
 
 Placez les isos comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 roms
-> > >
-> > > > 📁 pcenginecd
-> > > >
-> > > > > 🗒 **fichier.cue**
-> > > > >
-> > > > > \*\*\*\*🗒 **fichier.bin**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 roms  
+┃ ┃ ┃ ┣ 📁 pcenginecd  
+┃ ┃ ┃ ┃ ┣ 🗒 **fichier.cue**  
+┃ ┃ ┃ ┃ ┣ \*\*\*\*🗒 **fichier.bin**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.
@@ -135,27 +124,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

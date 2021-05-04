@@ -43,17 +43,12 @@ La rom doit avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁 Out Run
-> > > > >
-> > > > > > 🗒 **game.88**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁 Out Run  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **game.88**  
 
 ## ![](/migration-images/emulateurs/ports/out-run/hammer-28636_640.png)Configuration avancée de l'émulateur
 

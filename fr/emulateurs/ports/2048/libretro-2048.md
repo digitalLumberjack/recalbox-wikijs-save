@@ -47,17 +47,12 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁2048
-> > > > >
-> > > > > > 🗒 2048.game
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁2048  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 2048.game  
 
 Cette rom est fournie dans votre Recalbox.
 

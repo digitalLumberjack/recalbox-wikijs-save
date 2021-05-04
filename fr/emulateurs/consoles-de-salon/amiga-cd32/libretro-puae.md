@@ -89,15 +89,11 @@ Vous trouverez les bios avec le nom indiqué dans la colonne **Description** qu'
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 **kick40060.CD32.rom**
-> > > >
-> > > > \*\*\*\*🗒 **kick40060.CD32.ext.rom**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 **kick40060.CD32.rom**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **kick40060.CD32.ext.rom**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/amiga-cd32/rom-30098_640.png) Roms
 
@@ -118,17 +114,12 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 roms
-> > >
-> > > > 📁 cd32
-> > > >
-> > > > > 🗒 **fichier.cue**
-> > > > >
-> > > > > \*\*\*\*🗒 **fichier.bin**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 roms  
+┃ ┃ ┃ ┣ 📁 cd32  
+┃ ┃ ┃ ┃ ┣ 🗒 **fichier.cue**  
+┃ ┃ ┃ ┃ ┣ \*\*\*\*🗒 **fichier.bin**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.
@@ -151,27 +142,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

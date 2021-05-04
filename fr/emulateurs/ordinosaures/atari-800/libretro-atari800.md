@@ -35,21 +35,14 @@ Ce core est sous licence [**GPLv2**](https://github.com/atari800/atari800/blob/m
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒ATARIXL.ROM
-> > > >
-> > > > 🗒 ATARIBAS.ROM
-> > > >
-> > > > 🗒 ATARIOSA.ROM
-> > > >
-> > > > 🗒 ATARIOSB.ROM
-> > > >
-> > > > 🗒 ATARIXL.ROM
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒ATARIXL.ROM  
+┃ ┃ ┃ ┣ 🗒 ATARIBAS.ROM  
+┃ ┃ ┃ ┣ 🗒 ATARIOSA.ROM  
+┃ ┃ ┃ ┣ 🗒 ATARIOSB.ROM  
+┃ ┃ ┃ ┣ 🗒 ATARIXL.ROM  
 
 ## ![](/migration-images/emulateurs/ordinosaures/atari-800/rom-30098_640.png) Roms
 
@@ -78,15 +71,11 @@ De plus, chaque fichier .zip ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁atari800
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁atari800  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

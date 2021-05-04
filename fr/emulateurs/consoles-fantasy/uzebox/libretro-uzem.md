@@ -45,15 +45,11 @@ Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions cit�
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁uzebox
-> > > >
-> > > > > 🗒**fichier.uze**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁uzebox  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.uze**  
 
 ## ![](/migration-images/emulateurs/consoles-fantasy/uzebox/hammer-28636_640.png)Configuration avancée de l'émulateur
 
@@ -66,11 +62,9 @@ Placez les roms comme ceci :
 
 Vous pouvez configurer diverses options via :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 ### Options du core
 

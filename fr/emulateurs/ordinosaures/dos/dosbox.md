@@ -66,15 +66,11 @@ La rom doit avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁**dos**
-> > > >
-> > > > > 🗒**fichier.exe**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁**dos**  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.exe**  
 
 ### Fonctionnement basique
 
@@ -143,7 +139,6 @@ Ce wiki a pour objectif de vous permettre de jouer au jeu DOS via l'émulateur D
 
 >Il faut savoir qu'il y a une multitude de contextes possibles, chaque jeu a sa spécificité.  
 >C'est pourquoi il est impossible, à l'heure actuelle, d'avoir quelque chose de "Plug&Play" sur l'émulation DOS.
->
 >Cependant, dans les grandes lignes et pour la majorité des jeux, c'est à peu près toujours la même chose.
 {.is-danger}
 
@@ -261,7 +256,6 @@ Et, normalement, le tour est joué ;-\).
 
 
 >_**Remarque :**_
->
 >Le répertoire "source" n'est parfois plus utile après installation, ce genre d'installation étant faites à l'époque pour simplement copier le contenu de la disquette sur disque dur pour se passer du support amovible. A tester.
 {.is-warning}
 
@@ -291,7 +285,6 @@ Attention aussi a bien se déplacer dans le bon répertoire \(commande "cd"\) : 
 
 
 >_**Information :**_
->
 >Une fois qu'un jeu est fonctionnel, vous pouvez retirer l'instruction "pause" afin d'éviter de subir le prompt de temporisation à chaque sortie du jeu.
 {.is-info}
 
@@ -315,7 +308,6 @@ Finalement, appuyez sur le bouton V vert pour fermer le clavier virtuel et envoy
 
 
 >_**Attention :**_
->
 >* Si vous utilisez un fichier de mapping existant, la combinaison par défaut Ctrl-F2 ne sera pas configurée 
 >* Si vous quittez le clavier virtuel avec une touche maintenue, cet événement sera constamment envoyé à DOSBox, jusqu'à ce que vous ouvriez à nouveau le clavier virtuel ! 
 >* Tous les mappings configurés du joystick ou de la souris seront ignorés tant que le clavier virtuel est ouvert

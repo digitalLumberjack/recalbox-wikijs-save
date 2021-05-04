@@ -50,13 +50,10 @@ Ce core est sous licence [**GPLv2**](https://github.com/digarok/gsplus/blob/mast
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒apple2gs.rom
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒apple2gs.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/apple-2-gs/rom-30098_640.png) Roms
 
@@ -72,15 +69,11 @@ Les roms doivent avoir les extensions suivantes :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁apple2gs
-> > > >
-> > > > > 🗒**fichier.2mg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁apple2gs  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.2mg**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

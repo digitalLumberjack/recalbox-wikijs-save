@@ -46,17 +46,12 @@ Vous trouverez les bios avec le nom indiqué dans la colonne **Description** qu'
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 kick34005.A500.rom
-> > > >
-> > > > 🗒 kick37175.A500.rom
-> > > >
-> > > > 🗒 kick40063.A600.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 kick34005.A500.rom  
+┃ ┃ ┃ ┣ 🗒 kick37175.A500.rom  
+┃ ┃ ┃ ┣ 🗒 kick40063.A600.rom  
 
 ## \*\*\*\*![](/migration-images/emulateurs/ordinosaures/amiga-600/rom-30098_640.png)**Roms**
 
@@ -82,15 +77,11 @@ La rom doit avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁amiga600
-> > > >
-> > > > > 🗒**fichier.ipf**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁amiga600  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.ipf**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

@@ -44,15 +44,11 @@ Ce core est sous licence **GPLv2.**
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁dc
-> > > >
-> > > > > 🗒**awbios.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁dc  
+┃ ┃ ┃ ┃ ┣ 🗒**awbios.zip**  
 
 ## \*\*\*\*![](/migration-images/emulateurs/arcade/atomiswave/rom-30098_640.png)**Roms**
 
@@ -75,7 +71,6 @@ Pour plus d'informations sur la version du Romset en cours, consultez la page [M
 
 
 >**Remarque :**
->
 >Afin de trier vos roms arcade, les **fichiers dat** sont disponibles dans le dossier :`/recalbox/share/bios/dc/Atomiswawe_datfiles.zip`
 {.is-info}
 
@@ -87,15 +82,11 @@ Vous pouvez aussi le télécharger ci dessous :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁atomiswave
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁atomiswave  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## Romset NullDC
 
@@ -103,7 +94,6 @@ Ces roms sont compatibles avec Flycast mais **moins fiables** que des roms **iss
 
 
 >**Information :**
->
 >Les Roms **NullDC** sont au format : _`.bin + .lst`_
 {.is-info}
 
@@ -111,19 +101,13 @@ Ces roms sont compatibles avec Flycast mais **moins fiables** que des roms **iss
 
 Placez les roms comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁atomiswave
-> > > >
-> > > > > 📁**jeux**
-> > > > >
-> > > > > > 🗒**jeux.bin**
-> > > > > >
-> > > > > > 🗒**jeux.lst**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁atomiswave  
+┃ ┃ ┃ ┃ ┣ 📁**jeux**  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒**jeux.bin**  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒**jeux.lst**  
 
 ## ![](/migration-images/emulateurs/arcade/atomiswave/hammer-28636_640.png)Configuration avancée de l'émulateur
 
@@ -138,27 +122,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

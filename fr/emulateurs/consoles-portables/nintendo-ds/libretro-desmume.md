@@ -52,17 +52,12 @@ Il est écrit par :
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒 **bios7.bin**
-> > > >
-> > > > \*\*\*\*🗒 **bios9.bin**
-> > > >
-> > > > \*\*\*\*🗒 **firmware.bin**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒 **bios7.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **bios9.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **firmware.bin**  
 
 ## \*\*\*\*![](/migration-images/emulateurs/consoles-portables/nintendo-ds/rom-30098_640.png)**Roms**
 
@@ -84,15 +79,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ds
-> > > >
-> > > > > 🗒**jeux.nds**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ds  
+┃ ┃ ┃ ┃ ┣ 🗒**jeux.nds**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.
@@ -115,27 +106,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

@@ -43,17 +43,12 @@ Ce core est sous licence **GPLv2.**
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 dc
-> > > >
-> > > > > 🗒 **dc\_boot.bin**
-> > > > >
-> > > > > \*\*\*\*🗒 **dc\_flash.bin**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 dc  
+┃ ┃ ┃ ┃ ┣ 🗒 **dc\_boot.bin**  
+┃ ┃ ┃ ┃ ┣ \*\*\*\*🗒 **dc\_flash.bin**  
 
 ## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/dreamcast/rom-30098_640.png) **Roms**
 
@@ -73,17 +68,12 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁dreamcast
-> > > >
-> > > > > 🗒**fichier.cue**
-> > > > >
-> > > > > \*\*\*\*🗒 **fichier.bin**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁dreamcast  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.cue**  
+┃ ┃ ┃ ┃ ┣ \*\*\*\*🗒 **fichier.bin**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.
@@ -106,27 +96,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

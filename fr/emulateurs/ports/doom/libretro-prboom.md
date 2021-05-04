@@ -276,17 +276,12 @@ Si un WAD remplace un seul niveau, ce ne sera pas forcément le niveau 1 de l'é
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁Doom
-> > > > >
-> > > > > > 🗒\*.WAD
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁Doom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒\*.WAD  
 
 ## **Liens externes**
 

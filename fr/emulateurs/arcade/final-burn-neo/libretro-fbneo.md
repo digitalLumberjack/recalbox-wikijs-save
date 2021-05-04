@@ -77,15 +77,11 @@ En fonction des jeux, certains bios seront nécessaires et seront à placer dans
 
 Placez les **bios** comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁 fbneo
-> > > >
-> > > > > 🗒 bios.zip
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁 fbneo  
+┃ ┃ ┃ ┃ ┣ 🗒 bios.zip  
 
 ## ![](/migration-images/emulateurs/arcade/final-burn-neo/rom-30098_640.png)**Roms**
 
@@ -101,15 +97,11 @@ Tous les jeux FinalBurn Neo utilisent les jeux au formats suivants :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁fbneo
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁fbneo  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ### Dat
 
@@ -164,27 +156,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 
@@ -198,7 +182,7 @@ Copiez [hiscore.dat](https://translate.googleusercontent.com/translate_c?depth=1
 
 ### MAPPING
 
-Nous n'avons pas d'outil pratique comme l'OSD MAME, mais nous utilisons l'API RetroArch pour personnaliser les mappages, vous pouvez le faire en allant dans `Quick menu > Controls`.  
+Nous n'avons pas d'outil pratique comme l'OSD MAME, mais nous utilisons l'API RetroArch pour personnaliser les mappages, vous pouvez le faire en allant dans `Quick menu ┣ Controls`.  
 Pour ceux qui ne souhaitent pas personnaliser entièrement leur mappage, il existe 2 préréglages pratiques que vous pouvez appliquer en changeant le "type d'appareil" pour un lecteur dans ce menu:
 
 * **Classic/Classique** : il appliquera le mappage "carré" du cd neogeo original dans les jeux neogeo, et utilisera L / R comme 5ème et 6ème bouton pour les jeux à 6 boutons comme Street Fighter II.

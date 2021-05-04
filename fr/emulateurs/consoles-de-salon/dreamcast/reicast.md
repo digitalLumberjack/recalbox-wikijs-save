@@ -35,15 +35,11 @@ Ce core est sous licence [**BSD-3**](https://github.com/reicast/reicast-emulator
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒 **dc\_boot.bin**
-> > > >
-> > > > \*\*\*\*🗒 **dc\_flash.bin**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒 **dc\_boot.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **dc\_flash.bin**  
 
 ## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/dreamcast/rom-30098_640.png) **Roms**
 
@@ -60,17 +56,12 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁dreamcast
-> > > >
-> > > > > 🗒**fichier.cue**
-> > > > >
-> > > > > \*\*\*\*🗒 **fichier.bin**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁dreamcast  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.cue**  
+┃ ┃ ┃ ┃ ┣ \*\*\*\*🗒 **fichier.bin**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.

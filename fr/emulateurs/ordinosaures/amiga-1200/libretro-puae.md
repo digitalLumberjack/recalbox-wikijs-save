@@ -43,15 +43,11 @@ Vous trouverez les bios avec le nom indiqué dans la colonne **Description** qu'
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 kick40068.A1200.rom
-> > > >
-> > > > 🗒 kick40068.A4000.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 kick40068.A1200.rom  
+┃ ┃ ┃ ┣ 🗒 kick40068.A4000.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/amiga-1200/rom-30098_640.png) Roms
 
@@ -77,15 +73,11 @@ La rom doit avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁amiga1200
-> > > >
-> > > > > 🗒**fichier.ipf**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁amiga1200  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.ipf**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

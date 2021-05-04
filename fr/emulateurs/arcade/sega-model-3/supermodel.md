@@ -47,7 +47,6 @@ Ce core est sous licence [**GPLV3**](https://www.supermodel3.com/About.html).
 
 
 >**Information:**
->
 >Afin de trier vos roms arcade, les **fichiers dat** sont disponibles dans le dossier `/recalbox/share/bios/model3/`ou ci- dessous en téléchargement.
 {.is-success}
 
@@ -57,15 +56,11 @@ Ce core est sous licence [**GPLV3**](https://www.supermodel3.com/About.html).
 
 Placez les roms comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁model3
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁model3  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LdKWTKrrUvJVmGP83hw%2F-M8aCYUVKmyQVmzExaM5%2F-M8aKPqMCdW7WO3xrn1F%2Fhammer-28636_640.png?alt=media&token=d513c9a6-0bfe-48ec-8bc7-28e0de5a3754)Configuration avancée de l'émulateur <a id="configuration-avancee-de-lemulateur"></a>
 
@@ -80,27 +75,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 \*\*\*\*
 

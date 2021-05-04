@@ -60,33 +60,22 @@ Les fichiers CHD sont nécessaires que pour certaines roms. Si il n'existe aucun
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁**mame**
-> > > >
-> > > > > 🗒**fichier.zip**
-> > > > >
-> > > > > 🗒**chd.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁**mame**  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
+┃ ┃ ┃ ┃ ┣ 🗒**chd.zip**  
 
 **Vous pouvez aussi opter pour un sous répertoire \(utile si vous voulez avoir un set mame pour un autre core\)**
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁**mame**
-> > > >
-> > > > > 📁Mame
-> > > > >
-> > > > > > 🗒**fichier.zip**
-> > > > > >
-> > > > > > 🗒**chd.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁**mame**  
+┃ ┃ ┃ ┃ ┣ 📁Mame  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒**chd.zip**  
 
 {% file src="../../../.gitbook/assets/mame-0.220\_noclones\_v1.0-barhi \(1\).dat" caption="Mame-0.220\_NoClones" %}
 

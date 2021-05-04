@@ -41,29 +41,18 @@ Vous trouverez les bios avec le nom indiqué dans la colonne **Description** qu'
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 oricutron
-> > > >
-> > > > > 🗒 basic11b.rom
-> > > > >
-> > > > > 🗒 basic10.rom
-> > > > >
-> > > > > 🗒 jasmin.rom
-> > > > >
-> > > > > 🗒 microdis.rom
-> > > > >
-> > > > > 🗒 pravetzt.rom
-> > > > >
-> > > > > 🗒 teleass.rom
-> > > > >
-> > > > > 🗒 hyperbas.rom
-> > > > >
-> > > > > 🗒 telmon24.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 oricutron  
+┃ ┃ ┃ ┃ ┣ 🗒 basic11b.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 basic10.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 jasmin.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 microdis.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 pravetzt.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 teleass.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 hyperbas.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 telmon24.rom  
 
 ### Liste des bios optionnels
 
@@ -76,17 +65,12 @@ Placez les BIOS comme ceci :
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 oricutron
-> > > >
-> > > > > 🗒 bd500.rom
-> > > > >
-> > > > > 🗒 8dos2.rom
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 oricutron  
+┃ ┃ ┃ ┃ ┣ 🗒 bd500.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 8dos2.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/oric-atmos/rom-30098_640.png) Roms
 
@@ -101,15 +85,11 @@ Les roms doivent avoir les extensions suivantes :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁oricatmos
-> > > >
-> > > > > 🗒**fichier.dsk**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁oricatmos  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.dsk**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

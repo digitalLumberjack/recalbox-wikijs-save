@@ -57,17 +57,12 @@ Ce core est sous licence [**BSD-3-Clause**](https://github.com/libretro/xmil-lib
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 xmil
-> > > >
-> > > > > 🗒 **IPLROM.X1**
-> > > > >
-> > > > > \*\*\*\*🗒 **IPLROM.X1T**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 xmil  
+┃ ┃ ┃ ┃ ┣ 🗒 **IPLROM.X1**  
+┃ ┃ ┃ ┃ ┣ \*\*\*\*🗒 **IPLROM.X1T**  
 
 ## ![](/migration-images/emulateurs/ordinosaures/sharp-x1/rom-30098_640.png) Roms
 
@@ -98,15 +93,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁x1
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁x1  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

@@ -46,41 +46,24 @@ Ce core est sous licence [**non commerciale**](https://github.com/libretro/fmsx-
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 CARTS.SHA
-> > > >
-> > > > 🗒 CYRILLIC.FNT
-> > > >
-> > > > 🗒 DISK.ROM
-> > > >
-> > > > 🗒 FMPAC16.ROM
-> > > >
-> > > > 🗒 FMPAC.ROM
-> > > >
-> > > > 🗒 ITALIC.FNT
-> > > >
-> > > > 🗒 KANJI.ROM
-> > > >
-> > > > 🗒 MSX2EXT.ROM
-> > > >
-> > > > 🗒 MSX2PEXT.ROM
-> > > >
-> > > > 🗒 MSX2P.ROM
-> > > >
-> > > > 🗒 MSX2.ROM
-> > > >
-> > > > 🗒 MSXDOS2.ROM
-> > > >
-> > > > 🗒 MSX.ROM
-> > > >
-> > > > 🗒 PAINTER.ROM
-> > > >
-> > > > 🗒 RS232.ROM
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 CARTS.SHA  
+┃ ┃ ┃ ┣ 🗒 CYRILLIC.FNT  
+┃ ┃ ┃ ┣ 🗒 DISK.ROM  
+┃ ┃ ┃ ┣ 🗒 FMPAC16.ROM  
+┃ ┃ ┃ ┣ 🗒 FMPAC.ROM  
+┃ ┃ ┃ ┣ 🗒 ITALIC.FNT  
+┃ ┃ ┃ ┣ 🗒 KANJI.ROM  
+┃ ┃ ┃ ┣ 🗒 MSX2EXT.ROM  
+┃ ┃ ┃ ┣ 🗒 MSX2PEXT.ROM  
+┃ ┃ ┃ ┣ 🗒 MSX2P.ROM  
+┃ ┃ ┃ ┣ 🗒 MSX2.ROM  
+┃ ┃ ┃ ┣ 🗒 MSXDOS2.ROM  
+┃ ┃ ┃ ┣ 🗒 MSX.ROM  
+┃ ┃ ┃ ┣ 🗒 PAINTER.ROM  
+┃ ┃ ┃ ┣ 🗒 RS232.ROM  
 
 ## ![](/migration-images/emulateurs/ordinosaures/msx-2/rom-30098_640.png) Roms
 
@@ -105,15 +88,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁msx2
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁msx2  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.

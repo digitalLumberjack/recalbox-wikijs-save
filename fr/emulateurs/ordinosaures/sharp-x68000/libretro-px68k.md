@@ -33,17 +33,12 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/px68k-libretro/
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 keropi
-> > > >
-> > > > > 🗒 iplrom.dat
-> > > > >
-> > > > > 🗒 cgrom.dat
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 keropi  
+┃ ┃ ┃ ┃ ┣ 🗒 iplrom.dat  
+┃ ┃ ┃ ┃ ┣ 🗒 cgrom.dat  
 
 ### Liste des bios optionnels
 
@@ -59,19 +54,13 @@ Placez les BIOS comme ceci :
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 keropi
-> > > >
-> > > > > 🗒 iplrom30.dat
-> > > > >
-> > > > > 🗒 iplromco.dat
-> > > > >
-> > > > > 🗒 iplromxv.dat
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 keropi  
+┃ ┃ ┃ ┃ ┣ 🗒 iplrom30.dat  
+┃ ┃ ┃ ┃ ┣ 🗒 iplromco.dat  
+┃ ┃ ┃ ┃ ┣ 🗒 iplromxv.dat  
 
 ## ![](/migration-images/emulateurs/ordinosaures/sharp-x68000/rom-30098_640.png) Roms
 
@@ -102,15 +91,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁x68000
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁x68000  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

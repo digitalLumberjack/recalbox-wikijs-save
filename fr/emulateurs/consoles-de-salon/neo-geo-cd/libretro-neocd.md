@@ -45,37 +45,22 @@ Ce core est sous licence [**LGPLv3**](https://github.com/libretro/neocd_libretro
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 neocd
-> > > >
-> > > > > 🗒 neocd.bin
-> > > > >
-> > > > > 🗒 uni-bioscd.rom
-> > > > >
-> > > > > 🗒 top-sp1.bin
-> > > > >
-> > > > > 🗒 front-sp1.bin
-> > > > >
-> > > > > 🗒 neocd\_sz.rom
-> > > > >
-> > > > > 🗒 neocd\_z.rom
-> > > > >
-> > > > > 🗒 neocd\_st.rom
-> > > > >
-> > > > > 🗒 neocd\_t.rom
-> > > > >
-> > > > > 🗒 neocd\_sf.rom
-> > > > >
-> > > > > 🗒 neocd\_f.rom
-> > > > >
-> > > > > 🗒 000-lo.lo
-> > > > >
-> > > > > 🗒 ng-lo.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 neocd  
+┃ ┃ ┃ ┃ ┣ 🗒 neocd.bin  
+┃ ┃ ┃ ┃ ┣ 🗒 uni-bioscd.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 top-sp1.bin  
+┃ ┃ ┃ ┃ ┣ 🗒 front-sp1.bin  
+┃ ┃ ┃ ┃ ┣ 🗒 neocd\_sz.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 neocd\_z.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 neocd\_st.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 neocd\_t.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 neocd\_sf.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 neocd\_f.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 000-lo.lo  
+┃ ┃ ┃ ┃ ┣ 🗒 ng-lo.rom  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/rom-30098_640.png) Roms
 
@@ -92,17 +77,12 @@ Les ISOs doivent avoir les extensions suivantes :
 
 Placez les roms comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 roms
-> > >
-> > > > 📁 neogeocd
-> > > >
-> > > > > 🗒 fichier.cue
-> > > > >
-> > > > > 🗒 fichier.bin
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 roms  
+┃ ┃ ┃ ┣ 📁 neogeocd  
+┃ ┃ ┃ ┃ ┣ 🗒 fichier.cue  
+┃ ┃ ┃ ┃ ┣ 🗒 fichier.bin  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/cogwheel-145804_640.png) Configuration avancée de l'émulateur
 

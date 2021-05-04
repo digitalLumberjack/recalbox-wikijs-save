@@ -42,15 +42,11 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁wii
-> > > >
-> > > > > 🗒**fichier.iso**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁wii  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.iso**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.

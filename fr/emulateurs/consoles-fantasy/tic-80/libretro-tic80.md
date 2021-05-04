@@ -53,15 +53,11 @@ Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions cit�
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁tic80
-> > > >
-> > > > > 🗒**fichier.fd**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁tic80  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.fd**  
 
 ### **Téléchargeur de logiciel TIC-80**
 
@@ -79,11 +75,9 @@ Placez les roms comme ceci :
 
 Vous pouvez configurer diverses options via :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 ### Options du core
 

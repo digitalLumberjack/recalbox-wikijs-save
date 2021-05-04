@@ -43,15 +43,11 @@ Ce core est sous licence [**non commerciale**](https://github.com/finalburnneo/F
 
 Placez les BIOS comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒 **neocdz.zip**
-> > > >
-> > > > \*\*\*\*🗒 **neogeo.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒 **neocdz.zip**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **neogeo.zip**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/rom-30098_640.png) Roms
 
@@ -91,15 +87,11 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁fbneo
-> > > >
-> > > > > 🗒 **jeux.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁fbneo  
+┃ ┃ ┃ ┃ ┣ 🗒 **jeux.zip**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/neo-geo-cd/hammer-28636_640.png)Configuration avancée de l'émulateur
 
@@ -114,27 +106,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

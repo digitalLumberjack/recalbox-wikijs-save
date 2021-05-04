@@ -41,30 +41,21 @@ Vous trouverez les bios avec le nom indiqué dans la colonne **Description** qu'
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 kick33180.A500.rom
-> > > >
-> > > > 🗒 kick34005.A500.rom
-> > > >
-> > > > 🗒 kick37175.A500.rom
-> > > >
-> > > > 🗒 kick40063.A600.rom
-> > > >
-> > > > 🗒 kick02019.AROS.ext.rom
-> > > >
-> > > > 🗒 kick02019.AROS.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 kick33180.A500.rom  
+┃ ┃ ┃ ┣ 🗒 kick34005.A500.rom  
+┃ ┃ ┃ ┣ 🗒 kick37175.A500.rom  
+┃ ┃ ┃ ┣ 🗒 kick40063.A600.rom  
+┃ ┃ ┃ ┣ 🗒 kick02019.AROS.ext.rom  
+┃ ┃ ┃ ┣ 🗒 kick02019.AROS.rom  
 
 ## \*\*\*\*![](/migration-images/emulateurs/ordinosaures/amiga-600/rom-30098_640.png)**Roms**
 
 
 >L'émulation Amiga est disponible en deux parfums : Amiga 600 et Amiga 1200.  
 >Certains jeux peuvent être très capricieux donc essayez les deux systèmes si un jeu ne fonctionne pas.
->
 >Les jeux peuvent être utilisés soit dans un format disque ADF soit dans un format WHDLoad, utilisant dans ce cas un fichier UAE complémentaire.
 {.is-info}
 
@@ -79,15 +70,12 @@ Placez les BIOS comme ceci :
 
 
 >**Information :**
->
 >Les autres formats d'images disque _pourraient_ être supportés mais n'ont pas été testés par l'équipe de Recalbox.
 {.is-info}
 
 
 >**Remarque :**
->
 >Quand vous jouez à partir de fichiers zippés/7-zippés, notre configurateur essaye d'identifier le type de rom en cherchant des extensions spécifiques à l'intérieur de l'archive.
->
 >* Les extensions ADF/IPF/BIN/ISO sont rapides à identifier. 
 >* Le WHD est rapide, mais LHA devrait être l'option préférée. 
 >* Le HDDFS peut prendre plus longtemps à identifier et peut donner lieu à des interprétations fausses. Si vous utilisez le HDDFS, laissez-le en tant que fichiers et dossiers normaux et finissez le nom du dossier racine avec  **`.hd`** pour une identification facile.
@@ -97,17 +85,12 @@ Placez les BIOS comme ceci :
 
 Placez les roms comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁amiga600
-> > > >
-> > > > > \*\*\*\*🗒 **jeux.bin**
-> > > > >
-> > > > > 🗒 **jeux.lst**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁amiga600  
+┃ ┃ ┃ ┃ ┣ \*\*\*\*🗒 **jeux.bin**  
+┃ ┃ ┃ ┃ ┣ 🗒 **jeux.lst**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.
@@ -186,11 +169,9 @@ Voici une petite liste des jeux qui requiert des paramètres additionnels.
 
 Vous pouvez configurer diverses options via :
 
-> 📁Menu Retroarch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu Retroarch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 
 >**Information :**  

@@ -40,17 +40,12 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁Minecraft
-> > > > >
-> > > > > > 🗒 **minecraft.game**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁Minecraft  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **minecraft.game**  
 
 Cette rom est fournie dans votre Recalbox.
 

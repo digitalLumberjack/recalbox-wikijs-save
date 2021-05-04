@@ -50,19 +50,13 @@ Ce core est sous licence **GPLv2**
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁dc
-> > > >
-> > > > > 🗒**naomi.zip**
-> > > > >
-> > > > > 🗒**airlbios.zip**
-> > > > >
-> > > > > 🗒**hod2bios.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁dc  
+┃ ┃ ┃ ┃ ┣ 🗒**naomi.zip**  
+┃ ┃ ┃ ┃ ┣ 🗒**airlbios.zip**  
+┃ ┃ ┃ ┃ ┣ 🗒**hod2bios.zip**  
 
 ## ![](/migration-images/emulateurs/arcade/naomi-gd-rom/rom-30098_640.png) Roms
 
@@ -78,7 +72,6 @@ Sur Naomi GD-Rom certaines roms nécessitent un fichier `.chd` issu aussi du rom
 
 
 >**Remarque :**
->
 >Les **fichiers dat** afin de trier vos roms arcade sont **disponible** dans le dossier :`/recalbox/share/bios/dc/`
 {.is-info}
 
@@ -88,7 +81,6 @@ Vous pouvez aussi le télécharger ci dessous :
 
 
 >**Informations :**
->
 >Les jeux **Naomi GD-ROMS**  sont en format `.zip + .chd` 
 {.is-info}
 
@@ -104,19 +96,13 @@ Placez le\(s\) fichier\(s\) .chd nécessaire dans un dossier du même nom que le
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁naomigd
-> > > >
-> > > > > 🗒**jeu1.zip**
-> > > > >
-> > > > > 📁 **jeu1**
-> > > > >
-> > > > > > 🗒 **jeu1.chd**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁naomigd  
+┃ ┃ ┃ ┃ ┣ 🗒**jeu1.zip**  
+┃ ┃ ┃ ┃ ┣ 📁 **jeu1**  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **jeu1.chd**  
 
 ## ![](/migration-images/emulateurs/arcade/naomi-gd-rom/hammer-28636_640.png) Configuration avancée de l'émulateur
 
@@ -131,27 +117,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

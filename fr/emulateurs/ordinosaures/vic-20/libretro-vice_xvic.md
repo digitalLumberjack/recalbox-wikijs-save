@@ -56,15 +56,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁vic20
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁vic20  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ![](/migration-images/emulateurs/ordinosaures/vic-20/hammer-28636_640.png) Configuration avancée de l'émulateur
 

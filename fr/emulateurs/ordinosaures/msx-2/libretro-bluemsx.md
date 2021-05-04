@@ -91,141 +91,74 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/blueMSX-libretr
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 Machines
-> > > >
-> > > > > 📁 Forte II Games - Pesadelo
-> > > > >
-> > > > > > 🗒 pesadelo.rom
-> > > > >
-> > > > > 📁 MSX2 - C-BIOS
-> > > > >
-> > > > > > 🗒 cbios\_logo\_msx2.rom
-> > > > > >
-> > > > > > 🗒 cbios\_main\_msx2.rom
-> > > > > >
-> > > > > > 🗒 cbios\_sub.rom
-> > > > > >
-> > > > > > 🗒 cbios\_logo\_msx2+.rom
-> > > > > >
-> > > > > > 🗒 cbios\_main\_msx2+.rom
-> > > > > >
-> > > > > > 🗒 cbios\_music.rom
-> > > > > >
-> > > > > > 🗒 cbios\_sub.rom
-> > > > >
-> > > > > 📁 MSX2+ - European
-> > > > >
-> > > > > > 🗒 KANJI.rom
-> > > > > >
-> > > > > > 🗒 MSX2PMUS.rom
-> > > > > >
-> > > > > > 🗒 MSXKANJI.rom
-> > > > > >
-> > > > > > 🗒 Msx2pe.rom
-> > > > > >
-> > > > > > 🗒 Msx2pexte.rom
-> > > > > >
-> > > > > > 🗒 PANASONICDISK.rom
-> > > > > >
-> > > > > > 🗒 XBASIC2.rom
-> > > > >
-> > > > > 📁 SEGA - SF7000
-> > > > >
-> > > > > > 🗒 sf7000.rom
-> > > > >
-> > > > > 📁 Shared Roms
-> > > > >
-> > > > > > 🗒 ARAB1.ROM
-> > > > > >
-> > > > > > 🗒 ARABIC.rom
-> > > > > >
-> > > > > > 🗒 BEERIDE.ROM
-> > > > > >
-> > > > > > 🗒 FMPAC.rom
-> > > > > >
-> > > > > > 🗒 GCVMX80.ROM
-> > > > > >
-> > > > > > 🗒 HANGUL.rom
-> > > > > >
-> > > > > > 🗒 KANJI.rom
-> > > > > >
-> > > > > > 🗒 MICROSOLDISK.ROM
-> > > > > >
-> > > > > > 🗒 MOONSOUND.rom
-> > > > > >
-> > > > > > 🗒 MSX2.rom
-> > > > > >
-> > > > > > 🗒 MSX2AR.ROM
-> > > > > >
-> > > > > > 🗒 MSX2AREXT.ROM
-> > > > > >
-> > > > > > 🗒 MSX2BR.rom
-> > > > > >
-> > > > > > 🗒 MSX2BREXT.rom
-> > > > > >
-> > > > > > 🗒 MSX2EXT.rom
-> > > > > >
-> > > > > > 🗒 MSX2FR.rom
-> > > > > >
-> > > > > > 🗒 MSX2FREXT.rom
-> > > > > >
-> > > > > > 🗒 MSX2G.rom
-> > > > > >
-> > > > > > 🗒 MSX2GEXT.rom
-> > > > > >
-> > > > > > 🗒 MSX2J.rom
-> > > > > >
-> > > > > > 🗒 MSX2JEXT.rom
-> > > > > >
-> > > > > > 🗒 MSX2KR.rom
-> > > > > >
-> > > > > > 🗒 MSX2KREXT.rom
-> > > > > >
-> > > > > > 🗒 MSX2P.rom
-> > > > > >
-> > > > > > 🗒 MSX2PEXT.rom
-> > > > > >
-> > > > > > 🗒 MSX2PMUS.rom
-> > > > > >
-> > > > > > 🗒 MSX2R.rom
-> > > > > >
-> > > > > > 🗒 MSX2R2.ROM
-> > > > > >
-> > > > > > 🗒 MSX2REXT.rom
-> > > > > >
-> > > > > > 🗒 MSX2SE.rom
-> > > > > >
-> > > > > > 🗒 MSX2SP.rom
-> > > > > >
-> > > > > > 🗒 MSX2SPEXT.rom
-> > > > > >
-> > > > > > 🗒 NATIONALDISK.rom
-> > > > > >
-> > > > > > 🗒 NOVAXIS.rom
-> > > > > >
-> > > > > > 🗒 PAINT.rom
-> > > > > >
-> > > > > > 🗒 PANASONICDISK.rom
-> > > > > >
-> > > > > > 🗒 PHILIPSDISK.rom
-> > > > > >
-> > > > > > 🗒 RS232.ROM
-> > > > > >
-> > > > > > 🗒 SUNRISEIDE.rom
-> > > > > >
-> > > > > > 🗒 SWP.rom
-> > > > > >
-> > > > > > 🗒 XBASIC2.rom
-> > > > > >
-> > > > > > 🗒 nowindDos1.rom
-> > > > > >
-> > > > > > 🗒 nowindDos2.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 Machines  
+┃ ┃ ┃ ┃ ┣ 📁 Forte II Games - Pesadelo  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 pesadelo.rom  
+┃ ┃ ┃ ┃ ┣ 📁 MSX2 - C-BIOS  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_logo\_msx2.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_main\_msx2.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_sub.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_logo\_msx2+.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_main\_msx2+.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_music.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 cbios\_sub.rom  
+┃ ┃ ┃ ┃ ┣ 📁 MSX2+ - European  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 KANJI.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2PMUS.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXKANJI.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 Msx2pe.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 Msx2pexte.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PANASONICDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 XBASIC2.rom  
+┃ ┃ ┃ ┃ ┣ 📁 SEGA - SF7000  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 sf7000.rom  
+┃ ┃ ┃ ┃ ┣ 📁 Shared Roms  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 ARAB1.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 ARABIC.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 BEERIDE.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 FMPAC.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 GCVMX80.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 HANGUL.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 KANJI.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MICROSOLDISK.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MOONSOUND.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2AR.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2AREXT.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2BR.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2BREXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2EXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2FR.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2FREXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2G.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2GEXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2J.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2JEXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2KR.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2KREXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2P.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2PEXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2PMUS.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2R.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2R2.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2REXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2SE.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2SP.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSX2SPEXT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 NATIONALDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 NOVAXIS.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PAINT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PANASONICDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PHILIPSDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 RS232.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 SUNRISEIDE.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 SWP.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 XBASIC2.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 nowindDos1.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 nowindDos2.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/msx-2/rom-30098_640.png) Roms
 
@@ -251,15 +184,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁msx2
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁msx2  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.

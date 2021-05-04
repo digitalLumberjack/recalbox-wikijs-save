@@ -49,15 +49,11 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁pcv2
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁pcv2  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ![](/migration-images/emulateurs/consoles-portables/pocket-challenge-v2/hammer-28636_640.png) Configuration avancée de l'émulateur
 

@@ -108,27 +108,17 @@ Ce core est sous licence [**BSD 3-Clause**](https://github.com/libretro/quasi88-
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 quasi88
-> > > >
-> > > > > 🗒 n88.rom
-> > > > >
-> > > > > 🗒 n88\_0.rom
-> > > > >
-> > > > > 🗒 n88\_1.rom
-> > > > >
-> > > > > 🗒 n88\_2.rom
-> > > > >
-> > > > > 🗒 n88\_3.rom
-> > > > >
-> > > > > 🗒 n88n.rom
-> > > > >
-> > > > > 🗒 disk.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 quasi88  
+┃ ┃ ┃ ┃ ┣ 🗒 n88.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 n88\_0.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 n88\_1.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 n88\_2.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 n88\_3.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 n88n.rom  
+┃ ┃ ┃ ┃ ┣ 🗒 disk.rom  
 
 ### Liste des bios optionnels
 
@@ -142,15 +132,11 @@ Placez les BIOS comme ceci :
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 quasi88
-> > > >
-> > > > > 🗒 n88knj1.rom
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 quasi88  
+┃ ┃ ┃ ┃ ┣ 🗒 n88knj1.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/pc-88/rom-30098_640.png) Roms
 
@@ -174,15 +160,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁pc88
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁pc88  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

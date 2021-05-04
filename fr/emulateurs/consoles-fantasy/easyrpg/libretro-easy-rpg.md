@@ -43,15 +43,11 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁easyrpg
-> > > >
-> > > > > 🗒**fichier.ini**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁easyrpg  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.ini**  
 
 ### Liste de jeux compatible**s**
 
@@ -68,11 +64,9 @@ Placez les roms comme ceci :
 
 Vous pouvez configurer diverses options via :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 ### Options du core
 

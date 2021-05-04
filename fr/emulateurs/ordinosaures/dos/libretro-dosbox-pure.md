@@ -38,15 +38,11 @@ Les roms doivent avoir les extensions suivantes :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁dos
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁dos  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ​ ![](/migration-images/emulateurs/ordinosaures/dos/hammer-28636_640.png) Configuration avancée de l'émulateur <a id="configuration-avancee-de-lemulateur"></a>
 

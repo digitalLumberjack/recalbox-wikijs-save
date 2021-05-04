@@ -46,15 +46,11 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁pico8
-> > > >
-> > > > > 🗒**fichier.png**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁pico8  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.png**  
 
 ## ![](/migration-images/emulateurs/consoles-fantasy/pico-8/hammer-28636_640.png) Configuration avancée de l'émulateur
 

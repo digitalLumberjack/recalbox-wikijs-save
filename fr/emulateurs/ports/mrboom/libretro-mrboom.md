@@ -41,15 +41,11 @@ Le noyau Mr.Boom ne comporte pas d'utilisation d'extension. Il suffit de charger
 
 Placez la rom comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁port
-> > > >
-> > > > > 🗒**mrboom**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁port  
+┃ ┃ ┃ ┃ ┣ 🗒**mrboom**  
 
 ## ![](/migration-images/emulateurs/ports/mrboom/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png)**Liens externes**
 

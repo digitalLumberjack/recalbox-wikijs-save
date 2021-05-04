@@ -83,19 +83,13 @@ Bien que certains jeux puissent démarrer sans bios sous _PCSX-ReARMed,_ il est 
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 **scph101.bin**
-> > > >
-> > > > \*\*\*\*🗒 **scph7001.bin**
-> > > >
-> > > > \*\*\*\*🗒 **scph5501.bin**
-> > > >
-> > > > \*\*\*\*🗒 **scph1001.bin**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 **scph101.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **scph7001.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **scph5501.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **scph1001.bin**  
 
 ## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/playstation-1/rom-30098_640.png) **Roms**
 
@@ -115,15 +109,11 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 roms
-> > >
-> > > > 📁 psx
-> > > >
-> > > > > 🗒 **fichier.cue**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 roms  
+┃ ┃ ┃ ┣ 📁 psx  
+┃ ┃ ┃ ┃ ┣ 🗒 **fichier.cue**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.
@@ -190,7 +180,6 @@ Plusieurs CD d'un même jeu peuvent être chargés simultanément depuis Emulati
 
 
 >Une liste de lecture .m3u peut être utilisé uniquement avec des jeux qui ont **un fichier `.cue` et un seul `.bin` par disque**.
->
 >Tous jeu multi-disques qui a plusieurs fichiers `.bin` pour un seul disque ne fonctionnera pas \(Il est conseillé de convertir ces disques pour obtenir un fichier `.bin` unique\).
 {.is-danger}
 
@@ -199,28 +188,28 @@ Plusieurs CD d'un même jeu peuvent être chargés simultanément depuis Emulati
    Exemple avec Final Fantasy VII :  
   
    `Final Fantasy VII (France) (Disc 1).bin  
-   Final Fantasy VII (France) (Disc 1).cue --> Final Fantasy VII (France) (Disc 1).cd1`
+   Final Fantasy VII (France) (Disc 1).cue --┣ Final Fantasy VII (France) (Disc 1).cd1`
 
    `Final Fantasy VII (France) (Disc 2).bin  
-   Final Fantasy VII (France) (Disc 2).cue --> Final Fantasy VII (France) (Disc 2).cd2`
+   Final Fantasy VII (France) (Disc 2).cue --┣ Final Fantasy VII (France) (Disc 2).cd2`
 
    `Final Fantasy VII (France) (Disc 3).bin  
-   Final Fantasy VII (France) (Disc 3).cue --> Final Fantasy VII (France) (Disc 3).cd3`  
+   Final Fantasy VII (France) (Disc 3).cue --┣ Final Fantasy VII (France) (Disc 3).cd3`  
    
 
 2. Créer un nouveau fichier texte que l'on nomme `Final Fantasy VII (France).m3u` et qui contient les informations suivantes :  `Final Fantasy VII (France) (Disc 1).cd1 Final Fantasy VII (France) (Disc 2).cd2 Final Fantasy VII (France) (Disc 3).cd3`
 
 
 >Cette manipulation fonctionne aussi avec les jeux multi-CD composés de fichiers `.chd` \(il n'y a pas de `.cue` dans ce cas\).  
->  
+┣    
 >Exemple :  
->  
->`Final Fantasy VII (France) (Disc 1).chd --> Final Fantasy VII (France) (Disc 1).cd1  
->Final Fantasy VII (France) (Disc 2).chd --> Final Fantasy VII (France) (Disc 2).cd2  
->Final Fantasy VII (France) (Disc 3).chd --> Final Fantasy VII (France) (Disc 3).cd3  
->  
+┣    
+>`Final Fantasy VII (France) (Disc 1).chd --┣ Final Fantasy VII (France) (Disc 1).cd1  
+>Final Fantasy VII (France) (Disc 2).chd --┣ Final Fantasy VII (France) (Disc 2).cd2  
+>Final Fantasy VII (France) (Disc 3).chd --┣ Final Fantasy VII (France) (Disc 3).cd3  
+┣    
 >Final Fantasy VII (France).m3u`  
->  
+┣    
 >Le fichier `Final Fantasy VII (France).m3u` sera identique à l'exemple précédent.
 {.is-info}
 
@@ -251,27 +240,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

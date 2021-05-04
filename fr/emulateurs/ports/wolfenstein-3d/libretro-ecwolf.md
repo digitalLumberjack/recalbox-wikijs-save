@@ -58,17 +58,12 @@ La rom doit avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁Wolfenstein 3D
-> > > > >
-> > > > > > 🗒 **ecwolf.pk3**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁Wolfenstein 3D  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **ecwolf.pk3**  
 
 ## ![](/migration-images/emulateurs/ports/wolfenstein-3d/hammer-28636_640.png)Configuration avancée de l'émulateur
 

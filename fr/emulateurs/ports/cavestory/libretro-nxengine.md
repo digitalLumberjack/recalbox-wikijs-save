@@ -44,19 +44,13 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁Cave Story
-> > > > >
-> > > > > > 📁CaveStory
-> > > > > >
-> > > > > > > 🗒 Doukutsu.exe
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁Cave Story  
+┃ ┃ ┃ ┃ ┃ ┣ 📁CaveStory  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🗒 Doukutsu.exe  
 
 Cette ensemble de fichiers est fourni dans votre Recalbox en version demo.
 

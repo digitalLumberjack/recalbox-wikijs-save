@@ -73,19 +73,13 @@ Bien que certains jeux puissent démarrer sans bios sous _PCSX-ReARMed,_ il est 
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 **scph101.bin**
-> > > >
-> > > > \*\*\*\*🗒 **scph7001.bin**
-> > > >
-> > > > \*\*\*\*🗒 **scph5501.bin**
-> > > >
-> > > > \*\*\*\*🗒 **scph1001.bin**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 **scph101.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **scph7001.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **scph5501.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **scph1001.bin**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/playstation-1/rom-30098_640.png) Roms
 
@@ -104,15 +98,11 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 roms
-> > >
-> > > > 📁 psx
-> > > >
-> > > > > 🗒 **fichier.cue**
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 roms  
+┃ ┃ ┃ ┣ 📁 psx  
+┃ ┃ ┃ ┃ ┣ 🗒 **fichier.cue**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.

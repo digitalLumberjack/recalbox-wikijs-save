@@ -51,15 +51,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁thomson
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁thomson  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.
@@ -80,7 +76,6 @@ _**Exemple :**_
 
 
 >_**Information :**_
->
 >**Si le fichier** ne contient pas **le nom d'une des machines émulées**, l'émulateur **basculera en mode TO8** par défaut\).  
 >Il est possible de **forcer le type de machine** émulée via **une option dans RetroArch.**
 {.is-info}

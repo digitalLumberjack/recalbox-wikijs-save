@@ -53,19 +53,13 @@ Ce core est sous licence **GPLv2**
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁dc
-> > > >
-> > > > > 🗒**naomi.zip**
-> > > > >
-> > > > > 🗒**airlbios.zip**
-> > > > >
-> > > > > 🗒**hod2bios.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁dc  
+┃ ┃ ┃ ┃ ┣ 🗒**naomi.zip**  
+┃ ┃ ┃ ┃ ┣ 🗒**airlbios.zip**  
+┃ ┃ ┃ ┃ ┣ 🗒**hod2bios.zip**  
 
 ## ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LdKWTKrrUvJVmGP83hw%2F-M8aCYUVKmyQVmzExaM5%2F-M8aNa4dCTHo4lu4UBan%2From-30098_640.png?alt=media&token=3580fa09-47e6-4c89-b00e-1e655c7ffffe)Roms
 
@@ -79,7 +73,6 @@ Pour plus d'info sur la version du Romset en cour : [MameDev](https://www.mamede
 
 
 >**Remarque :**
->
 >Les **fichiers dat** afin de trier vos roms arcade sont **disponible** dans le dossier :`/recalbox/share/bios/dc/Naomi_datfiles.zip`
 {.is-info}
 
@@ -93,7 +86,6 @@ Ces roms sont compatibles avec Flycast mais **moins fiable** que des roms **issu
 
 
 >**Information :**
->
 >Les Roms **NullDC** sont en format : _`.bin + .lst`_
 {.is-info}
 
@@ -107,15 +99,11 @@ Exemple pour le jeu **`cfield.zip`** :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁naomi
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁naomi  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LdKWTKrrUvJVmGP83hw%2F-M8aCYUVKmyQVmzExaM5%2F-M8aKPqMCdW7WO3xrn1F%2Fhammer-28636_640.png?alt=media&token=d513c9a6-0bfe-48ec-8bc7-28e0de5a3754)Configuration avancée de l'émulateur
 
@@ -130,27 +118,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

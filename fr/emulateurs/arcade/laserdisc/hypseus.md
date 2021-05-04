@@ -128,13 +128,10 @@ La plupart de temps, il contient **l'option** `-bank`, qui **définit la configu
 
 
 >**Informations :**
->
 >Des **valeurs recommandées** pour les jeux les plus courants sont décrites plus loin, mais vous pouvez consulter le site [LaserDisc Game Tech Center](http://www.dragons-lair-project.com/tech/%3E) pour **obtenir les informations complètes.**   
->  
+┣    
 >Veuillez aussi noter que, pour **un même jeu, les DIP switch peuvent varier d'une version de ROM à une autre.**
->
 >**D'autres paramètres** sont aussi possibles.
->
 >**Vérifiez** le[ Wiki de Daphne](http://www.daphne-emu.com/mediawiki/index.php/CmdLine) pour **plus de détails.**
 {.is-info}
 
@@ -154,7 +151,6 @@ La page [http://www.dragons-lair-project.com/tech/dips/dle20.asp](http://www.dra
 
 
 >**Information :**
->
 >Un seul joystick est supporté, **seulement le joueur 1.**
 {.is-info}
 
@@ -181,27 +177,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

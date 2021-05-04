@@ -57,71 +57,39 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/blueMSX-libretr
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 Machines
-> > > >
-> > > > > 📁 Forte II Games - Pesadelo
-> > > > >
-> > > > > > 🗒 pesadelo.rom
-> > > > >
-> > > > > 📁 SEGA - SF7000
-> > > > >
-> > > > > > 🗒 sf7000.rom
-> > > > >
-> > > > > 📁 Shared Roms
-> > > > >
-> > > > > > 🗒 ARAB1.ROM
-> > > > > >
-> > > > > > 🗒 ARABIC.rom
-> > > > > >
-> > > > > > 🗒 BEERIDE.ROM
-> > > > > >
-> > > > > > 🗒 FMPAC.rom
-> > > > > >
-> > > > > > 🗒GCVMX80.ROM
-> > > > > >
-> > > > > > 🗒 HANGUL.rom
-> > > > > >
-> > > > > > 🗒 KANJI.rom
-> > > > > >
-> > > > > > 🗒 MICROSOLDISK.ROM
-> > > > > >
-> > > > > > 🗒 MOONSOUND.rom
-> > > > > >
-> > > > > > 🗒 MSXTR.ROM
-> > > > > >
-> > > > > > 🗒 MSXTREXT.ROM
-> > > > > >
-> > > > > > 🗒 MSXTRMUS.ROM
-> > > > > >
-> > > > > > 🗒 MSXTROPT.ROM
-> > > > > >
-> > > > > > 🗒 NATIONALDISK.rom
-> > > > > >
-> > > > > > 🗒 NOVAXIS.rom
-> > > > > >
-> > > > > > 🗒 PAINT.rom
-> > > > > >
-> > > > > > 🗒 PANASONICDISK.rom
-> > > > > >
-> > > > > > 🗒 PHILIPSDISK.rom
-> > > > > >
-> > > > > > 🗒 RS232.ROM
-> > > > > >
-> > > > > > 🗒 SUNRISEIDE.rom
-> > > > > >
-> > > > > > 🗒 SWP.rom
-> > > > > >
-> > > > > > 🗒 XBASIC2.rom
-> > > > > >
-> > > > > > 🗒 nowindDos1.rom
-> > > > > >
-> > > > > > 🗒 nowindDos2.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 Machines  
+┃ ┃ ┃ ┃ ┣ 📁 Forte II Games - Pesadelo  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 pesadelo.rom  
+┃ ┃ ┃ ┃ ┣ 📁 SEGA - SF7000  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 sf7000.rom  
+┃ ┃ ┃ ┃ ┣ 📁 Shared Roms  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 ARAB1.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 ARABIC.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 BEERIDE.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 FMPAC.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒GCVMX80.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 HANGUL.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 KANJI.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MICROSOLDISK.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MOONSOUND.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXTR.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXTREXT.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXTRMUS.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 MSXTROPT.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 NATIONALDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 NOVAXIS.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PAINT.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PANASONICDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 PHILIPSDISK.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 RS232.ROM  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 SUNRISEIDE.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 SWP.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 XBASIC2.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 nowindDos1.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 nowindDos2.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/msx-turbo-r/rom-30098_640.png) Roms
 
@@ -146,15 +114,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁msxturbor
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁msxturbor  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

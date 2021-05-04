@@ -41,17 +41,12 @@ La rom doit avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁ports
-> > > >
-> > > > > 📁 Rick Dangerous
-> > > > >
-> > > > > > 🗒 Rick Dangerous.zip
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁ports  
+┃ ┃ ┃ ┃ ┣ 📁 Rick Dangerous  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 Rick Dangerous.zip  
 
 Cette rom est fournie dans votre Recalbox.
 

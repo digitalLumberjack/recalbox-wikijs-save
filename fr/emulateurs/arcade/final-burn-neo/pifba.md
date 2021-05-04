@@ -13,9 +13,7 @@ Un certain nombre de jeux ne fonctionneront pas correctement, certains sont si v
 
 
 >**Remarque :**
->
 >A n'utiliser que si vous avez un Pi0/1 ou si vous voulez améliorez les performances d'un jeu particulier ramant sur FbNeo.
->
 >piFBA est le mieux optimisé des émulateurs FBA sur la RecalBox pour le Pi0/1 mais est compatible avec beaucoup moins de jeux que FbNeo.
 {.is-warning}
 
@@ -58,15 +56,11 @@ En fonction des jeux, certains bios seront nécessaires et seront à placer dans
 
 Placez les **bios** comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁 fba
-> > > >
-> > > > > 🗒 bios.zip
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁 fba  
+┃ ┃ ┃ ┃ ┣ 🗒 bios.zip  
 
 ## ![](/migration-images/emulateurs/arcade/final-burn-neo/rom-30098_640.png)**Roms**
 
@@ -94,27 +88,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

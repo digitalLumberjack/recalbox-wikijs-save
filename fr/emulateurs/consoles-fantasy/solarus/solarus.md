@@ -49,15 +49,11 @@ Les roms doivent avoir l'extension :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁solarus
-> > > >
-> > > > > 🗒**fichier.solarus**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁solarus  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.solarus**  
 
 ### **Liste des jeux**
 
@@ -77,11 +73,9 @@ Il dispose d'un catalogue de jeux compatible avec le moteur :
 
 Vous pouvez configurer diverses options via :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 ### Options du core
 

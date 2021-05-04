@@ -38,23 +38,15 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/vice-libretro/b
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 vice
-> > > >
-> > > > > 🗒 JiffyDOS\_C64.bin
-> > > > >
-> > > > > 🗒 JiffyDOS\_C128.bin
-> > > > >
-> > > > > 🗒 JiffyDOS\_C1541-II.bin
-> > > > >
-> > > > > 🗒 JiffyDOS\_1571\_repl310654.bin
-> > > > >
-> > > > > 🗒 JiffyDOS\_1581.bin
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 vice  
+┃ ┃ ┃ ┃ ┣ 🗒 JiffyDOS\_C64.bin  
+┃ ┃ ┃ ┃ ┣ 🗒 JiffyDOS\_C128.bin  
+┃ ┃ ┃ ┃ ┣ 🗒 JiffyDOS\_C1541-II.bin  
+┃ ┃ ┃ ┃ ┣ 🗒 JiffyDOS\_1571\_repl310654.bin  
+┃ ┃ ┃ ┃ ┣ 🗒 JiffyDOS\_1581.bin  
 
 ## ![](/migration-images/emulateurs/ordinosaures/commodore-64/rom-30098_640.png) Roms
 
@@ -86,15 +78,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁c64
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁c64  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.

@@ -40,25 +40,16 @@ Bien que purement facultatives, il existe tout de même des bios Gamecube par zo
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 gamecube
-> > > >
-> > > > > 📁 EUR
-> > > > >
-> > > > > > 🗒 **IPL.bin**
-> > > > >
-> > > > > 📁 JAP
-> > > > >
-> > > > > > 🗒 **IPL.bin**
-> > > > >
-> > > > > 📁 USA
-> > > > >
-> > > > > > 🗒 **IPL.bin**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 gamecube  
+┃ ┃ ┃ ┃ ┣ 📁 EUR  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **IPL.bin**  
+┃ ┃ ┃ ┃ ┣ 📁 JAP  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **IPL.bin**  
+┃ ┃ ┃ ┃ ┣ 📁 USA  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 **IPL.bin**  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/gamecube/rom-30098_640.png) Roms
 
@@ -74,15 +65,11 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁gamecube
-> > > >
-> > > > > 🗒**fichier.iso**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁gamecube  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.iso**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.

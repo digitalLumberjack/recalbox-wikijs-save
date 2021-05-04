@@ -63,37 +63,22 @@ Ce core est sous licence [**Modified GNU LGPL / Non-commercial**](https://github
 
 Placez les **bios** comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 🗒**panafz1.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz1j.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz1j-norsa.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz10.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz10-norsa.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz10e-anvil.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz10e-anvil-norsa.bin**
-> > > >
-> > > > \*\*\*\*🗒 **goldstar.bin**
-> > > >
-> > > > \*\*\*\*🗒 **sanyotry.bin**
-> > > >
-> > > > \*\*\*\*🗒 **3do\_arcade\_saot.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz1-kanji.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz1j-kanji.bin**
-> > > >
-> > > > \*\*\*\*🗒 **panafz10ja-anvil-kanji.bin**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 🗒**panafz1.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz1j.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz1j-norsa.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz10.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz10-norsa.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz10e-anvil.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz10e-anvil-norsa.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **goldstar.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **sanyotry.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **3do\_arcade\_saot.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz1-kanji.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz1j-kanji.bin**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **panafz10ja-anvil-kanji.bin**  
 
 ## \*\*\*\*![](/migration-images/emulateurs/consoles-de-salon/3do/rom-30098_640.png)**Roms**
 
@@ -109,15 +94,11 @@ Les isos doivent avoir les extensions suivantes :
 
 Placez les isos comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁**3do**
-> > > >
-> > > > > 🗒**fichier.iso**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁**3do**  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.iso**  
 
 
 >Les isos au format **Redump** sont vivement conseillés.
@@ -140,27 +121,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

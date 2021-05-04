@@ -38,27 +38,17 @@ Ce core est sous licence [**personnalisé**](https://github.com/libretro/bk-emul
 
 Placez les **bios** comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 bk
-> > > >
-> > > > > 🗒 B11M\_BOS.ROM
-> > > > >
-> > > > > 🗒 B11M\_EXT.ROM
-> > > > >
-> > > > > 🗒 BAS11M\_0.ROM
-> > > > >
-> > > > > 🗒 BAS11M\_1.ROM
-> > > > >
-> > > > > 🗒 DISK\_327.ROM
-> > > > >
-> > > > > 🗒 FOCAL10.ROM
-> > > > >
-> > > > > 🗒 MONIT10.ROM
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 bk  
+┃ ┃ ┃ ┃ ┣ 🗒 B11M\_BOS.ROM  
+┃ ┃ ┃ ┃ ┣ 🗒 B11M\_EXT.ROM  
+┃ ┃ ┃ ┃ ┣ 🗒 BAS11M\_0.ROM  
+┃ ┃ ┃ ┃ ┣ 🗒 BAS11M\_1.ROM  
+┃ ┃ ┃ ┃ ┣ 🗒 DISK\_327.ROM  
+┃ ┃ ┃ ┃ ┣ 🗒 FOCAL10.ROM  
+┃ ┃ ┃ ┃ ┣ 🗒 MONIT10.ROM  
 
 ## ![](/migration-images/emulateurs/ordinosaures/elektronika-bk/rom-30098_640.png) Roms
 
@@ -73,15 +63,11 @@ Les roms doivent avoir les extensions suivantes :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁bk
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁bk  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ![](/migration-images/emulateurs/ordinosaures/elektronika-bk/hammer-28636_640.png) Configuration avancée de l'émulateur
 

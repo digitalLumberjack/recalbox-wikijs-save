@@ -35,19 +35,13 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/vice-libretro/b
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 📁 vice
-> > > >
-> > > > > 📁 SCPU64
-> > > > >
-> > > > > > 🗒 scpu-dos-1.4.bin
-> > > > > >
-> > > > > > 🗒 scpu-dos-2.04.bin
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 📁 vice  
+┃ ┃ ┃ ┃ ┣ 📁 SCPU64  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 scpu-dos-1.4.bin  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 scpu-dos-2.04.bin  
 
 ## ![](/migration-images/emulateurs/ordinosaures/commodore-64/rom-30098_640.png) Roms
 
@@ -79,15 +73,11 @@ De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁c64
-> > > >
-> > > > > 🗒**fichier.zip**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁c64  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.

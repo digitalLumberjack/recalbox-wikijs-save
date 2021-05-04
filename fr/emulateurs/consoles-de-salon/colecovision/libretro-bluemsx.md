@@ -44,31 +44,19 @@ Ce core est sous licence [**GPLv2**](https://github.com/libretro/blueMSX-libretr
 
 Placez les bios comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁bios
-> > >
-> > > > 📁 Machines
-> > > >
-> > > > > 📁 COL - Bit Corporation Dina
-> > > > >
-> > > > > > 🗒 czz50-1.rom
-> > > > > >
-> > > > > > 🗒 czz50-2.rom
-> > > > >
-> > > > > 📁 COL - ColecoVision with Opcode Memory Extension
-> > > > >
-> > > > > > 🗒 coleco.rom
-> > > > >
-> > > > > 📁 COL - ColecoVision
-> > > > >
-> > > > > > 🗒 coleco.rom
-> > > > >
-> > > > > 📁 COL - Spectravideo SVI-603 Coleco
-> > > > >
-> > > > > > 🗒 SVI603.ROM
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁bios  
+┃ ┃ ┃ ┣ 📁 Machines  
+┃ ┃ ┃ ┃ ┣ 📁 COL - Bit Corporation Dina  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 czz50-1.rom  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 czz50-2.rom  
+┃ ┃ ┃ ┃ ┣ 📁 COL - ColecoVision with Opcode Memory Extension  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 coleco.rom  
+┃ ┃ ┃ ┃ ┣ 📁 COL - ColecoVision  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 coleco.rom  
+┃ ┃ ┃ ┃ ┣ 📁 COL - Spectravideo SVI-603 Coleco  
+┃ ┃ ┃ ┃ ┃ ┣ 🗒 SVI603.ROM  
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/colecovision/rom-30098_640.png) Roms
 
@@ -82,15 +70,11 @@ Les roms doivent avoir les extensions suivantes :
 
 Placez les roms comme ceci : 
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁colecovision
-> > > >
-> > > > > 🗒**fichier.col**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁colecovision  
+┃ ┃ ┃ ┃ ┣ 🗒**fichier.col**  
 
 
 >Les roms au format **No-Intro** sont vivement conseillées.
@@ -113,27 +97,19 @@ Vous pouvez configurer diverses options de deux façons différentes.
 
 * Via le Menu RetroArch :
 
-> 📁Menu RetroArch
->
-> > 📁Options du core
-> >
-> > > 🧩Name\_option
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
 
 * Via le fichier `retroarch-core-options.cfg`:
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁system
-> > >
-> > > > 📁configs
-> > > >
-> > > > > 📁retroarch
-> > > > >
-> > > > > > 📁cores
-> > > > > >
-> > > > > > > 🧩**retroarch-core-options.cfg**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
 
 ### Options du core
 

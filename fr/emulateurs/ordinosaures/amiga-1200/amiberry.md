@@ -36,24 +36,18 @@ Vous trouverez les bios avec le nom indiqué dans la colonne **Description** qu'
 
 Placez les BIOS comme ceci :
 
-> 📁 recalbox
->
-> > 📁 share
-> >
-> > > 📁 bios
-> > >
-> > > > 🗒 kick39106.A1200.rom
-> > > >
-> > > > 🗒 kick40068.A1200.rom
-> > > >
-> > > > 🗒 kick40068.A4000.rom
+┣ 📁 recalbox  
+┃ ┣ 📁 share  
+┃ ┃ ┣ 📁 bios  
+┃ ┃ ┃ ┣ 🗒 kick39106.A1200.rom  
+┃ ┃ ┃ ┣ 🗒 kick40068.A1200.rom  
+┃ ┃ ┃ ┣ 🗒 kick40068.A4000.rom  
 
 ## ![](/migration-images/emulateurs/ordinosaures/amiga-1200/rom-30098_640.png) Roms
 
 
 >L'émulation Amiga est disponible en deux parfums : Amiga 600 et Amiga 1200.  
 >Certains jeux peuvent être très capricieux donc essayez les deux systèmes si un jeu ne fonctionne pas.
->
 >Les jeux peuvent être utilisés soit dans un format disque ADF soit dans un format WHDLoad, utilisant dans ce cas un fichier UAE complémentaire.
 {.is-info}
 
@@ -68,15 +62,12 @@ Placez les BIOS comme ceci :
 
 
 >**Information :**
->
 >Les autres formats d'images disque _pourraient_ être supportés mais n'ont pas été testés par l'équipe de Recalbox.
 {.is-info}
 
 
 >**Remarque :**
->
 >Quand vous jouez à partir de fichiers zippés/7-zippés, notre configurateur essaye d'identifier le type de rom en cherchant des extensions spécifiques à l'intérieur de l'archive.
->
 >* Les extensions ADF/IPF/BIN/ISO sont rapides à identifier. 
 >* Le WHD est rapide, mais LHA devrait être l'option préférée. 
 >* Le HDDFS peut prendre plus longtemps à identifier et peut donner lieu à des interprétations fausses. Si vous utilisez le HDDFS, laissez-le en tant que fichiers et dossiers normaux et finissez le nom du dossier racine avec  **`.hd`** pour une identification facile.
@@ -86,17 +77,12 @@ Placez les BIOS comme ceci :
 
 Placez les roms comme ceci :
 
-> 📁recalbox
->
-> > 📁share
-> >
-> > > 📁roms
-> > >
-> > > > 📁amiga600
-> > > >
-> > > > > \*\*\*\*🗒 **jeux.bin**
-> > > > >
-> > > > > 🗒 **jeux.lst**
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁roms  
+┃ ┃ ┃ ┣ 📁amiga600  
+┃ ┃ ┃ ┃ ┣ \*\*\*\*🗒 **jeux.bin**  
+┃ ┃ ┃ ┃ ┣ 🗒 **jeux.lst**  
 
 
 >Les roms au format **TOSEC** sont vivement conseillées.

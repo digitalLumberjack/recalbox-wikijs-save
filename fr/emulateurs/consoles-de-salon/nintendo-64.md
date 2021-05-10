@@ -26,7 +26,17 @@ L'annonce de la PlayStation en 1991, ajoutée aux échecs du **Mega-CD** de Sega
 
 ## Émulateurs
 
+{% page-ref page="mupen64plus-gliden64.md" %}
+
+{% page-ref page="mupen64plus-n64\_gles2.md" %}
+
+{% page-ref page="mupen64plus-rice\_gles2.md" %}
+
 {% page-ref page="mupen64plus-glide64mk2.md" %}
 
+{% page-ref page="mupen64plus-rice.md" %}
+
 {% page-ref page="libretro-parallel\_n64.md" %}
+
+{% page-ref page="libretro-mupen64plus\_next.md" %}
 

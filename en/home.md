@@ -6,13 +6,8 @@ title: WELCOME
 
 ## Welcome to the RecalboxOS Gitbook.
 
-![](image%20%28111%29.png)
+![](/migration-images/image%20%28111%29.png)
 
-┣ 📁recalbox  
-┃ ┣ 📁share  
-┃ ┃ ┣ 📁bios  
-┃ ┃ ┃ ┣ 🗒 **dc\_boot.bin**  
-┃ ┃ ┃ ┣ \*\*\*\*🗒 **dc\_flash.bin**  
 This is the official documentation for Recalbox.  
 We hope you find the answers to your questions.
 

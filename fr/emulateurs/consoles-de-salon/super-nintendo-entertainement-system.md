@@ -27,9 +27,15 @@ En 1997 et 1998, Nintendo décide de rafraîchir le design en sortant le modèle
 
 ## Émulateurs
 
-{% page-ref page="libretro-snes9x-2005.md" %}
+{% page-ref page="pisnes.md" %}
+
+{% page-ref page="libretro-snes9x.md" %}
+
+{% page-ref page="libretro-mesen\_s.md" %}
 
 {% page-ref page="libretro-snes9x-2010.md" %}
 
-{% page-ref page="libretro-snes9x.md" %}
+{% page-ref page="libretro-snes9x-2005.md" %}
+
+{% page-ref page="libretro-snes9x-2002.md" %}
 

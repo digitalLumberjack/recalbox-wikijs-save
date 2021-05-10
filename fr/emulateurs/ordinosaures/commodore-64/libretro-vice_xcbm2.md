@@ -62,6 +62,31 @@ Placez les roms comme ceci :
 ## ![](/migration-images/emulateurs/ordinosaures/commodore-64/hammer-28636_640.png) Configuration avancée de l'émulateur
 
 
+>**Attention :**  
+>Pour pouvoir conserver vos configurations personnalisées lors d'une mise à jour, nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
+{.is-danger}
+
+### Accéder aux options
+
+Vous pouvez configurer diverses options de deux façons différentes.
+
+* Via le Menu RetroArch :
+
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
+
+* Via le fichier `retroarch-core-options.cfg`:
+
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
+
+### Options du core
 
 ## ![](/migration-images/emulateurs/ordinosaures/commodore-64/kisspng-web-development-world-wide-web-computer-icons-webs-world-wide-web-icon-png-5ab05c24477216.4540070115215073642927.png) Liens externes
 

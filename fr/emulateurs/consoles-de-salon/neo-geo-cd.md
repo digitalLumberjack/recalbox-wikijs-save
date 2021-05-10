@@ -36,3 +36,5 @@ Par ailleurs, à cause de la D-RAM limitée à 56 Mio, certains des derniers jeu
 
 {% page-ref page="libretro-fbneo.md" %}
 
+{% page-ref page="libretro-neocd.md" %}
+

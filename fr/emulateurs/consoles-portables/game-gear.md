@@ -8,7 +8,18 @@ title: Game Gear
 
 ## Fiche technique
 
-* 
+* **Fabricant** : Sega
+* **Année de sortie** : 1990
+* **Quantités vendues** : 11 millions
+* **Processeur** : 8-Bit Zilog Z80 @ 3.58 MHz
+* **RAM** : 8kB
+* **VRAM** : 16kB
+* **Vidéo** : Sega VDP \(Texas Instruments TMS9918 modifié\)
+* **Résolution** : 160 x 146 pixels, 32 couleurs \(palette de 4096 couleurs\)
+* **Son** : TI SN76489 PSG
+* **Taille des cartouches** : 32kB - 1MB
+* **Écran** : 8.128cm \(3.2 pouces\), LCD rétroéclairé
+
 ## Présentation
 
 La **Game Gear** est une console de jeux vidéo portable en couleurs, sortie en 1990 et produite par Sega afin de concurrencer la Game Boy de Nintendo apparue une année plus tôt.
@@ -26,9 +37,9 @@ La Game Gear n'a jamais remporté le succès escompté, entre autres à cause de
 
 ## Émulateurs
 
-{% page-ref page="libretro-fbneo.md" %}
+{% page-ref page="libretro-genesisplusgx.md" %}
 
 {% page-ref page="libretro-gearsystem.md" %}
 
-{% page-ref page="libretro-genesisplusgx.md" %}
+{% page-ref page="libretro-fbneo.md" %}
 

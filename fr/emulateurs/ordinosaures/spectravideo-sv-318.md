@@ -34,7 +34,3 @@ En 1983, Spectravideo a annoncé l'adaptateur vidéo de jeux vidéos ColecoVisio
 
 {% page-ref page="libretro-bluemsx.md" %}
 
-
-
-
-

@@ -23,3 +23,5 @@ Il existe d'autres systèmes sans relation directe qui contiennent le mot DOS _\
 
 {% page-ref page="dosbox.md" %}
 
+{% page-ref page="libretro-dosbox-pure.md" %}
+

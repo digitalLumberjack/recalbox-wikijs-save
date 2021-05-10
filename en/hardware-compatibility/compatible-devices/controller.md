@@ -42,14 +42,14 @@ For the moment, all pads below were tested on a Raspberry Pi 3+ but it should wo
       <td style="text-align:center">&#x2705;With USB modification</td>
     </tr>
     <tr>
-      <td style="text-align:center">XBox 360 Controller</td>
+      <td style="text-align:center">Xbox 360 Controller</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2611;</td>
       <td style="text-align:center">7.1.1</td>
-      <td style="text-align:center">&#x2611;With official Microsot XBox 360 dongle</td>
+      <td style="text-align:center">&#x2611;With official Microsot Xbox 360 dongle</td>
     </tr>
     <tr>
-      <td style="text-align:center">XBox One Controller</td>
+      <td style="text-align:center">Xbox One Controller</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2611;</td>
       <td style="text-align:center">7.0.1</td>
@@ -63,7 +63,7 @@ For the moment, all pads below were tested on a Raspberry Pi 3+ but it should wo
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">XBox One S Controller</td>
+      <td style="text-align:center">Xbox One S Controller</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center"></td>
       <td style="text-align:center">7.0.1</td>
@@ -134,20 +134,17 @@ For the moment, all pads below were tested on a Raspberry Pi 3+ but it should wo
         <p>Switch</p>
         <p>JoyCon</p>
       </td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x2611;</td>
-      <td style="text-align:center">since 2018.06.27</td>
-      <td style="text-align:center">
-        <p>&#x2611;With dongle like: 8BitDo</p>
-        <p>[or See Joycon tutorial](<a href="https://github.com/recalbox/recalbox-os/wiki/Connect-nintendo-joycon-(EN">https://github.com/recalbox/recalbox-os/wiki/Connect-nintendo-joycon-(EN</a>))</p>
-      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">7.2</td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">Switch Pro Controller</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x2611;</td>
-      <td style="text-align:center">v4.1</td>
-      <td style="text-align:center">LED`s always blinking but work correctly with dongle like : 8BitDo, Janswall,...</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">7.2</td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">Wii Classic Controller</td>
@@ -184,12 +181,12 @@ For the moment, all pads below were tested on a Raspberry Pi 3+ but it should wo
       <td style="text-align:center">Natively &amp; With dongle too, like: 8BitDo, Janswall,...</td>
     </tr>
     <tr>
-      <td style="text-align:center">Super Nintendo Entertainment System controller for nintendo switch</td>
+      <td style="text-align:center">Super Nintendo Entertainment System controller for Nintendo Switch</td>
       <td
-      style="text-align:center">&#x274C;</td>
-        <td style="text-align:center">&#x2611;</td>
-        <td style="text-align:center">v7.1.1</td>
-        <td style="text-align:center">&#x2611;Tested Natively on Raspberry Pi 4 (slow to pair and connect)</td>
+      style="text-align:center"></td>
+        <td style="text-align:center">&#x2705;</td>
+        <td style="text-align:center">7.2</td>
+        <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center"></td>

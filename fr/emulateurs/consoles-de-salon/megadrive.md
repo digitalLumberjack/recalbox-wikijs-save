@@ -35,9 +35,9 @@ En 1990, [Nintendo](https://fr.wikipedia.org/wiki/Nintendo) sort sa Super Ninten
 
 ## Émulateurs
 
-{% page-ref page="libretro-fbneo.md" %}
-
 {% page-ref page="libretro-picodrive.md" %}
 
 {% page-ref page="libretro-genesisplusgx.md" %}
+
+{% page-ref page="libretro-fbneo.md" %}
 

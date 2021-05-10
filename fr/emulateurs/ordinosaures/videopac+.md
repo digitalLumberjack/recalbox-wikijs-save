@@ -26,5 +26,3 @@ Le G7400 pouvait jouer 3 types de jeux différents : tous les jeux G7000 normaux
 
 {% page-ref page="libretro-o2em.md" %}
 
-
-

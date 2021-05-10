@@ -37,3 +37,5 @@ Il y a eu quatre générations de MSX : les MSX \(ou MSX1\), les MSX2, les MSX2+
 
 {% page-ref page="libretro-bluemsx.md" %}
 
+{% page-ref page="libretro-fmsx.md" %}
+

@@ -1,8 +1,8 @@
 ---
-title: Libretro - Duckstation
+title: Libretro Swanstation
 ---
 
-# Libretro - Duckstation
+# Libretro Swanstation
 
  
 
@@ -14,7 +14,7 @@ Ce core est sous licence [**GPLv3**](https://github.com/libretro/duckstation/blo
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | PC x86 | PC x86\_64 | ODROID GO |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/playstation-1/cogwheel-145804_640.png) Fonctionnalités
 
@@ -50,11 +50,7 @@ Placez les BIOS comme ceci :
 Les isos doivent avoir les extensions suivantes :
 
 * .bin/.cue
-* .bin/.toc
-* .m3u
 * .img/.ccd/.sub
-* .exe
-* .pbp
 * .chd
 
 ### Emplacement

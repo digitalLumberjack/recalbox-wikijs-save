@@ -39,9 +39,9 @@ Placez les BIOS comme ceci :
 ┣ 📁 recalbox  
 ┃ ┣ 📁 share  
 ┃ ┃ ┣ 📁 bios  
-┃ ┃ ┃ ┣ 🗒 kick39106.A1200.rom  
-┃ ┃ ┃ ┣ 🗒 kick40068.A1200.rom  
-┃ ┃ ┃ ┣ 🗒 kick40068.A4000.rom  
+┃ ┃ ┃ ┣ 🗒 **kick39106.A1200.rom**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **kick40068.A1200.rom**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **kick40068.A4000.rom**  
 
 ## ![](/migration-images/emulateurs/ordinosaures/amiga-1200/rom-30098_640.png) Roms
 

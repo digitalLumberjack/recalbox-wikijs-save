@@ -22,7 +22,9 @@ MAME contient différents composants :
 
 ## Émulateurs
 
-{% page-ref page="advance-mame.md" %}
+{% page-ref page="libretro-mame.md" %}
+
+{% page-ref page="libretro-mame2000.md" %}
 
 {% page-ref page="libretro-mame-2003.md" %}
 
@@ -32,11 +34,5 @@ MAME contient différents composants :
 
 {% page-ref page="libretro-mame-2015.md" %}
 
-{% page-ref page="libretro-mame.md" %}
-
-
-
-### 
-
-
+{% page-ref page="advance-mame.md" %}
 

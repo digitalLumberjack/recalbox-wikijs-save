@@ -5,7 +5,7 @@ description: (Page only available in English)
 
 # Emulators Compatibility
 
-#### Version 7.1.0 Reloaded
+#### Version 7.2.1 Reloaded
 
 If you don't find the listed system in your installation, it means it hasn't been fully integrated yet.  
 Have a little patience, please. We are working on it... 😃
@@ -90,7 +90,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -176,10 +176,10 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x274C;</td>
     </tr>
@@ -256,11 +256,11 @@ Have a little patience, please. We are working on it... 😃
     <tr>
       <td style="text-align:center">Libretro Mame2015</td>
       <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -287,10 +287,10 @@ Have a little patience, please. We are working on it... 😃
         <p>&#x1F40C;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -318,7 +318,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -348,8 +348,6 @@ Have a little patience, please. We are working on it... 😃
     </tr>
   </tbody>
 </table>
-
-
 
 ### Fantasy consoles
 
@@ -408,14 +406,14 @@ Have a little patience, please. We are working on it... 😃
     <tr>
       <td style="text-align:center">Libretro - EasyRPG</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?&#x2705;</td>
-      <td style="text-align:center">?&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:center"><b>Lutro</b>
@@ -548,8 +546,6 @@ Have a little patience, please. We are working on it... 😃
   </tbody>
 </table>
 
-
-
 ### Home consoles
 
 <table>
@@ -638,7 +634,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x274C;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Puae</td>
+      <td style="text-align:center">Libretro PUAE</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -663,7 +659,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Puae</td>
+      <td style="text-align:center">Libretro PUAE</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -766,7 +762,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Prosystem</td>
+      <td style="text-align:center">Libretro ProSystem</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -816,7 +812,19 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro BlueMSX</td>
+      <td style="text-align:center">Libretro blueMSX</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro FBNeo</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -847,11 +855,11 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;
         <br />&#x1F40C;
         <br />&#x1F199;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?
+      <td style="text-align:center">&#x2705;
         <br />3&#x20E3;</td>
       <td style="text-align:center">&#x2705;
         <br />3&#x20E3;</td>
@@ -865,7 +873,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -882,7 +890,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Freechaf</td>
+      <td style="text-align:center">Libretro FreeChaF</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -923,7 +931,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">?</td>
@@ -933,7 +941,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -1008,7 +1016,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Freeintv</td>
+      <td style="text-align:center">Libretro FreeIntv</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -1034,17 +1042,17 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -1061,7 +1069,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Genesisplusgx</p>
+        <p>Libretro GenesisPlusGX</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -1076,7 +1084,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Picodrive</p>
+        <p>Libretro PicoDrive</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -1104,22 +1112,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
-        <p>&#x1F3AE;</p>
-      </td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <p>Libretro Genesisplusgx</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -1134,7 +1127,22 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Picodrive</p>
+        <p>Libretro GenesisPlusGX</p>
+        <p>&#x1F3AE;</p>
+      </td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>Libretro PicoDrive</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -1187,21 +1195,21 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Mednafen_pcfx</p>
+        <p>Libretro Mednafen_PCFX</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center"><b>Neo Geo</b>
+      <td style="text-align:center"><b>Neo-Geo</b>
       </td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
@@ -1227,7 +1235,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -1245,8 +1253,8 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
@@ -1262,22 +1270,22 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:center">
         <p>Libretro - MAME 2003Plus</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:center">Libretro - MAME 2010</td>
@@ -1295,13 +1303,13 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">Libretro - MAME 2015</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:center"><b>Neo Geo CD</b>
@@ -1317,7 +1325,19 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Fbneo</td>
+      <td style="text-align:center">Libretro FBNeo</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro NeoCD</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -1343,17 +1363,17 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -1445,19 +1465,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro - Mupen64plus</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Libretro - Mupen64plus-Next</td>
+      <td style="text-align:center">Libretro - Mupen64Plus_Next</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -1469,43 +1477,19 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x274C;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro - Parallel N64</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Mupen64 - GLideN64</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Mupen64 - GLide64MK2</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">Libretro - ParaLLEl N64</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Mupen64 - N64_GLES2</td>
+      <td style="text-align:center">Mupen64Plus - GLideN64</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -1517,19 +1501,43 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x274C;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Mupen64 - Rice</td>
+      <td style="text-align:center">Mupen64Plus - GLide64MK2</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Mupen64 - RICE_GLES2</td>
+      <td style="text-align:center">Mupen64Plus - N64_GLES2</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Mupen64Plus - RICE</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Mupen64Plus - RICE_GLES2</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -1554,15 +1562,27 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro - Parallel N64</td>
+      <td style="text-align:center">Libretro - ParaLLEl N64</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro - Mupen64Plus_Next</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -1608,7 +1628,7 @@ Have a little patience, please. We are working on it... 😃
         <p>Libretro Fbneo</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -1692,7 +1712,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center"><b>Playstation</b>
+      <td style="text-align:center"><b>Playstation 1</b>
       </td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
@@ -1705,43 +1725,43 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Pcsx Rearmed</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Libretro Duckstation</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Libretro Pcsx_rearmed</td>
+      <td style="text-align:center">PCSX ReARMed</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Mednafen_psx</td>
+      <td style="text-align:center">Libretro Swanstation</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro PCSX_ReARMed</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro Mednafen_PSX</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
@@ -1756,7 +1776,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Mednafen_psx_hw</td>
+      <td style="text-align:center">Libretro Mednafen_PSX_hw</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
@@ -1819,7 +1839,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Picodrive</p>
+        <p>Libretro PicoDrive</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -1847,7 +1867,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Genesisplusgx</p>
+        <p>Libretro GenesisPlusGX</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -1862,7 +1882,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Picodrive</p>
+        <p>Libretro PicoDrive</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -1889,7 +1909,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Yabasanshiro</td>
+      <td style="text-align:center">Libretro YabaSanshiro</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
@@ -1897,7 +1917,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?4&#x20E3;</td>
+      <td style="text-align:center">&#x2705; 4&#x20E3;</td>
       <td style="text-align:center">&#x2705;4&#x20E3;</td>
     </tr>
     <tr>
@@ -1909,11 +1929,11 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">?4&#x20E3;</td>
+      <td style="text-align:center">&#x2705; 4&#x20E3;</td>
       <td style="text-align:center">&#x2705;4&#x20E3;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Mednafen_saturn</td>
+      <td style="text-align:center">Libretro Mednafen_Saturn</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
@@ -1951,17 +1971,17 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -1978,7 +1998,35 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Genesisplusgx</p>
+        <p>Libretro GenesisPlusGX</p>
+        <p>&#x1F3AE;</p>
+      </td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b>Super Cassette Vision</b>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>Libretro-EmuSCV</p>
         <p>&#x1F3AE;</p>
       </td>
       <td style="text-align:center">&#x2705;</td>
@@ -2068,7 +2116,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -2142,6 +2190,18 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
+      <td style="text-align:center">Libretro FBNeo</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
       <td style="text-align:center"><b>Vectrex</b>
       </td>
       <td style="text-align:center"></td>
@@ -2155,7 +2215,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Vecx</td>
+      <td style="text-align:center">Libretro vecx</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2180,7 +2240,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Mednafen_vb</td>
+      <td style="text-align:center">Libretro Mednafen_VB</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2218,8 +2278,6 @@ Have a little patience, please. We are working on it... 😃
     </tr>
   </tbody>
 </table>
-
-
 
 ### H**and-held** consoles
 
@@ -2323,7 +2381,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Mgba</td>
+      <td style="text-align:center">Libretro mGBA</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2372,7 +2430,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Gpsp</td>
+      <td style="text-align:center">Libretro gpSP</td>
       <td style="text-align:center">&#x2705;
         <br />&#x1F40C; &#x1F199;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2397,7 +2455,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Mgba</td>
+      <td style="text-align:center">Libretro mGBA</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2423,17 +2481,17 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -2449,7 +2507,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Genesisplusgx</td>
+      <td style="text-align:center">Libretro GenesisPlusGX</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2498,7 +2556,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center"><b>Neo Geo Pocket / Neo Geo Pocket Color</b>
+      <td style="text-align:center"><b>Neo Geo Pocket</b>
       </td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
@@ -2512,21 +2570,9 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Libretto Mednafen_ngp</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2538,7 +2584,56 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Race</td>
+      <td style="text-align:center">Libretro Mednafen_NGP</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro RACE</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b>Neo Geo Pocket Color</b>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro Mednafen_NGP</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro RACE</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2563,7 +2658,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Desmume</td>
+      <td style="text-align:center">Libretro DeSmuME</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
@@ -2575,7 +2670,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Melonds</td>
+      <td style="text-align:center">Libretro melonDS</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
@@ -2583,7 +2678,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -2612,7 +2707,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center"><b>Playstation portable</b>
+      <td style="text-align:center"><b>Playstation Portable</b>
       </td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
@@ -2625,10 +2720,35 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">ppsspp</td>
+      <td style="text-align:center">PPSSPP</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;&#x1F40C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b>Pocket Challenge V2</b>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro Mednafen_WSwan</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2675,7 +2795,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Mednafen_wswan</td>
+      <td style="text-align:center">Libretro Mednafen_WSwan</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2688,8 +2808,6 @@ Have a little patience, please. We are working on it... 😃
     </tr>
   </tbody>
 </table>
-
-
 
 ### Computosaures
 
@@ -2744,7 +2862,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">Amiberry</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2755,8 +2873,8 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x274C;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Puae</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">Libretro PUAE</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2781,7 +2899,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">Amiberry</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2792,8 +2910,8 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x274C;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Puae</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">Libretro PUAE</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2817,7 +2935,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Crocods</td>
+      <td style="text-align:center">Libretro CrocoDS</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2855,7 +2973,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">Linapple</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2874,7 +2992,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -2899,7 +3017,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -2966,7 +3084,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Vice_X64</td>
+      <td style="text-align:center">Libretro vice_x64</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2978,7 +3096,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Vice_X64SC</td>
+      <td style="text-align:center">Libretro vice_x64sc</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -2990,8 +3108,20 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Vice_X128</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">Libretro vice_x128</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro vice_xcbm2</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3002,21 +3132,9 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Vice_Xcbm2</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">Libretro vice_xpet</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Libretro Vice_Xpet</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3026,8 +3144,8 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Vice_Xplus4</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">Libretro vice_xplus4</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3039,7 +3157,7 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">Libretro - xscpu64</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3050,9 +3168,9 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Vice_Xvic</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">Libretro vice_xvic</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3087,6 +3205,43 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
+      <td style="text-align:center">Libretro Dosbox_Pure</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b>Elektronika BK</b>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro BK</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
       <td style="text-align:center"><b>MSX 1</b>
       </td>
       <td style="text-align:center"></td>
@@ -3101,21 +3256,9 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Libretro BlueMSX</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3127,7 +3270,19 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Fmsx</td>
+      <td style="text-align:center">Libretro blueMSX</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro FMSX</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3152,7 +3307,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro BlueMSX</td>
+      <td style="text-align:center">Libretro blueMSX</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3164,7 +3319,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro Fmsx</td>
+      <td style="text-align:center">Libretro FMSX</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3189,7 +3344,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center"></td>
     </tr>
     <tr>
-      <td style="text-align:center">Libretro BlueMSX</td>
+      <td style="text-align:center">Libretro blueMSX</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3341,13 +3496,13 @@ Have a little patience, please. We are working on it... 😃
     <tr>
       <td style="text-align:center">Libretro Px68k</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -3372,7 +3527,7 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -3390,6 +3545,56 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">Libretro Theodore</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b>VIC-20</b>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro vice_xvic</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b>Videopac+</b>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Libretro O2EM</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3440,10 +3645,10 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">
-        <p>Libretro Fbneo</p>
+        <p>Libretro FBNeo</p>
         <p>&#x1F3AE;</p>
       </td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -3558,8 +3763,8 @@ Have a little patience, please. We are working on it... 😃
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:center"><b>DinoThawr</b>
@@ -3625,14 +3830,14 @@ Have a little patience, please. We are working on it... 😃
     </tr>
     <tr>
       <td style="text-align:center">Libretro - Reminiscence</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
@@ -3754,22 +3959,10 @@ Have a little patience, please. We are working on it... 😃
     <tr>
       <td style="text-align:center">ScummVM</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">ResidualVM</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">?</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>

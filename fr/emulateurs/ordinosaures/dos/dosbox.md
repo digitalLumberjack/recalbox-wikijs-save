@@ -38,7 +38,7 @@ Ce core est sous licence [**GPLv2**](https://gitlab.com/lmerckx/recalbox-dosbox/
 ## ![](/migration-images/emulateurs/ordinosaures/dos/cogwheel-145804_640.png)Fonctionnalités
 
 | Fonctionnalité | Supporté |
-| :--- | :--- |
+| :---: | :---: |
 | Screenshots | Oui |
 | Saves | - |
 | Core options | Oui |
@@ -69,7 +69,7 @@ Placez les roms comme ceci :
 ┣ 📁recalbox  
 ┃ ┣ 📁share  
 ┃ ┃ ┣ 📁roms  
-┃ ┃ ┃ ┣ 📁**dos**  
+┃ ┃ ┃ ┣ 📁dos  
 ┃ ┃ ┃ ┃ ┣ 🗒**fichier.exe**  
 
 ### Fonctionnement basique

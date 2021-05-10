@@ -8,12 +8,12 @@ title: Amstrad CPC
 
 ## Fiche technique
 
-* Fabriquant : Amstrad
-* Année de sortie : 1984
-* Système d'exploitation : AMSDOS avec Locomotive BASIC
-* Processeur : Zilog Z80A @ 4 MHz
-* RAM : 64 KB
-* Puce sonore : General Instrument AY-3-8910
+* **Fabriquant** : Amstrad
+* **Année de sortie** : 1984
+* **Système d'exploitation** : AMSDOS avec Locomotive BASIC
+* **Processeur** : Zilog Z80A @ 4 MHz
+* **RAM** : 64 KB
+* **Puce sonore** : General Instrument AY-3-8910
 
 ## Présentation
 

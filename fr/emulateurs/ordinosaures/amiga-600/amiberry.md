@@ -44,12 +44,12 @@ Placez les BIOS comme ceci :
 ┣ 📁 recalbox  
 ┃ ┣ 📁 share  
 ┃ ┃ ┣ 📁 bios  
-┃ ┃ ┃ ┣ 🗒 kick33180.A500.rom  
-┃ ┃ ┃ ┣ 🗒 kick34005.A500.rom  
-┃ ┃ ┃ ┣ 🗒 kick37175.A500.rom  
-┃ ┃ ┃ ┣ 🗒 kick40063.A600.rom  
-┃ ┃ ┃ ┣ 🗒 kick02019.AROS.ext.rom  
-┃ ┃ ┃ ┣ 🗒 kick02019.AROS.rom  
+┃ ┃ ┃ ┣ 🗒 **kick33180.A500.rom**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **kick34005.A500.rom**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **kick37175.A500.rom**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **kick40063.A600.rom**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **kick02019.AROS.ext.rom**  
+┃ ┃ ┃ ┣ \*\*\*\*🗒 **kick02019.AROS.rom**  
 
 ## \*\*\*\*![](/migration-images/emulateurs/ordinosaures/amiga-600/rom-30098_640.png)**Roms**
 
@@ -164,20 +164,6 @@ Voici une petite liste des jeux qui requiert des paramètres additionnels.
 | The Settlers / Die Siedlers | `CUSTOM1=1` passe l'intro |
 
 ## ![](/migration-images/emulateurs/ordinosaures/amiga-600/hammer-28636_640.png)Configuration avancée de l'émulateur
-
-### Options du core <a id="options-du-core"></a>
-
-Vous pouvez configurer diverses options via :
-
-┣ 📁Menu Retroarch  
-┃ ┣ 📁Options du core  
-┃ ┃ ┣ 🧩Name\_option  
-
-
->**Information :**  
->Afin de pouvoir conserver vos configurations personnalisées lors d'une mise à jour,  
->nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
-{.is-info}
 
 ### **Modification des jeux WHDL :**
 

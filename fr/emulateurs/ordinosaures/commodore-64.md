@@ -38,11 +38,9 @@ Avec cet ordinateur est \(probablement\) apparue une culture underground informa
 
 ## Émulateurs
 
-{% page-ref page="libretro-vice\_x64sc.md" %}
-
 {% page-ref page="libretro-vice\_x64.md" %}
 
-{% page-ref page="libretro-vice\_x128.md" %}
+{% page-ref page="libretro-vice\_x64sc.md" %}
 
 {% page-ref page="libretro-vice\_xplus4.md" %}
 
@@ -50,5 +48,9 @@ Avec cet ordinateur est \(probablement\) apparue une culture underground informa
 
 {% page-ref page="libretro-vice\_xvic.md" %}
 
+{% page-ref page="libretro-vice\_x128.md" %}
+
 {% page-ref page="libretro-vice\_xcbm2.md" %}
+
+{% page-ref page="libretro-vice\_vice\_xscpu64.md" %}
 

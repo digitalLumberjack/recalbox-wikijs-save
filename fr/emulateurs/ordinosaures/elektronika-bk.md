@@ -30,7 +30,5 @@ Bien que le BK-0010 fût l'un des ordinateurs soviétiques les moins chers et qu
 
 ## Émulateurs
 
-{% page-ref page="./" %}
-
-
+{% page-ref page="libretro-bk.md" %}
 

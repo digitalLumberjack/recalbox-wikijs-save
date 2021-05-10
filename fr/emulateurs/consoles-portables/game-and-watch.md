@@ -8,10 +8,10 @@ title: Game & Watch
 
 ## Fiche technique
 
-* Fabricant : Nintendo
-* Année de sortie : 1980
-* Quantités vendues : 43,4 millions
-* Meilleur jeu vendu : Donkey Kong
+* **Fabricant** : Nintendo
+* **Année de sortie** : 1980
+* **Quantités vendues** : 43,4 millions
+* **Meilleur jeu vendu** : Donkey Kong
 
 ## Présentation
 

@@ -30,7 +30,7 @@ Plusieurs [clones](https://fr.wikipedia.org/wiki/Clone_%28mat%C3%A9riel_informat
 
 ## Émulateurs
 
-{% page-ref page="libretro-fbneo.md" %}
-
 {% page-ref page="libretro-fuse.md" %}
+
+{% page-ref page="libretro-fbneo.md" %}
 

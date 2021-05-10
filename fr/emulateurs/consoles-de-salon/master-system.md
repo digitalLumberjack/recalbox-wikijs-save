@@ -33,11 +33,11 @@ Grâce à son exploitation par Tec Toy au Brésil, la Master System est considé
 
 ## Émulateurs
 
-{% page-ref page="libretro-fbneo.md" %}
-
 {% page-ref page="libretro-picodrive.md" %}
 
 {% page-ref page="libretro-genesisplusgx.md" %}
 
 {% page-ref page="libretro-gearsystem.md" %}
+
+{% page-ref page="libretro-fbneo.md" %}
 

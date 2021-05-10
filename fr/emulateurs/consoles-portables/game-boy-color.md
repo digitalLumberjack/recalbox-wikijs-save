@@ -34,6 +34,8 @@ Depuis que la Game Boy est sortie, Nintendo s'était concentré sur les jeux et 
 
 {% page-ref page="libretro-gambatte.md" %}
 
+{% page-ref page="libretro-mesen\_s.md" %}
+
 {% page-ref page="libretro-mgba.md" %}
 
 {% page-ref page="libretro-sameboy.md" %}

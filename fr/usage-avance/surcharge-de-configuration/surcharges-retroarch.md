@@ -1,9 +1,9 @@
 ---
-title: Surcharges Retroarch
+title: Surcharges RetroArch
 description: Exemples de clefs pour surcharger la configuration retroarch.
 ---
 
-# Surcharges Retroarch
+# Surcharges RetroArch
 
 Voici une liste non exhaustive des clefs pouvant être altérées dans un fichier de surcharge de type .retroarch.cfg, ces modifications ne s'effectue que si l'émulateur est un core retroarch.
 
@@ -13,7 +13,7 @@ Voici une liste non exhaustive des clefs pouvant être altérées dans un fichie
 
 ## Audio
 
-* **`audio_enable = "true"`**  _Activer ou desactiver l'audio_
+* **`audio_enable = "true"`**  _Activer ou désactiver l'audio_
 * **`audio_volume = "0.000000"`** _Régler le gain du volume, 0= volume par défaut par défaut_
 
 ## Menu Retroarch
@@ -66,8 +66,6 @@ _Coordonnées à définir avec l'overlay:_
 ## Netplay
 
 * **`netplay_nickname = ""`** \* _Pseudo netplay_
-
-
 
 ## Rotation de l'écran
 

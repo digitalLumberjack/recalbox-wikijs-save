@@ -31,3 +31,5 @@ Il succède à l'Apple I, qui était une machine construite artisanalement et ve
 
 {% page-ref page="linapple.md" %}
 
+{% page-ref page="gsplus.md" %}
+

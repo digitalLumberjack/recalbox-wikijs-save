@@ -27,7 +27,11 @@ Le 18 mai 2004, soit près de dix ans après son lancement, Sony annonce avoir d
 
 ## Émulateurs
 
+{% page-ref page="pcsx-rearmed.md" %}
+
 {% page-ref page="libretro-pcsx-rearmed.md" %}
+
+{% page-ref page="libretro-swanstation.md" %}
 
 {% page-ref page="libretro-mednafen\_psx.md" %}
 

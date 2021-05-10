@@ -27,13 +27,13 @@ title: Les romsets pour Recalbox
 
 | **Core** | **Romset** | .dat | **Architecture** |
 | :---: | :---: | :---: | :---: |
-| **Flycast** | **MAME 0.135 ou supérieur, 0.220 conseillé** |  | **X86\_64** |
+| **Flycast** | **MAME 0.135 ou supérieur, 0.230 conseillé** |  | **X86\_64** |
 
 ### **Fba**
 
 | **Core** | **Romset** | .dat | **Architecture** |
 | :---: | :---: | :---: | :---: |
-| **Fbneo** | **FinalBurn Neo v1.0.0.0** |  | **Pi2 / Pi3\* / Odroid /X86\_84** |
+| **Fbneo** | **FinalBurn Neo v1.0.0.01** |  | **Pi2 / Pi3\* / Odroid /X86\_84** |
 | **Pifba** | **fba 0.2.96.71** |  | **Pi0 / Pi0w / Pi1** |
 
 ### Laserdisc \(Daphne\)
@@ -54,7 +54,7 @@ Une fois téléchargé, **copiez les fichiers nécessaires** \(ROM et fichiers d
 | **Mame2003Plus**  | **MAME 0.78-0.188** |  | **Tout** |
 | **Mame2010** | **MAME 0.139** |  | **Pi2 / Pi3\* / X86/ X86\_64** |
 | **Mame2015** | **MAME 0.160** |  | **Pi3\* / X86 / X86\_64** |
-| **Mame** | **MAME 0.220** |  | **X86 / X86\_64** |
+| **Mame** | **MAME 0.230** |  | **X86 / X86\_64** |
 
 > **Pi3\*** = pi3B, pi3B+, pi3A+
 
@@ -62,20 +62,20 @@ Une fois téléchargé, **copiez les fichiers nécessaires** \(ROM et fichiers d
 
 | **Core** | **Romset** | .dat | **Architecture** |
 | :---: | :---: | :---: | :---: |
-| **FbNeo** | **FinalBurn Neo v1.0.0.0** |  | **Tout les Plateformes** |
+| **FbNeo** | **FinalBurn Neo v1.0.0.01** |  | **Tout les Plateformes** |
 | **Mame** | Voir les romset [**ci-dessus**](/fr/tutoriels/jeux/generalite/les-roms-et-les-isos/les-romset-pour-recalbox#mame)**.** |  | **Tout les Plateformes** |
 
 ### **Naomi**
 
 | **Core** | **Romset** | .dat | **Architecture** |
 | :---: | :---: | :---: | :---: |
-| **Flycast** | **MAME 0.135 ou supérieur, 0.220 conseillé** |  | **X86\_64** |
+| **Flycast** | **MAME 0.135 ou supérieur, 0.230 conseillé** |  | **X86\_64** |
 
 ### **Naomi GD-ROM**
 
 | **Core** | **Romset** | .dat | **Architecture** |
 | :---: | :---: | :---: | :---: |
-| **Flycast** | **MAME 0.135 ou supérieur, 0.220 conseillé** |  | **X86\_64** |
+| **Flycast** | **MAME 0.135 ou supérieur, 0.230 conseillé** |  | **X86\_64** |
 
 
 >Pour **plus d'information** sur les **roms Arcade,** veuillez consulter [cette page](/fr/usage-avance/l-arcade-dans-recalbox).
@@ -83,9 +83,34 @@ Une fois téléchargé, **copiez les fichiers nécessaires** \(ROM et fichiers d
 
 ### **Sega Model 3**
 
-| **Core** | **Romset** | .dat | **Architecture** |
-| :---: | :---: | :---: | :---: |
-| **Supermodel** | \*\*\*\* |  | **X86\_64** |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"><b>Core</b>
+      </th>
+      <th style="text-align:center"><b>Romset</b>
+      </th>
+      <th style="text-align:center">.dat</th>
+      <th style="text-align:center"><b>Architecture</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center"><b>Supermodel</b>
+      </td>
+      <td style="text-align:center">
+        <p><b>MAME 0.135 ou sup&#xE9;rieur,</b>
+        </p>
+        <p><b>0.230 conseill&#xE9;</b>
+        </p>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"><b>X86_64</b>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## **Console Fantasy**
 
@@ -608,7 +633,7 @@ Une fois téléchargé, **copiez les fichiers nécessaires** \(ROM et fichiers d
 
 #### **DosBox**
 
-#### **Scumvm/ResidualVM**
+#### **ScummVM**
 
 ## Ports
 

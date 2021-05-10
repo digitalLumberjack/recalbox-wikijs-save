@@ -35,7 +35,9 @@ Il y a eu quatre générations de MSX : les MSX \(ou MSX1\), les MSX2, les MSX2+
 
 ## Émulateurs
 
-{% page-ref page="libretro-fbneo.md" %}
-
 {% page-ref page="libretro-bluemsx.md" %}
+
+{% page-ref page="libretro-fmsx.md" %}
+
+{% page-ref page="libretro-fbneo.md" %}
 

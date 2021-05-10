@@ -14,7 +14,7 @@ Ce core est sous licence [**BSD-3**](https://github.com/reicast/reicast-emulator
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | ODROID GO | PC x86 | PC X86\_64 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ❌ | ✅  | ✅  |
+| ❌  | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## ![](/migration-images/emulateurs/consoles-de-salon/dreamcast/cogwheel-145804_640.png) Fonctionnalités
 
@@ -50,7 +50,7 @@ Les isos doivent avoir les extensions suivantes :
 * .bin/.cue
 * .cdi
 * .gdi
-* .chd
+* .chd \(format v4 !\)
 
 ### **Emplacement**
 

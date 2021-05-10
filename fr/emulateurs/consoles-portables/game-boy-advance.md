@@ -8,7 +8,17 @@ title: Game Boy Advance
 
 ## Fiche technique
 
-* 
+* **Fabricant** : Nintendo
+* **Année de sortie** : 2001
+* **Quantités vendues** : 82 millions
+* **Meilleur jeu vendu** : Pokémon Ruby
+* **Processeur** : 16 MHz 32bit RISC-CPU + 8bit CISC-CPU
+* **RAM** : 32KB WRAM + 256KB WRAM
+* **Écran** : LCD TFT réflectif couleur
+* **Résolution** : 240 x 160 pixels
+* **Mémoire vidéo** : 256KB
+* **Capacité d'affichage** : 32 000 couleurs
+
 ## Présentation
 
 La **Game Boy Advance** est une console de jeux vidéo portable créée par Nintendo en 2001. Elle dispose d'un écran couleur et d'un processeur 32-bits, ce qui en faisait à sa sortie la console portable la plus performante.

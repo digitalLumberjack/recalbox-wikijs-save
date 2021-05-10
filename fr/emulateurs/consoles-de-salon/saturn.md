@@ -36,3 +36,5 @@ La Saturn bénéficie de plusieurs jeux emblématiques, tels que Nights into Dre
 
 {% page-ref page="libretro-yabasanshiro.md" %}
 
+{% page-ref page="libretro-kronos.md" %}
+

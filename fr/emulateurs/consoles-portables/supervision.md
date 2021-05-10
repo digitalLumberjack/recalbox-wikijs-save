@@ -24,5 +24,5 @@ Les arguments principaux dont disposait la Supervision pour concurrencer la Game
 
 ## Émulateurs
 
-{% page-ref page="./" %}
+{% page-ref page="libretro-potator.md" %}
 

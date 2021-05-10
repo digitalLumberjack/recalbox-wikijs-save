@@ -10,7 +10,7 @@ title: Libretro DOSBox Pure
 
 ​Ce core est sous licence [**GPLv2**](https://gitlab.com/recalbox/packages/libretro/libretro-dosbox-pure/-/blob/main/LICENSE).
 
-## 🔧 Compatibilité <a id="compatibilite"></a>
+## ![](/migration-images/emulateurs/ordinosaures/dos/compatibility.png) Compatibilité <a id="compatibilite"></a>
 
 | RPI0/RPI1 | RPI2 | RPI3 | RPI4 | RPI-400 | ODROID XU4 | PC x86 | PC X86\_64 | ODROID GO |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -45,6 +45,33 @@ Placez les roms comme ceci :
 ┃ ┃ ┃ ┃ ┣ 🗒**fichier.zip**  
 
 ## ​ ![](/migration-images/emulateurs/ordinosaures/dos/hammer-28636_640.png) Configuration avancée de l'émulateur <a id="configuration-avancee-de-lemulateur"></a>
+
+
+>**Attention :**  
+>Pour pouvoir conserver vos configurations personnalisées lors d'une mise à jour, nous vous conseillons d'utiliser notre fonctionnalité [Surcharges de configuration](/fr/usage-avance/surcharge-de-configuration).
+{.is-danger}
+
+### Accéder aux options
+
+Vous pouvez configurer diverses options de deux façons différentes.
+
+* Via le Menu RetroArch :
+
+┣ 📁Menu RetroArch  
+┃ ┣ 📁Options du core  
+┃ ┃ ┣ 🧩Name\_option  
+
+* Via le fichier `retroarch-core-options.cfg`:
+
+┣ 📁recalbox  
+┃ ┣ 📁share  
+┃ ┃ ┣ 📁system  
+┃ ┃ ┃ ┣ 📁configs  
+┃ ┃ ┃ ┃ ┣ 📁retroarch  
+┃ ┃ ┃ ┃ ┃ ┣ 📁cores  
+┃ ┃ ┃ ┃ ┃ ┃ ┣ 🧩**retroarch-core-options.cfg**  
+
+### Options du core
 
 ### ​Utiliser la souris avec la manette
 

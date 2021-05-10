@@ -5,6 +5,12 @@ title: Editer le fichier config.txt
 # Editer le fichier config.txt
 
 
+>**ATTENTION !**
+>
+>À partir de Recalbox 7.2.0, les modifications suivantes se font dans le fichier `/boot/recalbox-user-config.txt` !
+{.is-danger}
+
+
 >Tout d'abord, passez ****[**la partition de boot en écriture**](/fr/tutoriels/systeme/acces/acceder-a-une-partition-en-ecriture)\*\*\*\*
 {.is-warning}
 

@@ -31,5 +31,3 @@ Pour créer un jeu de style rétro, l'ensemble du processus de création et d'ex
 
 {% page-ref page="libretro-tic80.md" %}
 
-
-

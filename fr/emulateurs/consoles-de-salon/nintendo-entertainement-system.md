@@ -31,13 +31,15 @@ La Nintendo Entertainment System est la 13e console de jeux vidéo la plus vendu
 
 ## Émulateurs
 
-{% page-ref page="libretro-fbneo.md" %}
-
-{% page-ref page="libretro-fceunext.md" %}
-
 {% page-ref page="libretro-nestopia.md" %}
 
 {% page-ref page="libretro-fceumm.md" %}
 
+{% page-ref page="libretro-fceunext.md" %}
+
 {% page-ref page="libretro-quicknes.md" %}
+
+{% page-ref page="libretro-mesen.md" %}
+
+{% page-ref page="libretro-fbneo.md" %}
 

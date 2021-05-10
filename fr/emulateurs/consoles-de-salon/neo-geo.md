@@ -40,11 +40,15 @@ Le **Neo-Geo MVS** ou **Neo-Geo Multi Video System** est un système de jeux vid
 
 ## Émulateurs
 
+{% page-ref page="fba2x.md" %}
+
 {% page-ref page="libretro-fbneo.md" %}
 
-{% page-ref page="libretro-mame2003\_plus.md" %}
+{% page-ref page="libretro-mame2000.md" %}
 
 {% page-ref page="libretro-mame2003.md" %}
+
+{% page-ref page="libretro-mame2003\_plus.md" %}
 
 {% page-ref page="libretro-mame2010.md" %}
 

@@ -1,0 +1,6 @@
+---
+title: Pokemini
+---
+
+# Pokemini
+

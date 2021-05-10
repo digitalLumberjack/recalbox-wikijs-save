@@ -1,0 +1,6 @@
+---
+title: Cavestory
+---
+
+# Cavestory
+

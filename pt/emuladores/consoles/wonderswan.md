@@ -1,0 +1,6 @@
+---
+title: Wonderswan
+---
+
+# Wonderswan
+

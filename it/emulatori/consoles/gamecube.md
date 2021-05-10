@@ -1,0 +1,6 @@
+---
+title: GameCube
+---
+
+# GameCube
+

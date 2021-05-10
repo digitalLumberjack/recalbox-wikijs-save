@@ -1,0 +1,6 @@
+---
+title: 🎮 Controles
+---
+
+# 🎮 Controles
+

@@ -1,0 +1,6 @@
+---
+title: 📜 Lizenzmodell
+---
+
+# 📜 Lizenzmodell
+

@@ -1,0 +1,6 @@
+---
+title: Arcade
+---
+
+# Arcade
+

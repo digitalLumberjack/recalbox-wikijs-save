@@ -1,0 +1,6 @@
+---
+title: Mame
+---
+
+# Mame
+

@@ -1,0 +1,6 @@
+---
+title: 🔧 COMPATIBILIDAD DE HARDWARE
+---
+
+# 🔧 COMPATIBILIDAD DE HARDWARE
+
